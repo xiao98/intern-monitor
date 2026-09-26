@@ -406,6 +406,8 @@ def git_push(today):
     try:
         subprocess.run(["git", "add", "-A"], cwd=BASE, check=True, capture_output=True)
         subprocess.run(["git", "commit", "-q", "-m", f"report {today}"], cwd=BASE, capture_output=True)  # 无变化时 commit 失败可忽略
+        # 先合并远端（本机改代码会先 push 到 GitHub），冲突时以本机数据文件为准，避免 non-fast-forward 拒推
+        subprocess.run(["git", "pull", "-q", "--no-rebase", "-X", "ours", "origin", "main"], cwd=BASE, capture_output=True, timeout=120)
         r = subprocess.run(["git", "push", "-q"], cwd=BASE, capture_output=True, text=True, timeout=120)
         log("git push ok" if r.returncode == 0 else f"git push failed: {r.stderr.strip()[:200]}")
     except Exception as e:
