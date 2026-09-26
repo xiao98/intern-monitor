@@ -211,6 +211,63 @@ def src_linkedin(rows):
                 time.sleep(1.5)
             time.sleep(1)
 
+# ---------------- lab / team page watcher ----------------
+# 实验室不进 ATS：盯课题组/机构的实习页面，抽"含 stage/intern 的链接或句子"当条目，新条目=新实习
+WATCH = [  # (组名, URL, 备注)；备注非空=该组方向本身就对口，条目直接按 A 档；备注空=大机构页面，条目仍过主题词过滤
+    ("Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier)", "https://flowers.inria.fr/jobs/", "LLM reinforcement learning agents autotelic"),
+    ("ENS CoML/LSCP (Dupoux)", "https://cognitive-ml.fr/jobs/", "speech language model self-supervised LLM"),
+    ("Kyutai", "https://kyutai.homerun.co/research-internships-w-m/en", "LLM multimodal speech open-science"),
+    ("Inria Scool (Lille, Kaufmann/Maillard/Degenne)", "https://team.inria.fr/scool/", "reinforcement learning bandits"),
+    ("Etienne Boursier (Inria Saclay, DL theory)", "https://eboursier.github.io/", "deep learning theory transformers training dynamics"),
+    ("Inria stages recherche (全法)", "https://jobs.inria.fr/public/classic/fr/offres?filtre=stage-recherche", ""),
+    ("CEA", "https://www.emploi.cea.fr/handlers/offerRss.ashx?lcid=1036&Keywords=LLM", ""),
+    ("CEA", "https://www.emploi.cea.fr/handlers/offerRss.ashx?lcid=1036&Keywords=apprentissage%20par%20renforcement", ""),
+    ("CEA", "https://www.emploi.cea.fr/handlers/offerRss.ashx?lcid=1036&Keywords=agent%20IA", ""),
+    ("CEA", "https://www.emploi.cea.fr/handlers/offerRss.ashx?lcid=1036&Keywords=IA%20g%C3%A9n%C3%A9rative", ""),
+    ("LISN Paris-Saclay (stages)", "https://www.lisn.upsaclay.fr/offres-emploi/?_domaine=411&_types-emploi=stage", ""),
+    ("Dauphine IASD/MILES stages (Allauzen)", "https://www.lamsade.dauphine.fr/wp/iasd/en/liste-des-stages-disponibles/", ""),
+    ("Dauphine MILES open positions", "https://www.lamsade.dauphine.fr/wp/miles/open-positions/", ""),
+    ("ANITI Toulouse internships", "https://aniti.univ-toulouse.fr/en/internship-positions/", ""),
+    ("IRIT Toulouse stages", "https://www.irit.fr/faire-son-stage-a-lirit/", ""),
+    ("LIG GETALP Grenoble", "https://lig-getalp.imag.fr/employment/", ""),
+]
+W_KEY = re.compile(r"intern|stage|stagiaire|\bM2\b|master.?s? (?:project|thesis)|sujet", re.I)
+W_SKIP = re.compile(r"^(offres? de stages?|internships?|stages?|jobs?|careers?|share|partager|facebook|linkedin|twitter|x\b|english|fran[cç]ais|exporter|pdf|rss|liste|tuile|masters?|cogmaster|dual master|here|ici)\W*$", re.I)
+
+def src_watch(rows):
+    for name, url, note in WATCH:
+        c, b = get(url, timeout=40)
+        if c != 200 or not b: FAILS.append(f"watch/{name}:{c}"); continue
+        if url.endswith(".ashx") or "<rss" in b[:500] or "<item>" in b:  # RSS
+            for it in re.findall(r"<item>(.*?)</item>", b, re.S):
+                t = sq(strip(re.search(r"<title>(.*?)</title>", it, re.S).group(1))) if re.search(r"<title>", it) else ""
+                l = re.search(r"<link>(.*?)</link>", it, re.S); d = re.search(r"<description>(.*?)</description>", it, re.S)
+                if t: rows.append(dict(src="watch", company=name, title=t, loc="France", etype="Stage" if note else "", pub="",
+                                       url=sq(strip(l.group(1))) if l else url, desc=strip(d.group(1))[:3000] if d else note, note=note))
+            continue
+        seen = set()
+        for jl in re.findall(r'"@type":\s*"JobPosting".*?"title":\s*"([^"]+)"', b, re.S):  # Homerun 等把岗位放 JSON-LD 里
+            rows.append(dict(src="watch", company=name, title=sq(jl), loc="France", etype="Stage", pub="", url=url, desc=note, note=note)); seen.add(norm(jl)[:80])
+        for m in re.finditer(r'<a[^>]+href="([^"]+)"[^>]*>(.*?)</a>', b, re.S):
+            t = sq(strip(m.group(2))); href = html.unescape(m.group(1))
+            if len(t) < 12 or W_SKIP.match(t) or not (W_KEY.search(t) or W_KEY.search(href) or href.lower().endswith(".pdf")): continue
+            if href.startswith("javascript") or href.startswith("#") or "sharer" in href or "twitter.com" in href or "linkedin.com/shar" in href: continue
+            full = urllib.parse.urljoin(url, href)
+            k = norm(t)[:80]
+            if k in seen: continue
+            seen.add(k)
+            ctxt = sq(strip(b[max(0, m.start() - 600):m.end() + 600]))
+            rows.append(dict(src="watch", company=name, title=t, loc="France", etype="Stage" if note else "", pub="", url=full, desc=ctxt + " " + note, note=note))
+        # 没链接的纯文字条目（有些组把题目直接写在页面上）
+        txt = sq(strip(b))
+        for s in re.findall(r"[^.:;\n]{15,140}?(?:internship|stage M2|stage de recherche|research internship)[^.;\n]{0,140}", txt, re.I):
+            if not re.search(r"202[67]|\bM2\b|master", s, re.I): continue  # 纯文字碎片只留带年份/M2 的，去掉页面套话
+            k = norm(s)[:80]
+            if k in seen or len(seen) > 40: continue
+            seen.add(k)
+            rows.append(dict(src="watch", company=name, title=sq(s)[:160], loc="France", etype="Stage" if note else "", pub="", url=url + "#" + k[:24], desc=note, note=note))
+        time.sleep(1)
+
 # ---------------- filters ----------------
 T_INTERN = re.compile(r"\bintern(ship|s|e|es)?\b|\bstage\b|stagiaire|student researcher|\bco-?op\b|\bthesis\b|\bph\.?d\.? intern|research assistant", re.I)
 T_TITLE = re.compile(r"llm|language model|foundation model|frontier|reinforcement|\brl\b|rlhf|post-?training|pre-?training|pretrain|fine-?tun|alignment|"
@@ -247,7 +304,8 @@ def classify(r):
     if not is_intern: return None
     if ALT_ONLY.search(title) and not T_INTERN.search(title): return None
     core = [m.group(0) for m in T_TITLE.finditer(title) if not T_AIGEN.fullmatch(m.group(0))]
-    if core: tier = "A"
+    if r["src"] == "watch" and r.get("note"): tier = "A"  # 对口课题组页面上的实习条目，不再按标题过滤
+    elif core: tier = "A"
     elif T_TITLE.search(title): tier = "A" if T_DESC.search(desc) else "B"  # 标题只有泛 IA/AI
     elif T_RESEARCH.search(title): tier = "A" if T_DESC.search(desc) else ("B" if not desc else None)
     elif T_DESC.search(desc) and T_GENERIC.search(title): tier = "B"
@@ -272,7 +330,7 @@ def norm(s): return re.sub(r"[^a-z0-9]", "", (s or "").lower())
 def main():
     rows = []
     for name, fn in [("ashby", src_ashby), ("greenhouse", src_greenhouse), ("lever", src_lever), ("workable", src_workable),
-                     ("nvidia", src_nvidia), ("amazon", src_amazon), ("google", src_google), ("apple", src_apple), ("inria", src_inria), ("linkedin", src_linkedin)]:
+                     ("nvidia", src_nvidia), ("amazon", src_amazon), ("google", src_google), ("apple", src_apple), ("inria", src_inria), ("watch", src_watch), ("linkedin", src_linkedin)]:
         n0 = len(rows)
         try: fn(rows)
         except Exception as e: FAILS.append(f"{name}:EXC {type(e).__name__} {str(e)[:80]}")
@@ -283,7 +341,7 @@ def main():
         if not c or not c["url"]: continue
         k = norm(c["company"])[:12] + "|" + norm(c["title"])
         if k in bykey: continue
-        bykey[k] = 1; hits.setdefault(c["url"].split("?")[0], c)
+        bykey[k] = 1; hits.setdefault(re.sub(r"[?&]utm_[^&]*", "", c["url"]), c)
     log(f"raw={len(rows)} hits={len(hits)} fails={len(FAILS)}")
 
     state = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else {}
