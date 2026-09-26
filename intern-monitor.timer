@@ -1,0 +1,10 @@
+[Unit]
+Description=Run intern-monitor daily 06:30 UTC (08:30 Paris summer / 07:30 winter)
+
+[Timer]
+OnCalendar=*-*-* 06:30:00 UTC
+Persistent=true
+RandomizedDelaySec=300
+
+[Install]
+WantedBy=timers.target

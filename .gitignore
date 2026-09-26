@@ -1,0 +1,4 @@
+secrets.env
+*.out
+monitor.log
+__pycache__/

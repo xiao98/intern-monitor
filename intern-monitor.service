@@ -1,0 +1,8 @@
+[Unit]
+Description=LLM/RL/Agent internship monitor (FR+US) -> email
+
+[Service]
+Type=oneshot
+WorkingDirectory=/root/intern-monitor
+ExecStart=/usr/bin/python3 /root/intern-monitor/monitor.py
+TimeoutStartSec=3600
