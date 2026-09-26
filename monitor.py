@@ -183,7 +183,8 @@ LI_F = {k: re.compile(p, re.S) for k, p in dict(
 LI_Q = {"France": ["LLM intern", "stage LLM", "stage agent IA", "stage reinforcement learning", "stage NLP deep learning", "stage recherche IA",
                    "research intern machine learning", "post-training intern", "stage fine-tuning modèle", "stage IA générative"],
         "United States": ["LLM research intern", "reinforcement learning intern", "AI research intern", "machine learning research intern",
-                          "LLM agent intern", "post-training intern", "foundation model intern", "NLP research intern"]}
+                          "LLM agent intern", "post-training intern", "foundation model intern", "NLP research intern",
+                          "summer 2027 research intern machine learning", "summer 2027 intern LLM", "summer 2027 AI research intern"]}
 
 def src_linkedin(rows):
     seen = set()
@@ -229,6 +230,8 @@ G_US = re.compile(r"united states|\busa?\b|u\.s\.|san francisco|bay area|palo al
                   r"los angeles|seattle|bellevue|redmond|new york|\bnyc\b|boston|cambridge, ma|austin|chicago|pittsburgh|denver|remote \(us|us remote|remote - us|"
                   r"\bcalifornia\b|\bwashington\b|\bmassachusetts\b|\btexas\b|"
                   r", (al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b", re.I)
+US_SUMMER = re.compile(r"summer\s*(?:of\s*)?2027|2027\s*summer|summer intern(?:ship)?s?\s*[-–(]?\s*2027", re.I)
+US_EXCLUDE = re.compile(r"winter\s*20\d\d|fall\s*20\d\d|spring\s*20\d\d|autumn\s*20\d\d|2026\s*start|summer\s*2026|\b2026\b\s*(?:intern|cohort|summer)|-\s*2026\b", re.I)
 T_START = re.compile(r"[^.\n]{0,60}(?:avril|april|printemps|spring|\bmars\b|march|\bmai\b|\bmay 2027|2027|f[ée]vrier|february)[^.\n]{0,60}", re.I)
 ALT_ONLY = re.compile(r"alternan|apprenti|apprenticeship", re.I)
 T_AIGEN = re.compile(r"intelligence artificielle|\bia\b", re.I)  # 标题只含这些 = 泛 AI，降 B
@@ -256,6 +259,10 @@ def classify(r):
     if geo == "?" and r["src"] == "linkedin": geo = "FR" if "France" in loc else "US"
     if geo == "?" and loc: return None  # 有地点但既非法国也非美国
     m = T_START.search(desc)
+    if geo == "US":  # 美国只要 Summer 2027 批次：明写别的批次的剔除，没写季节的保留
+        blob = title + " " + desc[:3000]
+        if US_EXCLUDE.search(blob) and not US_SUMMER.search(blob): return None
+        r["title"] = title + ("  [Summer 2027 ✓]" if US_SUMMER.search(blob) else "")
     r.update(tier=tier, geo=geo, start_hint=sq(m.group(0))[:140] if m else "")
     return r
 
