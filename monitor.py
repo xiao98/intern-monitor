@@ -287,6 +287,8 @@ G_US = re.compile(r"united states|\busa?\b|u\.s\.|san francisco|bay area|palo al
                   r"los angeles|seattle|bellevue|redmond|new york|\bnyc\b|boston|cambridge, ma|austin|chicago|pittsburgh|denver|remote \(us|us remote|remote - us|"
                   r"\bcalifornia\b|\bwashington\b|\bmassachusetts\b|\btexas\b|"
                   r", (al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b", re.I)
+OLD_YEAR = re.compile(r"\b20(?:1\d|2[0-5])\b")
+NEXT_CYCLE = re.compile(r"2027|2026\s*[-/–]\s*(?:20)?27", re.I)
 US_SUMMER = re.compile(r"summer\s*(?:of\s*)?2027|2027\s*summer|summer intern(?:ship)?s?\s*[-–(]?\s*2027", re.I)
 US_EXCLUDE = re.compile(r"winter\s*20\d\d|fall\s*20\d\d|spring\s*20\d\d|autumn\s*20\d\d|2026\s*start|summer\s*2026|\b2026\b\s*(?:intern|cohort|summer)|-\s*2026\b", re.I)
 T_START = re.compile(r"[^.\n]{0,60}(?:avril|april|printemps|spring|\bmars\b|march|\bmai\b|\bmay 2027|2027|f[ée]vrier|february)[^.\n]{0,60}", re.I)
@@ -317,6 +319,13 @@ def classify(r):
     if geo == "?" and r["src"] == "linkedin": geo = "FR" if "France" in loc else "US"
     if geo == "?" and loc: return None  # 有地点但既非法国也非美国
     m = T_START.search(desc)
+    # 只要 2026-2027 周期：标题/链接带 2025 及更早年份、或发布日期早于 2026-06 的一律剔除（用户 2026-09-26 要求）
+    if OLD_YEAR.search(title) and not NEXT_CYCLE.search(title): return None
+    if r.get("pub") and r["pub"][:4].isdigit() and r["pub"] < "2026-06-01": return None
+    if r["src"] == "watch":
+        if OLD_YEAR.search(r["url"]): return None  # 如 uploads/2025/11/xxx.pdf
+        if "#" in r["url"] and not NEXT_CYCLE.search(title): return None  # 纯文字碎片必须明写 2027 / 2026-2027
+        if OLD_YEAR.search(desc[:1500]) and not NEXT_CYCLE.search(desc[:1500]): return None  # 上下文写着"2025 年题目已分配"之类
     if geo == "US":  # 美国只要 Summer 2027 批次：明写别的批次的剔除，没写季节的保留
         blob = title + " " + desc[:3000]
         if US_EXCLUDE.search(blob) and not US_SUMMER.search(blob): return None
