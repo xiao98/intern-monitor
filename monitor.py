@@ -50,8 +50,9 @@ def sq(s): return re.sub(r"\s+", " ", s or "").strip()
 ASHBY = ("mistral.ai hcompany dust nabla gladia photoroom ami poolside alan qonto ledger sorare pennylane doctolib owkin inato "
          "elevenlabs alpic whitecircle kestra omi adaption akur8 backmarket seloger sunday voodoo tako "
          "openai cohere perplexity cursor cognition sierra harvey fireworks cerebras modal thinkingmachines replit runway suno "
-         "pika synthesia notion linear supabase langchain llamaindex factory rogo ramp inngest temporal lexroom ssi snowflake").split()
-GREENHOUSE = "anthropic xai togetherai datadog scaleai helsing databricks dataiku algolia mirakl magic thealleninstitute characterai waymo glean writer cresta abridge openevidence hippocraticai".split()
+         "pika synthesia notion linear supabase langchain llamaindex factory rogo ramp inngest temporal lexroom ssi snowflake "
+         "physicalintelligence liquid decagon character midjourney reka 1x worldlabs openevidence abridge writer d-matrix etched").split()
+GREENHOUSE = "anthropic xai togetherai datadog scaleai helsing databricks dataiku algolia mirakl magic thealleninstitute waymo cresta figureai stabilityai imbue essential".split()
 LEVER = "tri palantir agicap aircall blablacar contentsquare pigment qonto scality swile".split()
 WORKABLE = "huggingface".split()
 
