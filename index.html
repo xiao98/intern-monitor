@@ -66,6 +66,10 @@ h2{font-size:17px;margin:26px 0 8px}
   <div class="sub">方法：实习题目 ≈ 在读博士课题 × 在跑经费项目（Flowers / ALMAnaCH 年报实证：实习生题目 = 博士题目，实习 → predoc → PhD 是常规通道）。来源：Inria 年报、theses.fr、导师主页。2026-09-26 整理。邮箱标 ⚠️ = 按机构格式推断，发前核实。</div>
   <div id="predict"></div>
 
+  <h2>中国 / 美国（Agent + ML Infra）</h2>
+  <div class="sub">绿边 = 能投（能当 M2 stage 或已开帖），黄边 = 侦察（读博 / 毕业后看组看人）。中国大厂一般有自己的实习协议，要先确认肯签法国 convention；美国 Summer 岗多为 12 周 + J-1 + 要求回校，基本当不了 5–6 个月 stage。2026-09-26 整理。</div>
+  <div id="cnus"></div>
+
   <h2>重点课题组（法国）</h2>
   <div class="sub">一档 = 方向正对、导师近两年就在这条线上发顶会。绿边 = 页面已接入监控，黄边 = 无页面可盯，只能直接写邮件（10 月底前，带 tinylm + vLLM 贡献）。</div>
   <div id="groups"></div>
@@ -109,6 +113,28 @@ const PREDICT = [
  {sec:"企业", p:"中", fit:"Agent", lab:"Criteo AI Lab（Paris）", who:"—", mail:"官网投递", dir:"官方写：LLM agent 推理规划、生成式检索、对齐", why:"仅法国学校最后一年 MSc；常年开放；没找到实习生论文，agent 虚实待核", url:"https://careers.criteo.com/en/jobs/r19935/research-intern/"},
  {sec:"企业", p:"中", fit:"其他", lab:"AMI Labs（LeCun，Paris）", who:"—", mail:"官网投递", dir:"JEPA 世界模型、3D 视觉、模型安全", why:"有 Scientist/Interns – Geometry & 3D Vision 帖；不做 LLM agent", url:"https://www.iagora.com/work/en/internships-and-jobs-at/Ami_Labs/37089"},
 ];
+// 中国 / 美国：go = true 能投，false 侦察
+const CNUS = [
+ {geo:"🇨🇳", go:true, org:"MSRA 上海 · Agent RL", dir:"大规模 Agent RL 框架（信用分配、训推不一致、效率）+ Context / Harness 机制、long-running agent；研究 / 开发均可", note:"知乎招人帖 2026", url:"https://zhuanlan.zhihu.com/p/2017990033861256535"},
+ {geo:"🇨🇳", go:true, org:"阿里通义 / Qwen 研究型实习生", dir:"Agent RL、planning、self-evolution、reward model；推理加速", note:"≥ 6 个月，北京 / 杭州，有住房补贴", url:"https://careers-tongyi.alibaba.com/"},
+ {geo:"🇨🇳", go:true, org:"字节 Seed · Top Seed 研究实习", dir:"RL 算法、AI 搜索 Agent、后训练；分布式训练 / 高性能推理", note:"2027 届校招（含实习）已开，全球约 100 人", url:"https://jobs.bytedance.com/campus/topseed"},
+ {geo:"🇨🇳", go:true, org:"月之暗面 Kimi", dir:"大模型 RL 研发实习（Agent / RL 论文复现与验证）", note:"2026-09-09 开校招 + 实习，各年级可投，北京", url:"https://www.nowcoder.com/enterprise/29877"},
+ {geo:"🇨🇳", go:true, org:"MSRA 系统组 / 系统智能组", dir:"LLM 系统、推理能力、自我改进", note:"北京 / 上海 2–4 人", url:"https://www.msra.cn/zh-cn/jobs/interns/systems-research-group-research-intern"},
+ {geo:"🇨🇳", go:true, org:"上海 AI Lab", dir:"算子自动生成 agent + RL 自进化；训练 infra", note:"校招含留用实习生", url:"https://www.shlab.org.cn/joinus"},
+ {geo:"🇨🇳", go:true, org:"蚂蚁 · AReaL（inclusionAI）", dir:"全异步 Agent RL 训练框架（v1.0，2026-03）", note:"研究实习偏博士；⚠️ 吴翼 2026-04 已去 Meta MSL，框架仍在蚂蚁", url:"https://github.com/inclusionAI/AReaL"},
+ {geo:"🇨🇳", go:false, org:"港大 余涛 · XLANG Lab", dir:"computer-use agent（OSWorld / OSWorld 2.0 / OpenCUA）", note:"无公开实习页，需邮件", url:"https://xlang.ai/"},
+ {geo:"🇨🇳", go:false, org:"复旦 桂韬", dir:"AgentGym / AgentGym-RL（多轮 agent RL）", note:"无公开招收帖", url:"https://guitaowufeng.github.io/"},
+ {geo:"🇨🇳", go:false, org:"上交 刘鹏飞 · GAIR", dir:"推理 / agent / 数据", note:"清源研究院", url:"https://www.cs.sjtu.edu.cn/jiaoshiml/liupengfei.html"},
+ {geo:"🇺🇸", go:true, org:"Together AI · Research Intern ×4", dir:"Frontier Agents / Inference / Model Shaping / GPU Programming", note:"Summer 2027；Model Shaping 含 Amsterdam（欧盟，可能能当 stage）", url:"https://job-boards.greenhouse.io/togetherai/jobs/5238466007"},
+ {geo:"🇺🇸", go:true, org:"AMD · Master's RL & LLM Post-Training Intern", dir:"RL 后训练，明确收硕士", note:"Summer 2027，Santa Clara", url:"https://www.linkedin.com/jobs/view/summer-2027-master-s-ai-research-reinforcement-learning"},
+ {geo:"🇺🇸", go:true, org:"Sierra · SWE Intern, Agent", dir:"agent 工程", note:"Summer 2027，SF / NY", url:"https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"},
+ {geo:"🇺🇸", go:true, org:"Armadin · MTS Intern – Agent Systems", dir:"agent 系统", note:"Summer 2027，Palo Alto", url:"https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-"},
+ {geo:"🇺🇸", go:true, org:"Modal · ML Research Intern", dir:"推理 / serving infra", note:"NY / SF", url:"https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"},
+ {geo:"🇺🇸", go:false, org:"AI2 · Predoctoral Young Investigator（Open Ecosystem）", dir:"OLMo 生态；硕士毕业后读博前 1–3 年全职", note:"2026-08-24 更新仍开；夏季实习帖通常 10 月出", url:"https://job-boards.greenhouse.io/thealleninstitute/jobs/8054878"},
+ {geo:"🇺🇸", go:false, org:"CMU Graham Neubig（+ Daniel Fried）", dir:"OpenHands 软件 agent、agent SDK（MLSys 2026）", note:"2026 秋开全学期 AI Agents 课", url:"https://www.phontron.com/publications"},
+ {geo:"🇺🇸", go:false, org:"UC Berkeley Sky Computing Lab", dir:"vLLM / SGLang 推理系统", note:"ML Infra 正统", url:"https://sky.cs.berkeley.edu/people/"},
+ {geo:"🇺🇸", go:false, org:"待核实近况", dir:"Princeton（SWE-agent / SWE-bench）、Stanford CRFM、CMU Tianqi Chen / Zhihao Jia、UCSD Hao Zhang、OSU Yu Su", note:"未逐个核实人员变动，投前必查", url:"https://github.com/xiao98/intern-monitor"},
+];
 const state = {geo:"all", tiers:new Set(["A","B"]), newOnly:false, q:""};
 let HITS = [], SEEN = {}, META = null;
 const $ = s => document.querySelector(s);
@@ -148,6 +174,7 @@ function render(){
   });
   $("#list").innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">没有匹配的条目。</div>`;
   $("#predict").innerHTML = PREDICT.map(g => `<div class="group ${g.sec==="学术"?"watch":"direct"}"><span class="n">${esc(g.sec)} · ${esc(g.lab)}</span><span class="tag">把握 ${esc(g.p)}</span><span class="tag">${esc(g.fit)}</span> <span class="d">${esc(g.who)} · ${esc(g.mail)}</span><div class="d"><b>推断方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.why)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+  $("#cnus").innerHTML = CNUS.map(g => `<div class="group ${g.go?"watch":"direct"}"><span class="n">${g.geo} ${esc(g.org)}</span><span class="tag">${g.go?"能投":"侦察"}</span><div class="d"><b>方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.note)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
   $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
   const fails = META && META.fails && META.fails.length ? `失败源：${esc(META.fails.join(", "))}` : "";
   $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 90 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。A = 标题直接命中 LLM/RL/训练/Agent；B = 泛 ML/AI 研究实习；C = ESN/咨询公司。美国只保留 Summer 2027（明写 Winter/Fall/2026 的已剔除）。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
