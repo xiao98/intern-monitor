@@ -1,23 +1,4 @@
-实习监控 2026-09-26 · 新增 8 · 当前在挂命中 203 · 显示 8
-
-🇺🇸 USA  (8)
-[A] Brunswick Corporation — Reinforcement Learning Intern  (Champaign, IL · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-brunswick-corporation-4460525024
-[A] Meta — Research Scientist Intern, AI Alignment  (Seattle, WA · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-scientist-intern-ai-alignment-at-meta-4312033417
-[B] DoorDash — Machine Learning Intern (PhD) - Summer 2027 [Summer 2027 ✓]  (Sunnyvale, CA · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/machine-learning-intern-phd-summer-2027-at-doordash-4470523279
-[B] Fervo Energy — AI Applications Engineering Internship  (Houston, TX · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-applications-engineering-internship-at-fervo-energy-4461400686
-[B] Ingredion Incorporated — AI & Data Scientist Intern  (Westchester, IL · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-data-scientist-intern-at-ingredion-incorporated-4463624132
-[B] Jobright.ai — AI Engineer Intern  (San Francisco Bay Area · 发布 2026-09-26 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-engineer-intern-at-jobright-ai-4471049391
-[B] Optiver — Quantitative Research Intern, PhD (Summer 2027) [Summer 2027 ✓]  (Austin, TX · 发布 2026-09-25 · [linkedin])
-    https://www.linkedin.com/jobs/view/quantitative-research-intern-phd-summer-2027-at-optiver-4432707636
-[B] WoodmenLife — 2027 Summer AI Engineer Intern [Summer 2027 ✓]  (Omaha, NE · 发布 2026-09-25 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-summer-ai-engineer-intern-at-woodmenlife-4461674761
+实习监控 2026-09-26 · 新增 0 · 当前在挂命中 202 · 显示 0
 
 说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
-源: Ashby 57 + Greenhouse 20 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: greenhouse/abridge:404, greenhouse/characterai:404, greenhouse/glean:404, greenhouse/hippocraticai:404, greenhouse/openevidence:404, greenhouse/writer:404
+源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

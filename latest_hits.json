@@ -573,20 +573,6 @@
  },
  {
   "src": "watch",
-  "company": "Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier)",
-  "title": "Human-Like Language Acquisition in Language Models (LMs): a Parent-LM Teaching an Intrinsically-Motivated baby-LM",
-  "loc": "France",
-  "etype": "Stage",
-  "pub": "",
-  "url": "http://pyoudeyer.com/CallInternshipAutotelicBabyLM.pdf",
-  "desc": "ZXOpFOnFC2QMrBI80XMJMFI9VKc/edit?usp=sharing\">Developing and benchmarking a library for LLMs in embodied agents (supervision C. Romac, D. Dutartre, T. Carta) We are searching for internship applications for a cool project combining continuous cellular automata (Lenia), machine learning and language (but no precise description available here, send us an email :)) ! For this one, email Pierre-Yves Oudeyer (and using [application] in object/header of email). Internship hosted at ENS Paris, associated to a collaboration with Yair Lakrez and Emmanuel Chemla: Human-Like Language Acquisition in Language Models (LMs): a Parent-LM Teaching an Intrinsically-Motivated baby-LM Expérimentation et évaluation d’une intervention pédagogique pour l’entrainement de la curiosité et de la méta-cognition Evaluation de l’impact d’une intervention pédagogique sur l’usage de l’IA générative au collège < LLM reinforcement learning agents autotelic",
-  "note": "LLM reinforcement learning agents autotelic",
-  "tier": "A",
-  "geo": "FR",
-  "start_hint": ""
- },
- {
-  "src": "watch",
   "company": "Kyutai",
   "title": "Research Internships (W/M)",
   "loc": "France",

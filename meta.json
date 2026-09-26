@@ -1,14 +1,7 @@
 {
- "generated_at": "2026-09-26T17:27:37+00:00",
- "raw": 9669,
- "hits": 203,
- "new": 8,
- "fails": [
-  "greenhouse/abridge:404",
-  "greenhouse/characterai:404",
-  "greenhouse/glean:404",
-  "greenhouse/hippocraticai:404",
-  "greenhouse/openevidence:404",
-  "greenhouse/writer:404"
- ]
+ "generated_at": "2026-09-26T17:52:39+00:00",
+ "raw": 10445,
+ "hits": 202,
+ "new": 0,
+ "fails": []
 }
