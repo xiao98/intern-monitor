@@ -62,6 +62,10 @@ h2{font-size:17px;margin:26px 0 8px}
 
   <div id="list"></div>
 
+  <h2>2027 实习方向推断（按导师）</h2>
+  <div class="sub">方法：实习题目 ≈ 在读博士课题 × 在跑经费项目（Flowers / ALMAnaCH 年报实证：实习生题目 = 博士题目，实习 → predoc → PhD 是常规通道）。来源：Inria 年报、theses.fr、导师主页。2026-09-26 整理。邮箱标 ⚠️ = 按机构格式推断，发前核实。</div>
+  <div id="predict"></div>
+
   <h2>重点课题组（法国）</h2>
   <div class="sub">一档 = 方向正对、导师近两年就在这条线上发顶会。绿边 = 页面已接入监控，黄边 = 无页面可盯，只能直接写邮件（10 月底前，带 tinylm + vLLM 贡献）。</div>
   <div id="groups"></div>
@@ -71,7 +75,7 @@ h2{font-size:17px;margin:26px 0 8px}
 
 <script>
 const GROUPS = [
- {tier:1,watch:true, name:"Inria Flowers（Bordeaux）", who:"Oudeyer · Romac · Moulin-Frier", what:"LLM 在交互环境里用在线 RL grounding（GLAM, ICML 2023）、自改进 LLM agent、autotelic agent；和 Ubisoft La Forge 联合带实习。11 月底放 2027 题。", url:"https://flowers.inria.fr/jobs/"},
+ {tier:1,watch:true, name:"Inria Flowers（Bordeaux）", who:"Oudeyer · Pourcel · Gaven · Boulet · Tabbara", what:"LLM 在交互环境里用在线 RL grounding（GLAM, ICML 2023）、自改进 LLM agent、autotelic agent。Romac/Carta 已答辩、Moulin-Frier 已调 Inria Lyon。11 月底放 2027 题。", url:"https://flowers.inria.fr/jobs/"},
  {tier:1,watch:true, name:"Kyutai（Paris）", who:"Défossez · Zeghidour · Grave", what:"开源语音/多模态 LLM（Moshi、Helium），实习页常年开，可转博士。", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
  {tier:1,watch:true, name:"ENS CoML / LSCP", who:"Dupoux", what:"语音语言模型、self-supervised，与 FAIR Paris 同源；春季放 M2 题目 PDF。", url:"https://cognitive-ml.fr/jobs/"},
  {tier:1,watch:true, name:"Inria Scool（Lille）", who:"Kaufmann · Maillard · Degenne", what:"RL / bandit 理论最硬的组，NeurIPS 常客；偏理论不偏 LLM。", url:"https://team.inria.fr/scool/"},
@@ -86,6 +90,24 @@ const GROUPS = [
  {tier:2,watch:true, name:"LISN Paris-Saclay", who:"STL / DS 部门", what:"本校最大 AI 实验室；stage 主要走 M2 邮件列表，页面偶有。", url:"https://www.lisn.upsaclay.fr/offres-emploi/?_domaine=411&_types-emploi=stage"},
  {tier:2,watch:true, name:"ANITI / IRIT（Toulouse）· LIG GETALP（Grenoble）", who:"多组", what:"LLM 推理与 agent（IRIT）、TAL（GETALP）；页面已接。", url:"https://aniti.univ-toulouse.fr/en/internship-positions/"},
  {tier:2,watch:false,name:"企业研究侧", who:"Mistral · Hugging Face · Google DeepMind Paris · Criteo AI Lab · Naver Labs Europe", what:"已由 ATS / Google careers / LinkedIn 覆盖；Naver、Ubisoft、Criteo 官网是 JS 或 403，走 LinkedIn。", url:"https://github.com/xiao98/intern-monitor/blob/main/latest_report.txt"},
+];
+// 2027 实习方向推断：p = 把握（高/中高/中），fit = 与 agent/infra 主轴契合
+const PREDICT = [
+ {sec:"学术", p:"高", fit:"ML Infra", lab:"ISIR MLIA · CNRS（Paris 5e）", who:"Edouard Oyallon", mail:"edouard.oyallon@cnrs.fr", dir:"① 异步 / 去中心化 LLM 训练 ② 推理模型 RL 训练的可扩展性", why:"主页列出的每个博士都由其实习生转来；主页明招「LLM 训练加速」学生；PEPR SHARP + DAIMOS 经费", url:"https://edouardoyallon.github.io/"},
+ {sec:"学术", p:"高", fit:"Agent", lab:"Inria ALMAnaCH（Paris 13e）", who:"Djamé Seddah", mail:"djame.seddah@inria.fr（回复慢，可重发同前缀 gmail）", dir:"① LLM agent 规划 / 工具调用评测 ② 代码生成评测、SAE 可解释性 ③ 领域 LLM 后训练 / 合成数据", why:"博士全走 predoc → PhD；Froger（Meta CIFRE，agent）/ Lasnier（代码评测）/ Lasbordes（LightOn 后训练）", url:"https://dseddah.github.io/people"},
+ {sec:"学术", p:"高", fit:"Agent", lab:"Inria PICUBE / IRIF · LLM4Rocq（Paris 13e）", who:"Guillaume Baudart", mail:"guillaume.baudart@inria.fr", dir:"LLM agent × 定理证明器：rocq-mcp、agent skills、自动形式化、Rocq↔Lean 翻译", why:"agent + MCP + 数学三交；GitHub 组织日更；Flowers 的 Tabbara 实习 → 博士由其合带；无公开列表需主动问", url:"https://guillaume.baudart.eu/"},
+ {sec:"学术", p:"中高", fit:"Agent", lab:"Inria ARGO / ENS · LLM4Rocq（Paris 5e）", who:"Marc Lelarge", mail:"marc.lelarge@inria.fr ⚠️", dir:"LLM 生成 Rocq 代码与证明；推理时扩展、可控生成对齐", why:"博士 Viennot（2024，与 Baudart 合带）、Tisseau（2025）；建议与 Baudart 同封邮件", url:"https://www.di.ens.fr/~lelarge/"},
+ {sec:"学术", p:"中高", fit:"Agent", lab:"ISIR MLIA · CNRS（Paris 5e）", who:"Benjamin Piwowarski", mail:"benjaminisir.cartridge320@passmail.net（主页给的转发地址）", dir:"① 高效神经检索（SPLADE + SAE、token 剪枝）② RL 生成检索查询 ③ 具身 agent 分层推理", why:"博士 Levy（2026-04，与 Lamprier 合带）/ Zong / Morand / Lequeu", url:"https://www.piwowarski.fr/"},
+ {sec:"学术", p:"中", fit:"Agent", lab:"Univ. Angers LERIA + ISIR 合带", who:"Sylvain Lamprier", mail:"sylvain.lamprier@univ-angers.fr", dir:"在线 RL 训练 LLM agent（GLAM / SAC 线）、分层技能与推理", why:"与 Flowers 深度合作（MAGELLAN / HERAKLES）；本人在 Angers，巴黎实习挂 ISIR，抄送 Piwowarski", url:"https://scholar.google.com/citations?user=NuGN8SUAAAAJ"},
+ {sec:"学术", p:"中高", fit:"Agent", lab:"CentraleSupélec MICS（Saclay）", who:"Céline Hudelot · Pierre Colombo", mail:"celine.hudelot@centralesupelec.fr ⚠️", dir:"LLM agent 网络的事实性与安全、评测；LLM + RAG", why:"博士 Macé（2026-02）agent 网络安全；与 Alpic MCP 实习同生态", url:"https://theses.fr"},
+ {sec:"学术", p:"高", fit:"数学", lab:"Inria TAU · LISN（Saclay）", who:"Charpiat · Chevallier 等 8 人", mail:"tau-frugal@inria.fr", dir:"Neural Architecture Growth：训练中让小网络按需长大（节约算力）", why:"连续 3 年出题；EU MANOLO 资助；博士 Douka / Rudkiewicz（2024 入学）在带；偏微分 / 优化，非 agent", url:"https://www.lri.fr/~gcharpia/INRIA_TAU_LISN_Neural_Architecture_Growth.pdf"},
+ {sec:"学术", p:"中高", fit:"数学", lab:"X CMAP（Saclay）", who:"Alain Durmus · Eric Moulines", mail:"alain.durmus@polytechnique.edu ⚠️", dir:"生成模型推理的训练-推理对齐、扩散加速、平均场博弈；量化金融生成模型", why:"2026 年新收 3 个博士；数学重，与 Lehalle 合带量化方向", url:"https://theses.fr"},
+ {sec:"学术", p:"高", fit:"LLM", lab:"CEA List LASTI（Saclay）", who:"各题 PDF 内联系人", mail:"—", dir:"信息抽取 / 知识图谱 + RAG、LLM 幻觉与偏差、LLM 数据增强", why:"2025、2026 两年列表同主线；都在 10 月发布 → 预计 2026-10", url:"https://kalisteo.cea.fr/index.php/apply-for-a-job/"},
+ {sec:"学术", p:"高", fit:"Agent", lab:"Inria Flowers（Bordeaux）", who:"Tabbara · Boulet · Gaven（+ Oudeyer）", mail:"pierre-yves.oudeyer@inria.fr（标题带 [application]）", dir:"① autotelic 生成式 AI 做数学发现（Lean / Coq）② SWE-agent 生成控制器 ③ MAGELLAN 元认知学习进度 / 好奇心 RL", why:"两年列表对照：博士在读 → 出题，答辩 → 题目消失；Pourcel / Perez 将答辩，SOAR 线不确定", url:"https://flowers.inria.fr/jobs/"},
+ {sec:"企业", p:"中", fit:"Agent", lab:"Meta MSL 巴黎（后训练 / agent）", who:"RL and Agents Team", mail:"官网投递", dir:"agent 工具调用、agent 式 RL 环境、LLM 后训练、推理 / 代码", why:"有 MSc 专帖（2025-12-19 发，已下架），可转 CIFRE；10–12 月窗口；⚠️ MSL 在裁员，需工作许可", url:"https://www.themuse.com/jobs/meta/research-scientist-intern-rl-and-agents-team-msc"},
+ {sec:"企业", p:"高", fit:"LLM", lab:"Kyutai（Paris）", who:"Défossez · Pérez 等", mail:"官网投递", dir:"① 交互式世界模型 ② 全双工语音交互性对齐 ③ LLM 上下文压缩（ARC-Encoder）④ TTS / STT / 同传", why:"11 月开（2024、2025 均是）；实习 → 驻场博士（Labiausse 官方确认）", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
+ {sec:"企业", p:"中", fit:"Agent", lab:"Criteo AI Lab（Paris）", who:"—", mail:"官网投递", dir:"官方写：LLM agent 推理规划、生成式检索、对齐", why:"仅法国学校最后一年 MSc；常年开放；没找到实习生论文，agent 虚实待核", url:"https://careers.criteo.com/en/jobs/r19935/research-intern/"},
+ {sec:"企业", p:"中", fit:"其他", lab:"AMI Labs（LeCun，Paris）", who:"—", mail:"官网投递", dir:"JEPA 世界模型、3D 视觉、模型安全", why:"有 Scientist/Interns – Geometry & 3D Vision 帖；不做 LLM agent", url:"https://www.iagora.com/work/en/internships-and-jobs-at/Ami_Labs/37089"},
 ];
 const state = {geo:"all", tiers:new Set(["A","B"]), newOnly:false, q:""};
 let HITS = [], SEEN = {}, META = null;
@@ -125,6 +147,7 @@ function render(){
     return true;
   });
   $("#list").innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">没有匹配的条目。</div>`;
+  $("#predict").innerHTML = PREDICT.map(g => `<div class="group ${g.sec==="学术"?"watch":"direct"}"><span class="n">${esc(g.sec)} · ${esc(g.lab)}</span><span class="tag">把握 ${esc(g.p)}</span><span class="tag">${esc(g.fit)}</span> <span class="d">${esc(g.who)} · ${esc(g.mail)}</span><div class="d"><b>推断方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.why)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
   $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
   const fails = META && META.fails && META.fails.length ? `失败源：${esc(META.fails.join(", "))}` : "";
   $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 90 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。A = 标题直接命中 LLM/RL/训练/Agent；B = 泛 ML/AI 研究实习；C = ESN/咨询公司。美国只保留 Summer 2027（明写 Winter/Fall/2026 的已剔除）。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
