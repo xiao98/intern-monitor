@@ -2539,5 +2539,61 @@
 "company": "Southwire Company",
 "geo": "US",
 "tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern-ai-alignment-at-meta-4312033417": {
+"first_seen": "2026-09-26",
+"title": "Research Scientist Intern, AI Alignment",
+"company": "Meta",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-brunswick-corporation-4460525024": {
+"first_seen": "2026-09-26",
+"title": "Reinforcement Learning Intern",
+"company": "Brunswick Corporation",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-applications-engineering-internship-at-fervo-energy-4461400686": {
+"first_seen": "2026-09-26",
+"title": "AI Applications Engineering Internship",
+"company": "Fervo Energy",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-intern-phd-summer-2027-at-doordash-4470523279": {
+"first_seen": "2026-09-26",
+"title": "Machine Learning Intern (PhD) - Summer 2027  [Summer 2027 ✓]",
+"company": "DoorDash",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-engineer-intern-at-jobright-ai-4471049391": {
+"first_seen": "2026-09-26",
+"title": "AI Engineer Intern",
+"company": "Jobright.ai",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/2027-summer-ai-engineer-intern-at-woodmenlife-4461674761": {
+"first_seen": "2026-09-26",
+"title": "2027 Summer AI Engineer Intern  [Summer 2027 ✓]",
+"company": "WoodmenLife",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-data-scientist-intern-at-ingredion-incorporated-4463624132": {
+"first_seen": "2026-09-26",
+"title": "AI & Data Scientist Intern",
+"company": "Ingredion Incorporated",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/quantitative-research-intern-phd-summer-2027-at-optiver-4432707636": {
+"first_seen": "2026-09-26",
+"title": "Quantitative Research Intern, PhD (Summer 2027)  [Summer 2027 ✓]",
+"company": "Optiver",
+"geo": "US",
+"tier": "B"
 }
 }

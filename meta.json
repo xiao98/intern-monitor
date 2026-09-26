@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-26T16:16:05+00:00",
- "raw": 9670,
- "hits": 218,
- "new": 0,
+ "generated_at": "2026-09-26T17:27:37+00:00",
+ "raw": 9669,
+ "hits": 203,
+ "new": 8,
  "fails": [
   "greenhouse/abridge:404",
   "greenhouse/characterai:404",
