@@ -262,7 +262,7 @@ def src_watch(rows):
             if k in seen: continue
             seen.add(k)
             ctxt = sq(strip(b[max(0, m.start() - 600):m.end() + 600]))
-            rows.append(dict(src="watch", company=name, title=t, loc="France", etype="Stage" if note else "", pub="", url=full, desc=ctxt + " " + note, note=note))
+            rows.append(dict(src="watch", company=name, title=t, loc="France", etype="Stage" if note else "", pub="", url=full, desc=ctxt + " " + note, note=note, kind="anchor"))
         # 没链接的纯文字条目（有些组把题目直接写在页面上）
         txt = sq(strip(b))
         for s in re.findall(r"[^.:;\n]{15,140}?(?:internship|stage M2|stage de recherche|research internship)[^.;\n]{0,140}", txt, re.I):
@@ -331,6 +331,7 @@ def classify(r):
         if OLD_YEAR.search(r["url"]): return None  # 如 uploads/2025/11/xxx.pdf
         if "#" in r["url"] and not NEXT_CYCLE.search(title): return None  # 纯文字碎片必须明写 2027 / 2026-2027
         if OLD_YEAR.search(desc[:1500]) and not NEXT_CYCLE.search(desc[:1500]): return None  # 上下文写着"2025 年题目已分配"之类
+        if r.get("kind") == "anchor" and not NEXT_CYCLE.search(title + " " + desc[:1500]): return None  # 课题组页面的链接条目必须在标题或上下文里明写 2027 / 2026-27
     if geo == "US":  # 美国只要 Summer 2027 批次：明写别的批次的剔除，没写季节的保留
         blob = title + " " + desc[:3000]
         if US_EXCLUDE.search(blob) and not US_SUMMER.search(blob): return None
