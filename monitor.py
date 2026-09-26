@@ -350,6 +350,8 @@ def main():
     for k, v in new.items(): state[k] = dict(first_seen=today, title=v["title"], company=v["company"], geo=v["geo"], tier=v["tier"])
     if "--dry" not in ARGS: json.dump(state, open(STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     json.dump(list(hits.values()), open(os.path.join(BASE, "latest_hits.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+    json.dump(dict(generated_at=dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), raw=len(rows), hits=len(hits), new=len(new),
+                   fails=sorted(set(FAILS))), open(os.path.join(BASE, "meta.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)  # 供 index.html（GitHub Pages）显示
 
     show = hits if "--full" in ARGS else new
     body = render(show, new, hits, today)

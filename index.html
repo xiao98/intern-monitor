@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Intern Radar</title>
+<meta name="description" content="2027 春 LLM / RL / 训练 / Agent 实习监控汇总（法国 + 美国），每天自动更新">
+<style>
+:root{--bg:#f6f7f9;--card:#fff;--fg:#1a1d23;--muted:#5f6672;--line:#e3e6eb;--accent:#2457d6;--a:#1f8a4c;--b:#b7791f;--c:#8a8f98;--new:#d6336c;--chip:#eef1f6;--chip-on:#1a1d23;--chip-on-fg:#fff}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418}}
+:root[data-theme="dark"]{--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,"Segoe UI",Roboto,"PingFang SC","Noto Sans SC",sans-serif}
+.wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
+h1{font-size:22px;margin:0 0 4px}
+.sub{color:var(--muted);font-size:13px;margin-bottom:14px}
+.stats{display:flex;gap:8px;flex-wrap:wrap;margin:10px 0 16px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 12px;min-width:96px}
+.stat b{display:block;font-size:20px;line-height:1.2}.stat span{font-size:12px;color:var(--muted)}
+.bar{display:flex;gap:8px;flex-wrap:wrap;align-items:center;margin:8px 0}
+.chip{border:1px solid var(--line);background:var(--chip);color:var(--fg);border-radius:999px;padding:4px 11px;font-size:13px;cursor:pointer;user-select:none}
+.chip.on{background:var(--chip-on);color:var(--chip-on-fg);border-color:var(--chip-on)}
+input[type=search]{flex:1;min-width:180px;padding:7px 10px;border:1px solid var(--line);border-radius:8px;background:var(--card);color:var(--fg);font-size:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 12px;margin:8px 0}
+.card .t{font-weight:600}.card .t a{color:var(--fg);text-decoration:none}.card .t a:hover{color:var(--accent)}
+.meta{color:var(--muted);font-size:12.5px;margin-top:2px;word-break:break-word}
+.badge{display:inline-block;font-size:11px;font-weight:700;border-radius:5px;padding:1px 6px;margin-right:6px;color:#fff;vertical-align:1px}
+.A{background:var(--a)}.B{background:var(--b)}.C{background:var(--c)}.new{background:var(--new)}.geo{background:var(--accent)}
+.hint{font-size:12.5px;color:var(--muted);margin-top:3px}
+details summary{cursor:pointer;color:var(--accent);font-size:12.5px;margin-top:4px}
+details pre{white-space:pre-wrap;font:12.5px/1.45 inherit;color:var(--muted);max-height:260px;overflow:auto;margin:6px 0 0}
+h2{font-size:17px;margin:26px 0 8px}
+.group{border-left:3px solid var(--line);padding:4px 10px;margin:6px 0}
+.group.watch{border-color:var(--a)}.group.direct{border-color:var(--b)}
+.group .n{font-weight:600}.group .d{color:var(--muted);font-size:13px}
+.tag{font-size:11px;border-radius:5px;padding:1px 6px;background:var(--chip);margin-left:6px}
+.foot{color:var(--muted);font-size:12.5px;margin-top:26px}
+.empty{color:var(--muted);padding:20px 0}
+@media (max-width:600px){h1{font-size:19px}.stat{min-width:calc(50% - 4px)}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Intern Radar · 2027 春 LLM / RL / 训练 / Agent 实习</h1>
+  <div class="sub" id="upd">加载中…</div>
+  <div class="stats" id="stats"></div>
+
+  <div class="bar" id="geoBar">
+    <span class="chip on" data-geo="all">全部</span>
+    <span class="chip" data-geo="FR">🇫🇷 法国</span>
+    <span class="chip" data-geo="US">🇺🇸 美国 Summer 2027</span>
+    <span class="chip" data-geo="watch">🔬 实验室页面</span>
+    <span class="chip" data-geo="?">Google/Apple</span>
+  </div>
+  <div class="bar" id="tierBar">
+    <span class="chip on" data-tier="A">A 标题命中</span>
+    <span class="chip on" data-tier="B">B 泛研究</span>
+    <span class="chip" data-tier="C">C 咨询/ESN</span>
+    <span class="chip" id="newOnly">只看 7 天内新增</span>
+    <input type="search" id="q" placeholder="搜公司 / 标题 / 地点 / 关键词">
+  </div>
+
+  <div id="list"></div>
+
+  <h2>重点课题组（法国）</h2>
+  <div class="sub">一档 = 方向正对、导师近两年就在这条线上发顶会。绿边 = 页面已接入监控，黄边 = 无页面可盯，只能直接写邮件（10 月底前，带 tinylm + vLLM 贡献）。</div>
+  <div id="groups"></div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+const GROUPS = [
+ {tier:1,watch:true, name:"Inria Flowers（Bordeaux）", who:"Oudeyer · Romac · Moulin-Frier", what:"LLM 在交互环境里用在线 RL grounding（GLAM, ICML 2023）、自改进 LLM agent、autotelic agent；和 Ubisoft La Forge 联合带实习。11 月底放 2027 题。", url:"https://flowers.inria.fr/jobs/"},
+ {tier:1,watch:true, name:"Kyutai（Paris）", who:"Défossez · Zeghidour · Grave", what:"开源语音/多模态 LLM（Moshi、Helium），实习页常年开，可转博士。", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
+ {tier:1,watch:true, name:"ENS CoML / LSCP", who:"Dupoux", what:"语音语言模型、self-supervised，与 FAIR Paris 同源；春季放 M2 题目 PDF。", url:"https://cognitive-ml.fr/jobs/"},
+ {tier:1,watch:true, name:"Inria Scool（Lille）", who:"Kaufmann · Maillard · Degenne", what:"RL / bandit 理论最硬的组，NeurIPS 常客；偏理论不偏 LLM。", url:"https://team.inria.fr/scool/"},
+ {tier:1,watch:true, name:"CEA List（Saclay）", who:"emploi.cea.fr RSS", what:"RL 世界模型、LLM agent、可信 IA 的 stage，工程味重但题目真实。", url:"https://www.emploi.cea.fr/offre-de-emploi/liste-offres.aspx?keywords=LLM"},
+ {tier:2,watch:false,name:"Inria ALMAnaCH（Paris）", who:"Sagot · Seddah · Clavel", what:"法国 LLM 预训练 / 分词 / 评测正统（CamemBERT 系列），ACL/EMNLP 主力。", url:"https://almanach.inria.fr/index-en.html"},
+ {tier:2,watch:false,name:"ISIR MLIA（Sorbonne）", who:"Sigaud · Soulier · Piwowarski", what:"LLM agent 与交互环境的 RL 对齐（NAACL 2025），与 Flowers 合作。", url:"https://mlia.isir.upmc.fr/"},
+ {tier:2,watch:false,name:"CMAP polytechnique", who:"Moulines", what:"RLHF 理论、Nash learning from human feedback、reward modeling 最优设计，纯理论口。", url:"https://www.polytechnique.edu/en/directory/moulines-eric"},
+ {tier:2,watch:false,name:"Inria / ENS", who:"Lelarge", what:"LLM for code and proof（Lean / Rocq），与 MVA 那门课直接对接。", url:"https://www.di.ens.fr/~lelarge/"},
+ {tier:2,watch:false,name:"Inria Sierra", who:"Bach", what:"优化理论，LLM 训练动力学方向近两年有。", url:"https://sierra-mlopt.github.io/"},
+ {tier:2,watch:true, name:"Inria Saclay", who:"Boursier", what:"Transformer 训练理论；个人页已接监控，实际靠邮件。", url:"https://eboursier.github.io/"},
+ {tier:2,watch:true, name:"Dauphine MILES / IASD", who:"Allauzen", what:"LLM 效率 / 鲁棒；stage 走 IASD 页面。", url:"https://www.lamsade.dauphine.fr/wp/iasd/en/liste-des-stages-disponibles/"},
+ {tier:2,watch:true, name:"LISN Paris-Saclay", who:"STL / DS 部门", what:"本校最大 AI 实验室；stage 主要走 M2 邮件列表，页面偶有。", url:"https://www.lisn.upsaclay.fr/offres-emploi/?_domaine=411&_types-emploi=stage"},
+ {tier:2,watch:true, name:"ANITI / IRIT（Toulouse）· LIG GETALP（Grenoble）", who:"多组", what:"LLM 推理与 agent（IRIT）、TAL（GETALP）；页面已接。", url:"https://aniti.univ-toulouse.fr/en/internship-positions/"},
+ {tier:2,watch:false,name:"企业研究侧", who:"Mistral · Hugging Face · Google DeepMind Paris · Criteo AI Lab · Naver Labs Europe", what:"已由 ATS / Google careers / LinkedIn 覆盖；Naver、Ubisoft、Criteo 官网是 JS 或 403，走 LinkedIn。", url:"https://github.com/xiao98/intern-monitor/blob/main/latest_report.txt"},
+];
+const state = {geo:"all", tiers:new Set(["A","B"]), newOnly:false, q:""};
+let HITS = [], SEEN = {}, META = null;
+const $ = s => document.querySelector(s);
+const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const daysAgo = d => d ? (Date.now() - new Date(d)) / 864e5 : 1e9;
+
+async function load(){
+  const bust = "?t=" + Math.floor(Date.now()/600000);
+  const [h, s, m] = await Promise.all([
+    fetch("latest_hits.json"+bust).then(r=>r.json()),
+    fetch("state.json"+bust).then(r=>r.json()).catch(()=>({})),
+    fetch("meta.json"+bust).then(r=>r.json()).catch(()=>null)]);
+  HITS = h; SEEN = s; META = m;
+  HITS.forEach(x => { x.first = (SEEN[x.url] || SEEN[x.url.split("?")[0]] || {}).first_seen || ""; });
+  HITS.sort((a,b) => (b.first||"").localeCompare(a.first||"") || (b.pub||"").localeCompare(a.pub||""));
+  render();
+}
+function counts(){
+  const c = {FR:0, US:0, watch:0, "?":0, new7:0};
+  HITS.forEach(x => { if (x.src==="watch") c.watch++; else c[x.geo] = (c[x.geo]||0)+1; if (daysAgo(x.first) <= 7) c.new7++; });
+  return c;
+}
+function render(){
+  const c = counts();
+  const when = META && META.generated_at ? new Date(META.generated_at).toLocaleString("zh-CN",{timeZone:"Europe/Paris"}) + "（巴黎时间）" : "未知";
+  $("#upd").textContent = `最近一次抓取：${when} · 爬虫每天 08:30 巴黎时间跑一轮，有新增会发邮件；本页读同一份数据。`;
+  $("#stats").innerHTML = [["在挂命中", HITS.length], ["🇫🇷 法国", c.FR], ["🇺🇸 美国", c.US], ["🔬 实验室页面", c.watch], ["7 天内新增", c.new7]]
+    .map(([k,v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+  const q = state.q.trim().toLowerCase();
+  const rows = HITS.filter(x => {
+    const g = x.src==="watch" ? "watch" : x.geo;
+    if (state.geo !== "all" && g !== state.geo) return false;
+    if (!state.tiers.has(x.tier)) return false;
+    if (state.newOnly && daysAgo(x.first) > 7) return false;
+    if (q && !((x.company+" "+x.title+" "+x.loc+" "+(x.start_hint||"")+" "+(x.desc||"").slice(0,1500)).toLowerCase().includes(q))) return false;
+    return true;
+  });
+  $("#list").innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">没有匹配的条目。</div>`;
+  $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+  const fails = META && META.fails && META.fails.length ? `失败源：${esc(META.fails.join(", "))}` : "";
+  $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 90 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。A = 标题直接命中 LLM/RL/训练/Agent；B = 泛 ML/AI 研究实习；C = ESN/咨询公司。美国只保留 Summer 2027（明写 Winter/Fall/2026 的已剔除）。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
+}
+function card(x){
+  const isNew = daysAgo(x.first) <= 7;
+  const geo = x.src==="watch" ? "🔬 实验室" : x.geo==="FR" ? "🇫🇷" : x.geo==="US" ? "🇺🇸" : "🌐";
+  const meta = [x.loc && x.loc.slice(0,70), x.pub && `发布 ${x.pub}`, x.first && `首次抓到 ${x.first}`, `[${x.src}]`].filter(Boolean).join(" · ");
+  const d = (x.desc||"").trim();
+  return `<div class="card">
+    <div class="t"><span class="badge ${x.tier}">${x.tier}</span>${isNew?'<span class="badge new">NEW</span>':""}<span class="badge geo">${geo}</span>${esc(x.company)} — <a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>
+    <div class="meta">${esc(meta)}</div>
+    ${x.start_hint ? `<div class="hint">起始线索：…${esc(x.start_hint)}…</div>` : ""}
+    ${d.length > 80 ? `<details><summary>描述</summary><pre>${esc(d.slice(0,2500))}</pre></details>` : ""}
+  </div>`;
+}
+document.querySelectorAll("#geoBar .chip").forEach(el => el.onclick = () => { document.querySelectorAll("#geoBar .chip").forEach(e=>e.classList.remove("on")); el.classList.add("on"); state.geo = el.dataset.geo; render(); });
+document.querySelectorAll("#tierBar .chip[data-tier]").forEach(el => el.onclick = () => { el.classList.toggle("on"); el.classList.contains("on") ? state.tiers.add(el.dataset.tier) : state.tiers.delete(el.dataset.tier); render(); });
+$("#newOnly").onclick = () => { state.newOnly = !state.newOnly; $("#newOnly").classList.toggle("on", state.newOnly); render(); };
+$("#q").oninput = e => { state.q = e.target.value; render(); };
+load().catch(e => { $("#upd").textContent = "数据加载失败：" + e; });
+</script>
+</body>
+</html>
