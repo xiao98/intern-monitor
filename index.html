@@ -34,6 +34,7 @@ h2{font-size:17px;margin:26px 0 8px}
 .group.watch{border-color:var(--a)}.group.direct{border-color:var(--b)}
 .group .n{font-weight:600}.group .d{color:var(--muted);font-size:13px}
 .tag{font-size:11px;border-radius:5px;padding:1px 6px;background:var(--chip);margin-left:6px}
+a.chip{text-decoration:none}h2{scroll-margin-top:12px}
 .foot{color:var(--muted);font-size:12.5px;margin-top:26px}
 .empty{color:var(--muted);padding:20px 0}
 @media (max-width:600px){h1{font-size:19px}.stat{min-width:calc(50% - 4px)}}
@@ -44,8 +45,9 @@ h2{font-size:17px;margin:26px 0 8px}
   <h1>Intern Radar · 2027 春 LLM / RL / 训练 / Agent 实习</h1>
   <div class="sub" id="upd">加载中…</div>
   <div class="stats" id="stats"></div>
+  <div class="bar nav"><a class="chip" href="#sec-list">岗位列表</a><a class="chip" href="#sec-predict">🎯 2027 导师推断</a><a class="chip" href="#sec-cnus">🇨🇳🇺🇸 中国 / 美国</a><a class="chip" href="#sec-groups">🇫🇷 法国课题组</a></div>
 
-  <div class="bar" id="geoBar">
+  <div class="bar" id="geoBar" style="scroll-margin-top:12px"><span id="sec-list"></span>
     <span class="chip on" data-geo="all">全部</span>
     <span class="chip" data-geo="FR">🇫🇷 法国</span>
     <span class="chip" data-geo="US">🇺🇸 美国 Summer 2027</span>
@@ -62,15 +64,15 @@ h2{font-size:17px;margin:26px 0 8px}
 
   <div id="list"></div>
 
-  <h2>2027 实习方向推断（按导师）</h2>
+  <h2 id="sec-predict">2027 实习方向推断（按导师）</h2>
   <div class="sub">方法：实习题目 ≈ 在读博士课题 × 在跑经费项目（Flowers / ALMAnaCH 年报实证：实习生题目 = 博士题目，实习 → predoc → PhD 是常规通道）。来源：Inria 年报、theses.fr、导师主页。2026-09-26 整理。邮箱标 ⚠️ = 按机构格式推断，发前核实。</div>
   <div id="predict"></div>
 
-  <h2>中国 / 美国（Agent + ML Infra）</h2>
+  <h2 id="sec-cnus">中国 / 美国（Agent + ML Infra）</h2>
   <div class="sub">绿边 = 能投（能当 M2 stage 或已开帖），黄边 = 侦察（读博 / 毕业后看组看人）。中国大厂一般有自己的实习协议，要先确认肯签法国 convention；美国 Summer 岗多为 12 周 + J-1 + 要求回校，基本当不了 5–6 个月 stage。2026-09-26 整理。</div>
   <div id="cnus"></div>
 
-  <h2>重点课题组（法国）</h2>
+  <h2 id="sec-groups">重点课题组（法国）</h2>
   <div class="sub">一档 = 方向正对、导师近两年就在这条线上发顶会。绿边 = 页面已接入监控，黄边 = 无页面可盯，只能直接写邮件（10 月底前，带 tinylm + vLLM 贡献）。</div>
   <div id="groups"></div>
 
@@ -173,9 +175,6 @@ function render(){
     return true;
   });
   $("#list").innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">没有匹配的条目。</div>`;
-  $("#predict").innerHTML = PREDICT.map(g => `<div class="group ${g.sec==="学术"?"watch":"direct"}"><span class="n">${esc(g.sec)} · ${esc(g.lab)}</span><span class="tag">把握 ${esc(g.p)}</span><span class="tag">${esc(g.fit)}</span> <span class="d">${esc(g.who)} · ${esc(g.mail)}</span><div class="d"><b>推断方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.why)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
-  $("#cnus").innerHTML = CNUS.map(g => `<div class="group ${g.go?"watch":"direct"}"><span class="n">${g.geo} ${esc(g.org)}</span><span class="tag">${g.go?"能投":"侦察"}</span><div class="d"><b>方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.note)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
-  $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
   const fails = META && META.fails && META.fails.length ? `失败源：${esc(META.fails.join(", "))}` : "";
   $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 90 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。A = 标题直接命中 LLM/RL/训练/Agent；B = 泛 ML/AI 研究实习；C = ESN/咨询公司。美国只保留 Summer 2027（明写 Winter/Fall/2026 的已剔除）。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
 }
@@ -195,6 +194,12 @@ document.querySelectorAll("#geoBar .chip").forEach(el => el.onclick = () => { do
 document.querySelectorAll("#tierBar .chip[data-tier]").forEach(el => el.onclick = () => { el.classList.toggle("on"); el.classList.contains("on") ? state.tiers.add(el.dataset.tier) : state.tiers.delete(el.dataset.tier); render(); });
 $("#newOnly").onclick = () => { state.newOnly = !state.newOnly; $("#newOnly").classList.toggle("on", state.newOnly); render(); };
 $("#q").oninput = e => { state.q = e.target.value; render(); };
+function renderStatic(){
+  $("#predict").innerHTML = PREDICT.map(g => `<div class="group ${g.sec==="学术"?"watch":"direct"}"><span class="n">${esc(g.sec)} · ${esc(g.lab)}</span><span class="tag">把握 ${esc(g.p)}</span><span class="tag">${esc(g.fit)}</span> <span class="d">${esc(g.who)} · ${esc(g.mail)}</span><div class="d"><b>推断方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.why)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+  $("#cnus").innerHTML = CNUS.map(g => `<div class="group ${g.go?"watch":"direct"}"><span class="n">${g.geo} ${esc(g.org)}</span><span class="tag">${g.go?"能投":"侦察"}</span><div class="d"><b>方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.note)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+  $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+}
+renderStatic();
 load().catch(e => { $("#upd").textContent = "数据加载失败：" + e; });
 </script>
 </body>
