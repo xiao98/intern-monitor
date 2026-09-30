@@ -358,6 +358,11 @@ def main():
         if k in bykey: continue
         bykey[k] = 1; hits.setdefault(re.sub(r"[?&]utm_[^&]*", "", c["url"]), c)
     log(f"raw={len(rows)} hits={len(hits)} fails={len(FAILS)}")
+    if "--dump" in ARGS:  # 调试：把实验室源的原始条目推到仓库，供离线分析过滤规则（不改 state/报告）
+        dump = [dict(r, desc=(r.get("desc") or "")[:1200]) for r in rows if r["src"] in ("inria", "watch")]
+        json.dump(dict(generated_at=dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds"), fails=sorted(set(FAILS)), rows=dump),
+                  open(os.path.join(BASE, "debug_rows.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
+        log(f"dump: {len(dump)} inria/watch rows -> debug_rows.json"); git_push(dt.date.today().isoformat()); return
     if not rows:  # 全部源都失败（网络/被封）：别用空报告覆盖仓库里的状态，直接报错退出
         log("ABORT: every source failed, keeping previous state/report untouched"); sys.exit(1)
 
