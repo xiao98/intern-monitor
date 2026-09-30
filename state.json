@@ -2595,5 +2595,642 @@
 "company": "Optiver",
 "geo": "US",
 "tier": "B"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8202025": {
+"first_seen": "2026-09-30",
+"title": "2027 Summer Intern, PhD, Machine Learning, Computer Vision  [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "B"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8237997": {
+"first_seen": "2026-09-30",
+"title": "2027 Summer Intern, PhD, Machine Learning Research, Planning/Prediction  [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "A"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8234876": {
+"first_seen": "2026-09-30",
+"title": "2027 Summer Intern, PhD, Planner Machine Learning  [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--AI-Accelerator-Design-and-VLSI---2027_JR2026584-1": {
+"first_seen": "2026-09-30",
+"title": "PhD Research Intern, AI Accelerator Design and VLSI - 2027",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "A"
+},
+"https://www.amazon.jobs/en/jobs/10564597/2027-applied-science-internship-reinforcement-learning-optimization-machine-learning-united-states-phd-student-science-recruiting": {
+"first_seen": "2026-09-30",
+"title": "2027 Applied Science Internship - Reinforcement Learning & Optimization (Machine Learning) - United States, PhD Student Science Recruiting",
+"company": "Amazon",
+"geo": "US",
+"tier": "A"
+},
+"https://www.amazon.jobs/en/jobs/10564593/2027-applied-science-internship-natural-language-processing-and-speech-technologies-united-states-phd-student-science-recruiting": {
+"first_seen": "2026-09-30",
+"title": "2027 Applied Science Internship - Natural Language Processing and Speech Technologies - United States, PhD Student Science Recruiting",
+"company": "Amazon",
+"geo": "US",
+"tier": "A"
+},
+"https://www.amazon.jobs/en/jobs/10564599/2027-applied-science-internship-united-states-undergrad-student-science-recruiting-frontier-ai-robotics": {
+"first_seen": "2026-09-30",
+"title": "2027 Applied Science Internship - United States, Undergrad Student Science Recruiting, Frontier AI & Robotics",
+"company": "Amazon",
+"geo": "US",
+"tier": "A"
+},
+"https://www.amazon.jobs/en/jobs/10564600/2027-applied-science-internship-united-states-phd-student-science-recruiting-frontier-ai-robotics-frontier-ai-robotics": {
+"first_seen": "2026-09-30",
+"title": "2027 Applied Science Internship - United States, PhD Student Science Recruiting Frontier AI & Robotics, Frontier AI & Robotics",
+"company": "Amazon",
+"geo": "US",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-d%C3%A9veloppement-d%E2%80%99un-assistant-ia-g%C3%A9n%C3%A9rative-pour-le-knowledge-management-colomiers-at-cimpa-plm-services-4473273125": {
+"first_seen": "2026-09-30",
+"title": "Stage – Développement d’un assistant IA générative pour le Knowledge Management - Colomiers",
+"company": "CIMPA PLM Services",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-ia-agentique-optimisation-de-mod%C3%A8les-par-agents-llm-f-h-at-edf-4473599316": {
+"first_seen": "2026-09-30",
+"title": "Stage - Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-1-stage-de-fin-d-%C3%A9tude-en-pr%C3%A9-embauche-f-h-at-vinci-4472455885": {
+"first_seen": "2026-09-30",
+"title": "AI Engineer - 1 stage de fin d'étude en pré-embauche F/H",
+"company": "VINCI",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/6-month-internship-starting-january-2027-%E2%80%93-cloud-ai-software-engineer-%E2%80%93-master-s-%C2%BD-%E2%82%AC1700-month-at-l-or%C3%A9al-4473213793": {
+"first_seen": "2026-09-30",
+"title": "6-MONTH INTERNSHIP - Starting January 2027 – Cloud & AI Software Engineer – Master's ½ - €1700/month",
+"company": "L'Oréal",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-ia-automatisation-h-f-at-batiscript-4471945372": {
+"first_seen": "2026-09-30",
+"title": "Stagiaire IA & Automatisation (H/F)",
+"company": "BatiScript",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/6-month-internship-starting-january-2027-%E2%80%93-ai-product-agentic-innovation-%E2%80%93-master-s-%C2%BD-%E2%82%AC1700-month-at-l-or%C3%A9al-4473222511": {
+"first_seen": "2026-09-30",
+"title": "6-MONTH INTERNSHIP - Starting January 2027 – AI Product & Agentic Innovation – Master's ½ - €1700/month",
+"company": "L'Oréal",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-ia-g%C3%A9n%C3%A9rative-h-f-at-bassetti-group-4473253079": {
+"first_seen": "2026-09-30",
+"title": "Stage - Ingénieur Data Science - IA Générative H/F",
+"company": "BASSETTI Group",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-gestion-de-projet-intelligence-artificielle-janvier-2027-at-rothschild-co-4472733737": {
+"first_seen": "2026-09-30",
+"title": "Stage Gestion de Projet / Intelligence Artificielle - Janvier 2027",
+"company": "Rothschild & Co",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/product-data-science-ai-agents-intern-at-criteo-4464358910": {
+"first_seen": "2026-09-30",
+"title": "Product Data Science & AI Agents Intern",
+"company": "Criteo",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-strat%C3%A9gie-de-test-logiciel-via-intelligence-artificielle-f-h-at-schneider-electric-4471939152": {
+"first_seen": "2026-09-30",
+"title": "Stage - Stratégie de test logiciel via intelligence artificielle - F/H",
+"company": "Schneider Electric",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-forward-deployed-engineer-data-ia-2026-h-f-at-forvis-mazars-en-france-4471534929": {
+"first_seen": "2026-09-30",
+"title": "Stagiaire Forward Deployed Engineer (Data & IA) 2026 - H/F",
+"company": "Forvis Mazars en France",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-business-op%C3%A9rations-ia-at-hello-justice-4472106772": {
+"first_seen": "2026-09-30",
+"title": "Stage Business, Opérations & IA",
+"company": "Hello Justice",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-change-management-ai-innovation-intern-at-airbus-aircraft-4471228354": {
+"first_seen": "2026-09-30",
+"title": "STAGE 2027 - Change Management & AI Innovation Intern",
+"company": "Airbus Aircraft",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-ia-agentique-optimisation-de-mod%C3%A8les-par-agents-llm-f-h-at-framatome-4473235477": {
+"first_seen": "2026-09-30",
+"title": "Stage - Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
+"company": "Framatome",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-%E2%80%93-conduite-du-changement-adoption-de-l%E2%80%99ia-h-f-at-renault-group-4471905890": {
+"first_seen": "2026-09-30",
+"title": "CS27 BAC+5 Stage – Conduite du Changement & Adoption de l’IA (H/F)",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/cs27-bac%2B5-%C3%A9valuation-et-monitoring-des-agents-ia-en-production-h-f-at-renault-group-4471511351": {
+"first_seen": "2026-09-30",
+"title": "CS27 - Bac+5 - Évaluation et Monitoring des Agents IA en Production (H/F)",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-assistant-e-amoa-projet-intelligence-artificielle-at-groupe-sii-4472709487": {
+"first_seen": "2026-09-30",
+"title": "Stage Ingénieur.e Assistant.e AMOA / Projet Intelligence Artificielle",
+"company": "Groupe SII",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-marketing-scientifique-digital-dans-une-startup-medtech-at-ensimag-alumni-4471570070": {
+"first_seen": "2026-09-30",
+"title": "Stage IA, marketing scientifique digital dans une startup medtech",
+"company": "Ensimag Alumni",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134": {
+"first_seen": "2026-09-30",
+"title": "Stage - Ingénieur IA agentique - Base Installée F/H",
+"company": "Framatome",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-edf-4473069558": {
+"first_seen": "2026-09-30",
+"title": "Stage - Ingénieur IA agentique - Base Installée F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-d%C3%A9veloppement-d-outils-d-ing%C3%A9nierie-pilot%C3%A9s-par-ia-pour-metop-sg-h-f-at-airbus-defence-and-space-4471227390": {
+"first_seen": "2026-09-30",
+"title": "Stage 2027 - Développement d'outils d'ingénierie pilotés par IA pour MetOp-SG (h/f)",
+"company": "Airbus Defence and Space",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/final-year-internship-cio-data-ai-advisory-at-sia-4470938974": {
+"first_seen": "2026-09-30",
+"title": "Final year Internship - CIO, Data & AI Advisory",
+"company": "Sia",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-%E2%80%93-pr%C3%A9vision-de-la-demande-en-supply-chain-f-h-at-mews-labs-4470942382": {
+"first_seen": "2026-09-30",
+"title": "Stage Ingénieur(e) IA – Prévision de la demande en supply chain (F/H)",
+"company": "Mews Labs",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-outils-ia-ml-pour-la-simulation-3d-en-vibro-acoustique-automobile-at-stellantis-4470885806": {
+"first_seen": "2026-09-30",
+"title": "Stage : Outils IA-ML pour la simulation (3D) en vibro-acoustique automobile",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/offre-de-stage-robotique-ia-at-osiris-agriculture-4469438836": {
+"first_seen": "2026-09-30",
+"title": "Offre de stage -- Robotique / IA",
+"company": "Osiris Agriculture",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/alpine-cars-cs27-bac%2B5-ing%C3%A9nieur-e-innovation-automobile-benchmarking-ia-g%C3%A9n%C3%A9rative-f-h-at-alpine-4471911795": {
+"first_seen": "2026-09-30",
+"title": "ALPINE CARS - CS27 - BAC+5 - Ingénieur.e Innovation Automobile, Benchmarking & IA Générative (F/H)",
+"company": "Alpine",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-r-d-deep-learning-et-machine-learning-f-h-at-framatome-4471528178": {
+"first_seen": "2026-09-30",
+"title": "Stage – Ingénieur R&D Deep Learning et Machine Learning F/H",
+"company": "Framatome",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-pruning-de-tokens-quantization-aware-pour-vision-transformers-embarqu%C3%A9s-saclay-h-f-at-cea-4471338419": {
+"first_seen": "2026-09-30",
+"title": "Stage Pruning de tokens quantization-aware pour Vision Transformers embarqués -Saclay-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-stage-en-ia-appliqu%C3%A9e-%C3%A0-l-ing%C3%A9nierie-spatiale-%E2%80%94-optimisation-scao-f-h-at-airbus-defence-and-space-4472124310": {
+"first_seen": "2026-09-30",
+"title": "STAGE 2027 - Stage en IA appliquée à l'Ingénierie Spatiale — Optimisation SCAO (f/h)",
+"company": "Airbus Defence and Space",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-machine-learning-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4470879946": {
+"first_seen": "2026-09-30",
+"title": "Stage : Application de l'IA (machine learning) à l'automatisation des tests XIL",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-r-d-deep-learning-et-machine-learning-f-h-at-edf-4473059852": {
+"first_seen": "2026-09-30",
+"title": "Stage – Ingénieur R&D Deep Learning et Machine Learning F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeuse-d%C3%A9veloppeur-en-intelligence-artificielle-at-capgemini-4472772178": {
+"first_seen": "2026-09-30",
+"title": "Stage Développeuse / Développeur en Intelligence Artificielle",
+"company": "Capgemini",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-full-stack-ia-for-audit-f-h-at-pwc-france-4467783213": {
+"first_seen": "2026-09-30",
+"title": "Stage Ingénieur Full Stack IA for Audit - F/H",
+"company": "PwC France",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-et-automatisation-%E2%80%93-assistant-ia-pour-la-pr%C3%A9paration-des-livraisons-logicielles-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4473055799": {
+"first_seen": "2026-09-30",
+"title": "Stage IA et Automatisation – Assistant IA pour la préparation des livraisons logicielles - Défense & Sécurité - Aix-en-Provence",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-am%C3%A9lioration-des-performances-de-d%C3%A9tection-reconnaissance-dans-l%E2%80%99image-par-ia-g%C3%A9n%C3%A9rative-f-h-at-thales-4472795001": {
+"first_seen": "2026-09-30",
+"title": "STAGE - Amélioration des performances de détection & reconnaissance dans l’image par IA générative - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-recherche-%E2%80%93-ia-pour-la-compr%C3%A9hension-de-sc%C3%A8nes-3d-f-h-at-dassault-syst%C3%A8mes-4464308042": {
+"first_seen": "2026-09-30",
+"title": "STAGE - Ingénieur.e Recherche – IA pour la compréhension de scènes 3D (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-optimisation-d%E2%80%99algorithmes-de-deep-learning-f-h-at-thales-4473251036": {
+"first_seen": "2026-09-30",
+"title": "STAGE - Optimisation d’algorithmes de deep learning - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-etude-des-techniques-d-ia-agentiques-pour-la-cr%C3%A9ation-de-mod%C3%A8les-r%C3%A9duits-de-simulations-at-stellantis-4471201003": {
+"first_seen": "2026-09-30",
+"title": "Stage : Etude des techniques d'IA agentiques pour la création de modèles réduits de simulations",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/offre-de-stage-analyste-ia-donn%C3%A9es-agro-et-robotique-at-osiris-agriculture-4469431970": {
+"first_seen": "2026-09-30",
+"title": "Offre de stage -- Analyste IA & Données (agro et robotique)",
+"company": "Osiris Agriculture",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-ia-agentique-dans-processus-avioniques-at-airbus-aircraft-4471226407": {
+"first_seen": "2026-09-30",
+"title": "STAGE 2027 IA agentique dans processus avioniques",
+"company": "Airbus Aircraft",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-ing%C3%A9nieur-ia-automatisation-des-tests-du-cockpit-digital-%E2%80%93-software-defined-vehicle-sdv-h-f-at-renault-group-4471508383": {
+"first_seen": "2026-09-30",
+"title": "CS27 BAC+5 - Stage - Ingénieur : IA & automatisation des tests du cockpit digital – Software Defined Vehicle (SDV) (H/F)",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-recherche-machine-learning-f-h-at-dassault-syst%C3%A8mes-4464309027": {
+"first_seen": "2026-09-30",
+"title": "STAGE - Ingénieur Recherche Machine Learning (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-e-data-science-ia-et-data-analytics-h-f-at-sagemcom-4470087587": {
+"first_seen": "2026-09-30",
+"title": "Stage de fin d'études - Ingénieur.e data science - IA et Data Analytics H/F",
+"company": "SAGEMCOM",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stagiaire-ing%C3%A9nieur-ia-%E2%80%93-outil-aide-safety-h-f-at-renault-group-4471927090": {
+"first_seen": "2026-09-30",
+"title": "CS27 BAC+5 - Stagiaire Ingénieur IA – Outil aide Safety H/F",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-logiciel-ia-g%C3%A9n%C3%A9rative-pour-la-validation-de-logiciels-embarqu%C3%A9s-f-h-at-mbda-4472020506": {
+"first_seen": "2026-09-30",
+"title": "Stage Logiciel : IA générative pour la validation de logiciels embarqués F/H",
+"company": "MBDA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-ia-plateforme-stage-f-h-at-padoa-4471911162": {
+"first_seen": "2026-09-30",
+"title": "Développeur IA Plateforme (stage) F/H",
+"company": "padoa",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4451804334": {
+"first_seen": "2026-09-30",
+"title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+"company": "ByteDance",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-research-internship-wm-at-institute-of-foundation-models-4472764931": {
+"first_seen": "2026-09-30",
+"title": "AI Research Internship - WM",
+"company": "Institute of Foundation Models",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-researcher-%E2%80%93-phd-intern-us-at-citadel-4439277068": {
+"first_seen": "2026-09-30",
+"title": "Machine Learning Researcher – PhD Intern (US)",
+"company": "Citadel",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/hardware-machine-learning-phd-research-internship-at-imc-trading-4469636248": {
+"first_seen": "2026-09-30",
+"title": "Hardware Machine Learning PhD Research Internship",
+"company": "IMC Trading",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/robotics-research-internship-humanoid-manipulation-summer-2027-phd-internship-at-fieldai-4472444817": {
+"first_seen": "2026-09-30",
+"title": "Robotics Research Internship, Humanoid Manipulation (Summer 2027) | PhD Internship  [Summer 2027 ✓]",
+"company": "FieldAI",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/applied-scientist-intern-summer-2027-at-lyft-4473038616": {
+"first_seen": "2026-09-30",
+"title": "Applied Scientist Intern (Summer 2027)  [Summer 2027 ✓]",
+"company": "Lyft",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/intern-development-cds-ai-research-center-at-gilead-sciences-4463256217": {
+"first_seen": "2026-09-30",
+"title": "Intern - Development - CDS AI Research Center",
+"company": "Gilead Sciences",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/deep-learning-research-engineer-intern-at-datarobot-4470891560": {
+"first_seen": "2026-09-30",
+"title": "Deep Learning Research Engineer Intern",
+"company": "DataRobot",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/eda-ai-ml-software-intern-at-keysight-technologies-4471786772": {
+"first_seen": "2026-09-30",
+"title": "EDA AI/ML Software Intern",
+"company": "Keysight Technologies",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/nike-inc-ai-machine-learning-innovation-graduate-internship-at-nike-4473599291": {
+"first_seen": "2026-09-30",
+"title": "NIKE, Inc. AI & Machine Learning, Innovation Graduate Internship",
+"company": "Nike",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern-multimodal-sensing-on-device-perception-global-frontier-tech-recruitment-program-2027-start-phd-at-bytedance-4472776696": {
+"first_seen": "2026-09-30",
+"title": "Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)",
+"company": "ByteDance",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-scientist-intern-tiktok-content-ecology-llm-application-2027-start-phd-at-tiktok-4447907295": {
+"first_seen": "2026-09-30",
+"title": "Machine Learning Scientist Intern (TikTok - Content Ecology - LLM application) - 2027 Start (PhD)",
+"company": "TikTok",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-engineering-intern-at-medpace-4407323852": {
+"first_seen": "2026-09-30",
+"title": "AI Engineering Intern",
+"company": "Medpace",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/radar-sensing-ai-research-intern-at-bosch-usa-4471206010": {
+"first_seen": "2026-09-30",
+"title": "Radar Sensing AI Research Intern",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/summer-2027-cyber-research-intern-at-peraton-labs-4464100929": {
+"first_seen": "2026-09-30",
+"title": "Summer 2027 Cyber Research Intern  [Summer 2027 ✓]",
+"company": "Peraton Labs",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-intern-at-swingvision-4471576678": {
+"first_seen": "2026-09-30",
+"title": "Machine Learning Intern",
+"company": "SwingVision",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-engineer-intern-summer-2027-at-finastra-4472751384": {
+"first_seen": "2026-09-30",
+"title": "AI Engineer Intern (Summer 2027)  [Summer 2027 ✓]",
+"company": "Finastra",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-native-development-platform-engineer-intern-ms-summer-2027-at-marvell-technology-4471755147": {
+"first_seen": "2026-09-30",
+"title": "AI-Native Development Platform Engineer Intern, MS - Summer 2027  [Summer 2027 ✓]",
+"company": "Marvell Technology",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/software-engineering-intern-ai-labs-at-paylocity-4473038702": {
+"first_seen": "2026-09-30",
+"title": "Software Engineering Intern, AI Labs",
+"company": "Paylocity",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/2027-future-talent-program-ai-ml-computational-toxicology-intern-at-merck-4464418930": {
+"first_seen": "2026-09-30",
+"title": "2027 Future Talent Program - AI/ML Computational Toxicology - Intern",
+"company": "Merck",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/summer-2027-phd-applied-ai-engineering-intern-hardware-ai-at-amd-4471175696": {
+"first_seen": "2026-09-30",
+"title": "Summer 2027 PhD Applied AI Engineering Intern, Hardware AI  [Summer 2027 ✓]",
+"company": "AMD",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4473295071": {
+"first_seen": "2026-09-30",
+"title": "Generative AI Engineer",
+"company": "MeeBoss",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ona-ai-agent-intern-logistics-focus-ovip-at-oracle-4413671138": {
+"first_seen": "2026-09-30",
+"title": "ONA AI Agent Intern (Logistics Focus) - OVIP",
+"company": "Oracle",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/tax-compliance-agent-intern-at-colorado-department-of-revenue-4470182885": {
+"first_seen": "2026-09-30",
+"title": "Tax Compliance Agent Intern",
+"company": "Colorado Department of Revenue",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-research-internship-llm-at-institute-of-foundation-models-4472777549": {
+"first_seen": "2026-09-30",
+"title": "AI Research Internship - LLM",
+"company": "Institute of Foundation Models",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-ai-infra-compute-2027-start-phd-at-bytedance-4448126996": {
+"first_seen": "2026-09-30",
+"title": "Research Intern (AI Infra Compute) - 2027 Start (PhD)",
+"company": "ByteDance",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-recommendation-foundation-2027-start-phd%EF%BC%89-at-tiktok-4452371793": {
+"first_seen": "2026-09-30",
+"title": "Machine Learning Engineer Intern (E-Commerce Recommendation Foundation) - 2027 Start (PhD）",
+"company": "TikTok",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-infrastructure-engineer-intern-algorithm-infrastructure-2027-start-phd-at-tiktok-4447344021": {
+"first_seen": "2026-09-30",
+"title": "AI Infrastructure Engineer Intern (Algorithm Infrastructure) - 2027 Start (PhD)",
+"company": "TikTok",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-and-software-innovation-intern-at-framatome-north-america-4473004546": {
+"first_seen": "2026-09-30",
+"title": "AI and Software Innovation Intern",
+"company": "Framatome North America",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/campus-graduate-masters-summer-internship-program-2027-ai-engineer-enterprise-technology-services-sunrise-fl-at-american-express-4454448234": {
+"first_seen": "2026-09-30",
+"title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL",
+"company": "American Express",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern%E2%80%93-e-commerce-recommendation-llm-applications-global-frontier-tech-recruitment-program-2027-start-phd-at-tiktok-4402356749": {
+"first_seen": "2026-09-30",
+"title": "Research Scientist Intern– E-commerce Recommendation(LLM Applications) - Global Frontier Tech Recruitment Program - 2027 Start (PhD)",
+"company": "TikTok",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-summer-intern-ai-engineer-reston-va-at-icf-4471979125": {
+"first_seen": "2026-09-30",
+"title": "2027 Summer Intern, AI Engineer (Reston, VA)  [Summer 2027 ✓]",
+"company": "ICF",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-intern-ai-compute-2027-start-phd-at-bytedance-4473500546": {
+"first_seen": "2026-09-30",
+"title": "Research Intern (AI Compute) - 2027 Start (PhD)",
+"company": "ByteDance",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/campus-graduate-masters-summer-internship-program-2027-ai-engineer-enterprise-technology-services-atlanta-ga-at-american-express-4454474704": {
+"first_seen": "2026-09-30",
+"title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA",
+"company": "American Express",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/campus-graduate-masters-summer-internship-program-2027-ai-engineer-enterprise-technology-services-new-york-ny-at-american-express-4454457108": {
+"first_seen": "2026-09-30",
+"title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
+"company": "American Express",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-ml-engineer-intern-at-the-cigna-group-4471737661": {
+"first_seen": "2026-09-30",
+"title": "AI/ML Engineer Intern",
+"company": "The Cigna Group",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/2027-data-ai-program-summer-internship-analyst-united-states-at-jpmorganchase-4455131498": {
+"first_seen": "2026-09-30",
+"title": "2027 Data & AI Program - Summer Internship - Analyst - United States",
+"company": "JPMorganChase",
+"geo": "US",
+"tier": "B"
 }
 }
