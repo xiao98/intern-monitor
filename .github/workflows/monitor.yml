@@ -1,0 +1,55 @@
+name: intern-monitor
+
+# 每天在 GitHub Actions 上跑爬虫（替代/兜底 Servitro VPS 的 systemd timer），
+# 把 state.json / latest_hits.json / latest_report.txt / meta.json 提交回仓库，
+# 云端 routine「Intern Monitor Mailer」07:15 UTC 从仓库读 latest_report.txt 发邮件。
+on:
+  schedule:
+    - cron: "17 5 * * *"   # 05:17 UTC，留出 GitHub 排队延迟 + 爬取时长，保证 07:15 UTC 前 push 完
+  workflow_dispatch:
+    inputs:
+      args:
+        description: "monitor.py 额外参数（如 --full 或 --days 30）"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intern-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0          # git_push 里要 pull --no-rebase 合并远端，需要完整历史
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run monitor
+        env:
+          GIT_AUTHOR_NAME: intern-monitor[bot]
+          GIT_AUTHOR_EMAIL: intern-monitor@users.noreply.github.com
+          GIT_COMMITTER_NAME: intern-monitor[bot]
+          GIT_COMMITTER_EMAIL: intern-monitor@users.noreply.github.com
+          # 可选：在仓库 Settings → Secrets 里配 SMTP_USER / SMTP_PASS / MAIL_TO 后脚本会直接发信；
+          # 不配也没关系，邮件由云端 routine 发。
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+        run: python3 monitor.py ${{ github.event.inputs.args }}
+
+      - name: Upload log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monitor-log
+          path: monitor.log
+          if-no-files-found: ignore

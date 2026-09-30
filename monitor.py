@@ -358,6 +358,8 @@ def main():
         if k in bykey: continue
         bykey[k] = 1; hits.setdefault(re.sub(r"[?&]utm_[^&]*", "", c["url"]), c)
     log(f"raw={len(rows)} hits={len(hits)} fails={len(FAILS)}")
+    if not rows:  # 全部源都失败（网络/被封）：别用空报告覆盖仓库里的状态，直接报错退出
+        log("ABORT: every source failed, keeping previous state/report untouched"); sys.exit(1)
 
     state = json.load(open(STATE, encoding="utf-8")) if os.path.exists(STATE) else {}
     today = dt.date.today().isoformat()
@@ -381,7 +383,7 @@ def main():
         nfr = sum(1 for v in new.values() if v["geo"] == "FR"); nus = sum(1 for v in new.values() if v["geo"] == "US")
         subj = f"实习监控 {today} · {'全量' if '--full' in ARGS else '新增'} {len(show)}（FR {nfr} / US {nus}）· 库 {len(hits)}"
         try: send(subj, body)
-        except Exception as e: log(f"SMTP failed ({type(e).__name__}: {e}); report published at {PUB} for the cloud mailer routine")
+        except Exception as e: log(f"SMTP failed ({type(e).__name__}: {e}); report pushed to GitHub for the cloud mailer routine")
 
 def render(show, new, hits, today):
     out = [f"实习监控 {today} · 新增 {len(new)} · 当前在挂命中 {len(hits)} · 显示 {len(show)}", ""]
@@ -404,21 +406,36 @@ def render(show, new, hits, today):
 def git_push(today):
     import subprocess
     if not os.path.isdir(os.path.join(BASE, ".git")): return
+    def run(*args, **kw):
+        return subprocess.run(["git", *args], cwd=BASE, capture_output=True, text=True, timeout=kw.get("timeout", 120))
     try:
-        subprocess.run(["git", "add", "-A"], cwd=BASE, check=True, capture_output=True)
-        subprocess.run(["git", "commit", "-q", "-m", f"report {today}"], cwd=BASE, capture_output=True)  # 无变化时 commit 失败可忽略
+        # GitHub Actions / 新机器上没有 git 身份时 commit 会静默失败，这里兜底
+        if not run("config", "user.email").stdout.strip():
+            run("config", "user.email", os.environ.get("GIT_AUTHOR_EMAIL", "intern-monitor@users.noreply.github.com"))
+            run("config", "user.name", os.environ.get("GIT_AUTHOR_NAME", "intern-monitor"))
+        branch = run("rev-parse", "--abbrev-ref", "HEAD").stdout.strip() or "main"
+        run("add", "-A")
+        r = run("commit", "-q", "-m", f"report {today}")
+        if r.returncode != 0 and "nothing to commit" not in (r.stdout + r.stderr):
+            log(f"git commit failed: {(r.stderr or r.stdout).strip()[:200]}")
         # 先合并远端（本机改代码会先 push 到 GitHub），冲突时以本机数据文件为准，避免 non-fast-forward 拒推
-        subprocess.run(["git", "pull", "-q", "--no-rebase", "-X", "ours", "origin", "main"], cwd=BASE, capture_output=True, timeout=120)
-        r = subprocess.run(["git", "push", "-q"], cwd=BASE, capture_output=True, text=True, timeout=120)
+        r = run("pull", "-q", "--no-rebase", "-X", "ours", "origin", branch)
+        if r.returncode != 0: log(f"git pull failed: {r.stderr.strip()[:200]}")
+        r = run("push", "-q", "origin", f"HEAD:{branch}")
         log("git push ok" if r.returncode == 0 else f"git push failed: {r.stderr.strip()[:200]}")
+        if r.returncode != 0 and os.environ.get("GITHUB_ACTIONS"): sys.exit(1)  # 在 Actions 上让 job 变红，别静默
     except Exception as e:
         log(f"git push exception: {type(e).__name__}: {e}")
+        if os.environ.get("GITHUB_ACTIONS"): sys.exit(1)
 
 def send(subject, body):
-    env = {}
-    for line in open(os.path.join(BASE, "secrets.env"), encoding="utf-8"):
-        if "=" in line and not line.startswith("#"):
-            k, v = line.strip().split("=", 1); env[k] = v
+    env = {k: os.environ[k] for k in ("SMTP_USER", "SMTP_PASS", "MAIL_TO") if os.environ.get(k)}  # GitHub Actions secrets
+    if os.path.exists(os.path.join(BASE, "secrets.env")):
+        for line in open(os.path.join(BASE, "secrets.env"), encoding="utf-8"):
+            if "=" in line and not line.startswith("#"):
+                k, v = line.strip().split("=", 1); env.setdefault(k, v)
+    if not all(env.get(k) for k in ("SMTP_USER", "SMTP_PASS", "MAIL_TO")):
+        log("SMTP not configured (no secrets.env / env vars); mail left to the cloud mailer routine"); return
     msg = MIMEText(body, "plain", "utf-8")
     msg["Subject"] = Header(subject, "utf-8"); msg["From"] = env["SMTP_USER"]; msg["To"] = env["MAIL_TO"]
     with smtplib.SMTP_SSL("smtp.gmail.com", 465, context=ssl.create_default_context(), timeout=30) as s:
