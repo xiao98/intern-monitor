@@ -4310,5 +4310,89 @@
 "company": "HNI Corporation",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-e-ia-et-cybers%C3%A9curit%C3%A9-automobile-h-f-at-emotors-4473885054": {
+"first_seen": "2026-10-04",
+"title": "STAGE – INGÉNIEUR(E) IA ET CYBERSÉCURITÉ AUTOMOBILE H/F",
+"company": "Emotors",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/phd-genai-research-scientist-intern-at-databricks-4297755027": {
+"first_seen": "2026-10-04",
+"title": "PhD GenAI Research Scientist Intern",
+"company": "Databricks",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/intern-research-inflammation-ai-at-gilead-sciences-4463258212": {
+"first_seen": "2026-10-04",
+"title": "Intern - Research - Inflammation - AI",
+"company": "Gilead Sciences",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern-robotics-meta-superintelligence-labs-phd-at-meta-4473151735": {
+"first_seen": "2026-10-04",
+"title": "Research Scientist Intern, Robotics - Meta Superintelligence Labs (PhD)",
+"company": "Meta",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-intern-enterprise-agent-development-at-biospace-4475374111": {
+"first_seen": "2026-10-04",
+"title": "AI Intern, Enterprise Agent Development",
+"company": "BioSpace",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-summer-ai-engineer-intern-at-woodmenlife-4473895622": {
+"first_seen": "2026-10-04",
+"title": "2027 Summer AI Engineer Intern  [Summer 2027 ✓]",
+"company": "WoodmenLife",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/software-engineering-intern-applied-ai-at-envita-solutions-4465894784": {
+"first_seen": "2026-10-04",
+"title": "Software Engineering Intern, Applied AI",
+"company": "Envita Solutions",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/intern-development-cds-ai-research-center-at-gilead-sciences-4463254245": {
+"first_seen": "2026-10-04",
+"title": "Intern - Development - CDS AI Research Center",
+"company": "Gilead Sciences",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-intern-protein-therapeutics-and-computational-biologics-engineering-at-daytoday-health-4473875892": {
+"first_seen": "2026-10-04",
+"title": "Research Intern - Protein Therapeutics and Computational Biologics Engineering",
+"company": "DayToDay Health",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-intern-maia-200-development-at-microsoft-4475321214": {
+"first_seen": "2026-10-04",
+"title": "Research Intern - Maia 200 Development",
+"company": "Microsoft",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/quantitative-research-intern-summer-2027-dv-equities-at-dv-trading-llc-4464889669": {
+"first_seen": "2026-10-04",
+"title": "Quantitative Research Intern - Summer 2027 (DV Equities)  [Summer 2027 ✓]",
+"company": "DV Trading LLC",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-data-engineer-intern-quantumblack-ai-by-mckinsey-at-mckinsey-company-at-uci-oc-alliance-4475369420": {
+"first_seen": "2026-10-04",
+"title": "AI Data Engineer Intern - QuantumBlack, AI by McKinsey at McKinsey & Company",
+"company": "UCI-OC Alliance",
+"geo": "US",
+"tier": "B"
 }
 }
