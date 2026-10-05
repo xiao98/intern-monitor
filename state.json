@@ -4394,5 +4394,103 @@
 "company": "UCI-OC Alliance",
 "geo": "US",
 "tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-industrialisation-de-l-ia-pour-la-formation-f-h-at-thales-4474183515": {
+"first_seen": "2026-10-05",
+"title": "STAGE - Développement et industrialisation de l'IA pour la formation - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235": {
+"first_seen": "2026-10-05",
+"title": "Stage - Développeur(euse) IA Générative (H/F/X) - Janvier 2027",
+"company": "Veepee",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/final-year-internship-data-scientist-ai-consultant-at-sia-4475546138": {
+"first_seen": "2026-10-05",
+"title": "Final year internship - Data Scientist & AI Consultant",
+"company": "Sia",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-etude-sur-l-int%C3%A9gration-de-l-ia-dans-nos-m%C3%A9tiers-de-maintenance-mco-h-f-at-naval-group-4472958017": {
+"first_seen": "2026-10-05",
+"title": "STAGE - Etude sur l'intégration de l'IA dans nos métiers de maintenance (MCO) - H/F",
+"company": "NAVAL GROUP",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-f-h-at-stmicroelectronics-france-4475568679": {
+"first_seen": "2026-10-05",
+"title": "STAGE - Ingénieur développement logiciel IA F/H",
+"company": "STMicroelectronics France",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-calcul-adaptatif-par-intelligence-artificielle-neuromorphique-pour-v%C3%A9hicule-intelligent-at-stellantis-4473626883": {
+"first_seen": "2026-10-05",
+"title": "Stage : Calcul Adaptatif par Intelligence Artificielle Neuromorphique pour Véhicule Intelligent",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-estimation-de-largeurs-de-rivi%C3%A8res-par-approche-ia-spatial-toulouse-at-cs-group-4475557033": {
+"first_seen": "2026-10-05",
+"title": "Stage - Ingénieur(e) R&D : Estimation de largeurs de rivières par approche IA - Spatial - Toulouse",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ml-phd-intern-llms-generative-ai-at-truveta-4341911896": {
+"first_seen": "2026-10-05",
+"title": "ML PhD Intern - LLMs & Generative AI",
+"company": "Truveta",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/phd-machine-learning-internship-2027-usa-at-pinterest-4474374181": {
+"first_seen": "2026-10-05",
+"title": "PhD Machine Learning Internship 2027 (USA)",
+"company": "Pinterest",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-ml-llm-intern-at-the-dedicated-llc-4459472338": {
+"first_seen": "2026-10-05",
+"title": "AI ML LLM Intern",
+"company": "The Dedicated LLC",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ph-d-intern-ai-ml-design-automation-at-marvell-technology-4463928066": {
+"first_seen": "2026-10-05",
+"title": "Ph.D. Intern - AI/ML & Design Automation",
+"company": "Marvell Technology",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern-multimodal-sensing-on-device-perception-global-frontier-tech-recruitment-program-2027-start-phd-at-bytedance-4474564006": {
+"first_seen": "2026-10-05",
+"title": "Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)",
+"company": "ByteDance",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475530047": {
+"first_seen": "2026-10-05",
+"title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+"company": "ByteDance",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-technology-data-ai-ventures-summer-internship-program-ai-engineer-mlops-intern-at-new-york-life-4447568035": {
+"first_seen": "2026-10-05",
+"title": "2027 Technology, Data, AI & Ventures Summer Internship Program - AI Engineer (MLOps) Intern",
+"company": "New York Life",
+"geo": "US",
+"tier": "B"
 }
 }
