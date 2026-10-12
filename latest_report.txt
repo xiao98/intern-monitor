@@ -1,28 +1,46 @@
-实习监控 2026-10-11 · 新增 11 · 当前在挂命中 252 · 显示 11
+实习监控 2026-10-12 · 新增 18 · 当前在挂命中 253 · 显示 18
 
-🇺🇸 USA  (11)
-[B] Bitdeer (NASDAQ: BTDR) — Research Scientist-Model Efficiency (Intern)  (Austin, TX · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-scientist-model-efficiency-intern-at-bitdeer-nasdaq-btdr-4448421222
-[B] ByteDance — Research Intern (AI Infra Compute) - 2027 Start (PhD)  (San Jose, CA · 发布 2026-10-05 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-ai-infra-compute-2027-start-phd-at-bytedance-4475521334
-[B] CHEManager International — Applied Scientist Intern, PhD (Summer 2027) [Summer 2027 ✓]  (San Francisco, CA · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/applied-scientist-intern-phd-summer-2027-at-chemanager-international-4477236009
-[B] Elanco — US Pet Health Sales Excellence Intern - AI Innovation & Enablement (Summer 2027) [Summer 2027 ✓]  (Indianapolis, IN · 发布 2026-10-09 · [linkedin])
-    https://www.linkedin.com/jobs/view/us-pet-health-sales-excellence-intern-ai-innovation-enablement-summer-2027-at-elanco-4475235622
-[B] Lennox — AI Engineering Intern Summer 2027 [Summer 2027 ✓]  (Richardson, TX · 发布 2026-10-09 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-engineering-intern-summer-2027-at-lennox-4468835425
-[B] Meta — Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)  (Redmond, WA · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-scientist-intern-audio-machine-learning-and-computer-vision-phd-at-meta-4475615293
-[B] Microsoft — Research Intern - Document Intelligence and Content Understanding  (Redmond, WA · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-document-intelligence-and-content-understanding-at-microsoft-4478060057
-[B] SEPHORA — Intern, AI/ML Engineering  (San Francisco, CA · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/intern-ai-ml-engineering-at-sephora-4478041742
-[B] SEPHORA — Intern, Applied AI & Automation  (San Francisco, CA · 发布 2026-10-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/intern-applied-ai-automation-at-sephora-4478043633
-[B] Time Seventeen — AI Engineering Intern  (San Francisco, CA · 发布 2026-10-11 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-engineering-intern-at-time-seventeen-4477254540
-[B] Time Seventeen — AI Research Intern  (San Francisco, CA · 发布 2026-10-09 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-research-intern-at-time-seventeen-4476282352
+🇫🇷 FRANCE  (15)
+[A] Alphalyr ✨ — Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité  (Greater Paris Metropolitan Region · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4478389594
+[A] Capital Fund Management (CFM) — Internship - Agentic Data Quality & News-Driven Outlier Detection  (Paris, Île-de-France, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/internship-agentic-data-quality-news-driven-outlier-detection-at-capital-fund-management-cfm-4476008229
+[A] doctolib — IA Engineer Intern (x/f/m) - Nantes  (Nantes · 发布 2026-10-12 · [ashby])
+    起始线索: …- Start date: March 2027…
+    https://jobs.ashbyhq.com/doctolib/170c2710-df1d-4630-8451-9433e959f4eb
+[A] doctolib — IA Engineer Intern (x/f/m) - Paris  (Paris, Remote · 发布 2026-10-12 · [ashby])
+    起始线索: …- Start date: March 2027…
+    https://jobs.ashbyhq.com/doctolib/4588a32b-f865-48ec-a2b3-2c89d735c7cb
+[A] Orange — Stage Etude à la mise en ouvre d'un 'agentic network' F/H  (Châtillon, Île-de-France, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-etude-%C3%A0-la-mise-en-ouvre-d-un-agentic-network-f-h-at-orange-4477506658
+[B] Alstom — Stage - 6 mois - Ingénierie et développement prototype IA F/H  (Île-de-France, France · 发布 2026-10-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-6-mois-ing%C3%A9nierie-et-d%C3%A9veloppement-prototype-ia-f-h-at-alstom-4475252482
+[B] Caisse d'Epargne Bourgogne Franche-Comté (CEBFC) — Stage Transformation Digitale Data IA - Dijon (21)  (Dijon, Bourgogne-Franche-Comté, France · 发布 2026-10-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-transformation-digitale-data-ia-dijon-21-at-caisse-d-epargne-bourgogne-franche-comt%C3%A9-cebfc-4475618438
+[B] Edvance — Stage - Ingénieur Data Science et Intelligence Artificielle F/H  (Montrouge, Île-de-France, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-et-intelligence-artificielle-f-h-at-edvance-4477519541
+[B] Market Pay — [STAGE Bac+4/5] Développement Mobile & Back-End – IA & Sécurité – Paytech (H/F)  (Hérouville-St-Clair, Normandy, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-bac%2B4-5-d%C3%A9veloppement-mobile-back-end-%E2%80%93-ia-s%C3%A9curit%C3%A9-%E2%80%93-paytech-h-f-at-market-pay-4477299995
+[B] MOSS — STAGE - Ingénieur(e) IA &amp; Cybersécurité - Classification de Documents F/H  (Issy-les-Moulineaux, Île-de-France, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-amp-cybers%C3%A9curit%C3%A9-classification-de-documents-f-h-at-moss-4477501708
+[B] Orange — Stage Quantification d'incertitude et IA explicable pour fiabilité F/H  (Lannion, Brittany, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-quantification-d-incertitude-et-ia-explicable-pour-fiabilit%C3%A9-f-h-at-orange-4477522232
+[B] STATION F — AI ENGINEER - STAGE - JANVIER 2027  (Paris, Île-de-France, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-engineer-stage-janvier-2027-at-station-f-4477578171
+[B] Thales — STAGE - Ingénieur en Intelligence Artificielle Forensic F/H  (Rennes, Brittany, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-intelligence-artificielle-forensic-f-h-at-thales-4478506902
+[C] Groupe SII — STAGE - Ingénieur(e) R&D Gestion des IA génératives (Trust IA) (F/H)  (Toulouse, Occitanie, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-gestion-des-ia-g%C3%A9n%C3%A9ratives-trust-ia-f-h-at-groupe-sii-4478512212
+[C] Groupe SII — STAGE - Ingénieur(e) R&D Recherche GNN en planification (F/H)  (Toulouse, Occitanie, France · 发布 2026-10-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-recherche-gnn-en-planification-f-h-at-groupe-sii-4478518020
+
+🇺🇸 USA  (3)
+[A] TikTok USDS Joint Venture — AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer [Summer 2027 ✓]  (San Jose, CA · 发布 2026-10-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466940465
+[B] Bosch USA — Robotics Research Intern  (Sunnyvale, CA · 发布 2026-10-12 · [linkedin])
+    https://www.linkedin.com/jobs/view/robotics-research-intern-at-bosch-usa-4475687108
+[B] Tallgrass — Intern-AI and Data Solutions  (Lakewood, CO · 发布 2026-10-12 · [linkedin])
+    https://www.linkedin.com/jobs/view/intern-ai-and-data-solutions-at-tallgrass-4477532092
 
 说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

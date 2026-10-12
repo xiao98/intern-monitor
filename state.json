@@ -6186,5 +6186,131 @@
 "company": "Lennox",
 "geo": "US",
 "tier": "B"
+},
+"https://jobs.ashbyhq.com/doctolib/4588a32b-f865-48ec-a2b3-2c89d735c7cb": {
+"first_seen": "2026-10-12",
+"title": "IA Engineer Intern (x/f/m) - Paris",
+"company": "doctolib",
+"geo": "FR",
+"tier": "A"
+},
+"https://jobs.ashbyhq.com/doctolib/170c2710-df1d-4630-8451-9433e959f4eb": {
+"first_seen": "2026-10-12",
+"title": "IA Engineer Intern (x/f/m) - Nantes",
+"company": "doctolib",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-stage-janvier-2027-at-station-f-4477578171": {
+"first_seen": "2026-10-12",
+"title": "AI ENGINEER - STAGE - JANVIER 2027",
+"company": "STATION F",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/internship-agentic-data-quality-news-driven-outlier-detection-at-capital-fund-management-cfm-4476008229": {
+"first_seen": "2026-10-12",
+"title": "Internship - Agentic Data Quality & News-Driven Outlier Detection",
+"company": "Capital Fund Management (CFM)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-et-intelligence-artificielle-f-h-at-edvance-4477519541": {
+"first_seen": "2026-10-12",
+"title": "Stage - Ingénieur Data Science et Intelligence Artificielle F/H",
+"company": "Edvance",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-gestion-des-ia-g%C3%A9n%C3%A9ratives-trust-ia-f-h-at-groupe-sii-4478512212": {
+"first_seen": "2026-10-12",
+"title": "STAGE - Ingénieur(e) R&D Gestion des IA génératives (Trust IA) (F/H)",
+"company": "Groupe SII",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4478389594": {
+"first_seen": "2026-10-12",
+"title": "Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité",
+"company": "Alphalyr ✨",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-transformation-digitale-data-ia-dijon-21-at-caisse-d-epargne-bourgogne-franche-comt%C3%A9-cebfc-4475618438": {
+"first_seen": "2026-10-12",
+"title": "Stage Transformation Digitale Data IA - Dijon (21)",
+"company": "Caisse d'Epargne Bourgogne Franche-Comté (CEBFC)",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-intelligence-artificielle-forensic-f-h-at-thales-4478506902": {
+"first_seen": "2026-10-12",
+"title": "STAGE - Ingénieur en Intelligence Artificielle Forensic F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-6-mois-ing%C3%A9nierie-et-d%C3%A9veloppement-prototype-ia-f-h-at-alstom-4475252482": {
+"first_seen": "2026-10-12",
+"title": "Stage - 6 mois - Ingénierie et développement prototype IA F/H",
+"company": "Alstom",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-recherche-gnn-en-planification-f-h-at-groupe-sii-4478518020": {
+"first_seen": "2026-10-12",
+"title": "STAGE - Ingénieur(e) R&D Recherche GNN en planification (F/H)",
+"company": "Groupe SII",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-etude-%C3%A0-la-mise-en-ouvre-d-un-agentic-network-f-h-at-orange-4477506658": {
+"first_seen": "2026-10-12",
+"title": "Stage Etude à la mise en ouvre d'un 'agentic network' F/H",
+"company": "Orange",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-amp-cybers%C3%A9curit%C3%A9-classification-de-documents-f-h-at-moss-4477501708": {
+"first_seen": "2026-10-12",
+"title": "STAGE - Ingénieur(e) IA &amp; Cybersécurité - Classification de Documents F/H",
+"company": "MOSS",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-quantification-d-incertitude-et-ia-explicable-pour-fiabilit%C3%A9-f-h-at-orange-4477522232": {
+"first_seen": "2026-10-12",
+"title": "Stage Quantification d'incertitude et IA explicable pour fiabilité F/H",
+"company": "Orange",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-bac%2B4-5-d%C3%A9veloppement-mobile-back-end-%E2%80%93-ia-s%C3%A9curit%C3%A9-%E2%80%93-paytech-h-f-at-market-pay-4477299995": {
+"first_seen": "2026-10-12",
+"title": "[STAGE Bac+4/5] Développement Mobile & Back-End – IA & Sécurité – Paytech (H/F)",
+"company": "Market Pay",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/robotics-research-intern-at-bosch-usa-4475687108": {
+"first_seen": "2026-10-12",
+"title": "Robotics Research Intern",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466940465": {
+"first_seen": "2026-10-12",
+"title": "AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer  [Summer 2027 ✓]",
+"company": "TikTok USDS Joint Venture",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/intern-ai-and-data-solutions-at-tallgrass-4477532092": {
+"first_seen": "2026-10-12",
+"title": "Intern-AI and Data Solutions",
+"company": "Tallgrass",
+"geo": "US",
+"tier": "B"
 }
 }
