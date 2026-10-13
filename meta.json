@@ -1,9 +1,10 @@
 {
- "generated_at": "2026-10-12T13:17:39+00:00",
- "raw": 10545,
- "hits": 253,
- "new": 18,
+ "generated_at": "2026-10-13T12:54:24+00:00",
+ "raw": 10516,
+ "hits": 235,
+ "new": 38,
  "fails": [
-  "ashby/alpic:404"
+  "ashby/alpic:404",
+  "linkedin:429"
  ]
 }
