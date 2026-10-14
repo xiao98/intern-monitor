@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-13T12:54:24+00:00",
- "raw": 10516,
- "hits": 235,
- "new": 38,
+ "generated_at": "2026-10-14T10:27:22+00:00",
+ "raw": 10535,
+ "hits": 248,
+ "new": 58,
  "fails": [
   "ashby/alpic:404",
   "linkedin:429"
