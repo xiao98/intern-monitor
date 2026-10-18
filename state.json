@@ -7698,5 +7698,117 @@
 "company": "Applied Technical Services, LLC",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.apple.com/en-us/details/200689695": {
+"first_seen": "2026-10-18",
+"title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+"company": "Apple",
+"geo": "?",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-stage-janvier-2027-at-station-f-4479903397": {
+"first_seen": "2026-10-18",
+"title": "AI ENGINEER - STAGE - JANVIER 2027",
+"company": "STATION F",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-transformation-ia-conformit%C3%A9-h-f-at-cr%C3%A9dit-agricole-4479830061": {
+"first_seen": "2026-10-18",
+"title": "Stagiaire transformation IA Conformité H/F",
+"company": "Crédit Agricole",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/product-marketing-intern-ai-voice-agent-at-aircall-4470990787": {
+"first_seen": "2026-10-18",
+"title": "Product Marketing Intern, AI Voice Agent",
+"company": "Aircall",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/consultant-e-data-strategy-ia-stage-de-fin-d-%C3%A9tudes-at-saegus-4478844808": {
+"first_seen": "2026-10-18",
+"title": "Consultant.e Data strategy & IA - Stage de fin d'études",
+"company": "Saegus",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4477782547": {
+"first_seen": "2026-10-18",
+"title": "STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)",
+"company": "Top Agent",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-bac%2B5-ia-et-machine-learning-h-f-at-cea-4478110315": {
+"first_seen": "2026-10-18",
+"title": "Stage Bac+5 - IA et Machine Learning H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-sept-2026-station-f-at-station-f-4478102489": {
+"first_seen": "2026-10-18",
+"title": "STAGE APPLIED IA ENGINEER - SEPT 2026 - STATION F",
+"company": "STATION F",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-jan-2027-station-f-at-station-f-4477996799": {
+"first_seen": "2026-10-18",
+"title": "STAGE APPLIED IA ENGINEER - JAN 2027 - STATION F",
+"company": "STATION F",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-applications-spatiales-h-f-at-atos-4477387383": {
+"first_seen": "2026-10-18",
+"title": "STAGE - Ingénieur IA Agentique et Applications Spatiales H/F",
+"company": "Atos",
+"geo": "FR",
+"tier": "C"
+},
+"https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4480870697": {
+"first_seen": "2026-10-18",
+"title": "AI Research Intern – Predictive World Model",
+"company": "XPENG",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-scientist-intern-egocentric-vision-language-models-phd-at-meta-4476645643": {
+"first_seen": "2026-10-18",
+"title": "Research Scientist Intern, Egocentric Vision-Language Models (PhD)",
+"company": "Meta",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-foundations-research-scientist-research-internship-2027-at-ibm-4460764324": {
+"first_seen": "2026-10-18",
+"title": "AI Foundations - Research Scientist - Research Internship - 2027",
+"company": "IBM",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/forward-deployed-ai-scientist-internship-campus-united-states-bcg-x-at-bcg-x-4478176470": {
+"first_seen": "2026-10-18",
+"title": "Forward Deployed AI Scientist, Internship, Campus, United States - BCG X",
+"company": "BCG X",
+"geo": "US",
+"tier": "C"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-engineer-i-intern-%E2%80%93-united-states-at-cisco-4471612707": {
+"first_seen": "2026-10-18",
+"title": "Machine Learning Engineer I (Intern) – United States",
+"company": "Cisco",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-supply-chain-logistics-llm-agent-2027-summer-at-tiktok-4478824902": {
+"first_seen": "2026-10-18",
+"title": "Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer  [Summer 2027 ✓]",
+"company": "TikTok",
+"geo": "US",
+"tier": "A"
 }
 }

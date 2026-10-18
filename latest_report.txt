@@ -1,71 +1,43 @@
-实习监控 2026-10-17 · 新增 31 · 当前在挂命中 250 · 显示 31
+实习监控 2026-10-18 · 新增 16 · 当前在挂命中 260 · 显示 16
 
-🇫🇷 FRANCE  (14)
-[A] Dassault Systèmes — STAGE - Développement d'applications & Agents IA (F/H)  (Paris, Île-de-France, France · 发布 2026-10-14 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-applications-agents-ia-f-h-at-dassault-syst%C3%A8mes-4479501746
-[A] Equancy | Groupe EDG — Stage Développeur Full Stack – IA Générative (React / Python) – Paris/IDF – 1 500 € | M2 - 6 mois  (Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-full-stack-%E2%80%93-ia-g%C3%A9n%C3%A9rative-react-python-%E2%80%93-paris-idf-%E2%80%93-1-500-%E2%82%AC-m2-6-mois-at-equancy-%C2%A0groupe-edg-4480373036
-[A] MBDA — Stage Traitements d'Images : Apprentissage profond pour la détection et reconnaissance de cibles F/H  (Le Plessis-Robinson, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-traitements-d-images-apprentissage-profond-pour-la-d%C3%A9tection-et-reconnaissance-de-cibles-f-h-at-mbda-4472030162
-[A] Thales — STAGE - Ingénieur Développement d'Agents IA – F/H  (Cholet, Pays de la Loire, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-d-agents-ia-%E2%80%93-f-h-at-thales-4480354961
-[B] CEA — Stage de fin d'étude en Modélisation et IA pour le monitoring ultrasonore-Saclay-H/F  (Saclay, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tude-en-mod%C3%A9lisation-et-ia-pour-le-monitoring-ultrasonore-saclay-h-f-at-cea-4479366852
-[B] Dassault Systèmes — STAGE - Ingénieur IA - Experience Core (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-14 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-experience-core-f-h-at-dassault-syst%C3%A8mes-4479297892
-[B] Dassault Systèmes — STAGE – Ingénieur·e R&D en IA agentique (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur%C2%B7e-r-d-en-ia-agentique-f-h-at-dassault-syst%C3%A8mes-4480535303
-[B] Mirakl — AI research intern - H1 2027  (Paris, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-research-intern-h1-2027-at-mirakl-4477702528
-[B] Nobori Partners — Stage - Software Engineer & IA  (Paris, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-software-engineer-ia-at-nobori-partners-4479623491
-[B] Saipem — STAGE INGENIEUR(E)/ANALYSTE OPEN INNOVATION & IA – SOURCING TECHNOLOGIQUE F/H_28 INN_stg  (Puteaux, Île-de-France, France · 发布 2026-10-12 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ingenieur-e-analyste-open-innovation-ia-%E2%80%93-sourcing-technologique-f-h-28-inn-stg-at-saipem-4478549515
-[B] Thales — STAGE - Optimisation par IA du placement de nœuds ou drones relais - F/H  (Gennevilliers, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-optimisation-par-ia-du-placement-de-n%C5%93uds-ou-drones-relais-f-h-at-thales-4480371248
-[C] Atos — STAGE - Développeur IA Souveraine H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-ia-souveraine-h-f-at-atos-4477382643
-[C] Groupe SII — STAGE/Ingénieur R&D Gestion IA génératives (F/H)  (Toulouse, Occitanie, France · 发布 2026-10-15 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-r-d-gestion-ia-g%C3%A9n%C3%A9ratives-f-h-at-groupe-sii-4479884457
-[C] Wavestone — Comment créer de la valeur avec l'IA au sein du SI ? (Stage de fin d'études)  (Paris, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/comment-cr%C3%A9er-de-la-valeur-avec-l-ia-au-sein-du-si-%3F-stage-de-fin-d-%C3%A9tudes-at-wavestone-4477706281
+🇫🇷 FRANCE  (9)
+[A] Aircall — Product Marketing Intern, AI Voice Agent  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/product-marketing-intern-ai-voice-agent-at-aircall-4470990787
+[A] Top Agent — STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)  (St-Étienne, Auvergne-Rhône-Alpes, France · 发布 2026-10-17 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4477782547
+[B] CEA — Stage Bac+5 - IA et Machine Learning H/F  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-10-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-bac%2B5-ia-et-machine-learning-h-f-at-cea-4478110315
+[B] Crédit Agricole — Stagiaire transformation IA Conformité H/F  (Montrouge, Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-transformation-ia-conformit%C3%A9-h-f-at-cr%C3%A9dit-agricole-4479830061
+[B] Saegus — Consultant.e Data strategy & IA - Stage de fin d'études  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/consultant-e-data-strategy-ia-stage-de-fin-d-%C3%A9tudes-at-saegus-4478844808
+[B] STATION F — AI ENGINEER - STAGE - JANVIER 2027  (Paris, Île-de-France, France · 发布 2026-10-18 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-engineer-stage-janvier-2027-at-station-f-4479903397
+[B] STATION F — STAGE APPLIED IA ENGINEER - JAN 2027 - STATION F  (Paris, Île-de-France, France · 发布 2026-10-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-jan-2027-station-f-at-station-f-4477996799
+[B] STATION F — STAGE APPLIED IA ENGINEER - SEPT 2026 - STATION F  (Paris, Île-de-France, France · 发布 2026-10-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-sept-2026-station-f-at-station-f-4478102489
+[C] Atos — STAGE - Ingénieur IA Agentique et Applications Spatiales H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-applications-spatiales-h-f-at-atos-4477387383
 
-🇺🇸 USA  (17)
-[A] Applied Technical Services, LLC — Spring Internship - Agentic AI Developer  (Atlanta Metropolitan Area · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/spring-internship-agentic-ai-developer-at-applied-technical-services-llc-4478486782
-[A] Meta — Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)  (Redmond, WA · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-scientist-intern-multimodal-generative-ai-and-robotics-phd-at-meta-4476638927
-[A] Microsoft — Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)  (Redmond, WA · 发布 2026-10-15 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-interactive-multimodal-futures-group-situated-social-ubiquitous-computing-at-microsoft-4479822729
-[A] togetherai — Research Intern, Frontier Speculative Decoding (Summer 2027) [Summer 2027 ✓]  (San Francisco, San Francisco · 发布 2026-10-16 · [greenhouse])
-    https://job-boards.greenhouse.io/togetherai/jobs/5267198007
-[B] BAE Systems, Inc. — Research Engineering Intern III, Summer 2027 (Onsite) [Summer 2027 ✓]  (Merrimack, NH · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-engineering-intern-iii-summer-2027-onsite-at-bae-systems-inc-4477722213
-[B] BAE Systems, Inc. — Research Engineering Intern IV, Summer 2027 (Onsite) [Summer 2027 ✓]  (Merrimack, NH · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-engineering-intern-iv-summer-2027-onsite-at-bae-systems-inc-4477725099
-[B] Bird Rock Systems — AI Developer Intern  (San Diego, CA · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-developer-intern-at-bird-rock-systems-4479637178
-[B] CNH — AI and Process Automation Intern  (New Holland, PA · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-and-process-automation-intern-at-cnh-4462021985
-[B] Elire — Summer 2027 AI Full Stack Developer Consulting Intern [Summer 2027 ✓]  (Minneapolis, MN · 发布 2026-10-17 · [linkedin])
-    https://www.linkedin.com/jobs/view/summer-2027-ai-full-stack-developer-consulting-intern-at-elire-4480822277
-[B] General Motors — 2027 Summer Intern, Onboard Autonomy, Embodied AI (Masters) [Summer 2027 ✓]  (Sunnyvale, CA · 发布 2026-10-15 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-summer-intern-onboard-autonomy-embodied-ai-masters-at-general-motors-4480164412
-[B] Gilead Sciences — Intern - Research - Drug Metabolism - AI  (San Francisco Bay Area · 发布 2026-10-17 · [linkedin])
-    https://www.linkedin.com/jobs/view/intern-research-drug-metabolism-ai-at-gilead-sciences-4470719464
-[B] IBM — AI Foundations - Research Scientist - Research Internship - 2027  (Cambridge, MA · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-foundations-research-scientist-research-internship-2027-at-ibm-4460762327
-[B] JMP — JMP 2027 Summer Internship: Machine Learning/ C++/AI (Master's/PhD) [Summer 2027 ✓]  (Cary, NC · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/jmp-2027-summer-internship-machine-learning-c%2B%2B-ai-master-s-phd-at-jmp-4480512300
-[B] KLA — Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)  (Milpitas, CA · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/algorithm-engineering-intern-ai-computer-vision-software-engineering-at-kla-4469305037
-[B] Microsoft — Research Intern - Efficient AI Software Systems  (Redmond, WA · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-efficient-ai-software-systems-at-microsoft-4480367581
-[B] Thomson Reuters — Applied Scientist Intern  (San Francisco, CA · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/applied-scientist-intern-at-thomson-reuters-4461919066
-[C] BCG X — Forward Deployed AI Scientist, Internship, Campus, United States - BCG X  (Los Angeles, CA · 发布 2026-10-13 · [linkedin])
-    https://www.linkedin.com/jobs/view/forward-deployed-ai-scientist-internship-campus-united-states-bcg-x-at-bcg-x-4478185135
+🇺🇸 USA  (6)
+[A] Meta — Research Scientist Intern, Egocentric Vision-Language Models (PhD)  (Sunnyvale, CA · 发布 2026-10-14 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-scientist-intern-egocentric-vision-language-models-phd-at-meta-4476645643
+[A] TikTok — Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer [Summer 2027 ✓]  (Seattle, WA · 发布 2026-10-15 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-supply-chain-logistics-llm-agent-2027-summer-at-tiktok-4478824902
+[A] XPENG — AI Research Intern – Predictive World Model  (Santa Clara, CA · 发布 2026-10-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4480870697
+[B] Cisco — Machine Learning Engineer I (Intern) – United States  (San Jose, CA · 发布 2026-10-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-engineer-i-intern-%E2%80%93-united-states-at-cisco-4471612707
+[B] IBM — AI Foundations - Research Scientist - Research Internship - 2027  (San Jose, CA · 发布 2026-10-17 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-foundations-research-scientist-research-internship-2027-at-ibm-4460764324
+[C] BCG X — Forward Deployed AI Scientist, Internship, Campus, United States - BCG X  (Chicago, IL · 发布 2026-10-13 · [linkedin])
+    https://www.linkedin.com/jobs/view/forward-deployed-ai-scientist-internship-campus-united-states-bcg-x-at-bcg-x-4478176470
+
+🌐 Google/Apple（法国+美国合并查询，点开看地点）  (1)
+[A] Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR  ([apple])
+    https://jobs.apple.com/en-us/details/200689695
 
 说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: ashby/alpic:404, linkedin:429
+失败源: ashby/alpic:404
