@@ -7810,5 +7810,124 @@
 "company": "TikTok",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/backmarket/ae0b69b8-4051-4a31-a11f-f624be54b4e8": {
+"first_seen": "2026-10-19",
+"title": "AI Content & Knowledge Manager Intern",
+"company": "backmarket",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-innovation-commerciale-h-f-at-atos-4478252536": {
+"first_seen": "2026-10-19",
+"title": "Stage IA Générative & Innovation Commerciale H/F",
+"company": "Atos",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-intelligence-artificielle-f-h-at-devoteam-4479980073": {
+"first_seen": "2026-10-19",
+"title": "Stage - Ingénieur(e) R&D Intelligence Artificielle (F/H)",
+"company": "Devoteam",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-data-et-ia-pour-la-surveillance-de-l-espace-at-arianegroup-4479950463": {
+"first_seen": "2026-10-19",
+"title": "STAGE - Ingénieure / Ingénieur développement logiciel DATA et IA pour la surveillance de l'espace",
+"company": "ArianeGroup",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-e-data-ia-marseille-at-wavestone-4478278040": {
+"first_seen": "2026-10-19",
+"title": "Stage de fin d'études - Consultant.e Data/IA - Marseille",
+"company": "Wavestone",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-et-intelligence-artificielle-f-h-at-edf-4480932441": {
+"first_seen": "2026-10-19",
+"title": "STAGE - Data et intelligence artificielle F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-assistant-ia-pour-la-qualification-et-l-investigation-des-anomalies-h-f-at-atos-4477374874": {
+"first_seen": "2026-10-19",
+"title": "STAGE - Assistant IA pour la qualification et l'investigation des anomalies H/F",
+"company": "Atos",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-science-et-ia-appliqu%C3%A9es-%C3%A0-la-r-d-h-f-at-chanel-4479364840": {
+"first_seen": "2026-10-19",
+"title": "STAGE - DATA SCIENCE ET IA APPLIQUÉES À LA R&D H/F",
+"company": "CHANEL",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-analyst-ia-et-donn%C3%A9es-d-observation-de-la-terre-h-f-at-atos-4477371957": {
+"first_seen": "2026-10-19",
+"title": "STAGE - Data Analyst, IA et données d'observation de la Terre H/F",
+"company": "Atos",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-en-intelligence-artificielle-digitalisation-de-la-maintenance-at-arianegroup-4479953379": {
+"first_seen": "2026-10-19",
+"title": "STAGE - Ingénieure / Ingénieur en Intelligence Artificielle & Digitalisation de la Maintenance",
+"company": "ArianeGroup",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-se-outils-ia-data-h-f-at-dokhan-luxury-hotels-4479150757": {
+"first_seen": "2026-10-19",
+"title": "Développeur(se) Outils IA & Data (H/F)",
+"company": "Dokhan Luxury Hotels",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-intern-scene-understanding-and-planning-at-didi-4480923428": {
+"first_seen": "2026-10-19",
+"title": "Research Intern, Scene Understanding and Planning",
+"company": "DiDi",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-recommendation-video-2027-summer-at-tiktok-4478839316": {
+"first_seen": "2026-10-19",
+"title": "Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer  [Summer 2027 ✓]",
+"company": "TikTok",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/staff-research-scientist-intern-phd-foundational-ai-at-chemanager-international-4479933668": {
+"first_seen": "2026-10-19",
+"title": "Staff Research Scientist, Intern - PhD Foundational AI",
+"company": "CHEManager International",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/data-ai-engineering-intern-master-s-level-summer-2027-at-electronic-arts-ea-4476051447": {
+"first_seen": "2026-10-19",
+"title": "Data & AI Engineering Intern (Master's Level) - Summer 2027  [Summer 2027 ✓]",
+"company": "Electronic Arts (EA)",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/hr-ai-automation-internship-summer-2027-at-battelle-4476121455": {
+"first_seen": "2026-10-19",
+"title": "HR AI Automation Internship (Summer 2027)  [Summer 2027 ✓]",
+"company": "Battelle",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/cloud-acceleration-research-intern-dpu-ai-infra-2027-start-phd-at-bytedance-4480907623": {
+"first_seen": "2026-10-19",
+"title": "Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)",
+"company": "ByteDance",
+"geo": "US",
+"tier": "B"
 }
 }

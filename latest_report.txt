@@ -1,42 +1,43 @@
-实习监控 2026-10-18 · 新增 16 · 当前在挂命中 260 · 显示 16
+实习监控 2026-10-19 · 新增 17 · 当前在挂命中 264 · 显示 17
 
-🇫🇷 FRANCE  (9)
-[A] Aircall — Product Marketing Intern, AI Voice Agent  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
-    https://fr.linkedin.com/jobs/view/product-marketing-intern-ai-voice-agent-at-aircall-4470990787
-[A] Top Agent — STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)  (St-Étienne, Auvergne-Rhône-Alpes, France · 发布 2026-10-17 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4477782547
-[B] CEA — Stage Bac+5 - IA et Machine Learning H/F  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-10-13 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-bac%2B5-ia-et-machine-learning-h-f-at-cea-4478110315
-[B] Crédit Agricole — Stagiaire transformation IA Conformité H/F  (Montrouge, Île-de-France, France · 发布 2026-10-15 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-transformation-ia-conformit%C3%A9-h-f-at-cr%C3%A9dit-agricole-4479830061
-[B] Saegus — Consultant.e Data strategy & IA - Stage de fin d'études  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
-    https://fr.linkedin.com/jobs/view/consultant-e-data-strategy-ia-stage-de-fin-d-%C3%A9tudes-at-saegus-4478844808
-[B] STATION F — AI ENGINEER - STAGE - JANVIER 2027  (Paris, Île-de-France, France · 发布 2026-10-18 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-engineer-stage-janvier-2027-at-station-f-4479903397
-[B] STATION F — STAGE APPLIED IA ENGINEER - JAN 2027 - STATION F  (Paris, Île-de-France, France · 发布 2026-10-13 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-jan-2027-station-f-at-station-f-4477996799
-[B] STATION F — STAGE APPLIED IA ENGINEER - SEPT 2026 - STATION F  (Paris, Île-de-France, France · 发布 2026-10-13 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-applied-ia-engineer-sept-2026-station-f-at-station-f-4478102489
-[C] Atos — STAGE - Ingénieur IA Agentique et Applications Spatiales H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-applications-spatiales-h-f-at-atos-4477387383
+🇫🇷 FRANCE  (11)
+[A] backmarket — AI Content & Knowledge Manager Intern  (Bordeaux · 发布 2026-10-19 · [ashby])
+    起始线索: …- Start date: January 2027…
+    https://jobs.ashbyhq.com/backmarket/ae0b69b8-4051-4a31-a11f-f624be54b4e8
+[B] ArianeGroup — STAGE - Ingénieure / Ingénieur développement logiciel DATA et IA pour la surveillance de l'espace  (Les Mureaux, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-data-et-ia-pour-la-surveillance-de-l-espace-at-arianegroup-4479950463
+[B] ArianeGroup — STAGE - Ingénieure / Ingénieur en Intelligence Artificielle & Digitalisation de la Maintenance  (Le Haillan, Nouvelle-Aquitaine, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-en-intelligence-artificielle-digitalisation-de-la-maintenance-at-arianegroup-4479953379
+[B] CHANEL — STAGE - DATA SCIENCE ET IA APPLIQUÉES À LA R&D H/F  (Pantin, Île-de-France, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-science-et-ia-appliqu%C3%A9es-%C3%A0-la-r-d-h-f-at-chanel-4479364840
+[B] Dokhan Luxury Hotels — Développeur(se) Outils IA & Data (H/F)  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-se-outils-ia-data-h-f-at-dokhan-luxury-hotels-4479150757
+[B] EDF — STAGE - Data et intelligence artificielle F/H  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-et-intelligence-artificielle-f-h-at-edf-4480932441
+[C] Atos — STAGE - Assistant IA pour la qualification et l'investigation des anomalies H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-assistant-ia-pour-la-qualification-et-l-investigation-des-anomalies-h-f-at-atos-4477374874
+[C] Atos — STAGE - Data Analyst, IA et données d'observation de la Terre H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-analyst-ia-et-donn%C3%A9es-d-observation-de-la-terre-h-f-at-atos-4477371957
+[C] Atos — Stage IA Générative & Innovation Commerciale H/F  (Bezons, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-innovation-commerciale-h-f-at-atos-4478252536
+[C] Devoteam — Stage - Ingénieur(e) R&D Intelligence Artificielle (F/H)  (Levallois-Perret, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-intelligence-artificielle-f-h-at-devoteam-4479980073
+[C] Wavestone — Stage de fin d'études - Consultant.e Data/IA - Marseille  (Marseille, Provence-Alpes-Côte d'Azur, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-e-data-ia-marseille-at-wavestone-4478278040
 
 🇺🇸 USA  (6)
-[A] Meta — Research Scientist Intern, Egocentric Vision-Language Models (PhD)  (Sunnyvale, CA · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-scientist-intern-egocentric-vision-language-models-phd-at-meta-4476645643
-[A] TikTok — Machine Learning Engineer Intern (E-Commerce Supply Chain & Logistics-LLM / Agent )- 2027 Summer [Summer 2027 ✓]  (Seattle, WA · 发布 2026-10-15 · [linkedin])
-    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-supply-chain-logistics-llm-agent-2027-summer-at-tiktok-4478824902
-[A] XPENG — AI Research Intern – Predictive World Model  (Santa Clara, CA · 发布 2026-10-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4480870697
-[B] Cisco — Machine Learning Engineer I (Intern) – United States  (San Jose, CA · 发布 2026-10-16 · [linkedin])
-    https://www.linkedin.com/jobs/view/machine-learning-engineer-i-intern-%E2%80%93-united-states-at-cisco-4471612707
-[B] IBM — AI Foundations - Research Scientist - Research Internship - 2027  (San Jose, CA · 发布 2026-10-17 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-foundations-research-scientist-research-internship-2027-at-ibm-4460764324
-[C] BCG X — Forward Deployed AI Scientist, Internship, Campus, United States - BCG X  (Chicago, IL · 发布 2026-10-13 · [linkedin])
-    https://www.linkedin.com/jobs/view/forward-deployed-ai-scientist-internship-campus-united-states-bcg-x-at-bcg-x-4478176470
-
-🌐 Google/Apple（法国+美国合并查询，点开看地点）  (1)
-[A] Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR  ([apple])
-    https://jobs.apple.com/en-us/details/200689695
+[B] Battelle — HR AI Automation Internship (Summer 2027) [Summer 2027 ✓]  (Columbus, OH · 发布 2026-10-14 · [linkedin])
+    https://www.linkedin.com/jobs/view/hr-ai-automation-internship-summer-2027-at-battelle-4476121455
+[B] ByteDance — Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)  (San Jose, CA · 发布 2026-10-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/cloud-acceleration-research-intern-dpu-ai-infra-2027-start-phd-at-bytedance-4480907623
+[B] CHEManager International — Staff Research Scientist, Intern - PhD Foundational AI  (Foster City, CA · 发布 2026-10-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/staff-research-scientist-intern-phd-foundational-ai-at-chemanager-international-4479933668
+[B] DiDi — Research Intern, Scene Understanding and Planning  (San Jose, CA · 发布 2026-10-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-scene-understanding-and-planning-at-didi-4480923428
+[B] Electronic Arts (EA) — Data & AI Engineering Intern (Master's Level) - Summer 2027 [Summer 2027 ✓]  (Austin, TX · 发布 2026-10-12 · [linkedin])
+    https://www.linkedin.com/jobs/view/data-ai-engineering-intern-master-s-level-summer-2027-at-electronic-arts-ea-4476051447
+[B] TikTok — Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer [Summer 2027 ✓]  (Seattle, WA · 发布 2026-10-15 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-recommendation-video-2027-summer-at-tiktok-4478839316
 
 说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
