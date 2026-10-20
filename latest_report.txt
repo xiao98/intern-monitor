@@ -1,43 +1,102 @@
-实习监控 2026-10-19 · 新增 17 · 当前在挂命中 264 · 显示 17
+实习监控 2026-10-20 · 新增 44 · 当前在挂命中 269 · 显示 44
 
-🇫🇷 FRANCE  (11)
-[A] backmarket — AI Content & Knowledge Manager Intern  (Bordeaux · 发布 2026-10-19 · [ashby])
-    起始线索: …- Start date: January 2027…
-    https://jobs.ashbyhq.com/backmarket/ae0b69b8-4051-4a31-a11f-f624be54b4e8
-[B] ArianeGroup — STAGE - Ingénieure / Ingénieur développement logiciel DATA et IA pour la surveillance de l'espace  (Les Mureaux, Île-de-France, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-data-et-ia-pour-la-surveillance-de-l-espace-at-arianegroup-4479950463
-[B] ArianeGroup — STAGE - Ingénieure / Ingénieur en Intelligence Artificielle & Digitalisation de la Maintenance  (Le Haillan, Nouvelle-Aquitaine, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-en-intelligence-artificielle-digitalisation-de-la-maintenance-at-arianegroup-4479953379
-[B] CHANEL — STAGE - DATA SCIENCE ET IA APPLIQUÉES À LA R&D H/F  (Pantin, Île-de-France, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-science-et-ia-appliqu%C3%A9es-%C3%A0-la-r-d-h-f-at-chanel-4479364840
-[B] Dokhan Luxury Hotels — Développeur(se) Outils IA & Data (H/F)  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
-    https://fr.linkedin.com/jobs/view/d%C3%A9veloppeur-se-outils-ia-data-h-f-at-dokhan-luxury-hotels-4479150757
-[B] EDF — STAGE - Data et intelligence artificielle F/H  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-et-intelligence-artificielle-f-h-at-edf-4480932441
-[C] Atos — STAGE - Assistant IA pour la qualification et l'investigation des anomalies H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-assistant-ia-pour-la-qualification-et-l-investigation-des-anomalies-h-f-at-atos-4477374874
-[C] Atos — STAGE - Data Analyst, IA et données d'observation de la Terre H/F  (Toulouse, Occitanie, France · 发布 2026-10-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-analyst-ia-et-donn%C3%A9es-d-observation-de-la-terre-h-f-at-atos-4477371957
-[C] Atos — Stage IA Générative & Innovation Commerciale H/F  (Bezons, Île-de-France, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-innovation-commerciale-h-f-at-atos-4478252536
-[C] Devoteam — Stage - Ingénieur(e) R&D Intelligence Artificielle (F/H)  (Levallois-Perret, Île-de-France, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-intelligence-artificielle-f-h-at-devoteam-4479980073
-[C] Wavestone — Stage de fin d'études - Consultant.e Data/IA - Marseille  (Marseille, Provence-Alpes-Côte d'Azur, France · 发布 2026-10-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-consultant-e-data-ia-marseille-at-wavestone-4478278040
+🇫🇷 FRANCE  (21)
+[A] ANYFIELDS — Engineering Internship - Deep Learning for Infrared Thermography Antenna Measurements  (Toulouse, Occitanie, France · 发布 2026-10-20 · [linkedin])
+    https://fr.linkedin.com/jobs/view/engineering-internship-deep-learning-for-infrared-thermography-antenna-measurements-at-anyfields-4478668436
+[A] CEA — 2026-42112 - Stage Jumeau numérique immersif et IA agentique pour l'industrie-Saclay-H/F  (France · [watch])
+    https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42112&idOrigine=502&LCID=1036&offerReference=2026-42112
+[A] CEA — 2026-42181 - STAGE - Modélisation par intelligence artificielle des combustibles nucléaires à l'échelle atomique H/F  (France · [watch])
+    起始线索: …Démarche scientifique, de l'étude bibliographique à l'analyse criti…
+    https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42181&idOrigine=502&LCID=1036&offerReference=2026-42181
+[A] Schneider Electric — Stage – Data Scientist en AI générative pour l’automatisation industrielle – F/H  (Rueil-Malmaison, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-data-scientist-en-ai-g%C3%A9n%C3%A9rative-pour-l%E2%80%99automatisation-industrielle-%E2%80%93-f-h-at-schneider-electric-4480261355
+[A] Thales — Stage ingénieur IA / Deep Learning pour la classification sur images - H/F  (Élancourt, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-deep-learning-pour-la-classification-sur-images-h-f-at-thales-4480978321
+[B] Alstom — Stage - 6 mois - IA Evaluation & REQ Management Processes F/H  (Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-6-mois-ia-evaluation-req-management-processes-f-h-at-alstom-4474056873
+[B] Bertrandt Group — Stage Ingénieur IA - Computer Vision et estimation de pose 3D/6D H/F  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-computer-vision-et-estimation-de-pose-3d-6d-h-f-at-bertrandt-group-4480230572
+[B] Capital Fund Management (CFM) — Internship – Applied AI & Cloud Engineering  (Paris, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/internship-%E2%80%93-applied-ai-cloud-engineering-at-capital-fund-management-cfm-4478603157
+[B] Dassault Systèmes — STAGE - Ingénieur.e Recherche Compagnon IA en Réalité Augmentée (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-recherche-compagnon-ia-en-r%C3%A9alit%C3%A9-augment%C3%A9e-f-h-at-dassault-syst%C3%A8mes-4464091146
+[B] Dassault Systèmes — STAGE - Intelligence Concurrentielle IA (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-intelligence-concurrentielle-ia-f-h-at-dassault-syst%C3%A8mes-4464314606
+[B] EDF — Développement de modèles simplifiés pour une méthodologie hybride physique- IA F/H  (Moret-Loing-et-Orvanne, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/d%C3%A9veloppement-de-mod%C3%A8les-simplifi%C3%A9s-pour-une-m%C3%A9thodologie-hybride-physique-ia-f-h-at-edf-4480957284
+[B] Groupe BPCE — Stage - 6 mois - Data Scientist IA F/H  (Saint-Grégoire, Brittany, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-6-mois-data-scientist-ia-f-h-at-groupe-bpce-4478281338
+[B] Jus Mundi — CEO Office Intern — Strategic Communications, International Law/ Arbitration & AI  (Paris, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ceo-office-intern-%E2%80%94-strategic-communications-international-law-arbitration-ai-at-jus-mundi-4481200767
+[B] Mines Paris - PSL — Post-doctorant·e - Navigation résiliente et IA embarquée (H/F)  (Paris, Île-de-France, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/post-doctorant%C2%B7e-navigation-r%C3%A9siliente-et-ia-embarqu%C3%A9e-h-f-at-mines-paris-psl-4479352170
+[B] Parfums Christian Dior — Stage - Développement d'applications basées sur l'IA - 1er semestre 2027  (Neuilly-sur-Seine, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-applications-bas%C3%A9es-sur-l-ia-1er-semestre-2027-at-parfums-christian-dior-4480991813
+[B] Racine — Racine Paris recherche un stagiaire au 1er semestre 2028 en restructuring  (Paris, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/racine-paris-recherche-un-stagiaire-au-1er-semestre-2028-en-restructuring-at-racine-4478610879
+[B] Racine — Racine Paris recherche un stagiaire au 2nd semestre 2027 en restructuring H/F  (Paris, Île-de-France, France · 发布 2026-10-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/racine-paris-recherche-un-stagiaire-au-2nd-semestre-2027-en-restructuring-h-f-at-racine-4478613782
+[B] Saegus — Consultant.e Adoption des usages IA – Stage de fin d'études  (Paris, Île-de-France, France · 发布 2026-10-15 · [linkedin])
+    https://fr.linkedin.com/jobs/view/consultant-e-adoption-des-usages-ia-%E2%80%93-stage-de-fin-d-%C3%A9tudes-at-saegus-4478848602
+[B] STATION F — 6-MONTH INTERNSHIP - STARTING JANUARY 2027 - CLOUD & AI SOFTWARE ENGINEER - MASTER'S ½ - €1700/MONTH  (Paris, Île-de-France, France · 发布 2026-10-18 · [linkedin])
+    https://fr.linkedin.com/jobs/view/6-month-internship-starting-january-2027-cloud-ai-software-engineer-master-s-%C2%BD-%E2%82%AC1700-month-at-station-f-4479696825
+[B] Testia, an Airbus Company — Testia SAS - Stage – Segmentation par IA (H/F) – Rennes  (Rennes, Brittany, France · 发布 2026-10-20 · [linkedin])
+    https://fr.linkedin.com/jobs/view/testia-sas-stage-%E2%80%93-segmentation-par-ia-h-f-%E2%80%93-rennes-at-testia-an-airbus-company-4481554643
+[B] World Organisation for Animal Health — Internship – Data Science and AI pipelines for the management of the Animal Health Research Needs database (STAR-IDAZ), DIAD - WOAH HQ  (Paris, Île-de-France, France · 发布 2026-10-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/internship-%E2%80%93-data-science-and-ai-pipelines-for-the-management-of-the-animal-health-research-needs-database-star-idaz-diad-woah-hq-at-world-organisation-for-animal-health-4477393363
 
-🇺🇸 USA  (6)
-[B] Battelle — HR AI Automation Internship (Summer 2027) [Summer 2027 ✓]  (Columbus, OH · 发布 2026-10-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/hr-ai-automation-internship-summer-2027-at-battelle-4476121455
-[B] ByteDance — Cloud Acceleration Research Intern (DPU & AI Infra) - 2027 Start (PhD)  (San Jose, CA · 发布 2026-10-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/cloud-acceleration-research-intern-dpu-ai-infra-2027-start-phd-at-bytedance-4480907623
-[B] CHEManager International — Staff Research Scientist, Intern - PhD Foundational AI  (Foster City, CA · 发布 2026-10-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/staff-research-scientist-intern-phd-foundational-ai-at-chemanager-international-4479933668
-[B] DiDi — Research Intern, Scene Understanding and Planning  (San Jose, CA · 发布 2026-10-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-scene-understanding-and-planning-at-didi-4480923428
-[B] Electronic Arts (EA) — Data & AI Engineering Intern (Master's Level) - Summer 2027 [Summer 2027 ✓]  (Austin, TX · 发布 2026-10-12 · [linkedin])
-    https://www.linkedin.com/jobs/view/data-ai-engineering-intern-master-s-level-summer-2027-at-electronic-arts-ea-4476051447
-[B] TikTok — Machine Learning Engineer Intern (E-Commerce Recommendation Video)- 2027 Summer [Summer 2027 ✓]  (Seattle, WA · 发布 2026-10-15 · [linkedin])
-    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-e-commerce-recommendation-video-2027-summer-at-tiktok-4478839316
+🇺🇸 USA  (23)
+[A] Autodesk — PhD Researcher, Agentic 3D Modeling in Immersive Environments  (New York, United States · 发布 2026-10-15 · [linkedin])
+    https://www.linkedin.com/jobs/view/phd-researcher-agentic-3d-modeling-in-immersive-environments-at-autodesk-4479127519
+[A] Bosch USA — AI Research Intern: Wireless Foundation Models  (Pittsburgh, PA · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-research-intern-wireless-foundation-models-at-bosch-usa-4478607401
+[A] NVIDIA — Product Manager MBA Intern, Enterprise AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-10-19 · [nvidia])
+    起始线索: …an MBA with relevant experience and graduating in December 2027 or May/June 2028…
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707
+[A] scaleai — Machine Learning Research Intern (Summer 2027) [Summer 2027 ✓]  (New York, NY; San Francisco, CA, San Francisco, CA · 发布 2026-10-19 · [greenhouse])
+    起始线索: …Natural Language Processing, with a graduation date in Fall 2027 or Spring 2028</li>…
+    https://job-boards.greenhouse.io/scaleai/jobs/4735665005
+[A] Teli Labs — Research Intern, Frontier Speculative Decoding (Summer 2027) [Summer 2027 ✓]  (San Francisco, CA · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-frontier-speculative-decoding-summer-2027-at-teli-labs-4480272679
+[A] thealleninstitute — Research Internship, AI for Science [Summer 2027 ✓]  (Seattle, WA, Seattle · 发布 2026-10-19 · [greenhouse])
+    起始线索: …basis but for full consideration for start dates in summer 2027, <strong>please apply by November 15, 2026 to be included i…
+    https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615
+[A] thealleninstitute — Research Internship, Robotics [Summer 2027 ✓]  (Seattle, WA, Seattle · 发布 2026-10-19 · [greenhouse])
+    起始线索: …<p>Please apply by <strong>January 8, 2027, at 11:00pm Pacific Time </strong>to be considered for our…
+    https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641
+[A] waymo — 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning [Summer 2027 ✓]  (Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · 发布 2026-10-19 · [greenhouse])
+    https://careers.withwaymo.com/jobs?gh_jid=8292367
+[A] waymo — 2027 Summer Intern, PhD, Research, Behavior Post-training [Summer 2027 ✓]  (Mountain View, CA, USA; San Francisco, CA, USA, Mountain Vie · 发布 2026-10-19 · [greenhouse])
+    https://careers.withwaymo.com/jobs?gh_jid=8289816
+[A] waymo — 2027 Summer Intern, PhD, Research, Perception Foundation Models [Summer 2027 ✓]  (Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · 发布 2026-10-19 · [greenhouse])
+    https://careers.withwaymo.com/jobs?gh_jid=8301804
+[A] waymo — 2027 Summer Intern, PhD, Research, VLM Harnesses for AV Planning [Summer 2027 ✓]  (Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · 发布 2026-10-19 · [greenhouse])
+    https://careers.withwaymo.com/jobs?gh_jid=8301854
+[B] Adobe — 2027 Intern - AI & Architecture  (San Jose, CA · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/2027-intern-ai-architecture-at-adobe-4480286607
+[B] Ai2 — Research Internship, AI for Science  (Seattle, WA · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-internship-ai-for-science-at-ai2-4481291386
+[B] Amplify — Summer 2027: AI Scientist Intern [Summer 2027 ✓]  (United States · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/summer-2027-ai-scientist-intern-at-amplify-4480279517
+[B] GlobalFoundries — AI/ML Systems Engineering Intern (Summer 2027) [Summer 2027 ✓]  (Richardson, TX · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-ml-systems-engineering-intern-summer-2027-at-globalfoundries-4480285151
+[B] Inversion — AI & Internal Tools Software Engineer - Summer Internship 2027 [Summer 2027 ✓]  (Los Angeles, CA · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-internal-tools-software-engineer-summer-internship-2027-at-inversion-4481249180
+[B] Jobverse.io — Machine Learning Research Intern (Summer 2027) [Summer 2027 ✓]  (New York, NY · 发布 2026-10-20 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-research-intern-summer-2027-at-jobverse-io-4481512392
+[B] Johnson & Johnson Innovative Medicine — Summer intern, Digital Signal/ Imaging AI  (Cambridge, MA · 发布 2026-10-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/summer-intern-digital-signal-imaging-ai-at-johnson-johnson-innovative-medicine-4480513549
+[B] Lumen Technologies — AI & Automation Builders - Summer 2027 Internship Pathway [Summer 2027 ✓]  (United States · 发布 2026-10-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-automation-builders-summer-2027-internship-pathway-at-lumen-technologies-4480531677
+[B] Nissan Motor Corporation — AI & Data Analytics Intern - Summer 2027 - Irving, TX or Franklin, TN [Summer 2027 ✓]  (Franklin, TN · 发布 2026-10-14 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-data-analytics-intern-summer-2027-irving-tx-or-franklin-tn-at-nissan-motor-corporation-4479535323
+[B] Nubank — Nu AI Core Summer PhD Research Internship  (Miami, FL · 发布 2026-10-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/nu-ai-core-summer-phd-research-internship-at-nubank-4481262379
+[B] waymo — 2027 Summer Intern, PhD, Machine Learning - Simulation & Closed-Loop Training [Summer 2027 ✓]  (Mountain View, California, United States, Mountain View (US- · 发布 2026-10-19 · [greenhouse])
+    起始线索: …field, with an anticipated graduation date between December 2027 and August 2028 (returning to a degree program for at least…
+    https://careers.withwaymo.com/jobs?gh_jid=8283558
+[C] BCG X — Forward Deployed AI Engineer, Internship, Campus, United States - BCG X  (Los Angeles, CA · 发布 2026-10-13 · [linkedin])
+    https://www.linkedin.com/jobs/view/forward-deployed-ai-engineer-internship-campus-united-states-bcg-x-at-bcg-x-4478174649
 
 说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
