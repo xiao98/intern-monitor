@@ -1,9 +1,12 @@
 {
- "generated_at": "2026-10-20T10:13:59+00:00",
- "raw": 10575,
- "hits": 269,
- "new": 44,
+ "generated_at": "2026-10-21T10:24:23+00:00",
+ "raw": 10682,
+ "hits": 284,
+ "new": 46,
  "fails": [
-  "ashby/alpic:404"
+  "ashby/alpic:404",
+  "watch/ANITI Toulouse internships:503",
+  "watch/Dauphine MILES open positions:503",
+  "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1"
  ]
 }
