@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
-"""LLM/RL/训练/Agent 实习监控（法国 + 美国）。
-每次运行：拉全部源 -> 归一化 -> 过滤(实习 × 主题 × 地区) -> 与 state.json 比对 -> 邮件通知新增。
+"""扩散模型 / LLM / Agent / RL 实习监控（法国 + 欧洲 + 美国）。
+每次运行：拉全部源 -> 归一化 -> 过滤(实习 × 方向标签 × 地区，剔除只招 PhD) -> 与 state.json 比对 -> 推送 GitHub（网页读同一份数据）。
 用法：python3 monitor.py [--full] [--dry] [--days N]
   --full  邮件里发全部命中（不只新增），用于首轮基线
   --dry   不发邮件，只打印
@@ -48,7 +48,7 @@ def sq(s): return re.sub(r"\s+", " ", s or "").strip()
 
 # ---------------- sources ----------------
 ASHBY = ("mistral.ai hcompany dust nabla gladia photoroom ami poolside alan qonto ledger sorare pennylane doctolib owkin inato "
-         "elevenlabs alpic whitecircle kestra omi adaption akur8 backmarket seloger sunday voodoo tako "
+         "elevenlabs whitecircle black-forest-labs kestra omi adaption akur8 backmarket seloger sunday voodoo tako "
          "openai cohere perplexity cursor cognition sierra harvey fireworks cerebras modal thinkingmachines replit runway suno "
          "pika synthesia notion linear supabase langchain llamaindex factory rogo ramp inngest temporal lexroom ssi snowflake "
          "physicalintelligence liquid decagon character midjourney reka 1x worldlabs openevidence abridge writer d-matrix etched").split()
@@ -152,14 +152,30 @@ def src_google(rows):
             time.sleep(1)
 
 def src_apple(rows):
-    for q in ("machine learning intern", "AI research intern", "large language model"):
-        u = "https://jobs.apple.com/en-us/search?" + urllib.parse.urlencode({"search": q, "sort": "newest", "location": "united-states-USA+france-FRAC"})
-        c, b = get(u)
-        if c != 200: FAILS.append(f"apple:{c}"); continue
-        for jid, inner in re.findall(r'<a[^>]+href="/en-us/details/(\d+)[^"]*"[^>]*>(.*?)</a>', b, re.S):
-            rows.append(dict(src="apple", company="Apple", title=sq(strip(inner)), loc="", etype="",
-                             pub="", url=f"https://jobs.apple.com/en-us/details/{jid}", desc=""))
-        time.sleep(1)
+    seen = set()
+    for loc, where in (("france-FRAC", "Paris, France"), ("united-states-USA", "United States")):
+        for q in ("intern", "machine learning intern", "AI research intern"):
+            u = "https://jobs.apple.com/en-us/search?" + urllib.parse.urlencode({"search": q, "sort": "newest", "location": loc})
+            c, b = get(u)
+            if c != 200: FAILS.append(f"apple:{c}"); continue
+            for jid, inner in re.findall(r'<a[^>]+href="/en-us/details/([\d-]+)[^"]*"[^>]*>(.*?)</a>', b, re.S):
+                title = sq(strip(inner))
+                if jid in seen or not T_INTERN.search(title): continue
+                seen.add(jid)
+                # 详情页把描述/地点/日期放在转义 JSON 里；只对实习标题取详情（省请求）
+                c2, d = get(f"https://jobs.apple.com/en-us/details/{jid}/x")
+                parts = []
+                for k in ("jobSummary", "description", "minimumQualifications"):
+                    m = re.search(r'\\"' + k + r'\\":\\"(.*?)(?<!\\)\\"', d)
+                    if m:
+                        try: parts.append(json.loads(json.loads('"' + m.group(1) + '"').join('""')))
+                        except ValueError: pass
+                lm = re.search(r'\\"locations\\":\[\{.*?\\"name\\":\\"([^\\]+)\\".*?\\"countryName\\":\\"([^\\]+)\\"', d)
+                pm = re.search(r'\\"postDateInGMT\\":\\"(\d{4}-\d\d-\d\d)', d)
+                rows.append(dict(src="apple", company="Apple", title=title, loc=f"{lm.group(1)}, {lm.group(2)}" if lm else where, etype="Intern",
+                                 pub=pm.group(1) if pm else "", url=f"https://jobs.apple.com/en-us/details/{jid}", desc=" ".join(parts)))
+                time.sleep(0.5)
+            time.sleep(1)
 
 def src_inria(rows):
     c, b = get("https://jobs.inria.fr/public/classic/en/offres?type=Stage")
@@ -181,10 +197,10 @@ LI_F = {k: re.compile(p, re.S) for k, p in dict(
     comp=r'class="base-search-card__subtitle"[^>]*>\s*(?:<a[^>]*>)?\s*(.*?)\s*(?:</a>)?\s*</h4>',
     loc=r'class="job-search-card__location"[^>]*>\s*(.*?)\s*</span>', date=r'<time[^>]*datetime="([\d-]+)"',
     link=r'<a class="base-card__full-link[^"]*"\s+href="([^"?]+)').items()}
-LI_Q = {"France": ["LLM intern", "stage LLM", "stage agent IA", "stage reinforcement learning", "stage NLP deep learning", "stage recherche IA",
-                   "research intern machine learning", "post-training intern", "stage fine-tuning modèle", "stage IA générative"],
+LI_Q = {"France": ["LLM intern", "stage LLM", "stage agent IA", "stage reinforcement learning", "stage apprentissage par renforcement",
+                   "stage diffusion model", "stage modèles génératifs", "research intern machine learning", "post-training intern", "stage fine-tuning LLM"],
         "United States": ["LLM research intern", "reinforcement learning intern", "AI research intern", "machine learning research intern",
-                          "LLM agent intern", "post-training intern", "foundation model intern", "NLP research intern",
+                          "LLM agent intern", "post-training intern", "foundation model intern", "diffusion model research intern",
                           "summer 2027 research intern machine learning", "summer 2027 intern LLM", "summer 2027 AI research intern"]}
 
 def src_linkedin(rows):
@@ -281,10 +297,6 @@ T_TITLE = re.compile(r"llm|language model|foundation model|frontier|reinforcemen
                      r"mod[èe]les? de langage|apprentissage par renforcement|apprentissage profond|intelligence artificielle|\bia\b", re.I)
 T_RESEARCH = re.compile(r"research intern|research scientist|research engineer|ai research|machine learning research|applied scien|ai scientist|ai engineer|"
                         r"machine learning engineer|\bml engineer|\bml\b intern|machine learning intern|\bai\b.*intern|intern.*\bai\b|recherche", re.I)
-T_DESC = re.compile(r"llm|large language|language model|foundation model|reinforcement learning|\brl\b|rlhf|rlvr|grpo|\bppo\b|post-?training|pre-?training|"
-                    r"fine-?tun|alignment|agentic|multi-?agent|\bagents?\b|tool[- ]use|function calling|\bmcp\b|generative ai|genai|\btransformers?\b|"
-                    r"model training|distributed training|diffusion|\bnlp\b|natural language|multimodal|vision-language|reasoning|interpretab|"
-                    r"modèles? de langage|apprentissage par renforcement|ia générative", re.I)
 T_GENERIC = re.compile(r"machine learning|\bml\b|\bai\b|\bia\b|data scien|research|scientist|deep learning|science", re.I)
 G_FR = re.compile(r"\bfrance\b|paris|île-de-france|ile-de-france|saclay|palaiseau|grenoble|\blyon\b|toulouse|sophia|nantes|lille|bordeaux|montpellier|rennes|"
                   r"strasbourg|\bnice\b|marseille|v[ée]lizy|orsay|gif-sur|massy|boulogne|nanterre|issy|puteaux|levallois|montrouge|courbevoie|saint-denis|clichy|neuilly|rueil|versailles|[ée]vry", re.I)
@@ -292,13 +304,36 @@ G_US = re.compile(r"united states|\busa?\b|u\.s\.|san francisco|bay area|palo al
                   r"los angeles|seattle|bellevue|redmond|new york|\bnyc\b|boston|cambridge, ma|austin|chicago|pittsburgh|denver|remote \(us|us remote|remote - us|"
                   r"\bcalifornia\b|\bwashington\b|\bmassachusetts\b|\btexas\b|"
                   r", (al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy)\b", re.I)
+G_EU = re.compile(r"london|united kingdom|\buk\b|england|cambridge, uk|oxford|edinburgh|zurich|z[üu]rich|lausanne|geneva|gen[eè]ve|switzerland|berlin|munich|m[üu]nchen|"
+                  r"freiburg|t[üu]bingen|heidelberg|germany|amsterdam|netherlands|barcelona|madrid|spain|milan|milano|italy|copenhagen|stockholm|dublin|"
+                  r"brussels|belgium|vienna|austria|lisbon|warsaw|prague|\beurope\b|\bemea\b", re.I)
+# 方向标签（用户 2026-10-22 定的四个方向）：先看标题，标题没有再看描述；四个都打不上 = 不相关，丢弃
+D_PAT = {k: re.compile(p, re.I) for k, p in dict(
+    diff=r"diffusion|flow[- ]matching|score[- ]based|generative model|mod[èe]les? g[ée]n[ée]ratifs?|image generation|video generation|"
+         r"g[ée]n[ée]ration (?:d'images?|de vid[ée]os?|vid[ée]o|3d)|text-to-(?:image|video)|image synthesis|world models?|mod[èe]les? de monde|"
+         r"\bgans?\b|\bvaes?\b|neural rendering|3d generation",
+    llm=r"\bllms?\b|large language|language models?|mod[èe]les? de langage|foundation models?|pre-?train|post-?train|fine-?tun|instruction tuning|"
+        r"\bnlp\b|natural language|traitement automatique des langues|tokeni[sz]|transformers?\b|reasoning|kv[- ]cache|\bvlms?\b|vision[- ]language|"
+        r"multimodal|speech language",
+    agent=r"\bagents?\b|agentic|agentique|tool[- ]use|function calling|\bmcp\b|computer[- ]use|harness|multi-?agent",
+    rl=r"reinforcement|renforcement|\brl\b|\brlhf\b|\brlvr\b|\bgrpo\b|\bppo\b|bandits?|policy optimi[sz]ation|world models?|mod[èe]les? de monde").items()}
+def dirs_of(s): return [k for k, p in D_PAT.items() if p.search(s or "")]
+GENAI = re.compile(r"genai|gen ai|generative ai|ia g[ée]n[ée]rative|intelligence artificielle g[ée]n[ée]rative", re.I)  # 泛 GenAI，多为 RAG/应用层：标题只有它 = B 档 llm
+# M2 学生够不着的 PhD 专岗：标题写 PhD 且没写 Master/MSc，或描述写"必须在读博士"
+PHD_TITLE = re.compile(r"\bph\.?d\b|doctoral|doctorant|post-?doc", re.I)
+NOT_PHD_ONLY = re.compile(r"master|\bmsc\b|m\.sc|\bms\b|bachelor|\bm2\b|bac\s*\+\s*5", re.I)
+PHD_REQ = re.compile(r"(?:(?:must|should|need to) be )?(?:currently )?(?:pursuing|enrolled in) a ph\.?\s?d\b\.?(?!\s*(?:or|/)\s*(?:a\s*)?(?:master|msc|ms))", re.I)
+PREFERRED = re.compile(r"prefer|nice to have|bonus|\bplus\b|ideally|appreciated", re.I)
+NON_TECH = re.compile(r"product manag|\bmba\b|marketing|\bsales\b|business|content|knowledge manag|\banalyst\b|analyste|recruit|legal|juridique|finance|"
+                      r"communication|designer|\bux\b|consultant|customer|account", re.I)  # 带 AI 字样的非技术岗
+def phd_only(desc):  # "在读博士"写在要求里才算 PhD 专岗；写在 preferred / nice to have 下面的不算
+    return any(not PREFERRED.search(desc[max(0, x.start() - 400):x.start()]) for x in PHD_REQ.finditer(desc))
 OLD_YEAR = re.compile(r"\b20(?:1\d|2[0-5])\b")
 NEXT_CYCLE = re.compile(r"2027|2026\s*[-/–]\s*(?:20)?27", re.I)
 US_SUMMER = re.compile(r"summer\s*(?:of\s*)?2027|2027\s*summer|summer intern(?:ship)?s?\s*[-–(]?\s*2027", re.I)
 US_EXCLUDE = re.compile(r"winter\s*20\d\d|fall\s*20\d\d|spring\s*20\d\d|autumn\s*20\d\d|2026\s*start|summer\s*2026|\b2026\b\s*(?:intern|cohort|summer)|-\s*2026\b", re.I)
 T_START = re.compile(r"[^.\n]{0,60}(?:avril|april|printemps|spring|\bmars\b|march|\bmai\b|\bmay 2027|2027|f[ée]vrier|february)[^.\n]{0,60}", re.I)
 ALT_ONLY = re.compile(r"alternan|apprenti|apprenticeship", re.I)
-T_AIGEN = re.compile(r"intelligence artificielle|\bia\b", re.I)  # 标题只含这些 = 泛 AI，降 B
 PUB = "/opt/dingyuanying-chat/nginx/certbot-www/.well-known/acme-challenge/intern-7f3a-latest_report.txt"  # 经 dyy.youchun.tech:80 公开，供云端 routine 取报告发邮件（云沙箱连不上 IP:8080）
 
 ESN = re.compile(r"\balten\b|astek|aubay|capgemini|sopra|\batos\b|accenture|wavestone|\bey\b|\bbain\b|\bbcg\b|deloitte|kpmg|\bpwc\b|\bcgi\b|devoteam|inetum|onepoint|"
@@ -310,19 +345,23 @@ def classify(r):
     is_intern = bool(T_INTERN.search(title) or T_INTERN.search(r.get("etype", "")) or r["src"] in ("google", "nvidia"))
     if not is_intern: return None
     if ALT_ONLY.search(title) and not T_INTERN.search(title): return None
-    core = [m.group(0) for m in T_TITLE.finditer(title) if not T_AIGEN.fullmatch(m.group(0))]
-    if r["src"] == "watch" and r.get("note"): tier = "A"  # 对口课题组页面上的实习条目，不再按标题过滤
-    elif core: tier = "A"
-    elif T_TITLE.search(title): tier = "A" if T_DESC.search(desc) else "B"  # 标题只有泛 IA/AI
-    elif T_RESEARCH.search(title): tier = "A" if T_DESC.search(desc) else ("B" if not desc else None)
-    elif T_DESC.search(desc) and T_GENERIC.search(title): tier = "B"
-    else: tier = None
-    if not tier: return None
+    if PHD_TITLE.search(title) and not NOT_PHD_ONLY.search(title): return None
+    if phd_only(desc) or NON_TECH.search(title): return None
+    if r["src"] == "watch" and r.get("note"):  # 对口课题组页面上的实习条目，不再按标题过滤，方向取自组备注
+        tier, dirs = "A", dirs_of(title + " " + r["note"])
+    elif dirs_of(title):
+        tier, dirs = "A", dirs_of(title)
+    elif dirs_of(desc) and (T_TITLE.search(title) or T_RESEARCH.search(title) or T_GENERIC.search(title)):
+        tier, dirs = "B", dirs_of(desc)  # 标题泛 ML/AI，方向只在描述里出现
+    elif GENAI.search(title) or (T_RESEARCH.search(title) and GENAI.search(desc)):
+        tier, dirs = "B", ["llm"]
+    else: return None  # 四个方向都打不上（如"用 IA 做 XX 业务"）= 不相关
+    if not dirs: return None
     if ESN.search(r["company"]): tier = "C"
     loc = r["loc"] or ""
-    geo = "FR" if G_FR.search(loc) else "US" if G_US.search(loc) else "?"
+    geo = "FR" if G_FR.search(loc) else "EU" if G_EU.search(loc) else "US" if G_US.search(loc) else "?"
     if geo == "?" and r["src"] == "linkedin": geo = "FR" if "France" in loc else "US"
-    if geo == "?" and loc: return None  # 有地点但既非法国也非美国
+    if geo == "?" and loc: return None  # 有地点但不在法国 / 欧洲 / 美国
     m = T_START.search(desc)
     # 只要 2026-2027 周期：标题/链接带 2025 及更早年份、或发布日期早于 2026-06 的一律剔除（用户 2026-09-26 要求）
     if OLD_YEAR.search(title) and not NEXT_CYCLE.search(title): return None
@@ -336,7 +375,7 @@ def classify(r):
         blob = title + " " + desc[:3000]
         if US_EXCLUDE.search(blob) and not US_SUMMER.search(blob): return None
         r["title"] = title + ("  [Summer 2027 ✓]" if US_SUMMER.search(blob) else "")
-    r.update(tier=tier, geo=geo, start_hint=sq(m.group(0))[:140] if m else "")
+    r.update(tier=tier, geo=geo, dirs=dirs, start_hint=sq(m.group(0))[:140] if m else "")
     return r
 
 def norm(s): return re.sub(r"[^a-z0-9]", "", (s or "").lower())
@@ -388,17 +427,17 @@ def main():
 def render(show, new, hits, today):
     out = [f"实习监控 {today} · 新增 {len(new)} · 当前在挂命中 {len(hits)} · 显示 {len(show)}", ""]
     order = {"A": 0, "B": 1, "C": 2}
-    for geo, flag in (("FR", "🇫🇷 FRANCE"), ("US", "🇺🇸 USA"), ("?", "🌐 Google/Apple（法国+美国合并查询，点开看地点）")):
+    for geo, flag in (("FR", "🇫🇷 FRANCE"), ("EU", "🇪🇺 EUROPE"), ("US", "🇺🇸 USA"), ("?", "🌐 地点未知（点开看）")):
         items = sorted([v for v in show.values() if v["geo"] == geo], key=lambda v: (order[v["tier"]], v["company"].lower(), v["title"]))
         if not items: continue
         out.append(f"{flag}  ({len(items)})")
         for v in items:
             meta = " · ".join(x for x in [sq(v['loc'])[:60], f"发布 {v['pub']}" if v["pub"] else "", f"[{v['src']}]"] if x)
-            out.append(f"[{v['tier']}] {v['company']} — {sq(v['title'])}  ({meta})")
+            out.append(f"[{v['tier']}] {'/'.join(v['dirs'])} · {v['company']} — {sq(v['title'])}  ({meta})")
             if v["start_hint"]: out.append(f"    起始线索: …{v['start_hint']}…")
             out.append(f"    {v['url']}")
         out.append("")
-    out.append("说明: [A]=标题直接命中 LLM/RL/训练/Agent/AI 研究；[B]=标题泛 ML/AI 研究但无描述可核；[C]=ESN/咨询公司（多为 adoption 非研发）。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。")
+    out.append("说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。")
     out.append(f"源: Ashby {len(ASHBY)} + Greenhouse {len(GREENHOUSE)} + Lever {len(LEVER)} + Workable {len(WORKABLE)} 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR {len(LI_Q['France'])} 词 / US {len(LI_Q['United States'])} 词, 近 {DAYS} 天)")
     if FAILS: out.append("失败源: " + ", ".join(sorted(set(FAILS))))
     return "\n".join(out)

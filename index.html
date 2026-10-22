@@ -4,11 +4,14 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Intern Radar</title>
-<meta name="description" content="2027 春 LLM / RL / 训练 / Agent 实习监控汇总（法国 + 美国），每天自动更新">
+<meta name="description" content="2027 春扩散模型 / LLM / Agent / RL 实习：每日岗位监控（法国 + 欧洲 + 美国）+ 目标调研（转正线 / 读博线）">
 <style>
-:root{--bg:#f6f7f9;--card:#fff;--fg:#1a1d23;--muted:#5f6672;--line:#e3e6eb;--accent:#2457d6;--a:#1f8a4c;--b:#b7791f;--c:#8a8f98;--new:#d6336c;--chip:#eef1f6;--chip-on:#1a1d23;--chip-on-fg:#fff}
-@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418}}
-:root[data-theme="dark"]{--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418}
+:root{--bg:#f6f7f9;--card:#fff;--fg:#1a1d23;--muted:#5f6672;--line:#e3e6eb;--accent:#2457d6;--a:#1f8a4c;--b:#b7791f;--c:#8a8f98;--new:#d6336c;--chip:#eef1f6;--chip-on:#1a1d23;--chip-on-fg:#fff;
+ --diff:#7c3aed;--llm:#2457d6;--agent:#0f8a7e;--rl:#c2410c}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418;
+ --diff:#a78bfa;--llm:#7ea2ff;--agent:#3cc7b8;--rl:#fb923c}}
+:root[data-theme="dark"]{--bg:#111418;--card:#1a1f26;--fg:#e7e9ee;--muted:#9aa3b2;--line:#2a313b;--accent:#7ea2ff;--a:#4cc27a;--b:#e0a94a;--c:#8a8f98;--new:#ff6b9d;--chip:#242b35;--chip-on:#e7e9ee;--chip-on-fg:#111418;
+ --diff:#a78bfa;--llm:#7ea2ff;--agent:#3cc7b8;--rl:#fb923c}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);font:15px/1.5 -apple-system,"Segoe UI",Roboto,"PingFang SC","Noto Sans SC",sans-serif}
 .wrap{max-width:1080px;margin:0 auto;padding:20px 16px 60px}
@@ -26,15 +29,20 @@ input[type=search]{flex:1;min-width:180px;padding:7px 10px;border:1px solid var(
 .meta{color:var(--muted);font-size:12.5px;margin-top:2px;word-break:break-word}
 .badge{display:inline-block;font-size:11px;font-weight:700;border-radius:5px;padding:1px 6px;margin-right:6px;color:#fff;vertical-align:1px}
 .A{background:var(--a)}.B{background:var(--b)}.C{background:var(--c)}.new{background:var(--new)}.geo{background:var(--accent)}
+.d-diff{background:var(--diff)}.d-llm{background:var(--llm)}.d-agent{background:var(--agent)}.d-rl{background:var(--rl)}
 .hint{font-size:12.5px;color:var(--muted);margin-top:3px}
 details summary{cursor:pointer;color:var(--accent);font-size:12.5px;margin-top:4px}
 details pre{white-space:pre-wrap;font:12.5px/1.45 inherit;color:var(--muted);max-height:260px;overflow:auto;margin:6px 0 0}
 h2{font-size:17px;margin:26px 0 8px}
-.group{border-left:3px solid var(--line);padding:4px 10px;margin:6px 0}
-.group.watch{border-color:var(--a)}.group.direct{border-color:var(--b)}
+h3{font-size:15px;margin:18px 0 6px}
+.group{border-left:3px solid var(--line);padding:4px 10px;margin:8px 0}
+.group.open{border-color:var(--a)}.group.soon{border-color:var(--b)}.group.direct{border-color:var(--c)}
 .group .n{font-weight:600}.group .d{color:var(--muted);font-size:13px}
 .tag{font-size:11px;border-radius:5px;padding:1px 6px;background:var(--chip);margin-left:6px}
-a.chip{text-decoration:none}h2{scroll-margin-top:12px}
+.tag.open{color:var(--a)}.tag.soon{color:var(--b)}
+.keys{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 14px;margin:8px 0 4px;font-size:13.5px}
+.keys li{margin:4px 0}
+a{color:var(--accent)}a.chip{text-decoration:none;color:var(--fg)}h2{scroll-margin-top:12px}
 .foot{color:var(--muted);font-size:12.5px;margin-top:26px}
 .empty{color:var(--muted);padding:20px 0}
 @media (max-width:600px){h1{font-size:19px}.stat{min-width:calc(50% - 4px)}}
@@ -42,21 +50,28 @@ a.chip{text-decoration:none}h2{scroll-margin-top:12px}
 </head>
 <body>
 <div class="wrap">
-  <h1>Intern Radar · 2027 春 LLM / RL / 训练 / Agent 实习</h1>
+  <h1>Intern Radar · 2027 春 扩散 / LLM / Agent / RL 实习</h1>
   <div class="sub" id="upd">加载中…</div>
   <div class="stats" id="stats"></div>
-  <div class="bar nav"><a class="chip" href="#sec-list">岗位列表</a><a class="chip" href="#sec-predict">🎯 2027 导师推断</a><a class="chip" href="#sec-cnus">🇨🇳🇺🇸 中国 / 美国</a><a class="chip" href="#sec-groups">🇫🇷 法国课题组</a></div>
+  <div class="bar nav"><a class="chip" href="#sec-list">岗位列表</a><a class="chip" href="#sec-survey">🎯 目标调研（转正线 / 读博线）</a><a class="chip" href="#sec-cnus">🇨🇳🇺🇸 中国 / 美国</a></div>
 
-  <div class="bar" id="geoBar" style="scroll-margin-top:12px"><span id="sec-list"></span>
-    <span class="chip on" data-geo="all">全部</span>
+  <div class="bar" id="dirBar" style="scroll-margin-top:12px"><span id="sec-list"></span>
+    <span class="chip on" data-dir="all">全部方向</span>
+    <span class="chip" data-dir="diff">扩散 / 生成</span>
+    <span class="chip" data-dir="llm">LLM</span>
+    <span class="chip" data-dir="agent">Agent</span>
+    <span class="chip" data-dir="rl">RL</span>
+  </div>
+  <div class="bar" id="geoBar">
+    <span class="chip on" data-geo="all">全部地区</span>
     <span class="chip" data-geo="FR">🇫🇷 法国</span>
+    <span class="chip" data-geo="EU">🇪🇺 欧洲</span>
     <span class="chip" data-geo="US">🇺🇸 美国 Summer 2027</span>
     <span class="chip" data-geo="watch">🔬 实验室页面</span>
-    <span class="chip" data-geo="?">Google/Apple</span>
   </div>
   <div class="bar" id="tierBar">
-    <span class="chip on" data-tier="A">A 标题命中</span>
-    <span class="chip on" data-tier="B">B 泛研究</span>
+    <span class="chip on" data-tier="A">A 标题命中方向</span>
+    <span class="chip on" data-tier="B">B 方向在描述里</span>
     <span class="chip" data-tier="C">C 咨询/ESN</span>
     <span class="chip" id="newOnly">只看 7 天内新增</span>
     <input type="search" id="q" placeholder="搜公司 / 标题 / 地点 / 关键词">
@@ -64,56 +79,71 @@ a.chip{text-decoration:none}h2{scroll-margin-top:12px}
 
   <div id="list"></div>
 
-  <h2 id="sec-predict">2027 实习方向推断（按导师）</h2>
-  <div class="sub">方法：实习题目 ≈ 在读博士课题 × 在跑经费项目（Flowers / ALMAnaCH 年报实证：实习生题目 = 博士题目，实习 → predoc → PhD 是常规通道）。来源：Inria 年报、theses.fr、导师主页。2026-09-26 整理。邮箱标 ⚠️ = 按机构格式推断，发前核实。</div>
-  <div id="predict"></div>
+  <h2 id="sec-survey">目标调研：四个方向 × 两条路线</h2>
+  <div class="sub">2026-10-22 整理并逐条核实（开放中 = 当天确认帖子在挂；预计 = 往年规律推断；直联 = 没有帖子，要直接写邮件）。上面的方向筛选同样作用于这里。邮箱标 ⚠️ = 按机构格式推断，发前核实。</div>
+  <ul class="keys">
+    <li><b>时间窗在收紧：</b>Apple MLR 截止 12-31；Kyutai 往年 11 月发帖，Meta 的 MSc 帖往年 12 月发；实验室 M2 题目 11 月到 1 月陆续放出，直联导师要趁现在。</li>
+    <li><b>扩散方向企业岗很少：</b>法国真做生成模型的只有 Mistral、Apple MLR、Photoroom、AMI Labs、Kyutai（世界模型）几家，主力在学术圈（Kalogeiton / Picard / CMAP），这个方向走读博线更现实。</li>
+    <li><b>RL 方向分两层：</b>能投的多是工业 RL（Dassault、Renault、CEA、InstaDeep）；LLM 上的前沿 RL 集中在 Mistral、Meta、Google DeepMind，这几家的研究实习大多要 PhD。</li>
+    <li><b>已剔除只招 PhD 的岗位：</b>Cohere Research Internship、H Company、Helsing、Together AI Frontier Agents 等都明写要在读博士，岗位列表里已经过滤掉。</li>
+  </ul>
+  <div class="bar" id="trackBar">
+    <span class="chip on" data-track="all">两条线</span>
+    <span class="chip" data-track="offer">转正 / 高薪线</span>
+    <span class="chip" data-track="phd">读博 / CIFRE 线</span>
+  </div>
+  <h3>企业</h3>
+  <div id="survey-co"></div>
+  <h3>学术课题组（M2 研究实习 → 博士）</h3>
+  <div id="survey-lab"></div>
 
   <h2 id="sec-cnus">中国 / 美国（Agent + ML Infra）</h2>
-  <div class="sub">绿边 = 能投（能当 M2 stage 或已开帖），黄边 = 侦察（读博 / 毕业后看组看人）。中国大厂一般有自己的实习协议，要先确认肯签法国 convention；美国 Summer 岗多为 12 周 + J-1 + 要求回校，基本当不了 5–6 个月 stage。2026-09-26 整理。</div>
+  <div class="sub">绿边 = 能投（能当 M2 stage 或已开帖），灰边 = 侦察（读博 / 毕业后看组看人）。中国大厂一般有自己的实习协议，要先确认肯签法国 convention；美国 Summer 岗多为 12 周 + J-1 + 要求回校，基本当不了 5–6 个月 stage。2026-09-26 整理。</div>
   <div id="cnus"></div>
-
-  <h2 id="sec-groups">重点课题组（法国）</h2>
-  <div class="sub">一档 = 方向正对、导师近两年就在这条线上发顶会。绿边 = 页面已接入监控，黄边 = 无页面可盯，只能直接写邮件（10 月底前，带 tinylm + vLLM 贡献）。</div>
-  <div id="groups"></div>
 
   <div class="foot" id="foot"></div>
 </div>
 
 <script>
-const GROUPS = [
- {tier:1,watch:true, name:"Inria Flowers（Bordeaux）", who:"Oudeyer · Pourcel · Gaven · Boulet · Tabbara", what:"LLM 在交互环境里用在线 RL grounding（GLAM, ICML 2023）、自改进 LLM agent、autotelic agent。Romac/Carta 已答辩、Moulin-Frier 已调 Inria Lyon。11 月底放 2027 题。", url:"https://flowers.inria.fr/jobs/"},
- {tier:1,watch:true, name:"Kyutai（Paris）", who:"Défossez · Zeghidour · Grave", what:"开源语音/多模态 LLM（Moshi、Helium），实习页常年开，可转博士。", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
- {tier:1,watch:true, name:"ENS CoML / LSCP", who:"Dupoux", what:"语音语言模型、self-supervised，与 FAIR Paris 同源；春季放 M2 题目 PDF。", url:"https://cognitive-ml.fr/jobs/"},
- {tier:1,watch:true, name:"Inria Scool（Lille）", who:"Kaufmann · Maillard · Degenne", what:"RL / bandit 理论最硬的组，NeurIPS 常客；偏理论不偏 LLM。", url:"https://team.inria.fr/scool/"},
- {tier:1,watch:true, name:"CEA List（Saclay）", who:"emploi.cea.fr RSS", what:"RL 世界模型、LLM agent、可信 IA 的 stage，工程味重但题目真实。", url:"https://www.emploi.cea.fr/offre-de-emploi/liste-offres.aspx?keywords=LLM"},
- {tier:2,watch:false,name:"Inria ALMAnaCH（Paris）", who:"Sagot · Seddah · Clavel", what:"法国 LLM 预训练 / 分词 / 评测正统（CamemBERT 系列），ACL/EMNLP 主力。", url:"https://almanach.inria.fr/index-en.html"},
- {tier:2,watch:false,name:"ISIR MLIA（Sorbonne）", who:"Sigaud · Soulier · Piwowarski", what:"LLM agent 与交互环境的 RL 对齐（NAACL 2025），与 Flowers 合作。", url:"https://mlia.isir.upmc.fr/"},
- {tier:2,watch:false,name:"CMAP polytechnique", who:"Moulines", what:"RLHF 理论、Nash learning from human feedback、reward modeling 最优设计，纯理论口。", url:"https://www.polytechnique.edu/en/directory/moulines-eric"},
- {tier:2,watch:false,name:"Inria / ENS", who:"Lelarge", what:"LLM for code and proof（Lean / Rocq），与 MVA 那门课直接对接。", url:"https://www.di.ens.fr/~lelarge/"},
- {tier:2,watch:false,name:"Inria Sierra", who:"Bach", what:"优化理论，LLM 训练动力学方向近两年有。", url:"https://sierra-mlopt.github.io/"},
- {tier:2,watch:true, name:"Inria Saclay", who:"Boursier", what:"Transformer 训练理论；个人页已接监控，实际靠邮件。", url:"https://eboursier.github.io/"},
- {tier:2,watch:true, name:"Dauphine MILES / IASD", who:"Allauzen", what:"LLM 效率 / 鲁棒；stage 走 IASD 页面。", url:"https://www.lamsade.dauphine.fr/wp/iasd/en/liste-des-stages-disponibles/"},
- {tier:2,watch:true, name:"LISN Paris-Saclay", who:"STL / DS 部门", what:"本校最大 AI 实验室；stage 主要走 M2 邮件列表，页面偶有。", url:"https://www.lisn.upsaclay.fr/offres-emploi/?_domaine=411&_types-emploi=stage"},
- {tier:2,watch:true, name:"ANITI / IRIT（Toulouse）· LIG GETALP（Grenoble）", who:"多组", what:"LLM 推理与 agent（IRIT）、TAL（GETALP）；页面已接。", url:"https://aniti.univ-toulouse.fr/en/internship-positions/"},
- {tier:2,watch:false,name:"企业研究侧", who:"Mistral · Hugging Face · Google DeepMind Paris · Criteo AI Lab · Naver Labs Europe", what:"已由 ATS / Google careers / LinkedIn 覆盖；Naver、Ubisoft、Criteo 官网是 JS 或 403，走 LinkedIn。", url:"https://github.com/xiao98/intern-monitor/blob/main/latest_report.txt"},
+const DIRN = {diff:"扩散", llm:"LLM", agent:"Agent", rl:"RL"};
+// 目标调研。d = 方向；t = offer（转正/高薪）| phd（读博/CIFRE）| both；st = open | soon | direct；mon = 爬虫已覆盖
+const SURVEY_CO = [
+ {d:["llm","agent","diff"], t:"both", st:"open", mon:true, org:"Mistral AI · Applied Scientist（实习，巴黎）", what:"做预训练、后训练、数据和评测，并和客户一起搭 agent + 检索 pipeline。帖子把 agents、world models、diffusion models 列为加分的研究经验。", req:"至少 6 个月，优先快毕业的学生；读 PhD / Master 是加分项，不是门槛。", when:"开放中（2026-07-03 发）", url:"https://jobs.ashbyhq.com/mistral.ai/de46ba8b-00cb-4618-83df-66e15a78434e"},
+ {d:["llm","agent"], t:"both", st:"open", mon:true, org:"Mistral AI · Forward Deployed ML Engineer（实习，巴黎）", what:"给客户落地 GenAI 和 agent。帖子明写实习后可以接 CIFRE。", req:"6 个月。", when:"开放中（2026-09-14 发）", url:"https://jobs.ashbyhq.com/mistral.ai/fcdb8407-20b9-4179-81b6-f2ca2c79a39b"},
+ {d:["diff","llm"], t:"both", st:"open", mon:true, org:"Apple MLR Paris · Internship – Machine Learning Research", what:"开放研究，以发表为目标。官方列出的方向：生成模型（diffusion、离散 diffusion、flow、最优传输）、高效推理（KV 压缩）、LLM 训练的 scaling law、不确定性量化、data-centric ML。", req:"MSc 或 PhD 在读，但要求已有顶会发表（NeurIPS / ICML / ICLR 等），对 M2 学生是硬门槛。", when:"截止 2026-12-31，最早 2027-02 开始", url:"https://jobs.apple.com/en-us/details/200683768-2911"},
+ {d:["agent","rl"], t:"offer", st:"open", mon:true, org:"Apple SEAR Paris · Self-Improving AI Agents for Cybersecurity", what:"让 agent 自动改进自己的 harness（工具、脚手架、记忆、编排）来挖漏洞。成功可验证但很稀疏，本质是 agent 自我改进加黑盒优化。", req:"相关专业在读即可；要有搭建和评测 agent 系统的经验（LangGraph、OpenHands SDK 等），不要求安全背景。", when:"开放中（2026-10-17 发）", url:"https://jobs.apple.com/en-us/details/200689695-2911"},
+ {d:["llm"], t:"offer", st:"open", mon:true, org:"Datadog · Applied Science Intern（巴黎）", what:"把 ML / GenAI 能力做进产品、做模型 benchmark、推到上线。", req:"2027 年毕业；6 个月，必须在 2027 年 2–6 月开始。", when:"开放中（2026-09-08 发）", url:"https://careers.datadoghq.com/detail/8181440/"},
+ {d:["llm"], t:"offer", st:"open", mon:true, org:"Cohere · Machine Learning Intern/Co-op（Winter 2027）", what:"把最新模型做进生产、搭训练基础设施。地点包含 Europe，Cohere 在巴黎有办公室。", req:"在读学生即可，3–6 个月全职。⚠️ Winter 批次通常 1 月开始，要确认能不能 4 月起。同公司的 Research Internship 只收 PhD。", when:"开放中（2026-05-01 发）", url:"https://jobs.ashbyhq.com/cohere/36d1f52f-8270-4652-adf5-5303a0ff341b"},
+ {d:["diff","rl"], t:"both", st:"open", mon:true, org:"AMI Labs（LeCun，巴黎总部）", what:"JEPA 世界模型、3D 视觉。目前挂着「AMI Scientist/Interns – Geometry and 3D Vision」。", req:"帖子没写学历门槛。", when:"开放中", url:"https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2"},
+ {d:["rl","agent"], t:"offer", st:"open", mon:true, org:"Dassault Systèmes · Deep RL（Aix-en-Provence）/ 生成式与 Agents IA（Vélizy）", what:"真做 RL 和 agent 的 R&D stage，工业场景，薪资不如前沿 lab。", req:"Bac+5 stage。", when:"开放中（2026-10-20 LinkedIn）", url:"https://www.linkedin.com/jobs/view/4464307040"},
+ {d:["rl"], t:"offer", st:"open", mon:true, org:"Renault · CS27 Deep RL 自动驾驶决策（Guyancourt）", what:"深度强化学习做自动驾驶的决策。", req:"Bac+5 stage。", when:"开放中（2026-10-20 LinkedIn）", url:"https://www.linkedin.com/jobs/view/4480487329"},
+ {d:["rl","diff"], t:"phd", st:"open", mon:true, org:"CEA List · RL + 世界模型（网格）stage（Saclay）", what:"强化学习加世界模型，用在网格生成上。CEA 的 stage 常接 CEA 博士。", req:"Bac+5 stage。", when:"开放中", url:"https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41593&idOrigine=502&LCID=1036&offerReference=2026-41593-S2197"},
+ {d:["llm","agent","rl"], t:"both", st:"open", mon:false, org:"Criteo AI Lab · Research Intern（巴黎）", what:"官方方向：LLM agent 的推理与规划、生成式检索、对齐；推荐系统里的 bandit / RL 是老本行，CIFRE 常见。", req:"只收法国学校的最后一年 MSc。", when:"9 月核实为常年开放，投前再确认", url:"https://careers.criteo.com/en/jobs/r19935/research-intern/"},
+ {d:["llm","diff"], t:"phd", st:"soon", mon:true, org:"Kyutai · Research Internships（巴黎）", what:"语音和多模态 LLM（Moshi 系）、交互式世界模型、上下文压缩。实习可以直接转 Kyutai 驻场博士（Picard 就有和 Kyutai 合带做生成式世界模型的博士生）。", req:"M2 或工程师学校最后一年。", when:"预计 11 月（上一轮 2025-11-12 发）", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
+ {d:["agent","rl","llm"], t:"both", st:"soon", mon:false, org:"Meta Paris（FAIR / MSL）", what:"上一轮有 MSc 专帖「Research Scientist Intern, RL and Agents Team (MSc)」，做 agent 工具调用、agent 式 RL 环境和后训练，可以转 CIFRE。", req:"巴黎实习帖多数标 PhD，MSc 帖单独发；需要法国工作许可。官网反爬，只能靠 LinkedIn 部分覆盖。", when:"预计 12 月（上一轮 2025-12-19 发）", url:"https://www.metacareers.com/jobs?offices[0]=Paris%2C%20France&roles[0]=Internship"},
+ {d:["llm","rl"], t:"phd", st:"soon", mon:true, org:"Google DeepMind Paris / Grenoble · Student Researcher", what:"2026 届是 Frontier AI Unit 的 6 个月驻场，有可能（不保证）转成 GDM 和法国高校合带的博士。", req:"BS / MS / PhD 在读，研究岗明显偏好 PhD。", when:"2027 届还没发，滚动招", url:"https://www.google.com/about/careers/applications/jobs/results/?location=France&employment_type=INTERN"},
+ {d:["llm","agent","diff"], t:"offer", st:"soon", mon:true, org:"Hugging Face", what:"各团队有 headcount 才零散发实习（上一轮有 FineWeb 数据、GUI agents），可以在法国远程做；diffusers 是它的扩散模型库。", req:"—", when:"当前 0 个实习帖", url:"https://apply.workable.com/huggingface/"},
+ {d:["rl"], t:"offer", st:"soon", mon:false, org:"InstaDeep Paris · AI Research Engineer Intern（RL）", what:"Applied AI 组用 RL 做能源、物流、生产的大规模组合优化。2025-12 的 Glassdoor 面经里有现场从零写 Q-learning。", req:"MS / PhD 在读。", when:"上一轮帖子已下架，新一轮还没发", url:"https://www.instadeep.com/careers/"},
+ {d:["llm","agent","rl"], t:"both", st:"soon", mon:false, org:"NAVER LABS Europe（Grenoble）", what:"5–6 个月研究实习，方向是 NLP、多模态 LLM 和机器人。上一轮有「constraining LLMs at scale」，收优秀的 Master 学生。", req:"—", when:"2027 届帖子还没出（上一轮 2026-05 发）", url:"https://careers.werecruit.io/en/naver-labs-europe"},
+ {d:["diff","rl"], t:"phd", st:"direct", mon:false, org:"valeo.ai（巴黎）", what:"自动驾驶的生成式世界模型和感知，有 CIFRE 博士通道（Picard 有和 Valeo 合带的博士生）。", req:"—", when:"还没找到 2027 的帖子", url:"https://valeoai.github.io/"},
+ {d:["diff"], t:"offer", st:"direct", mon:true, org:"Photoroom（巴黎）", what:"在从零训练开源的图像 diffusion 模型，是法国少数真做 diffusion 预训练的公司。", req:"—", when:"目前没有实习帖，可以直接联系 ML 团队", url:"https://jobs.ashbyhq.com/photoroom"},
+ {d:["agent"], t:"offer", st:"open", mon:true, org:"🇪🇺 Sierra · SWE Intern, Agent（London 2027）", what:"做客服 agent 的工程实习。", req:"—", when:"开放中", url:"https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff"},
+ {d:["llm","agent"], t:"offer", st:"open", mon:true, org:"🇪🇺 Perplexity · ML Research Engineer（Berlin）/ Search MLE（London）实习", what:"搜索和问答系统里的模型研发。", req:"—", when:"开放中", url:"https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c"},
 ];
-// 2027 实习方向推断：p = 把握（高/中高/中），fit = 与 agent/infra 主轴契合
-const PREDICT = [
- {sec:"学术", p:"高", fit:"ML Infra", lab:"ISIR MLIA · CNRS（Paris 5e）", who:"Edouard Oyallon", mail:"edouard.oyallon@cnrs.fr", dir:"① 异步 / 去中心化 LLM 训练 ② 推理模型 RL 训练的可扩展性", why:"主页列出的每个博士都由其实习生转来；主页明招「LLM 训练加速」学生；PEPR SHARP + DAIMOS 经费", url:"https://edouardoyallon.github.io/"},
- {sec:"学术", p:"高", fit:"Agent", lab:"Inria ALMAnaCH（Paris 13e）", who:"Djamé Seddah", mail:"djame.seddah@inria.fr（回复慢，可重发同前缀 gmail）", dir:"① LLM agent 规划 / 工具调用评测 ② 代码生成评测、SAE 可解释性 ③ 领域 LLM 后训练 / 合成数据", why:"博士全走 predoc → PhD；Froger（Meta CIFRE，agent）/ Lasnier（代码评测）/ Lasbordes（LightOn 后训练）", url:"https://dseddah.github.io/people"},
- {sec:"学术", p:"高", fit:"Agent", lab:"Inria PICUBE / IRIF · LLM4Rocq（Paris 13e）", who:"Guillaume Baudart", mail:"guillaume.baudart@inria.fr", dir:"LLM agent × 定理证明器：rocq-mcp、agent skills、自动形式化、Rocq↔Lean 翻译", why:"agent + MCP + 数学三交；GitHub 组织日更；Flowers 的 Tabbara 实习 → 博士由其合带；无公开列表需主动问", url:"https://guillaume.baudart.eu/"},
- {sec:"学术", p:"中高", fit:"Agent", lab:"Inria ARGO / ENS · LLM4Rocq（Paris 5e）", who:"Marc Lelarge", mail:"marc.lelarge@inria.fr ⚠️", dir:"LLM 生成 Rocq 代码与证明；推理时扩展、可控生成对齐", why:"博士 Viennot（2024，与 Baudart 合带）、Tisseau（2025）；建议与 Baudart 同封邮件", url:"https://www.di.ens.fr/~lelarge/"},
- {sec:"学术", p:"中高", fit:"Agent", lab:"ISIR MLIA · CNRS（Paris 5e）", who:"Benjamin Piwowarski", mail:"benjaminisir.cartridge320@passmail.net（主页给的转发地址）", dir:"① 高效神经检索（SPLADE + SAE、token 剪枝）② RL 生成检索查询 ③ 具身 agent 分层推理", why:"博士 Levy（2026-04，与 Lamprier 合带）/ Zong / Morand / Lequeu", url:"https://www.piwowarski.fr/"},
- {sec:"学术", p:"中", fit:"Agent", lab:"Univ. Angers LERIA + ISIR 合带", who:"Sylvain Lamprier", mail:"sylvain.lamprier@univ-angers.fr", dir:"在线 RL 训练 LLM agent（GLAM / SAC 线）、分层技能与推理", why:"与 Flowers 深度合作（MAGELLAN / HERAKLES）；本人在 Angers，巴黎实习挂 ISIR，抄送 Piwowarski", url:"https://scholar.google.com/citations?user=NuGN8SUAAAAJ"},
- {sec:"学术", p:"中高", fit:"Agent", lab:"CentraleSupélec MICS（Saclay）", who:"Céline Hudelot · Pierre Colombo", mail:"celine.hudelot@centralesupelec.fr ⚠️", dir:"LLM agent 网络的事实性与安全、评测；LLM + RAG", why:"博士 Macé（2026-02）agent 网络安全；与 Alpic MCP 实习同生态", url:"https://theses.fr"},
- {sec:"学术", p:"高", fit:"数学", lab:"Inria TAU · LISN（Saclay）", who:"Charpiat · Chevallier 等 8 人", mail:"tau-frugal@inria.fr", dir:"Neural Architecture Growth：训练中让小网络按需长大（节约算力）", why:"连续 3 年出题；EU MANOLO 资助；博士 Douka / Rudkiewicz（2024 入学）在带；偏微分 / 优化，非 agent", url:"https://www.lri.fr/~gcharpia/INRIA_TAU_LISN_Neural_Architecture_Growth.pdf"},
- {sec:"学术", p:"中高", fit:"数学", lab:"X CMAP（Saclay）", who:"Alain Durmus · Eric Moulines", mail:"alain.durmus@polytechnique.edu ⚠️", dir:"生成模型推理的训练-推理对齐、扩散加速、平均场博弈；量化金融生成模型", why:"2026 年新收 3 个博士；数学重，与 Lehalle 合带量化方向", url:"https://theses.fr"},
- {sec:"学术", p:"高", fit:"LLM", lab:"CEA List LASTI（Saclay）", who:"各题 PDF 内联系人", mail:"—", dir:"信息抽取 / 知识图谱 + RAG、LLM 幻觉与偏差、LLM 数据增强", why:"2025、2026 两年列表同主线；都在 10 月发布 → 预计 2026-10", url:"https://kalisteo.cea.fr/index.php/apply-for-a-job/"},
- {sec:"学术", p:"高", fit:"Agent", lab:"Inria Flowers（Bordeaux）", who:"Tabbara · Boulet · Gaven（+ Oudeyer）", mail:"pierre-yves.oudeyer@inria.fr（标题带 [application]）", dir:"① autotelic 生成式 AI 做数学发现（Lean / Coq）② SWE-agent 生成控制器 ③ MAGELLAN 元认知学习进度 / 好奇心 RL", why:"两年列表对照：博士在读 → 出题，答辩 → 题目消失；Pourcel / Perez 将答辩，SOAR 线不确定", url:"https://flowers.inria.fr/jobs/"},
- {sec:"企业", p:"中", fit:"Agent", lab:"Meta MSL 巴黎（后训练 / agent）", who:"RL and Agents Team", mail:"官网投递", dir:"agent 工具调用、agent 式 RL 环境、LLM 后训练、推理 / 代码", why:"有 MSc 专帖（2025-12-19 发，已下架），可转 CIFRE；10–12 月窗口；⚠️ MSL 在裁员，需工作许可", url:"https://www.themuse.com/jobs/meta/research-scientist-intern-rl-and-agents-team-msc"},
- {sec:"企业", p:"高", fit:"LLM", lab:"Kyutai（Paris）", who:"Défossez · Pérez 等", mail:"官网投递", dir:"① 交互式世界模型 ② 全双工语音交互性对齐 ③ LLM 上下文压缩（ARC-Encoder）④ TTS / STT / 同传", why:"11 月开（2024、2025 均是）；实习 → 驻场博士（Labiausse 官方确认）", url:"https://kyutai.homerun.co/research-internships-w-m/en"},
- {sec:"企业", p:"中", fit:"Agent", lab:"Criteo AI Lab（Paris）", who:"—", mail:"官网投递", dir:"官方写：LLM agent 推理规划、生成式检索、对齐", why:"仅法国学校最后一年 MSc；常年开放；没找到实习生论文，agent 虚实待核", url:"https://careers.criteo.com/en/jobs/r19935/research-intern/"},
- {sec:"企业", p:"中", fit:"其他", lab:"AMI Labs（LeCun，Paris）", who:"—", mail:"官网投递", dir:"JEPA 世界模型、3D 视觉、模型安全", why:"有 Scientist/Interns – Geometry & 3D Vision 帖；不做 LLM agent", url:"https://www.iagora.com/work/en/internships-and-jobs-at/Ami_Labs/37089"},
+const SURVEY_LAB = [
+ {d:["diff"], st:"direct", mon:false, org:"LIX VISTA（Polytechnique，Palaiseau）", who:"Vicky Kalogeiton · vicky.kalogeiton@polytechnique.edu", what:"多模态生成式 AI：diffusion 蒸馏（Di[M]o）、CFG 调度、视频生成（AKiRa，CVPR 2025）；CVPR 2027 程序主席。离 Saclay 最近的扩散组。", when:"主页写着随时招学生，可以直接发邮件", url:"https://vicky.kalogeiton.info/"},
+ {d:["diff"], st:"direct", mon:false, org:"ENPC IMAGINE / LIGM（Marne-la-Vallée）", who:"David Picard · 邮箱被主页 mailhide 隐藏", what:"图像生成模型、flow matching（RP Flow，ICML 2026）。在带的博士有和 Kyutai（生成式世界模型）、Meta、Valeo、TotalEnergies 合带的，企业博士通道最多；与 Kalogeiton 合带两名博士。", when:"没有招生帖，需直联", url:"https://davidpicard.github.io/"},
+ {d:["diff","rl"], st:"direct", mon:false, org:"X CMAP（Saclay）", who:"Alain Durmus · Eric Moulines · alain.durmus@polytechnique.edu ⚠️", what:"diffusion 理论与采样加速、RLHF 理论（Nash learning from human feedback）。数学重，最贴你的数学背景。", when:"需直联", url:"https://www.polytechnique.edu/en/directory/moulines-eric"},
+ {d:["llm","rl"], st:"direct", mon:false, org:"ISIR MLIA · CNRS（Paris 5e）", who:"Edouard Oyallon · edouard.oyallon@cnrs.fr", what:"异步 / 去中心化 LLM 训练、推理模型 RL 训练的可扩展性。主页写明每个博士都是自己的实习生转来的。", when:"需直联", url:"https://edouardoyallon.github.io/"},
+ {d:["llm","agent"], st:"direct", mon:false, org:"Inria ALMAnaCH（Paris 13e）", who:"Djamé Seddah · djame.seddah@inria.fr", what:"LLM agent 规划与工具调用评测、代码生成评测、领域 LLM 后训练；博士全走 predoc → PhD，有 Meta CIFRE 通道。", when:"需直联（回复慢，可重发）", url:"https://dseddah.github.io/people"},
+ {d:["llm","agent","rl"], st:"direct", mon:false, org:"ISIR MLIA · CNRS（Paris 5e）", who:"Benjamin Piwowarski · benjaminisir.cartridge320@passmail.net", what:"高效神经检索、用 RL 生成检索查询、具身 agent 的分层推理。", when:"需直联", url:"https://www.piwowarski.fr/"},
+ {d:["rl","agent"], st:"direct", mon:false, org:"Univ. Angers LERIA + ISIR 合带", who:"Sylvain Lamprier · sylvain.lamprier@univ-angers.fr", what:"在线 RL 训练 LLM agent（GLAM / SAC 线）、分层技能与推理；和 Flowers 深度合作。巴黎实习挂在 ISIR，联系时抄送 Piwowarski。", when:"需直联", url:"https://scholar.google.com/citations?user=NuGN8SUAAAAJ"},
+ {d:["agent","rl","llm"], st:"soon", mon:true, org:"Inria Flowers（Bordeaux）", who:"Oudeyer · Tabbara · Boulet · Gaven", what:"LLM 在交互环境里用在线 RL grounding、自改进 LLM agent、autotelic agent 做数学发现（Lean / Coq）。", when:"往年 11 月底放下一届题目", url:"https://flowers.inria.fr/jobs/"},
+ {d:["rl"], st:"soon", mon:true, org:"Inria Scool（Lille）", who:"Kaufmann · Maillard · Degenne", what:"RL 和 bandit 理论最硬的组，偏理论不偏 LLM。", when:"监控组页面", url:"https://team.inria.fr/scool/"},
+ {d:["agent","llm"], st:"direct", mon:false, org:"Inria PICUBE / IRIF · LLM4Rocq（Paris 13e）", who:"Guillaume Baudart · guillaume.baudart@inria.fr（另有 Marc Lelarge，建议同封邮件）", what:"LLM agent × 定理证明器：rocq-mcp、agent skills、自动形式化、Rocq↔Lean 翻译。", when:"需直联", url:"https://guillaume.baudart.eu/"},
+ {d:["agent"], st:"direct", mon:false, org:"CentraleSupélec MICS（Saclay）", who:"Céline Hudelot · celine.hudelot@centralesupelec.fr ⚠️", what:"LLM agent 网络的事实性与安全、评测。原来合作的 Alpic 招聘页已经 404，MCP 相关实习要邮件确认还有没有。", when:"需直联", url:"https://theses.fr"},
+ {d:["llm"], st:"soon", mon:true, org:"CEA List LASTI（Saclay）", who:"各题目 PDF 里的联系人", what:"信息抽取 / 知识图谱 + RAG、LLM 幻觉与偏差、LLM 数据增强。", when:"往年 10 月发布，监控 CEA RSS", url:"https://kalisteo.cea.fr/index.php/apply-for-a-job/"},
+ {d:["llm"], st:"soon", mon:true, org:"ENS CoML / LSCP（Paris）", who:"Emmanuel Dupoux", what:"语音语言模型、自监督学习，与 FAIR Paris 同源。", when:"往年春季放 M2 题目 PDF", url:"https://cognitive-ml.fr/jobs/"},
 ];
 // 中国 / 美国：go = true 能投，false 侦察
 const CNUS = [
@@ -127,7 +157,7 @@ const CNUS = [
  {geo:"🇨🇳", go:false, org:"港大 余涛 · XLANG Lab", dir:"computer-use agent（OSWorld / OSWorld 2.0 / OpenCUA）", note:"无公开实习页，需邮件", url:"https://xlang.ai/"},
  {geo:"🇨🇳", go:false, org:"复旦 桂韬", dir:"AgentGym / AgentGym-RL（多轮 agent RL）", note:"无公开招收帖", url:"https://guitaowufeng.github.io/"},
  {geo:"🇨🇳", go:false, org:"上交 刘鹏飞 · GAIR", dir:"推理 / agent / 数据", note:"清源研究院", url:"https://www.cs.sjtu.edu.cn/jiaoshiml/liupengfei.html"},
- {geo:"🇺🇸", go:true, org:"Together AI · Research Intern ×4", dir:"Frontier Agents / Inference / Model Shaping / GPU Programming", note:"Summer 2027；Model Shaping 含 Amsterdam（欧盟，可能能当 stage）", url:"https://job-boards.greenhouse.io/togetherai/jobs/5238466007"},
+ {geo:"🇺🇸", go:true, org:"Together AI · Research Intern ×4", dir:"Frontier Agents / Inference / Model Shaping / GPU Programming", note:"Summer 2027；Model Shaping 含 Amsterdam（欧盟，可能能当 stage）；⚠️ Frontier Agents 明写要在读 PhD", url:"https://job-boards.greenhouse.io/togetherai/jobs/5238466007"},
  {geo:"🇺🇸", go:true, org:"AMD · Master's RL & LLM Post-Training Intern", dir:"RL 后训练，明确收硕士", note:"Summer 2027，Santa Clara", url:"https://www.linkedin.com/jobs/view/summer-2027-master-s-ai-research-reinforcement-learning"},
  {geo:"🇺🇸", go:true, org:"Sierra · SWE Intern, Agent", dir:"agent 工程", note:"Summer 2027，SF / NY", url:"https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e"},
  {geo:"🇺🇸", go:true, org:"Armadin · MTS Intern – Agent Systems", dir:"agent 系统", note:"Summer 2027，Palo Alto", url:"https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-"},
@@ -137,11 +167,12 @@ const CNUS = [
  {geo:"🇺🇸", go:false, org:"UC Berkeley Sky Computing Lab", dir:"vLLM / SGLang 推理系统", note:"ML Infra 正统", url:"https://sky.cs.berkeley.edu/people/"},
  {geo:"🇺🇸", go:false, org:"待核实近况", dir:"Princeton（SWE-agent / SWE-bench）、Stanford CRFM、CMU Tianqi Chen / Zhihao Jia、UCSD Hao Zhang、OSU Yu Su", note:"未逐个核实人员变动，投前必查", url:"https://github.com/xiao98/intern-monitor"},
 ];
-const state = {geo:"all", tiers:new Set(["A","B"]), newOnly:false, q:""};
+const state = {dir:"all", geo:"all", tiers:new Set(["A","B"]), newOnly:false, q:"", track:"all"};
 let HITS = [], SEEN = {}, META = null;
 const $ = s => document.querySelector(s);
 const esc = s => (s||"").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const daysAgo = d => d ? (Date.now() - new Date(d)) / 864e5 : 1e9;
+const dirBadges = ds => (ds||[]).map(d => `<span class="badge d-${d}">${DIRN[d]||d}</span>`).join("");
 
 async function load(){
   const bust = "?t=" + Math.floor(Date.now()/600000);
@@ -150,24 +181,25 @@ async function load(){
     fetch("state.json"+bust).then(r=>r.json()).catch(()=>({})),
     fetch("meta.json"+bust).then(r=>r.json()).catch(()=>null)]);
   HITS = h; SEEN = s; META = m;
-  HITS.forEach(x => { x.first = (SEEN[x.url] || SEEN[x.url.split("?")[0]] || {}).first_seen || ""; });
+  HITS.forEach(x => { x.first = (SEEN[x.url] || SEEN[x.url.split("?")[0]] || {}).first_seen || ""; x.dirs = x.dirs || []; });
   HITS.sort((a,b) => (b.first||"").localeCompare(a.first||"") || (b.pub||"").localeCompare(a.pub||""));
   render();
 }
 function counts(){
-  const c = {FR:0, US:0, watch:0, "?":0, new7:0};
-  HITS.forEach(x => { if (x.src==="watch") c.watch++; else c[x.geo] = (c[x.geo]||0)+1; if (daysAgo(x.first) <= 7) c.new7++; });
+  const c = {FR:0, EU:0, US:0, watch:0, "?":0, new7:0, diff:0, llm:0, agent:0, rl:0};
+  HITS.forEach(x => { if (x.src==="watch") c.watch++; else c[x.geo] = (c[x.geo]||0)+1; if (daysAgo(x.first) <= 7) c.new7++; x.dirs.forEach(d => c[d]++); });
   return c;
 }
 function render(){
   const c = counts();
   const when = META && META.generated_at ? new Date(META.generated_at).toLocaleString("zh-CN",{timeZone:"Europe/Paris"}) + "（巴黎时间）" : "未知";
-  $("#upd").textContent = `最近一次抓取：${when} · 爬虫每天 08:30 巴黎时间跑一轮，有新增会发邮件；本页读同一份数据。`;
-  $("#stats").innerHTML = [["在挂命中", HITS.length], ["🇫🇷 法国", c.FR], ["🇺🇸 美国", c.US], ["🔬 实验室页面", c.watch], ["7 天内新增", c.new7]]
+  $("#upd").textContent = `最近一次抓取：${when} · GitHub Actions 每天自动跑一轮（排队延迟，通常巴黎时间中午前后更新），不发邮件，看这个页面就行。`;
+  $("#stats").innerHTML = [["在挂命中", HITS.length], ["7 天内新增", c.new7], ["扩散", c.diff], ["LLM", c.llm], ["Agent", c.agent], ["RL", c.rl], ["🇫🇷 / 🇪🇺 / 🇺🇸", `${c.FR} / ${c.EU} / ${c.US}`]]
     .map(([k,v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
   const q = state.q.trim().toLowerCase();
   const rows = HITS.filter(x => {
     const g = x.src==="watch" ? "watch" : x.geo;
+    if (state.dir !== "all" && !x.dirs.includes(state.dir)) return false;
     if (state.geo !== "all" && g !== state.geo) return false;
     if (!state.tiers.has(x.tier)) return false;
     if (state.newOnly && daysAgo(x.first) > 7) return false;
@@ -176,30 +208,40 @@ function render(){
   });
   $("#list").innerHTML = rows.length ? rows.map(card).join("") : `<div class="empty">没有匹配的条目。</div>`;
   const fails = META && META.fails && META.fails.length ? `失败源：${esc(META.fails.join(", "))}` : "";
-  $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 90 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。A = 标题直接命中 LLM/RL/训练/Agent；B = 泛 ML/AI 研究实习；C = ESN/咨询公司。美国只保留 Summer 2027（明写 Winter/Fall/2026 的已剔除）。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
+  $("#foot").innerHTML = `源：Ashby / Greenhouse / Lever / Workable 约 100 个看板 + NVIDIA + Amazon + Google + Apple + Inria + 实验室页面 + LinkedIn（法/美关键词）。只保留打得上四个方向（扩散 / LLM / Agent / RL）之一的实习；只招 PhD 的已剔除。A = 标题命中方向；B = 标题泛 ML/AI、方向只在描述里；C = ESN/咨询公司。美国只保留 Summer 2027。${fails}<br>数据与代码：<a href="https://github.com/xiao98/intern-monitor" target="_blank" rel="noopener">github.com/xiao98/intern-monitor</a>`;
+  renderSurvey();
 }
 function card(x){
   const isNew = daysAgo(x.first) <= 7;
-  const geo = x.src==="watch" ? "🔬 实验室" : x.geo==="FR" ? "🇫🇷" : x.geo==="US" ? "🇺🇸" : "🌐";
+  const geo = x.src==="watch" ? "🔬 实验室" : x.geo==="FR" ? "🇫🇷" : x.geo==="EU" ? "🇪🇺" : x.geo==="US" ? "🇺🇸" : "🌐";
   const meta = [x.loc && x.loc.slice(0,70), x.pub && `发布 ${x.pub}`, x.first && `首次抓到 ${x.first}`, `[${x.src}]`].filter(Boolean).join(" · ");
   const d = (x.desc||"").trim();
   return `<div class="card">
-    <div class="t"><span class="badge ${x.tier}">${x.tier}</span>${isNew?'<span class="badge new">NEW</span>':""}<span class="badge geo">${geo}</span>${esc(x.company)} — <a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>
+    <div class="t"><span class="badge ${x.tier}">${x.tier}</span>${isNew?'<span class="badge new">NEW</span>':""}<span class="badge geo">${geo}</span>${dirBadges(x.dirs)}${esc(x.company)} — <a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a></div>
     <div class="meta">${esc(meta)}</div>
     ${x.start_hint ? `<div class="hint">起始线索：…${esc(x.start_hint)}…</div>` : ""}
     ${d.length > 80 ? `<details><summary>描述</summary><pre>${esc(d.slice(0,2500))}</pre></details>` : ""}
   </div>`;
 }
-document.querySelectorAll("#geoBar .chip").forEach(el => el.onclick = () => { document.querySelectorAll("#geoBar .chip").forEach(e=>e.classList.remove("on")); el.classList.add("on"); state.geo = el.dataset.geo; render(); });
+const ST = {open:"开放中", soon:"预计", direct:"直联"};
+const TR = {offer:"转正 / 高薪", phd:"读博 / CIFRE", both:"两条线都通"};
+function renderSurvey(){
+  const okDir = g => state.dir === "all" || g.d.includes(state.dir);
+  const okTrack = g => state.track === "all" || g.t === state.track || g.t === "both";
+  const co = SURVEY_CO.filter(g => okDir(g) && okTrack(g));
+  $("#survey-co").innerHTML = co.length ? co.map(g => `<div class="group ${g.st}"><span class="n">${dirBadges(g.d)}${esc(g.org)}</span><span class="tag ${g.st}">${ST[g.st]}</span><span class="tag">${TR[g.t]}</span>${g.mon?'<span class="tag">已监控</span>':""}
+    <div class="d"><b>做什么：</b>${esc(g.what)}</div><div class="d"><b>门槛：</b>${esc(g.req)}</div><div class="d"><b>时间：</b>${esc(g.when)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("") : `<div class="empty">这个组合下没有企业条目。</div>`;
+  const lab = state.track === "offer" ? [] : SURVEY_LAB.filter(okDir);
+  $("#survey-lab").innerHTML = lab.length ? lab.map(g => `<div class="group ${g.st}"><span class="n">${dirBadges(g.d)}${esc(g.org)}</span><span class="tag ${g.st}">${ST[g.st]}</span>${g.mon?'<span class="tag">已监控</span>':""} <span class="d">${esc(g.who)}</span>
+    <div class="d">${esc(g.what)}</div><div class="d"><b>时间：</b>${esc(g.when)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("") : `<div class="empty">${state.track === "offer" ? "学术组属于读博线，切到「两条线」或「读博 / CIFRE 线」查看。" : "这个方向下没有课题组条目。"}</div>`;
+}
+function single(bar, key){ document.querySelectorAll(`#${bar} .chip`).forEach(el => el.onclick = () => { document.querySelectorAll(`#${bar} .chip`).forEach(e=>e.classList.remove("on")); el.classList.add("on"); state[key] = el.dataset[key]; render(); }); }
+single("dirBar", "dir"); single("geoBar", "geo"); single("trackBar", "track");
 document.querySelectorAll("#tierBar .chip[data-tier]").forEach(el => el.onclick = () => { el.classList.toggle("on"); el.classList.contains("on") ? state.tiers.add(el.dataset.tier) : state.tiers.delete(el.dataset.tier); render(); });
 $("#newOnly").onclick = () => { state.newOnly = !state.newOnly; $("#newOnly").classList.toggle("on", state.newOnly); render(); };
 $("#q").oninput = e => { state.q = e.target.value; render(); };
-function renderStatic(){
-  $("#predict").innerHTML = PREDICT.map(g => `<div class="group ${g.sec==="学术"?"watch":"direct"}"><span class="n">${esc(g.sec)} · ${esc(g.lab)}</span><span class="tag">把握 ${esc(g.p)}</span><span class="tag">${esc(g.fit)}</span> <span class="d">${esc(g.who)} · ${esc(g.mail)}</span><div class="d"><b>推断方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.why)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
-  $("#cnus").innerHTML = CNUS.map(g => `<div class="group ${g.go?"watch":"direct"}"><span class="n">${g.geo} ${esc(g.org)}</span><span class="tag">${g.go?"能投":"侦察"}</span><div class="d"><b>方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.note)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
-  $("#groups").innerHTML = GROUPS.map(g => `<div class="group ${g.watch?"watch":"direct"}"><span class="n">${g.tier===1?"一档":"二档"} · ${esc(g.name)}</span><span class="tag">${g.watch?"已监控":"需直联"}</span> <span class="d">${esc(g.who)}</span><div class="d">${esc(g.what)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
-}
-renderStatic();
+$("#cnus").innerHTML = CNUS.map(g => `<div class="group ${g.go?"open":"direct"}"><span class="n">${g.geo} ${esc(g.org)}</span><span class="tag">${g.go?"能投":"侦察"}</span><div class="d"><b>方向：</b>${esc(g.dir)}</div><div class="d">${esc(g.note)} <a href="${g.url}" target="_blank" rel="noopener">页面 ↗</a></div></div>`).join("");
+renderSurvey();
 load().catch(e => { $("#upd").textContent = "数据加载失败：" + e; });
 </script>
 </body>
