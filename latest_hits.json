@@ -1128,17 +1128,17 @@
  },
  {
   "src": "linkedin",
-  "company": "STMicroelectronics France",
-  "title": "STAGE - IA agentique pour la Technology Intelligence & Strategy - F/H",
-  "loc": "Crolles, Auvergne-Rhône-Alpes, France",
+  "company": "Alphalyr ✨",
+  "title": "Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité",
+  "loc": "Greater Paris Metropolitan Region",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-technology-intelligence-strategy-f-h-at-stmicroelectronics-france-4481756376",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4482134732",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1152,22 +1152,6 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
   "desc": "",
   "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Alphalyr ✨",
-  "title": "Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité",
-  "loc": "Greater Paris Metropolitan Region",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4482134732",
-  "desc": "",
-  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"

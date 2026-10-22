@@ -1,46 +1,5 @@
-实习监控 2026-10-22 · 新增 18 · 当前在挂命中 85 · 显示 18
-
-🇫🇷 FRANCE  (11)
-[A] llm · Alphalyr ✨ — Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité  (Greater Paris Metropolitan Region · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4482134732
-[A] agent · Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR  (Paris, France · 发布 2026-10-17 · [apple])
-    https://jobs.apple.com/en-us/details/200689695-2911
-[A] llm/agent · CEA — Intership Agentic Multimodal AI for Understanding and Reasoning over Complex Technical Documents-H/F  (Saclay, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/intership-agentic-multimodal-ai-for-understanding-and-reasoning-over-complex-technical-documents-h-f-at-cea-4480779935
-[A] agent · COLAS — Stagiaire Développeur Agentic H/F  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur-agentic-h-f-at-colas-4479405418
-[A] agent · Crédit Agricole Personal Finance & Mobility — Stage 2027 Développement Agents IA pour les Métiers H/F  (Massy, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-2027-d%C3%A9veloppement-agents-ia-pour-les-m%C3%A9tiers-h-f-at-cr%C3%A9dit-agricole-personal-finance-mobility-4482104192
-[A] agent · CS GROUP — Stage - Développement d’un agent IA pour génération de modèles métiers - Défense & Sécurité - Aix-en-Provence  (Aix-en-Provence, Provence-Alpes-Côte d'Azur, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99un-agent-ia-pour-g%C3%A9n%C3%A9ration-de-mod%C3%A8les-m%C3%A9tiers-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4482157953
-[A] agent · Dassault Systèmes — STAGE – Ingénieur Développement IA – Agent IA 3DVIA (F/H)  (Paris, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-d%C3%A9veloppement-ia-%E2%80%93-agent-ia-3dvia-f-h-at-dassault-syst%C3%A8mes-4482138321
-[A] llm · Dassault Systèmes — STAGE – Ingénieur IA Générative / LLM (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323
-[A] llm · Thales — STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H  (Gennevilliers, Île-de-France, France · 发布 2026-10-20 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233
-[B] diff/llm · Apple — Internship - Machine Learning Research  (Paris, France · 发布 2026-09-16 · [apple])
-    https://jobs.apple.com/en-us/details/200683768-2911
-[C] llm · Ekimetrics — Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models  (Paris, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685
-
-🇪🇺 EUROPE  (7)
-[A] agent · sierra — Software Engineer Intern, Agent (London 2027)  (London · 发布 2026-10-20 · [ashby])
-    起始线索: …The intern program is open to students graduating December 2027 - June 2028…
-    https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff
-[B] agent · NVIDIA — AI Compiler Formal Verification Intern  (Switzerland, Zurich · 发布 2026-10-20 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025
-[B] agent · NVIDIA — AI Developer Technology Intern - 2027  (Germany, Munich · 发布 2026-10-20 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497
-[B] diff/llm · NVIDIA — GenAI Algorithms Intern – Model Optimization for Inference  (Poland, Warsaw, Poland, Remote · 发布 2026-10-20 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377
-[B] llm · perplexity — Internship - Machine Learning Research Engineer  (Berlin, Remote · 发布 2026-09-02 · [ashby])
-    https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c
-[B] diff/llm · waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism  (London, England, United Kingdom, London (UK-LON-40BR) · 发布 2026-09-17 · [greenhouse])
-    https://careers.withwaymo.com/jobs?gh_jid=8208465
-[B] agent · waymo — 2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure  (London, England, United Kingdom, London (UK-LON-40BR) · 发布 2026-09-18 · [greenhouse])
-    https://careers.withwaymo.com/jobs?gh_jid=8205680
+实习监控 2026-10-22 · 新增 0 · 当前在挂命中 84 · 显示 0
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: watch/CentraleSupélec MICS:-1, watch/Dauphine MILES open positions:503, watch/IRIT Toulouse stages:-1, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
+失败源: watch/Dauphine MILES open positions:503, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
