@@ -1,12 +1,14 @@
 {
- "generated_at": "2026-10-21T10:24:23+00:00",
- "raw": 10682,
- "hits": 284,
- "new": 46,
+ "generated_at": "2026-10-22T07:21:37+00:00",
+ "raw": 10359,
+ "hits": 85,
+ "new": 18,
  "fails": [
-  "ashby/alpic:404",
-  "watch/ANITI Toulouse internships:503",
+  "watch/CentraleSupélec MICS:-1",
   "watch/Dauphine MILES open positions:503",
-  "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1"
+  "watch/IRIT Toulouse stages:-1",
+  "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1",
+  "watch/LIG GETALP Grenoble:-1",
+  "watch/LISN Paris-Saclay (stages):-1"
  ]
 }

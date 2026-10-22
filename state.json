@@ -8559,5 +8559,131 @@
 "company": "Microsoft",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
+"first_seen": "2026-10-22",
+"title": "Internship - Machine Learning Research Engineer",
+"company": "perplexity",
+"geo": "EU",
+"tier": "B"
+},
+"https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff": {
+"first_seen": "2026-10-22",
+"title": "Software Engineer Intern, Agent (London 2027)",
+"company": "sierra",
+"geo": "EU",
+"tier": "A"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8208465": {
+"first_seen": "2026-10-22",
+"title": "2027 Summer Intern, MS/PhD, Machine Learning, Simulation Realism",
+"company": "waymo",
+"geo": "EU",
+"tier": "B"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8205680": {
+"first_seen": "2026-10-22",
+"title": "2027 Summer Intern, MS/PhD, Sim-Realism ML Infrastructure",
+"company": "waymo",
+"geo": "EU",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497": {
+"first_seen": "2026-10-22",
+"title": "AI Developer Technology Intern - 2027",
+"company": "NVIDIA",
+"geo": "EU",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025": {
+"first_seen": "2026-10-22",
+"title": "AI Compiler Formal Verification Intern",
+"company": "NVIDIA",
+"geo": "EU",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377": {
+"first_seen": "2026-10-22",
+"title": "GenAI Algorithms Intern – Model Optimization for Inference",
+"company": "NVIDIA",
+"geo": "EU",
+"tier": "B"
+},
+"https://jobs.apple.com/en-us/details/200689695-2911": {
+"first_seen": "2026-10-22",
+"title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+"company": "Apple",
+"geo": "FR",
+"tier": "A"
+},
+"https://jobs.apple.com/en-us/details/200683768-2911": {
+"first_seen": "2026-10-22",
+"title": "Internship - Machine Learning Research",
+"company": "Apple",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/intership-agentic-multimodal-ai-for-understanding-and-reasoning-over-complex-technical-documents-h-f-at-cea-4480779935": {
+"first_seen": "2026-10-22",
+"title": "Intership Agentic Multimodal AI for Understanding and Reasoning over Complex Technical Documents-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur-agentic-h-f-at-colas-4479405418": {
+"first_seen": "2026-10-22",
+"title": "Stagiaire Développeur Agentic H/F",
+"company": "COLAS",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-d%C3%A9veloppement-agents-ia-pour-les-m%C3%A9tiers-h-f-at-cr%C3%A9dit-agricole-personal-finance-mobility-4482104192": {
+"first_seen": "2026-10-22",
+"title": "Stage 2027 Développement Agents IA pour les Métiers H/F",
+"company": "Crédit Agricole Personal Finance & Mobility",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323": {
+"first_seen": "2026-10-22",
+"title": "STAGE – Ingénieur IA Générative / LLM (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685": {
+"first_seen": "2026-10-22",
+"title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
+"company": "Ekimetrics",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-d%C3%A9veloppement-ia-%E2%80%93-agent-ia-3dvia-f-h-at-dassault-syst%C3%A8mes-4482138321": {
+"first_seen": "2026-10-22",
+"title": "STAGE – Ingénieur Développement IA – Agent IA 3DVIA (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4482134732": {
+"first_seen": "2026-10-22",
+"title": "Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité",
+"company": "Alphalyr ✨",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99un-agent-ia-pour-g%C3%A9n%C3%A9ration-de-mod%C3%A8les-m%C3%A9tiers-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4482157953": {
+"first_seen": "2026-10-22",
+"title": "Stage - Développement d’un agent IA pour génération de modèles métiers - Défense & Sécurité - Aix-en-Provence",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233": {
+"first_seen": "2026-10-22",
+"title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
 }
 }
