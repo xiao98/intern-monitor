@@ -1,10 +1,9 @@
 {
- "generated_at": "2026-10-22T10:26:09+00:00",
- "raw": 10521,
- "hits": 84,
- "new": 0,
+ "generated_at": "2026-10-23T10:19:11+00:00",
+ "raw": 10568,
+ "hits": 85,
+ "new": 9,
  "fails": [
-  "watch/Dauphine MILES open positions:503",
   "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1",
   "watch/LIG GETALP Grenoble:-1",
   "watch/LISN Paris-Saclay (stages):-1"

@@ -1,5 +1,27 @@
-实习监控 2026-10-22 · 新增 0 · 当前在挂命中 84 · 显示 0
+实习监控 2026-10-23 · 新增 9 · 当前在挂命中 85 · 显示 9
+
+🇫🇷 FRANCE  (8)
+[A] agent · IDEMIA Public Security — Engineering Internship - AI Agent Development  (Pontoise, Île-de-France, France · 发布 2026-10-23 · [linkedin])
+    https://fr.linkedin.com/jobs/view/engineering-internship-ai-agent-development-at-idemia-public-security-4482843906
+[A] agent/rl · Meta — Research Scientist Intern, Muse RL and Agents Team (MSc)  (Paris, Île-de-France, France · 发布 2026-10-23 · [linkedin])
+    https://fr.linkedin.com/jobs/view/research-scientist-intern-muse-rl-and-agents-team-msc-at-meta-4480634833
+[A] agent · RCA — IA Agentique - Stage de fin d’études (F/H)  (Saint-Herblain, Pays de la Loire, France · 发布 2026-10-23 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ia-agentique-stage-de-fin-d%E2%80%99%C3%A9tudes-f-h-at-rca-4482863338
+[A] agent · Siemens Digital Industries Software — Stage - AI Agent Evaluation for Simcenter Amesim m/f - Strategic Student Program  (Villeurbanne, Auvergne-Rhône-Alpes, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-m-f-strategic-student-program-at-siemens-digital-industries-software-4481382311
+[A] agent · Siemens Digital Industries Software — Stage - Évaluation d’agents IA pour Simcenter Amesim  (Villeurbanne, Auvergne-Rhône-Alpes, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-d%E2%80%99agents-ia-pour-simcenter-amesim-at-siemens-digital-industries-software-4481376618
+[B] llm · Bouygues Telecom — Stage ingénieur IA générative appliquée au développement logiciel F/H  (Meudon, Île-de-France, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-au-d%C3%A9veloppement-logiciel-f-h-at-bouygues-telecom-4482705444
+[B] llm · Louis Vuitton — Stage - Assistant.e AI/GenAI Engineer (F/H) - Janvier 2027  (Paris, Île-de-France, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-assistant-e-ai-genai-engineer-f-h-janvier-2027-at-louis-vuitton-4482457822
+[C] agent · ALTEN — Stage IA Générative – Architectures Agentiques (H/F)  (Bezons, Île-de-France, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-%E2%80%93-architectures-agentiques-h-f-at-alten-4480047153
+
+🇺🇸 USA  (1)
+[A] llm · TikTok — LLM Post-training Engineer Intern (Research & Product) - 2027 Summer [Summer 2027 ✓]  (San Jose, CA · 发布 2026-10-21 · [linkedin])
+    https://www.linkedin.com/jobs/view/llm-post-training-engineer-intern-research-product-2027-summer-at-tiktok-4449973496
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: watch/Dauphine MILES open positions:503, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
+失败源: watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1

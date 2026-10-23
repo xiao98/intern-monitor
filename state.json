@@ -8685,5 +8685,68 @@
 "company": "Thales",
 "geo": "FR",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/engineering-internship-ai-agent-development-at-idemia-public-security-4482843906": {
+"first_seen": "2026-10-23",
+"title": "Engineering Internship - AI Agent Development",
+"company": "IDEMIA Public Security",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-m-f-strategic-student-program-at-siemens-digital-industries-software-4481382311": {
+"first_seen": "2026-10-23",
+"title": "Stage - AI Agent Evaluation for Simcenter Amesim m/f - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-au-d%C3%A9veloppement-logiciel-f-h-at-bouygues-telecom-4482705444": {
+"first_seen": "2026-10-23",
+"title": "Stage ingénieur IA générative appliquée au développement logiciel F/H",
+"company": "Bouygues Telecom",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-%E2%80%93-architectures-agentiques-h-f-at-alten-4480047153": {
+"first_seen": "2026-10-23",
+"title": "Stage IA Générative – Architectures Agentiques (H/F)",
+"company": "ALTEN",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-assistant-e-ai-genai-engineer-f-h-janvier-2027-at-louis-vuitton-4482457822": {
+"first_seen": "2026-10-23",
+"title": "Stage - Assistant.e AI/GenAI Engineer (F/H) - Janvier 2027",
+"company": "Louis Vuitton",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-d%E2%80%99agents-ia-pour-simcenter-amesim-at-siemens-digital-industries-software-4481376618": {
+"first_seen": "2026-10-23",
+"title": "Stage - Évaluation d’agents IA pour Simcenter Amesim",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/research-scientist-intern-muse-rl-and-agents-team-msc-at-meta-4480634833": {
+"first_seen": "2026-10-23",
+"title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
+"company": "Meta",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ia-agentique-stage-de-fin-d%E2%80%99%C3%A9tudes-f-h-at-rca-4482863338": {
+"first_seen": "2026-10-23",
+"title": "IA Agentique - Stage de fin d’études (F/H)",
+"company": "RCA",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/llm-post-training-engineer-intern-research-product-2027-summer-at-tiktok-4449973496": {
+"first_seen": "2026-10-23",
+"title": "LLM Post-training Engineer Intern (Research & Product) - 2027 Summer  [Summer 2027 ✓]",
+"company": "TikTok",
+"geo": "US",
+"tier": "A"
 }
 }

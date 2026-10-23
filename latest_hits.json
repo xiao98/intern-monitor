@@ -119,24 +119,6 @@
  },
  {
   "src": "ashby",
-  "company": "modal",
-  "title": "ML Research Intern",
-  "loc": "New York, San Francisco",
-  "etype": "FullTime",
-  "pub": "2026-07-28",
-  "url": "https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a",
-  "desc": "ABOUT US:\nAI NEEDS A NEW INFRASTRUCTURE LAYER. WE'RE BUILDING IT AT MODAL.\n\nEvery era of computing brought new workloads that previous infrastructure couldn't support: mainframes, databases, and the cloud. Each time, the company that rebuilt the layer underneath defined the decade. AI is no different, except it touches everything instead of one slice, and the window to build the layer underneath it is open right now.\n\n\nOur customers include category-defining companies like Ramp https://modal.com/blog/how-ramp-built-a-full-context-background-coding-agent-on-modal, Cognition, DoorDash, and Suno. They rely on Modal for instant GPU access, sub-second container starts, and native storage, so it's simple to serve low-latency inference, fine-tune models, and access production-ready sandboxes at scale.\n\n\nWe've passed $1B in annualized run rate, up 15x from a year ago. In October 2026 we raised a $750M Series D led by Accel at a $15.75B valuation.\n\n\nOur team includes creators of popular open-source projects (e.g.,Seaborn https://github.com/mwaskom/seaborn,Luigi https://github.com/spotify/luigi), academic researchers, international olympiad medalists, and experienced engineering and product leaders with decades of experience.\n\n\n\n\nTHE ROLE:\n\nWe are looking for PhD research interns with strong research experience in reinforcement learning, machine learning, and foundation models, including large language and multimodal models, to join our research team. This internship is well suited to candidates interested in improving existing methods and developing new techniques for large-scale model training, optimization, and inference, extending models to long-context and long-horizon tasks, and improving inference-time efficiency, reliability, and robustness in high-stakes real-world deployments.\n\n\n\n\nPREFERRED QUALIFICATIONS:\n\n 1. Currently pursuing a PhD in computer science, machine learning, or a related field.\n\n 2. A demonstrated record of research in reinforcement learning, machine learning, foundation models, or related areas.\n\n 3. Experience developing and evaluating large-scale models or machine learning systems.\n\n 4. Familiarity with distributed training, large-scale inference, or multi-GPU environments.\n\n 5. Publications at leading venues such as NeurIPS, ICML, ICLR, CVPR, CoRL, UAI, JMLR, or TMLR.\n\n 6. Strong programming and engineering skills, with the ability to translate research ideas into working implementations.\n\n 7. A collaborative, mission-driven mindset and the ability to work effectively across research and engineering teams.",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "agent",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "ashby",
   "company": "pika",
   "title": "Research Intern (BS/MS/PhD)",
   "loc": "Palo Alto HQ",
@@ -639,23 +621,6 @@
  {
   "src": "watch",
   "company": "CEA",
-  "title": "2026-42112 - Stage Jumeau numérique immersif et IA agentique pour l'industrie-Saclay-H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42112&idOrigine=502&LCID=1036&offerReference=2026-42112",
-  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\n\r\nContexte :\r\nLe développement du jumeau numérique s’appuiera sur Omniverse et OpenUSD pour l’importation et le rendu graphique des modèles 3d, sur le moteur physique XDE pour la simulation interactive et sur un LLM local de type Qwen pour préparer la scénarisation du montage mécanique hors ligne et éventuellement pour adapter en temps réel le scénario et la difficulté en fonction des interactions de l’utilisateur.\r\nQu'attendons-nous de vous?\r\nLe but du stage sera de mettre en place le jumeau numérique d’une procédure d’assemblage ou de maintenance en mixant programmation agentique et réalité étendue.\r\n\r\n\r\n#Cea-List<br /><br />\r\nFormation école d’ingénieur ou universitaire (bac +4 ou +5 )\r\nLa maîtrise de langage de programmation, notamment Python, C++ ou C# ou est obligatoire.\r\nLa maîtrise de la plateforme Nvidia Omniverse est importante ou à défaut la maîtrise d’un moteur de jeu (Unreal, Unity, Godot, …).\r\nLa maîtrise de modèles d'intelligences artificielles agentiques locaux (Qwen, DeepSeek, GLM, …) est importante.\r\nLa maîtrise de logiciel de modélisation 3D (Blender, FreeCAD, MeshLab, …) est un plus.\r\nLa connaissance des outils de développement dédié à la RV/RA comme SteamVR ou OpenXR est utile.<br />\r\n<b>Ville : </b>Saclay<br />\r\n<b>Langue / Niveau : </b><br />\r\nFrançais : Courant<br />\r\n<b>Langue / Niveau : </b><br />\r\nAnglais : Courant<br />\r\n",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
   "title": "2026-41932 - Stage KV Cache design for efficient transformer deployment in edge systems-Saclay-H/F",
   "loc": "France",
   "etype": "",
@@ -667,6 +632,23 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "watch",
+  "company": "CEA",
+  "title": "2026-42112 - Stage Jumeau numérique immersif et IA agentique pour l'industrie-Saclay-H/F",
+  "loc": "France",
+  "etype": "",
+  "pub": "",
+  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42112&idOrigine=502&LCID=1036&offerReference=2026-42112",
+  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\n\r\nContexte :\r\nLe développement du jumeau numérique s’appuiera sur Omniverse et OpenUSD pour l’importation et le rendu graphique des modèles 3d, sur le moteur physique XDE pour la simulation interactive et sur un LLM local de type Qwen pour préparer la scénarisation du montage mécanique hors ligne et éventuellement pour adapter en temps réel le scénario et la difficulté en fonction des interactions de l’utilisateur.\r\nQu'attendons-nous de vous?\r\nLe but du stage sera de mettre en place le jumeau numérique d’une procédure d’assemblage ou de maintenance en mixant programmation agentique et réalité étendue.\r\n\r\n\r\n#Cea-List<br /><br />\r\nFormation école d’ingénieur ou universitaire (bac +4 ou +5 )\r\nLa maîtrise de langage de programmation, notamment Python, C++ ou C# ou est obligatoire.\r\nLa maîtrise de la plateforme Nvidia Omniverse est importante ou à défaut la maîtrise d’un moteur de jeu (Unreal, Unity, Godot, …).\r\nLa maîtrise de modèles d'intelligences artificielles agentiques locaux (Qwen, DeepSeek, GLM, …) est importante.\r\nLa maîtrise de logiciel de modélisation 3D (Blender, FreeCAD, MeshLab, …) est un plus.\r\nLa connaissance des outils de développement dédié à la RV/RA comme SteamVR ou OpenXR est utile.<br />\r\n<b>Ville : </b>Saclay<br />\r\n<b>Langue / Niveau : </b><br />\r\nFrançais : Courant<br />\r\n<b>Langue / Niveau : </b><br />\r\nAnglais : Courant<br />\r\n",
+  "note": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -792,22 +774,6 @@
  },
  {
   "src": "linkedin",
-  "company": "COLAS",
-  "title": "Stagiaire Développeur Agentic H/F",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stagiaire-d%C3%A9veloppeur-agentic-h-f-at-colas-4479405418",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Crédit Agricole Personal Finance & Mobility",
   "title": "Stage 2027 Développement Agents IA pour les Métiers H/F",
   "loc": "Massy, Île-de-France, France",
@@ -824,17 +790,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Silae",
-  "title": "Stage de fin d'études- Ingénieur IA/LLM",
-  "loc": "Paris, Île-de-France, France",
+  "company": "IDEMIA Public Security",
+  "title": "Engineering Internship - AI Agent Development",
+  "loc": "Pontoise, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-15",
-  "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-ia-llm-at-silae-4470936586",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/engineering-internship-ai-agent-development-at-idemia-public-security-4482843906",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -856,65 +822,33 @@
  },
  {
   "src": "linkedin",
-  "company": "Framatome",
-  "title": "Stage - Ingénieur IA agentique - Base Installée F/H",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
+  "company": "Ekimetrics",
+  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Ingénieur Développement d'Agents IA – F/H",
-  "loc": "Cholet, Pays de la Loire, France",
-  "etype": "Internship",
-  "pub": "2026-10-16",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-d-agents-ia-%E2%80%93-f-h-at-thales-4480354961",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Equancy | Groupe EDG",
-  "title": "Stage Développeur Full Stack – IA Générative (React / Python) – Paris/IDF – 1 500 € | M2 - 6 mois",
-  "loc": "Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-16",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-full-stack-%E2%80%93-ia-g%C3%A9n%C3%A9rative-react-python-%E2%80%93-paris-idf-%E2%80%93-1-500-%E2%82%AC-m2-6-mois-at-equancy-%C2%A0groupe-edg-4480373036",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Groupe SII",
-  "title": "STAGE/Ingénieur R&D Gestion IA génératives (F/H)",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-10-15",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-r-d-gestion-ia-g%C3%A9n%C3%A9ratives-f-h-at-groupe-sii-4479884457",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
   "desc": "",
   "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CS GROUP",
+  "title": "Stage - Développement d’un agent IA pour génération de modèles métiers - Défense & Sécurité - Aix-en-Provence",
+  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99un-agent-ia-pour-g%C3%A9n%C3%A9ration-de-mod%C3%A8les-m%C3%A9tiers-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4482157953",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -936,14 +870,30 @@
  },
  {
   "src": "linkedin",
-  "company": "ALTEN",
-  "title": "Stage Innovation : Ingénieur Intelligence Artificielle Générative / Système de transport intelligent",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - AI Agent Evaluation for Simcenter Amesim m/f - Strategic Student Program",
+  "loc": "Villeurbanne, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-10-16",
-  "url": "https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-syst%C3%A8me-de-transport-intelligent-at-alten-4479343414",
+  "pub": "2026-10-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-m-f-strategic-student-program-at-siemens-digital-industries-software-4481382311",
   "desc": "",
-  "tier": "C",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Bouygues Telecom",
+  "title": "Stage ingénieur IA générative appliquée au développement logiciel F/H",
+  "loc": "Meudon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-au-d%C3%A9veloppement-logiciel-f-h-at-bouygues-telecom-4482705444",
+  "desc": "",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -952,17 +902,49 @@
  },
  {
   "src": "linkedin",
-  "company": "Ekimetrics",
-  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
-  "loc": "Paris, Île-de-France, France",
+  "company": "ALTEN",
+  "title": "Stage IA Générative – Architectures Agentiques (H/F)",
+  "loc": "Bezons, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
+  "pub": "2026-10-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-%E2%80%93-architectures-agentiques-h-f-at-alten-4480047153",
   "desc": "",
   "tier": "C",
   "geo": "FR",
   "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Louis Vuitton",
+  "title": "Stage - Assistant.e AI/GenAI Engineer (F/H) - Janvier 2027",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-assistant-e-ai-genai-engineer-f-h-janvier-2027-at-louis-vuitton-4482457822",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Évaluation d’agents IA pour Simcenter Amesim",
+  "loc": "Villeurbanne, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-d%E2%80%99agents-ia-pour-simcenter-amesim-at-siemens-digital-industries-software-4481376618",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -974,22 +956,6 @@
   "etype": "Internship",
   "pub": "2026-10-17",
   "url": "https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4477782547",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "The One Studio",
-  "title": "Stagiaire Ingénieur IA — Agents & Automatisation",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-ia-%E2%80%94-agents-automatisation-at-the-one-studio-4480733981",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1016,33 +982,18 @@
  },
  {
   "src": "linkedin",
-  "company": "Schneider Electric",
-  "title": "Stage – IA Agentique pour détection et investigation d’anomalies Industrielles – F/H",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "Meta",
+  "title": "Research Scientist Intern, Muse RL and Agents Team (MSc)",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ia-agentique-pour-d%C3%A9tection-et-investigation-d%E2%80%99anomalies-industrielles-%E2%80%93-f-h-at-schneider-electric-4480465303",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/research-scientist-intern-muse-rl-and-agents-team-msc-at-meta-4480634833",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Stellantis",
-  "title": "Stage : Etude des techniques d'IA agentiques pour la création de modèles réduits de simulations",
-  "loc": "Poissy, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-etude-des-techniques-d-ia-agentiques-pour-la-cr%C3%A9ation-de-mod%C3%A8les-r%C3%A9duits-de-simulations-at-stellantis-4471201003",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
+   "agent",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1128,44 +1079,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Alphalyr ✨",
-  "title": "Stage Data Scientist R&D H/F - Modélisation Prédictive, Inférence Causale et Multimodalité",
-  "loc": "Greater Paris Metropolitan Region",
+  "company": "RCA",
+  "title": "IA Agentique - Stage de fin d’études (F/H)",
+  "loc": "Saint-Herblain, Pays de la Loire, France",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-r-d-h-f-mod%C3%A9lisation-pr%C3%A9dictive-inf%C3%A9rence-causale-et-multimodalit%C3%A9-at-alphalyr-%E2%9C%A8-4482134732",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Quobly",
-  "title": "Stage IA générative pour données scientifiques",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-15",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CS GROUP",
-  "title": "Stage - Développement d’un agent IA pour génération de modèles métiers - Défense & Sécurité - Aix-en-Provence",
-  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99un-agent-ia-pour-g%C3%A9n%C3%A9ration-de-mod%C3%A8les-m%C3%A9tiers-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4482157953",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/ia-agentique-stage-de-fin-d%E2%80%99%C3%A9tudes-f-h-at-rca-4482863338",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1208,6 +1127,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Schneider Electric",
+  "title": "Stage – IA Agentique pour détection et investigation d’anomalies Industrielles – F/H",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-20",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ia-agentique-pour-d%C3%A9tection-et-investigation-d%E2%80%99anomalies-industrielles-%E2%80%93-f-h-at-schneider-electric-4480465303",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Thales",
   "title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
   "loc": "Gennevilliers, Île-de-France, France",
@@ -1224,17 +1159,49 @@
  },
  {
   "src": "linkedin",
-  "company": "ALTEN",
-  "title": "Stage Innovation : Ingénieur Intelligence Artificielle Générative",
-  "loc": "Sèvres, Île-de-France, France",
+  "company": "Stellantis",
+  "title": "Stage : Etude des techniques d'IA agentiques pour la création de modèles réduits de simulations",
+  "loc": "Poissy, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-16",
-  "url": "https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-alten-4479327633",
+  "pub": "2026-10-20",
+  "url": "https://fr.linkedin.com/jobs/view/stage-etude-des-techniques-d-ia-agentiques-pour-la-cr%C3%A9ation-de-mod%C3%A8les-r%C3%A9duits-de-simulations-at-stellantis-4471201003",
   "desc": "",
-  "tier": "C",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE - Ingénieur Développement d'Agents IA – F/H",
+  "loc": "Cholet, Pays de la Loire, France",
+  "etype": "Internship",
+  "pub": "2026-10-16",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-d-agents-ia-%E2%80%93-f-h-at-thales-4480354961",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Framatome",
+  "title": "Stage - Ingénieur IA agentique - Base Installée F/H",
+  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-20",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1322,6 +1289,54 @@
  },
  {
   "src": "linkedin",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Human-Robot Interaction Based on Multimodal Scene Understanding",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-10-20",
+  "url": "https://www.linkedin.com/jobs/view/internship-human-robot-interaction-based-on-multimodal-scene-understanding-at-mitsubishi-electric-research-laboratories-4480458955",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TikTok",
+  "title": "Research Engineer Intern, Agentic Systems & AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "Seattle, WA",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://www.linkedin.com/jobs/view/research-engineer-intern-agentic-systems-ai-infrastructure-tiktok-generalized-arch-2027-summer-at-tiktok-4447919062",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "GenScript",
+  "title": "AI Intern, Enterprise Agent Development",
+  "loc": "Piscataway, NJ",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://www.linkedin.com/jobs/view/ai-intern-enterprise-agent-development-at-genscript-4472363275",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Smith+Nephew",
   "title": "Intern Agentic AI Software Engineering",
   "loc": "Andover, MA",
@@ -1338,6 +1353,22 @@
  },
  {
   "src": "linkedin",
+  "company": "TikTok",
+  "title": "LLM Post-training Engineer Intern (Research & Product) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "San Jose, CA",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://www.linkedin.com/jobs/view/llm-post-training-engineer-intern-research-product-2027-summer-at-tiktok-4449973496",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Sandisk",
   "title": "GenAI & AI/ML Engineering Summer Intern",
   "loc": "Milpitas, CA",
@@ -1349,22 +1380,6 @@
   "geo": "US",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Nokia",
-  "title": "AI-Agent Development Co-op",
-  "loc": "San Jose, CA",
-  "etype": "Internship",
-  "pub": "2026-10-17",
-  "url": "https://www.linkedin.com/jobs/view/ai-agent-development-co-op-at-nokia-4461409300",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
