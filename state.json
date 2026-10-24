@@ -8748,5 +8748,68 @@
 "company": "TikTok",
 "geo": "US",
 "tier": "A"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8304574": {
+"first_seen": "2026-10-24",
+"title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations  [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "B"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8287385": {
+"first_seen": "2026-10-24",
+"title": "2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency  [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "B"
+},
+"https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42301&idOrigine=502&LCID=1036&offerReference=2026-42301": {
+"first_seen": "2026-10-24",
+"title": "2026-42301 - Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-f-m-strategic-student-program-at-siemens-digital-industries-software-4481382311": {
+"first_seen": "2026-10-24",
+"title": "Stage - AI Agent Evaluation for Simcenter Amesim f/m - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863": {
+"first_seen": "2026-10-24",
+"title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-d%C3%A9veloppeur%C2%B7euse-javascript-typescript-ia-g%C3%A9n%C3%A9rative-f-h-at-digital4better-4483136721": {
+"first_seen": "2026-10-24",
+"title": "Stage de fin d'études - Développeur·euse JavaScript / TypeScript & IA générative F/H",
+"company": "Digital4Better",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-machine-learning-foundation-model-h-f-at-parrot-4483129367": {
+"first_seen": "2026-10-24",
+"title": "Stage - Machine Learning - Foundation Model (H/F)",
+"company": "Parrot",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-4483127613": {
+"first_seen": "2026-10-24",
+"title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
+"company": "Merck",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/summer-internship-program-2027-agentic-ai-data-science-intern-at-ice-4483180328": {
+"first_seen": "2026-10-24",
+"title": "Summer Internship Program 2027 - Agentic AI Data Science Intern",
+"company": "ICE",
+"geo": "US",
+"tier": "A"
 }
 }
