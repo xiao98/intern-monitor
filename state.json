@@ -8811,5 +8811,26 @@
 "company": "ICE",
 "geo": "US",
 "tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-r-d-intern-at-bosch-usa-4480669990": {
+"first_seen": "2026-10-25",
+"title": "Agentic AI R&D Intern",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-engineer-intern-at-docusign-4481930370": {
+"first_seen": "2026-10-25",
+"title": "Agentic AI Engineer Intern",
+"company": "Docusign",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156": {
+"first_seen": "2026-10-25",
+"title": "Internship - Multimodal Embodied AI",
+"company": "Mitsubishi Electric Research Laboratories",
+"geo": "US",
+"tier": "A"
 }
 }

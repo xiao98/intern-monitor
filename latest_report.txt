@@ -1,27 +1,13 @@
-实习监控 2026-10-24 · 新增 9 · 当前在挂命中 84 · 显示 9
+实习监控 2026-10-25 · 新增 3 · 当前在挂命中 92 · 显示 3
 
-🇫🇷 FRANCE  (5)
-[A] agent · CEA — 2026-42301 - Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F  (France · [watch])
-    https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42301&idOrigine=502&LCID=1036&offerReference=2026-42301
-[A] agent · CEA — Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F  (Saclay, Île-de-France, France · 发布 2026-10-23 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863
-[A] llm · Parrot — Stage - Machine Learning - Foundation Model (H/F)  (Paris, Île-de-France, France · 发布 2026-10-23 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-machine-learning-foundation-model-h-f-at-parrot-4483129367
-[A] agent · Siemens Digital Industries Software — Stage - AI Agent Evaluation for Simcenter Amesim f/m - Strategic Student Program  (Villeurbanne, Auvergne-Rhône-Alpes, France · 发布 2026-10-22 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-f-m-strategic-student-program-at-siemens-digital-industries-software-4481382311
-[B] llm · Digital4Better — Stage de fin d'études - Développeur·euse JavaScript / TypeScript & IA générative F/H  (Rennes, Brittany, France · 发布 2026-10-23 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-d%C3%A9veloppeur%C2%B7euse-javascript-typescript-ia-g%C3%A9n%C3%A9rative-f-h-at-digital4better-4483136721
-
-🇺🇸 USA  (4)
-[A] agent · ICE — Summer Internship Program 2027 - Agentic AI Data Science Intern  (Jacksonville, FL · 发布 2026-10-24 · [linkedin])
-    https://www.linkedin.com/jobs/view/summer-internship-program-2027-agentic-ai-data-science-intern-at-ice-4483180328
-[A] llm · Merck — 2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern  (Cambridge, MA · 发布 2026-10-23 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-4483127613
-[B] llm · waymo — 2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations [Summer 2027 ✓]  (San Francisco, CA, USA, San Francisco (US-SFO-MKT555) · 发布 2026-10-23 · [greenhouse])
-    https://careers.withwaymo.com/jobs?gh_jid=8304574
-[B] rl · waymo — 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency [Summer 2027 ✓]  (Mountain View, CA, USA, Mountain View (US-MTV-EMF680) · 发布 2026-10-23 · [greenhouse])
-    https://careers.withwaymo.com/jobs?gh_jid=8287385
+🇺🇸 USA  (3)
+[A] agent · Bosch USA — Agentic AI R&D Intern  (Sunnyvale, CA · 发布 2026-10-23 · [linkedin])
+    https://www.linkedin.com/jobs/view/agentic-ai-r-d-intern-at-bosch-usa-4480669990
+[A] agent · Docusign — Agentic AI Engineer Intern  (San Francisco, CA · 发布 2026-10-23 · [linkedin])
+    https://www.linkedin.com/jobs/view/agentic-ai-engineer-intern-at-docusign-4481930370
+[A] llm · Mitsubishi Electric Research Laboratories — Internship - Multimodal Embodied AI  (Cambridge, MA · 发布 2026-10-24 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
+失败源: watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
