@@ -8832,5 +8832,33 @@
 "company": "Mitsubishi Electric Research Laboratories",
 "geo": "US",
 "tier": "A"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597": {
+"first_seen": "2026-10-26",
+"title": "GenAI Algorithms Intern – Model Optimization for Inference",
+"company": "NVIDIA",
+"geo": "EU",
+"tier": "B"
+},
+"https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42312&idOrigine=502&LCID=1036&offerReference=2026-42312": {
+"first_seen": "2026-10-26",
+"title": "2026-42312 - Stage Génération de bases de connaissances de planification à partir de procédures-Saclay-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005": {
+"first_seen": "2026-10-26",
+"title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
+"company": "ArianeGroup",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-la-conception-f-h-at-safran-4481442098": {
+"first_seen": "2026-10-26",
+"title": "STAGE : IA générative pour la conception F/H",
+"company": "Safran",
+"geo": "FR",
+"tier": "B"
 }
 }

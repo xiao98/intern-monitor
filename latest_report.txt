@@ -1,13 +1,18 @@
-实习监控 2026-10-25 · 新增 3 · 当前在挂命中 92 · 显示 3
+实习监控 2026-10-26 · 新增 4 · 当前在挂命中 95 · 显示 4
 
-🇺🇸 USA  (3)
-[A] agent · Bosch USA — Agentic AI R&D Intern  (Sunnyvale, CA · 发布 2026-10-23 · [linkedin])
-    https://www.linkedin.com/jobs/view/agentic-ai-r-d-intern-at-bosch-usa-4480669990
-[A] agent · Docusign — Agentic AI Engineer Intern  (San Francisco, CA · 发布 2026-10-23 · [linkedin])
-    https://www.linkedin.com/jobs/view/agentic-ai-engineer-intern-at-docusign-4481930370
-[A] llm · Mitsubishi Electric Research Laboratories — Internship - Multimodal Embodied AI  (Cambridge, MA · 发布 2026-10-24 · [linkedin])
-    https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156
+🇫🇷 FRANCE  (3)
+[A] llm · ArianeGroup — STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales  (Les Mureaux, Île-de-France, France · 发布 2026-10-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005
+[B] llm · CEA — 2026-42312 - Stage Génération de bases de connaissances de planification à partir de procédures-Saclay-H/F  (France · [watch])
+    起始线索: …Autonomie, rigueur scientifique et capacité à mener une démarche expérimentale…
+    https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42312&idOrigine=502&LCID=1036&offerReference=2026-42312
+[B] llm · Safran — STAGE : IA générative pour la conception F/H  (Saclay, Île-de-France, France · 发布 2026-10-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-la-conception-f-h-at-safran-4481442098
+
+🇪🇺 EUROPE  (1)
+[B] diff/llm · NVIDIA — GenAI Algorithms Intern – Model Optimization for Inference  (Switzerland, Zurich · 发布 2026-10-26 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1, watch/LISN Paris-Saclay (stages):-1
+失败源: watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1

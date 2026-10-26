@@ -489,6 +489,23 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
+  "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+  "loc": "Switzerland, Zurich",
+  "etype": "Intern",
+  "pub": "2026-10-26",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
+  "desc": " NVIDIA is at the forefront of the generative AI revolution! The Algorithmic Model Optimization Team focuses on optimizing generative AI models such as large language models (LLMs), vision-language models (VLMs), and diffusion models for maximal inference efficiency using techniques ranging from quantization, speculative decoding, sparsity, distillation, pruning to neural architecture search, and automated deployment strategies.     Our work includes conducting applied research to improve model efficiency as well as developing an innovative open-source model optimization platform (NVIDIA Model Optimizer). Our software is used both internally across NVIDIA and externally by research and engineering teams alike developing best-in-class AI models.     We are seeking a GenAI Algorithms Intern to help optimize state-of-the-art generative AI models like LLMs, VLMs, multimodal and diffusion models. In this role, you will design, implement, and productionize model optimization algorithms for inference and deployment on NVIDIA’s latest hardware platforms. The focus is on ease of use, compute and memory efficiency, and achieving the best accuracy–performance tradeoffs through software–hardware co-design.     Your work will span multiple layers of the AI software stack—ranging from algorithm design to integration—within NVIDIA’s ecosystem (Model Optimizer, NeMo/Megatron, TensorRT-LLM) and open-source frameworks (PyTorch, Hugging Face, vLLM, SGLang). You may also dive deeper into  GPU-level optimization , including custom kernel development with CUDA and Triton.      What you’ll be doing:    Help design and build modular, scalable model optimization software platforms that deliver exceptional user experiences while supporting diverse AI models and optimization techniques.  Explore, develop, and integrate innovative deep learning optimization algorithms (quantization, speculative decoding, sparsity, distillation, pruning, neural architecture search) into NVIDIA's AI software stack.  Deploy optimized models into leading open-source inference frameworks and contribute specialized APIs, model-level optimizations, and new features tailored to the latest NVIDIA hardware capabilities.  Collaborate with NVIDIA teams on model optimization solutions for customer use cases, aiming for optimal end-to-end workflows and balanced accuracy–performance trade-offs.  Conduct GPU kernel-level profiling to identify and capitalize on hardware and software optimization opportunities (e.g., efficient attention kernels, KV cache optimization, parallelism strategies).       What we need to see:       Pursuing a Master's or PhD in Computer Science, AI, Applied Math, or a related field.  Strong deep learning background and hands-on experience with language models.  Solid foundation in algorithms and programming.  Proficiency in Python, PyTorch, and modern ML frameworks/tools.  Good written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.       Ways to stand out from the crowd:       Experience with model optimization and efficiency (e.g., quantization, distillation, pruning).  Contributions to PyTorch, JAX, vLLM, SGLang, or other machine learning training and inference frameworks.  Hands-on experience training or fine-tuning generative AI models on large-scale GPU clusters.  Knowledge of GPU architectures and compilation stacks, and the ability to analyze and debug end-to-end performance.  Familiarity with NVIDIA’s deep learning SDKs (Model Optimizer, NeMo).      Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive   benefits package.   Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly-growing field.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.         ",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "diff",
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
   "title": "AI Developer Technology Intern - 2027",
   "loc": "Germany, Munich",
   "etype": "Intern",
@@ -515,23 +532,6 @@
   "geo": "EU",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-  "loc": "Poland, Warsaw, Poland, Remote",
-  "etype": "Intern",
-  "pub": "2026-10-20",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
-  "desc": " NVIDIA is at the forefront of the generative AI revolution! The Algorithmic Model Optimization Team focuses on optimizing generative AI models such as large language models (LLMs), vision-language models (VLMs), and diffusion models for maximal inference efficiency using techniques ranging from quantization, speculative decoding, sparsity, distillation, pruning to neural architecture search, and automated deployment strategies.     Our work includes conducting applied research to improve model efficiency as well as developing an innovative open-source model optimization platform (NVIDIA Model Optimizer). Our software is used both internally across NVIDIA and externally by research and engineering teams alike developing best-in-class AI models.     We are seeking a GenAI Algorithms Intern to help optimize state-of-the-art generative AI models like LLMs, VLMs, multimodal and diffusion models. In this role, you will design, implement, and productionize model optimization algorithms for inference and deployment on NVIDIA’s latest hardware platforms. The focus is on ease of use, compute and memory efficiency, and achieving the best accuracy–performance tradeoffs through software–hardware co-design.     Your work will span multiple layers of the AI software stack—ranging from algorithm design to integration—within NVIDIA’s ecosystem (Model Optimizer, NeMo/Megatron, TensorRT-LLM) and open-source frameworks (PyTorch, Hugging Face, vLLM, SGLang). You may also dive deeper into  GPU-level optimization , including custom kernel development with CUDA and Triton.      What you’ll be doing:    Help design and build modular, scalable model optimization software platforms that deliver exceptional user experiences while supporting diverse AI models and optimization techniques.  Explore, develop, and integrate innovative deep learning optimization algorithms (quantization, speculative decoding, sparsity, distillation, pruning, neural architecture search) into NVIDIA's AI software stack.  Deploy optimized models into leading open-source inference frameworks and contribute specialized APIs, model-level optimizations, and new features tailored to the latest NVIDIA hardware capabilities.  Collaborate with NVIDIA teams on model optimization solutions for customer use cases, aiming for optimal end-to-end workflows and balanced accuracy–performance trade-offs.  Conduct GPU kernel-level profiling to identify and capitalize on hardware and software optimization opportunities (e.g., efficient attention kernels, KV cache optimization, parallelism strategies).       What we need to see:       Pursuing a Master's or PhD in Computer Science, AI, Applied Math, or a related field.  Strong deep learning background and hands-on experience with language models.  Solid foundation in algorithms and programming.  Proficiency in Python, PyTorch, and modern ML frameworks/tools.  Good written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.       Ways to stand out from the crowd:       Experience with model optimization and efficiency (e.g., quantization, distillation, pruning).  Contributions to PyTorch, JAX, vLLM, SGLang, or other machine learning training and inference frameworks.  Hands-on experience training or fine-tuning generative AI models on large-scale GPU clusters.  Knowledge of GPU architectures and compilation stacks, and the ability to analyze and debug end-to-end performance.  Familiarity with NVIDIA’s deep learning SDKs (Model Optimizer, NeMo).      Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive   benefits package.   Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly-growing field.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.     Our internship pay is based on the position, your location, year in school, degree, and experience. For Poland: the annual range for our interns is 117,750 PLN - 204,100 PLN. (pro-rated for the duration of the internship).    ",
-  "tier": "B",
-  "geo": "EU",
-  "dirs": [
-   "diff",
-   "llm"
   ],
   "start_hint": ""
  },
@@ -617,6 +617,23 @@
    "llm"
   ],
   "start_hint": ""
+ },
+ {
+  "src": "watch",
+  "company": "CEA",
+  "title": "2026-42312 - Stage Génération de bases de connaissances de planification à partir de procédures-Saclay-H/F",
+  "loc": "France",
+  "etype": "",
+  "pub": "",
+  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42312&idOrigine=502&LCID=1036&offerReference=2026-42312",
+  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\nContexte :\r\nL’objectif du stage est de concevoir et de développer une approche permettant de générer automatiquement des domaines HTN à partir de procédures industrielles.\r\nLe travail portera notamment sur l’extraction de la structure hiérarchique des tâches, l’identification des préconditions et des effets des actions, et la formalisation des états initiaux, des objectifs et des contraintes de sécurité.\r\nL’approche devra limiter les hallucinations des LLM, rendre explicites les informations manquantes ou incertaines et intégrer des mécanismes de validation symbolique avant la génération des modèles exploitables par un planificateur HTN.\r\nQu’attendons-nous de vous ?\r\nÉtat de l’art sur la planification HTN, le langage HDDL, l’extraction de connaissances et les approches neuro-symboliques.\r\nConception d’une représentation intermédiaire pour structurer les connaissances extraites des procédures industrielles.\r\nDéveloppement d’une chaîne d’extraction utilisant des LLM pour identifier les tâches, méthodes de décomposition, actions primitives, préconditions et effets.\r\nIntégration de mécanismes de validation symbolique pour détecter les incohérences, les informations manquantes et les violations des contraintes de sécurité.\r\nGénération automatique des domaines HDDL et des fichiers de problème associés.\r\nÉvaluation expérimentale sur un ensemble de procédures, à l’aide d’indicateurs tels que la correction syntaxique, la cohérence logique, la fidélité aux sources et la capacité du planificateur à produire des plans valides.\r\n#Cea-List<br /><br />\r\nÉtudiant(e) en Master 2 ou dernière année d’école d’ingénieurs en informatique, intelligence artificielle ou domaine connexe.\r\nBonnes connaissances en programmation, notamment Python.\r\nIntérêt pour les grands modèles de langage, l’ingénierie des connaissances et les systèmes symboliques.\r\nIntérêt pour la représentation formelle des connaissances et la planification automatique.\r\nAutonomie, rigueur scientifique et capacité à mener une démarche expérimentale.<br />\r\n<b>Ville : </b>Saclay<br />\r\n",
+  "note": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": "Autonomie, rigueur scientifique et capacité à mener une démarche expérimentale"
  },
  {
   "src": "watch",
@@ -919,17 +936,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Ekimetrics",
-  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Framatome",
+  "title": "Stage - Ingénieur IA agentique - Base Installée F/H",
+  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
+  "pub": "2026-10-20",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134",
   "desc": "",
-  "tier": "C",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1047,6 +1064,22 @@
  },
  {
   "src": "linkedin",
+  "company": "ArianeGroup",
+  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
+  "loc": "Les Mureaux, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Schneider Electric",
   "title": "Stage – IA Agentique pour détection et investigation d’anomalies Industrielles – F/H",
   "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
@@ -1095,22 +1128,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingenieur R&D Deep Reinforcement Learning - Aix-en-Provence (F/H)",
-  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ingenieur-r-d-deep-reinforcement-learning-aix-en-provence-f-h-at-dassault-syst%C3%A8mes-4464307040",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "RCA",
   "title": "IA Agentique - Stage de fin d’études (F/H)",
   "loc": "Saint-Herblain, Pays de la Loire, France",
@@ -1122,22 +1139,6 @@
   "geo": "FR",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Chat3D",
-  "title": "Stage Research Engineer : synthèse de programmes pour la génération 3D (PFE / M2 Recherche)",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-research-engineer-synth%C3%A8se-de-programmes-pour-la-g%C3%A9n%C3%A9ration-3d-pfe-m2-recherche-at-chat3d-4480474507",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff"
   ],
   "start_hint": ""
  },
@@ -1167,6 +1168,54 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-machine-learning-foundation-model-h-f-at-parrot-4483129367",
   "desc": "",
   "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Chat3D",
+  "title": "Stage Research Engineer : synthèse de programmes pour la génération 3D (PFE / M2 Recherche)",
+  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-20",
+  "url": "https://fr.linkedin.com/jobs/view/stage-research-engineer-synth%C3%A8se-de-programmes-pour-la-g%C3%A9n%C3%A9ration-3d-pfe-m2-recherche-at-chat3d-4480474507",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Safran",
+  "title": "STAGE : IA générative pour la conception F/H",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-la-conception-f-h-at-safran-4481442098",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Ekimetrics",
+  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
+  "desc": "",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1245,38 +1294,6 @@
   "etype": "Internship",
   "pub": "2026-10-20",
   "url": "https://fr.linkedin.com/jobs/view/stage-etude-des-techniques-d-ia-agentiques-pour-la-cr%C3%A9ation-de-mod%C3%A8les-r%C3%A9duits-de-simulations-at-stellantis-4471201003",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Framatome",
-  "title": "Stage - Ingénieur IA agentique - Base Installée F/H",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Criteo",
-  "title": "Product Data Science & AI Agents Intern",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/product-data-science-ai-agents-intern-at-criteo-4464358910",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1400,6 +1417,22 @@
  },
  {
   "src": "linkedin",
+  "company": "TikTok",
+  "title": "Research Engineer Intern, Agentic Systems & AI Infrastructure (TikTok-Generalized Arch) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "Seattle, WA",
+  "etype": "Internship",
+  "pub": "2026-10-22",
+  "url": "https://www.linkedin.com/jobs/view/research-engineer-intern-agentic-systems-ai-infrastructure-tiktok-generalized-arch-2027-summer-at-tiktok-4447919062",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Merck",
   "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
   "loc": "Cambridge, MA",
@@ -1491,6 +1524,22 @@
   "geo": "US",
   "dirs": [
    "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ByteDance",
+  "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "Seattle, WA",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475530047",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
