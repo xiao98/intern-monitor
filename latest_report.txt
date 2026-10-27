@@ -1,17 +1,53 @@
-实习监控 2026-10-26 · 新增 4 · 当前在挂命中 95 · 显示 4
+实习监控 2026-10-27 · 新增 20 · 当前在挂命中 111 · 显示 20
 
-🇫🇷 FRANCE  (3)
-[A] llm · ArianeGroup — STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales  (Les Mureaux, Île-de-France, France · 发布 2026-10-26 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005
-[B] llm · CEA — 2026-42312 - Stage Génération de bases de connaissances de planification à partir de procédures-Saclay-H/F  (France · [watch])
-    起始线索: …Autonomie, rigueur scientifique et capacité à mener une démarche expérimentale…
-    https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42312&idOrigine=502&LCID=1036&offerReference=2026-42312
-[B] llm · Safran — STAGE : IA générative pour la conception F/H  (Saclay, Île-de-France, France · 发布 2026-10-26 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-la-conception-f-h-at-safran-4481442098
+🇫🇷 FRANCE  (9)
+[A] agent · addactis — STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H  (Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France · 发布 2026-10-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665
+[A] llm · LNE — Stage - Industrialisation des essais d'évaluation des LLM H/F  (Trappes, Île-de-France, France · 发布 2026-10-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-industrialisation-des-essais-d-%C3%A9valuation-des-llm-h-f-at-lne-4483550690
+[A] agent · NVIDIA — Software Engineering Intern, AI Agents & Backend Infrastructure – 2027  (Germany, Remote, France, Courbevoie, Netherlands, Remote, Ge · 发布 2026-10-27 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Software-Engineering-Intern--AI-Agents---Backend-Infrastructure---2027_JR2027942
+[A] agent · Parrot — Stage - Cooperative Flight Planning / Multi Agent Planning (H/F)  (Paris, Île-de-France, France · 发布 2026-10-23 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-cooperative-flight-planning-multi-agent-planning-h-f-at-parrot-4483141003
+[A] agent · Renault Group — CS27 BAC+5 - Développement d'un système agentique de monitoring continu de la qualité du code (H/F)  (Guyancourt, Île-de-France, France · 发布 2026-10-23 · [linkedin])
+    https://fr.linkedin.com/jobs/view/cs27-bac%2B5-d%C3%A9veloppement-d-un-syst%C3%A8me-agentique-de-monitoring-continu-de-la-qualit%C3%A9-du-code-h-f-at-renault-group-4481671303
+[A] agent · Siemens Digital Industries Software — Stage - Évaluation d’agents IA pour Simcenter Amesim f/h - Strategic Student Program  (Villeurbanne, Auvergne-Rhône-Alpes, France · 发布 2026-10-22 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-d%E2%80%99agents-ia-pour-simcenter-amesim-f-h-strategic-student-program-at-siemens-digital-industries-software-4481376618
+[A] agent · STATION F — STAGE AI AGENT OPS  (Paris, Île-de-France, France · 发布 2026-10-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4483290258
+[A] agent · Thales — STAGE - Ingénieur IA agentique et embarquée : caractérisation de modèles de décision du développement logiciel au pilotage d’aéronefs - F/H  (Bordeaux, Nouvelle-Aquitaine, France · 发布 2026-10-21 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-embarqu%C3%A9e-caract%C3%A9risation-de-mod%C3%A8les-de-d%C3%A9cision-du-d%C3%A9veloppement-logiciel-au-pilotage-d%E2%80%99a%C3%A9ronefs-f-h-at-thales-4482107122
+[A] diff/rl · Thales — STAGE DE RECHERCHE en IA - World Models pour la prévision de la qualité de l’air et l’observation de la Terre - F/H  (Toulouse, Occitanie, France · 发布 2026-10-21 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-de-recherche-en-ia-world-models-pour-la-pr%C3%A9vision-de-la-qualit%C3%A9-de-l%E2%80%99air-et-l%E2%80%99observation-de-la-terre-f-h-at-thales-4482100301
 
 🇪🇺 EUROPE  (1)
-[B] diff/llm · NVIDIA — GenAI Algorithms Intern – Model Optimization for Inference  (Switzerland, Zurich · 发布 2026-10-26 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597
+[A] agent · NVIDIA — Software Engineering Intern, AI Agents and Backend Infrastructure – 2027  (UK, Remote, UK, Bristol, UK, Belfast, UK, Reading · 发布 2026-10-27 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Remote/Software-Engineering-Intern--AI-Agents-and-Backend-Infrastructure---2027_JR2027939
+
+🇺🇸 USA  (10)
+[A] llm · Mitsubishi Electric Research Laboratories — Internship - Multimodal Algorithmic Reasoning  (Cambridge, MA · 发布 2026-10-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-multimodal-algorithmic-reasoning-at-mitsubishi-electric-research-laboratories-4483718855
+[A] rl · Skydio — Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)  (San Mateo, CA · 发布 2026-10-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/autonomy-engineer-intern-reinforcement-learning-2027-hq-at-skydio-4483750264
+[A] llm · Toyota Research Institute — Robotics Intern, Post-Training and Continual Learning  (Los Altos, CA · 发布 2026-10-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/robotics-intern-post-training-and-continual-learning-at-toyota-research-institute-4483748343
+[A] llm · Toyota Research Institute — Robotics Intern, World Foundation Models  (Los Altos, CA · 发布 2026-10-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/robotics-intern-world-foundation-models-at-toyota-research-institute-4483750417
+[A] llm · tri — Robotics Intern, Post-Training and Continual Learning  (Los Altos, CA, US, hybrid · 发布 2026-10-26 · [lever])
+    https://jobs.lever.co/tri/f6541d1f-b72f-456f-829f-bf118ac10c43
+[A] llm · tri — Robotics Intern, World Foundation Models [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-10-26 · [lever])
+    起始线索: …division is looking for research interns for the summer of 2027 in a variety of areas such as Video Generation, World Model…
+    https://jobs.lever.co/tri/016bbb58-857a-4367-b1aa-0cdc9f818478
+[A] diff/rl · XPENG — AI Research Intern – Predictive World Model  (Santa Clara, CA · 发布 2026-10-27 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878
+[B] llm · Highmark Health — Summer 2027 Applied Gen AI/Data Scientist Graduate Intern [Summer 2027 ✓]  (United States · 发布 2026-10-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/summer-2027-applied-gen-ai-data-scientist-graduate-intern-at-highmark-health-4483598026
+[B] agent · NVIDIA — Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-10-26 · [nvidia])
+    起始线索: …We are looking for a GTM Intern to join us in Summer 2027! What you will be doing : Work with NPN AI Consu…
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642
+[B] llm/agent/rl · thealleninstitute — Research Internship, Open Ecosystem [Summer 2027 ✓]  (Seattle, WA, Seattle · 发布 2026-10-26 · [greenhouse])
+    起始线索: …<p>We are currently hiring for start dates in 2027…
+    https://job-boards.greenhouse.io/thealleninstitute/jobs/8319350
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
