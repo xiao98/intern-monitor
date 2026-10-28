@@ -9000,5 +9000,75 @@
 "company": "Highmark Health",
 "geo": "US",
 "tier": "B"
+},
+"https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215": {
+"first_seen": "2026-10-28",
+"title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+"company": "snowflake",
+"geo": "EU",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633": {
+"first_seen": "2026-10-28",
+"title": "STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020": {
+"first_seen": "2026-10-28",
+"title": "Stage - IA Agentique pour la migration automatisée de données H/F",
+"company": "Eviden",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-en-d%C3%A9veloppement-d%E2%80%99agents-ia-pour-la-cr%C3%A9ation-industrialis%C3%A9e-d%E2%80%99ihm-spatial-toulouse-at-cs-group-4484450158": {
+"first_seen": "2026-10-28",
+"title": "Stage - Ingénieur(e) en Développement d’Agents IA pour la Création Industrialisée d’IHM - Spatial - Toulouse",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499": {
+"first_seen": "2026-10-28",
+"title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
+"company": "InterDigital, Inc.",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323": {
+"first_seen": "2026-10-28",
+"title": "STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/genai-and-agentic-frameworks-summer-intern-at-moody-s-corporation-4484045587": {
+"first_seen": "2026-10-28",
+"title": "GenAI and Agentic Frameworks Summer Intern",
+"company": "Moody's Corporation",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-time-series-and-reinforcement-learning-tsrl-summer-associate-at-jpmorganchase-4484401926": {
+"first_seen": "2026-10-28",
+"title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
+"company": "JPMorganChase",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427": {
+"first_seen": "2026-10-28",
+"title": "Internship, Foundation Models",
+"company": "42dot",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150": {
+"first_seen": "2026-10-28",
+"title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT  [Summer 2027 ✓]",
+"company": "Federal Reserve Board",
+"geo": "US",
+"tier": "A"
 }
 }

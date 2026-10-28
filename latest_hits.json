@@ -153,6 +153,22 @@
   "start_hint": "itative fields with an expected graduation date between Dec 2027 - 2029"
  },
  {
+  "src": "ashby",
+  "company": "snowflake",
+  "title": "Software Engineer Intern AI/ML - Warsaw (2027)",
+  "loc": "PL-Warsaw-Lixa C",
+  "etype": "FullTime",
+  "pub": "2026-10-12",
+  "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
+  "desc": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nWe’re at the forefront of the AI revolution, building the world’s leading data and applications platform. At Snowflake, our \"get it done\" culture empowers everyone to innovate, create impactful work, and thrive in a highly collaborative environment.\n\nWe are looking for a talented and motivated Software Engineering Intern to join our AI-focused R&D team. In this role, you will contribute to cutting-edge AI-powered products, such as Snowflake Intelligence https://www.snowflake.com/en/product/snowflake-intelligence/, which helps business users extract insights from large-scale data. Your work will be directly integrated into the Snowflake platform, driving AI innovation in data applications.\n\n\nWHAT WE OFFER:\n\n - Paid, full-time internship within a dynamic AI-driven R&D team\n\n - Collaboration with world-class experts on groundbreaking AI/ML research projects\n\n - Direct mentorship and structured feedback, including regular check-ins and a final evaluation\n\n - Integration as a full-fledged teammate of the Snowflake AI R&D Team\n\n - Post-internship career opportunities (full-time and/or additional internships)\n   \n\nWHAT WE EXPECT:\n\n - Must be actively enrolled in an accredited college/university program during the time of the internship\n\n - Strong programming skills in at least one of: Python, Go, or Java\n\n - Familiarity with ML frameworks (e.g., PyTorch, TensorFlow) and data processing systems (e.g., Spark, Snowpark).\n\n - Understanding of distributed systems, model serving, or inference infrastructure.\n\n - Proven ability to write clean, efficient, and scalable code.\n\n - Prior exposure to the software development lifecycle, with a commitment to applying best practices\n\n - Ability to work independently while effectively collaborating within a team\n\n - Strong communication skills to present insights and recommendations to both technical and non-technical audiences\n\n - Duration: Minimum 4 months (recommended 6 months, up to 12 months supported)\n   \n   \n   WHAT YOU WILL LEARN/GAIN:\n\n - Design, implement, and maintain AI-powered systems and infrastructure for large-scale data processing and inference.\n\n - Collaborate with AI researchers and product teams to bring novel ML methods into production.\n\n - Develop robust, scalable, and efficient ML pipelines, from model training to deployment.\n\n - Optimize model serving, latency, and cost efficiency in distributed environments.\n\n - Contribute to high-quality, maintainable codebases, including testing, documentation, and CI/CD.\n\nParticipate in code reviews and cross-team design discussions to ensure best engineering practices.\n\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
   "src": "greenhouse",
   "company": "togetherai",
   "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)  [Summer 2027 ✓]",
@@ -889,23 +905,6 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Intership Agentic Multimodal AI for Understanding and Reasoning over Complex Technical Documents-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/intership-agentic-multimodal-ai-for-understanding-and-reasoning-over-complex-technical-documents-h-f-at-cea-4480779935",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm",
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Crédit Agricole Personal Finance & Mobility",
   "title": "Stage 2027 Développement Agents IA pour les Métiers H/F",
   "loc": "Massy, Île-de-France, France",
@@ -954,12 +953,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur IA Générative / LLM (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "CEA",
+  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323",
+  "pub": "2026-10-24",
+  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -970,33 +969,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Bouygues Telecom",
-  "title": "Stage ingénieur IA générative appliquée au développement logiciel F/H",
-  "loc": "Meudon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-22",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-au-d%C3%A9veloppement-logiciel-f-h-at-bouygues-telecom-4482705444",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
-  "title": "STAGE - Ingenieur R&D - Experience generative & Agents IA (F/H)",
+  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ingenieur-r-d-experience-generative-agents-ia-f-h-at-dassault-syst%C3%A8mes-4464381312",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1018,16 +1001,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Ekimetrics",
-  "title": "Stage IA/ML Engineer 100% R&D - agentic AI",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Framatome",
+  "title": "Stage - Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
+  "loc": "Courbevoie, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-ml-engineer-100%25-r-d-agentic-ai-at-ekimetrics-4481765167",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-ia-agentique-optimisation-de-mod%C3%A8les-par-agents-llm-f-h-at-framatome-4473235477",
   "desc": "",
-  "tier": "C",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
+   "llm",
    "agent"
   ],
   "start_hint": ""
@@ -1066,49 +1050,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Crédit Agricole",
-  "title": "Stage - Assistant(e) Data Scientist – Red-team IA/Sécurité des LLMs H/F",
-  "loc": "Montrouge, Île-de-France, France",
+  "company": "Thales",
+  "title": "STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H",
+  "loc": "Gennevilliers, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-assistant-e-data-scientist-%E2%80%93-red-team-ia-s%C3%A9curit%C3%A9-des-llms-h-f-at-cr%C3%A9dit-agricole-4474197000",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Ekimetrics",
-  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CS GROUP",
-  "title": "Stage - Développement d’un agent IA pour génération de modèles métiers - Défense & Sécurité - Aix-en-Provence",
-  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99un-agent-ia-pour-g%C3%A9n%C3%A9ration-de-mod%C3%A8les-m%C3%A9tiers-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4482157953",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
@@ -1130,17 +1082,17 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "SAP",
+  "title": "Stage: Ingénieur Logiciel Cloud / Agentic AI F/H",
+  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-logiciel-cloud-agentic-ai-f-h-at-sap-4473344907",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1162,17 +1114,17 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Stage: Ingénieur Logiciel Cloud / Agentic AI F/H",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
+  "company": "Stellantis",
+  "title": "Stage : Ingénieur benchmarking des grands modèles de langage",
+  "loc": "Sochaux, Bourgogne-Franche-Comté, France",
   "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-logiciel-cloud-agentic-ai-f-h-at-sap-4473344907",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-benchmarking-des-grands-mod%C3%A8les-de-langage-at-stellantis-4473672333",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1200,22 +1152,6 @@
   "etype": "Internship",
   "pub": "2026-10-21",
   "url": "https://fr.linkedin.com/jobs/view/product-data-science-ai-agents-intern-at-criteo-4464358910",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Framatome",
-  "title": "Stage - Ingénieur IA agentique - Base Installée F/H",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-base-install%C3%A9e-f-h-at-framatome-4471530134",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1290,30 +1226,14 @@
  },
  {
   "src": "linkedin",
-  "company": "ArianeGroup",
-  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
-  "loc": "Les Mureaux, Île-de-France, France",
+  "company": "Eviden",
+  "title": "Stage - IA Agentique pour la migration automatisée de données H/F",
+  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020",
   "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Ingénieur IA agentique et embarquée : caractérisation de modèles de décision du développement logiciel au pilotage d’aéronefs - F/H",
-  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-embarqu%C3%A9e-caract%C3%A9risation-de-mod%C3%A8les-de-d%C3%A9cision-du-d%C3%A9veloppement-logiciel-au-pilotage-d%E2%80%99a%C3%A9ronefs-f-h-at-thales-4482107122",
-  "desc": "",
-  "tier": "A",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "agent"
@@ -1322,28 +1242,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Schneider Electric",
-  "title": "Stage – IA Agentique pour détection et investigation d’anomalies Industrielles – F/H",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "CS GROUP",
+  "title": "Stage - Ingénieur(e) en Développement d’Agents IA pour la Création Industrialisée d’IHM - Spatial - Toulouse",
+  "loc": "Toulouse, Occitanie, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ia-agentique-pour-d%C3%A9tection-et-investigation-d%E2%80%99anomalies-industrielles-%E2%80%93-f-h-at-schneider-electric-4480465303",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Évaluation d’agents IA pour Simcenter Amesim f/h - Strategic Student Program",
-  "loc": "Villeurbanne, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-22",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-d%E2%80%99agents-ia-pour-simcenter-amesim-f-h-strategic-student-program-at-siemens-digital-industries-software-4481376618",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-en-d%C3%A9veloppement-d%E2%80%99agents-ia-pour-la-cr%C3%A9ation-industrialis%C3%A9e-d%E2%80%99ihm-spatial-toulouse-at-cs-group-4484450158",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1358,7 +1262,7 @@
   "title": "CS27 - Bac+5 Stage Deep Reinforcement Learning pour la Prise de Décision en Conduite Autonome (H/F)",
   "loc": "Guyancourt, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
+  "pub": "2026-10-27",
   "url": "https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-deep-reinforcement-learning-pour-la-prise-de-d%C3%A9cision-en-conduite-autonome-h-f-at-renault-group-4480487329",
   "desc": "",
   "tier": "A",
@@ -1370,16 +1274,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur.e Recherche – Deep Reinforcement Learning pour l’optimisation de solveurs (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "NAVAL GROUP",
+  "title": "STAGE - Développement d'un framework Multi-Agent Reinforcement Learning (MARL) - SIREHNA- F/H",
+  "loc": "Nantes, Pays de la Loire, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-recherche-%E2%80%93-deep-reinforcement-learning-pour-l%E2%80%99optimisation-de-solveurs-f-h-at-dassault-syst%C3%A8mes-4464306036",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-framework-multi-agent-reinforcement-learning-marl-sirehna-f-h-at-naval-group-4473669417",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
+   "agent",
    "rl"
   ],
   "start_hint": ""
@@ -1402,33 +1307,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Parrot",
-  "title": "Stage - Cooperative Flight Planning / Multi Agent Planning (H/F)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Alpine",
+  "title": "ALPINE CARS - CS27 - BAC+5 - Ingénieur.e Innovation Automobile, Benchmarking & IA Générative (F/H)",
+  "loc": "Guyancourt, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-cooperative-flight-planning-multi-agent-planning-h-f-at-parrot-4483141003",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/alpine-cars-cs27-bac%2B5-ing%C3%A9nieur-e-innovation-automobile-benchmarking-ia-g%C3%A9n%C3%A9rative-f-h-at-alpine-4471911795",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Chat3D",
-  "title": "Stage Research Engineer : synthèse de programmes pour la génération 3D (PFE / M2 Recherche)",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-research-engineer-synth%C3%A8se-de-programmes-pour-la-g%C3%A9n%C3%A9ration-3d-pfe-m2-recherche-at-chat3d-4480474507",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1442,6 +1331,55 @@
   "url": "https://fr.linkedin.com/jobs/view/generative-ai-internship-for-scientific-data-at-quobly-4477304391",
   "desc": "",
   "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "InterDigital, Inc.",
+  "title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
+  "loc": "Greater Rennes Metropolitan Area",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE DE RECHERCHE en IA - World Models pour la prévision de la qualité de l’air et l’observation de la Terre - F/H",
+  "loc": "Toulouse, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-de-recherche-en-ia-world-models-pour-la-pr%C3%A9vision-de-la-qualit%C3%A9-de-l%E2%80%99air-et-l%E2%80%99observation-de-la-terre-f-h-at-thales-4482100301",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Ekimetrics",
+  "title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-2027-ai-ml-engineer-100%25-r-d-tabular-foundation-models-at-ekimetrics-4482142685",
+  "desc": "",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1466,6 +1404,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Parrot",
   "title": "Stage - Machine Learning - Foundation Model (H/F)",
   "loc": "Paris, Île-de-France, France",
@@ -1482,80 +1436,47 @@
  },
  {
   "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE DE RECHERCHE en IA - World Models pour la prévision de la qualité de l’air et l’observation de la Terre - F/H",
-  "loc": "Toulouse, Occitanie, France",
+  "company": "Crédit Agricole",
+  "title": "Stage - Assistant(e) Data Scientist – Red-team IA/Sécurité des LLMs H/F",
+  "loc": "Montrouge, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-de-recherche-en-ia-world-models-pour-la-pr%C3%A9vision-de-la-qualit%C3%A9-de-l%E2%80%99air-et-l%E2%80%99observation-de-la-terre-f-h-at-thales-4482100301",
+  "pub": "2026-10-23",
+  "url": "https://fr.linkedin.com/jobs/view/stage-assistant-e-data-scientist-%E2%80%93-red-team-ia-s%C3%A9curit%C3%A9-des-llms-h-f-at-cr%C3%A9dit-agricole-4474197000",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "diff",
-   "rl"
+   "llm"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Amélioration des performances de détection & reconnaissance dans l’image par IA générative - F/H",
-  "loc": "Élancourt, Île-de-France, France",
+  "company": "ArianeGroup",
+  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
+  "loc": "Les Mureaux, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-am%C3%A9lioration-des-performances-de-d%C3%A9tection-reconnaissance-dans-l%E2%80%99image-par-ia-g%C3%A9n%C3%A9rative-f-h-at-thales-4472795001",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Veepee",
+  "title": "Stage - Développeur(euse) IA Générative (H/F/X) - Janvier 2027",
+  "loc": "St.-Denis, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235",
   "desc": "",
   "tier": "B",
   "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Renault Group",
-  "title": "CS27 BAC+5 - Développement d'un système agentique de monitoring continu de la qualité du code (H/F)",
-  "loc": "Guyancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/cs27-bac%2B5-d%C3%A9veloppement-d-un-syst%C3%A8me-agentique-de-monitoring-continu-de-la-qualit%C3%A9-du-code-h-f-at-renault-group-4481671303",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
-  "loc": "Gennevilliers, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "JPMorganChase",
-  "title": "2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
-  "loc": "New York, NY",
-  "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-nlp-summer-associate-at-jpmorganchase-4481592595",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
   "dirs": [
    "llm"
   ],
@@ -1579,17 +1500,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Algorithms Group: Generative Modeling",
-  "loc": "Redmond, WA",
+  "company": "Moody's Corporation",
+  "title": "GenAI and Agentic Frameworks Summer Intern",
+  "loc": "New York, NY",
   "etype": "Internship",
-  "pub": "2026-10-20",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-algorithms-group-generative-modeling-at-microsoft-4481581107",
+  "pub": "2026-10-27",
+  "url": "https://www.linkedin.com/jobs/view/genai-and-agentic-frameworks-summer-intern-at-moody-s-corporation-4484045587",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1612,12 +1533,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Multimodal Algorithmic Reasoning",
+  "company": "Merck",
+  "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
   "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://www.linkedin.com/jobs/view/internship-multimodal-algorithmic-reasoning-at-mitsubishi-electric-research-laboratories-4483718855",
+  "pub": "2026-10-23",
+  "url": "https://www.linkedin.com/jobs/view/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-4483127613",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1660,17 +1581,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Multimodal Embodied AI",
-  "loc": "Cambridge, MA",
+  "company": "JPMorganChase",
+  "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
+  "loc": "New York, NY",
   "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156",
+  "pub": "2026-10-28",
+  "url": "https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-time-series-and-reinforcement-learning-tsrl-summer-associate-at-jpmorganchase-4484401926",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1708,6 +1629,54 @@
  },
  {
   "src": "linkedin",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Multimodal Embodied AI",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-10-24",
+  "url": "https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "42dot",
+  "title": "Internship, Foundation Models",
+  "loc": "Sunnyvale, CA",
+  "etype": "Internship",
+  "pub": "2026-10-28",
+  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TikTok USDS Joint Venture",
+  "title": "Research Scientist Intern (Enterprise AI Agent) - 2027 Start",
+  "loc": "San Jose, CA",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-enterprise-ai-agent-2027-start-at-tiktok-usds-joint-venture-4474047193",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Tractian",
   "title": "Generative AI Engineering Intern",
   "loc": "Atlanta, GA",
@@ -1740,33 +1709,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Smith+Nephew",
-  "title": "Intern Agentic AI Software Engineering",
-  "loc": "Andover, MA",
+  "company": "ByteDance",
+  "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "Seattle, WA",
   "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://www.linkedin.com/jobs/view/intern-agentic-ai-software-engineering-at-smith%2Bnephew-4480763722",
+  "pub": "2026-10-26",
+  "url": "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475530047",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Sandisk",
-  "title": "GenAI & AI/ML Engineering Summer Intern",
-  "loc": "Milpitas, CA",
-  "etype": "Internship",
-  "pub": "2026-10-21",
-  "url": "https://www.linkedin.com/jobs/view/genai-ai-ml-engineering-summer-intern-at-sandisk-4482022677",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1788,17 +1741,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Merck",
-  "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
-  "loc": "Cambridge, MA",
+  "company": "Federal Reserve Board",
+  "title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT  [Summer 2027 ✓]",
+  "loc": "Washington, DC",
   "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://www.linkedin.com/jobs/view/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-4483127613",
+  "pub": "2026-10-27",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
