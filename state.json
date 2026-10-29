@@ -9070,5 +9070,68 @@
 "company": "Federal Reserve Board",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.inria.fr/public/classic/en/offres/2026-10662": {
+"first_seen": "2026-10-29",
+"title": "Internship Research / Limiting Information Leakage in LLM-Based Systems for Network Applications",
+"company": "Inria",
+"geo": "FR",
+"tier": "A"
+},
+"https://jobs.inria.fr/public/classic/en/offres/2026-10661": {
+"first_seen": "2026-10-29",
+"title": "Internship Research / World Models for Networking",
+"company": "Inria",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/software-engineering-intern-ai-agents-backend-infrastructure-%E2%80%93-2027-at-nvidia-4483838008": {
+"first_seen": "2026-10-29",
+"title": "Software Engineering Intern, AI Agents & Backend Infrastructure – 2027",
+"company": "NVIDIA",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979": {
+"first_seen": "2026-10-29",
+"title": "AI & Agentic Software Engineering",
+"company": "Societe Generale",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-agentique-at-slib-4482938771": {
+"first_seen": "2026-10-29",
+"title": "Stagiaire Ingénieur développement logiciel & IA agentique",
+"company": "SLIB",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906": {
+"first_seen": "2026-10-29",
+"title": "STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/internship-reinforcement-learning-of-vlms-for-table-understanding-saclay-h-f-at-cea-4483889900": {
+"first_seen": "2026-10-29",
+"title": "Internship Reinforcement learning of VLMs for table understanding-Saclay-H/F",
+"company": "CEA",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-intuitive-4484715973": {
+"first_seen": "2026-10-29",
+"title": "Reinforcement Learning Intern",
+"company": "Intuitive",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/graduate-intern-%E2%80%93-agentic-ai-driven-computational-synthesis-of-pgm-free-fuel-cell-catalysts-at-national-laboratory-of-the-rockies-4484103222": {
+"first_seen": "2026-10-29",
+"title": "Graduate Intern – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts",
+"company": "National Laboratory of the Rockies",
+"geo": "US",
+"tier": "A"
 }
 }

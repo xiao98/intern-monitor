@@ -1,30 +1,26 @@
-实习监控 2026-10-28 · 新增 10 · 当前在挂命中 108 · 显示 10
+实习监控 2026-10-29 · 新增 9 · 当前在挂命中 110 · 显示 9
 
-🇫🇷 FRANCE  (5)
-[A] agent · CS GROUP — Stage - Ingénieur(e) en Développement d’Agents IA pour la Création Industrialisée d’IHM - Spatial - Toulouse  (Toulouse, Occitanie, France · 发布 2026-10-28 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-en-d%C3%A9veloppement-d%E2%80%99agents-ia-pour-la-cr%C3%A9ation-industrialis%C3%A9e-d%E2%80%99ihm-spatial-toulouse-at-cs-group-4484450158
-[A] llm · Dassault Systèmes — STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)  (Vélizy-Villacoublay, Île-de-France, France · 发布 2026-10-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323
-[A] rl · InterDigital, Inc. — Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning  (Greater Rennes Metropolitan Area · 发布 2026-10-27 · [linkedin])
-    https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499
-[B] llm · Thales — STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H  (Gennevilliers, Île-de-France, France · 发布 2026-10-26 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633
-[C] agent · Eviden — Stage - IA Agentique pour la migration automatisée de données H/F  (Aix-en-Provence, Provence-Alpes-Côte d'Azur, France · 发布 2026-10-23 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020
+🇫🇷 FRANCE  (7)
+[A] llm/rl · CEA — Internship Reinforcement learning of VLMs for table understanding-Saclay-H/F  (Saclay, Île-de-France, France · 发布 2026-10-28 · [linkedin])
+    https://fr.linkedin.com/jobs/view/internship-reinforcement-learning-of-vlms-for-table-understanding-saclay-h-f-at-cea-4483889900
+[A] llm · Inria — Internship Research / Limiting Information Leakage in LLM-Based Systems for Network Applications  (France Job reference : 2026-10662 Town/city : Palaiseau Inri · [inria])
+    https://jobs.inria.fr/public/classic/en/offres/2026-10662
+[A] diff/rl · Inria — Internship Research / World Models for Networking  (France Job reference : 2026-10661 Town/city : Palaiseau Inri · [inria])
+    https://jobs.inria.fr/public/classic/en/offres/2026-10661
+[A] agent · NVIDIA — Software Engineering Intern, AI Agents & Backend Infrastructure – 2027  (France · 发布 2026-10-28 · [linkedin])
+    https://fr.linkedin.com/jobs/view/software-engineering-intern-ai-agents-backend-infrastructure-%E2%80%93-2027-at-nvidia-4483838008
+[A] agent · SLIB — Stagiaire Ingénieur développement logiciel & IA agentique  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-10-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-agentique-at-slib-4482938771
+[A] agent · Societe Generale — AI & Agentic Software Engineering  (La Défense, Île-de-France, France · 发布 2026-10-28 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979
+[A] llm · Thales — STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H  (Meudon, Île-de-France, France · 发布 2026-10-28 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906
 
-🇪🇺 EUROPE  (1)
-[B] agent · snowflake — Software Engineer Intern AI/ML - Warsaw (2027)  (PL-Warsaw-Lixa C · 发布 2026-10-12 · [ashby])
-    https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215
-
-🇺🇸 USA  (4)
-[A] llm · 42dot — Internship, Foundation Models  (Sunnyvale, CA · 发布 2026-10-28 · [linkedin])
-    https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427
-[A] agent · Federal Reserve Board — Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT [Summer 2027 ✓]  (Washington, DC · 发布 2026-10-27 · [linkedin])
-    https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150
-[A] rl · JPMorganChase — 2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate  (New York, NY · 发布 2026-10-28 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-time-series-and-reinforcement-learning-tsrl-summer-associate-at-jpmorganchase-4484401926
-[A] agent · Moody's Corporation — GenAI and Agentic Frameworks Summer Intern  (New York, NY · 发布 2026-10-27 · [linkedin])
-    https://www.linkedin.com/jobs/view/genai-and-agentic-frameworks-summer-intern-at-moody-s-corporation-4484045587
+🇺🇸 USA  (2)
+[A] rl · Intuitive — Reinforcement Learning Intern  (Sunnyvale, CA · 发布 2026-10-28 · [linkedin])
+    https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-intuitive-4484715973
+[A] agent · National Laboratory of the Rockies — Graduate Intern – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts  (Golden, CO · 发布 2026-10-28 · [linkedin])
+    https://www.linkedin.com/jobs/view/graduate-intern-%E2%80%93-agentic-ai-driven-computational-synthesis-of-pgm-free-fuel-cell-catalysts-at-national-laboratory-of-the-rockies-4484103222
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
