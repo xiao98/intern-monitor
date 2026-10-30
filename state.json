@@ -9133,5 +9133,75 @@
 "company": "National Laboratory of the Rockies",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8": {
+"first_seen": "2026-10-30",
+"title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits  [Summer 2027 ✓]",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb": {
+"first_seen": "2026-10-30",
+"title": "Human Interactive Driving Research Intern, World Models",
+"company": "tri",
+"geo": "US",
+"tier": "A"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799": {
+"first_seen": "2026-10-30",
+"title": "VLSI CAD Timing Intern, Applied AI - Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170": {
+"first_seen": "2026-10-30",
+"title": "AI Systems Software Engineering Intern – Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484515697": {
+"first_seen": "2026-10-30",
+"title": "STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F",
+"company": "Equans France",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771": {
+"first_seen": "2026-10-30",
+"title": "AI Agent Engineer Intern (Internship)",
+"company": "GetVocal AI",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-structuration-des-donn%C3%A9es-et-d%C3%A9veloppement-d-outils-m%C3%A9tiers-%C3%A0-base-d-ia-g%C3%A9n%C3%A9rative-f-h-at-mbda-4483024670": {
+"first_seen": "2026-10-30",
+"title": "Stage IA : Structuration des données et développement d'outils métiers à base d'IA générative F/H",
+"company": "MBDA",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-engineer-ia-genai-f-h-at-viseo-4484187089": {
+"first_seen": "2026-10-30",
+"title": "Stage - Data Engineer IA/GenAI F/H",
+"company": "VISEO",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4484182798": {
+"first_seen": "2026-10-30",
+"title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
+"company": "Jobster",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484211785": {
+"first_seen": "2026-10-30",
+"title": "Internships in Generative and Agentic AI",
+"company": "MITRE",
+"geo": "US",
+"tier": "A"
 }
 }

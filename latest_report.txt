@@ -1,26 +1,29 @@
-实习监控 2026-10-29 · 新增 9 · 当前在挂命中 110 · 显示 9
+实习监控 2026-10-30 · 新增 10 · 当前在挂命中 111 · 显示 10
 
-🇫🇷 FRANCE  (7)
-[A] llm/rl · CEA — Internship Reinforcement learning of VLMs for table understanding-Saclay-H/F  (Saclay, Île-de-France, France · 发布 2026-10-28 · [linkedin])
-    https://fr.linkedin.com/jobs/view/internship-reinforcement-learning-of-vlms-for-table-understanding-saclay-h-f-at-cea-4483889900
-[A] llm · Inria — Internship Research / Limiting Information Leakage in LLM-Based Systems for Network Applications  (France Job reference : 2026-10662 Town/city : Palaiseau Inri · [inria])
-    https://jobs.inria.fr/public/classic/en/offres/2026-10662
-[A] diff/rl · Inria — Internship Research / World Models for Networking  (France Job reference : 2026-10661 Town/city : Palaiseau Inri · [inria])
-    https://jobs.inria.fr/public/classic/en/offres/2026-10661
-[A] agent · NVIDIA — Software Engineering Intern, AI Agents & Backend Infrastructure – 2027  (France · 发布 2026-10-28 · [linkedin])
-    https://fr.linkedin.com/jobs/view/software-engineering-intern-ai-agents-backend-infrastructure-%E2%80%93-2027-at-nvidia-4483838008
-[A] agent · SLIB — Stagiaire Ingénieur développement logiciel & IA agentique  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-10-26 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-agentique-at-slib-4482938771
-[A] agent · Societe Generale — AI & Agentic Software Engineering  (La Défense, Île-de-France, France · 发布 2026-10-28 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979
-[A] llm · Thales — STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H  (Meudon, Île-de-France, France · 发布 2026-10-28 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906
+🇫🇷 FRANCE  (5)
+[A] agent · GetVocal AI — AI Agent Engineer Intern (Internship)  (Paris, Île-de-France, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771
+[A] agent · Jobster — Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr  (Paris, Île-de-France, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4484182798
+[B] llm · Equans France — STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F  (Marcq-en-Barœul, Hauts-de-France, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484515697
+[B] llm · MBDA — Stage IA : Structuration des données et développement d'outils métiers à base d'IA générative F/H  (Le Plessis-Robinson, Île-de-France, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-structuration-des-donn%C3%A9es-et-d%C3%A9veloppement-d-outils-m%C3%A9tiers-%C3%A0-base-d-ia-g%C3%A9n%C3%A9rative-f-h-at-mbda-4483024670
+[B] llm · VISEO — Stage - Data Engineer IA/GenAI F/H  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-engineer-ia-genai-f-h-at-viseo-4484187089
 
-🇺🇸 USA  (2)
-[A] rl · Intuitive — Reinforcement Learning Intern  (Sunnyvale, CA · 发布 2026-10-28 · [linkedin])
-    https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-intuitive-4484715973
-[A] agent · National Laboratory of the Rockies — Graduate Intern – Agentic AI-Driven Computational Synthesis of PGM-free Fuel Cell Catalysts  (Golden, CO · 发布 2026-10-28 · [linkedin])
-    https://www.linkedin.com/jobs/view/graduate-intern-%E2%80%93-agentic-ai-driven-computational-synthesis-of-pgm-free-fuel-cell-catalysts-at-national-laboratory-of-the-rockies-4484103222
+🇺🇸 USA  (5)
+[A] agent · MITRE — Internships in Generative and Agentic AI  (McLean, VA · 发布 2026-10-27 · [linkedin])
+    https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484211785
+[A] diff/rl · tri — Human Interactive Driving Research Intern, World Models  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
+    https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb
+[B] llm/agent/rl · NVIDIA — AI Systems Software Engineering Intern – Summer 2027 [Summer 2027 ✓]  (US, TX, Austin · 发布 2026-10-29 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
+[B] agent · NVIDIA — VLSI CAD Timing Intern, Applied AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-10-29 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799
+[B] llm · tri — Human Interactive Driving Research Intern, Perception for Driving at the Limits [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
+    起始线索: …This paid, 12-week, Summer 2027 internship is a hybrid in-office role at our headquarters i…
+    https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
