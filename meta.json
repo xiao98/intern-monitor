@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-30T11:35:23+00:00",
- "raw": 10579,
- "hits": 111,
- "new": 10,
+ "generated_at": "2026-10-31T11:06:10+00:00",
+ "raw": 10604,
+ "hits": 113,
+ "new": 14,
  "fails": [
   "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1",
   "watch/LIG GETALP Grenoble:-1"

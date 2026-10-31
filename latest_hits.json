@@ -326,12 +326,12 @@
  {
   "src": "greenhouse",
   "company": "waymo",
-  "title": "2027 Summer Intern, MS/PhD, AI-driven ML Performance Engineering Intern  [Summer 2027 ✓]",
+  "title": "2027 Summer Intern, BS/MS/PhD, AI-driven ML Performance Engineering Intern  [Summer 2027 ✓]",
   "loc": "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)",
   "etype": "",
   "pub": "2026-10-01",
   "url": "https://careers.withwaymo.com/jobs?gh_jid=8248060",
-  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>We are a team that designs and implements the hardware, compiler, and software frameworks for the ML accelerators in Waymo’s custom silicon. The team’s expertise spans all phases of custom accelerator production from architecture through software integration, and leverages Waymo’s decades of experience to optimize the design space for the needs of our autonomous driving software</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p>&nbsp;</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Work with AI agents to create high performance low-level kernels in a Domain-Specific language for a custom ML accelerator</li>\n<li>Ensure functional correctness and numerical accuracy of kernels</li>\n<li>Conduct performance analysis of the kernels to identify performance bottlenecks and areas that need improvement</li>\n<li>Develop a custom harness to recursively improve kernel generation and remove the need for human involvement</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in an MS or PhD program in Computer Science, Computer Engineering, Computational Science, or a related quantitative field</li>\n<li>Demonstrated track record of using AI agents and harnesses to improve coding performance</li>\n<li>Working knowledge of key kernels for transformer inference including performance analysis and optimization</li>\n<li>Familiarity with one or more low-level ML accelerator DSLs (CUDA, Triton, Gluon, etc.)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Solid understanding of modern inference accelerator architectures</li>\n<li>Fluency in Python and/or C++</li>\n<li>Working knowledge of different ML numerical formats and their relative accuracy vs performance tradeoffs</li>\n</ul>\n<p>&nbsp;</p>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
+  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>We are a team that designs and implements the hardware, compiler, and software frameworks for the ML accelerators in Waymo’s custom silicon. The team’s expertise spans all phases of custom accelerator production from architecture through software integration, and leverages Waymo’s decades of experience to optimize the design space for the needs of our autonomous driving software</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p>&nbsp;</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Work with AI agents to create high performance low-level kernels in a Domain-Specific language for a custom ML accelerator</li>\n<li>Ensure functional correctness and numerical accuracy of kernels</li>\n<li>Conduct performance analysis of the kernels to identify performance bottlenecks and areas that need improvement</li>\n<li>Develop a custom harness to recursively improve kernel generation and remove the need for human involvement</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a BS, MS or PhD program in Computer Science, Computer Engineering, Computational Science, or a related quantitative field</li>\n<li>Demonstrated track record of using AI agents and harnesses to improve coding performance</li>\n<li>Working knowledge of key kernels for transformer inference including performance analysis and optimization</li>\n<li>Familiarity with one or more low-level ML accelerator DSLs (CUDA, Triton, Gluon, etc.)</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Solid understanding of modern inference accelerator architectures</li>\n<li>Fluency in Python and/or C++</li>\n<li>Working knowledge of different ML numerical formats and their relative accuracy vs performance tradeoffs</li>\n</ul>\n<p>&nbsp;</p>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Bachelors Pay</div><div class=\"pay-range\"><span>$60</span><span class=\"divider\">&mdash;</span><span>$60 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -344,14 +344,15 @@
   "src": "greenhouse",
   "company": "waymo",
   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations  [Summer 2027 ✓]",
-  "loc": "San Francisco, CA, USA, San Francisco (US-SFO-MKT555)",
+  "loc": "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)",
   "etype": "",
-  "pub": "2026-10-23",
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
-  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The team for this role will be:</p>\n<p>Driver Refinement Foundations</p>\n<p>Description:</p>\n<p>The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Design and implement robust data generation pipelines for data generation</li>\n<li>Design and evaluate experiments for model training</li>\n<li>Designing robust data generation pipelines for model training</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and understanding metrics</li>\n<li>Experience in strong software engineering principles</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Help solve challenging problems with a direct impact on the company</li>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
+  "pub": "2026-10-01",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The subteam for this role will be:</p>\n<p>Driver Refinement foundations - The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms, including the Data Flywheel and the Reasoning platform, to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Optimize Multimodal generative models using RLFT. Explore Reward modeling</li>\n<li>Design and implement Evaluation metrics and iterate on improvements</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and developing metrics</li>\n<li>Experience developing models</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
   "tier": "B",
   "geo": "US",
   "dirs": [
+   "diff",
    "llm"
   ],
   "start_hint": ""
@@ -522,6 +523,22 @@
  {
   "src": "lever",
   "company": "tri",
+  "title": "Accelerated Science Intern, Representation Learning for Molecules and Materials",
+  "loc": "Los Altos, CA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-10-30",
+  "url": "https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Team\nThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge cutting-edge computational materials modeling, experimental data, artificial intelligence, and automation to significantly accelerate materials research. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community more broadly.\nThe Internship\nWe’re looking for a researcher/engineer interested in how machine learning models represent molecules and materials, and whether different models discover the same underlying physical structure. In this role, you’ll collaborate with TRI researchers to investigate how training data, learning objectives, and model architectures shape learned representations. The work will combine mathematical reasoning with computational experiments to study when models arrive at shared representations, what information those representations capture, and how they connect to the physics of the systems being studied.\n",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
   "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits  [Summer 2027 ✓]",
   "loc": "Los Altos, CA, US, hybrid",
   "etype": "Intern",
@@ -549,6 +566,22 @@
   "dirs": [
    "diff",
    "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
+  "title": "Machine Learning/Agentic AI Intern",
+  "loc": "Cambridge, MA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-10-30",
+  "url": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nTeam\nWe are a group of researchers building agentic AI systems for a diverse range of applications, including robotics, vehicle design, factory logistics, and numerical optimization.\n\nAbout the Internship\nA successful candidate would have a background in both agentic AI and one of the above applications.\nThis is an opportunity to apply your knowledge to novel research questions and work towards a publication with professional researchers.  The internship will be in our Cambridge office and includes competitive compensation befitting the challenging but fun nature of the research work at TRI.\n",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -587,46 +620,12 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-10-29",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-  "desc": "  NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to resolve, that only we can seek, and that matter to the world. This is our life’s work, to amplify human inventiveness and intelligence.         We are looking for a VLSI CAD Timing Intern focused on Applied AI to lead end-to-end solution development — spanning data generation, model training, orchestration, and agentic automation — for timing and constraint analysis workflows. You will be part of a cross-disciplinary team building intelligent systems that learn from sign-off data, reason across flows, and assist engineers in achieving faster and more predictable closure.          What You’ll Be Doing:      Learn and support static timing analysis (STA) flows using industry tools like PrimeTime and Tempus for advanced ASIC designs.    Help develop and automate timing, constraints, and QoR validation flows using scripting and data-driven methods.    Assist with analyzing timing reports, constraints, and design data across corners and modes to improve closure predictability.    Collaborate with CAD, physical design, and methodology engineers on timing sign-off strategies and best practices.    Contribute to early AI- or analytics-assisted approaches for timing analysis, constraint checking, or flow optimization.    Explore how physical effects (e.g., IR drop, crosstalk, aging, thermal impact) influence timing and design decisions.           What we need to see:      Currently pursuing a Master’s or PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field.    Coursework or academic knowledge in VLSI/ASIC design, digital circuits, or computer architecture.    Exposure to applying agentic AI to back-end VLSI tasks (e.g., floorplanning, timing closure, or physical verification).    Familiarity with the basics of static timing analysis, constraints, or digital design flows.    Knowledge in scripting or programming (Python preferred).    Comfort working with data, reports, and technical problem-solving in complex systems.           Ways to stand out from the crowd:      Academic projects, research, or internships related to VLSI, physical design, STA, or EDA tools.      Exposure to TCL.      Exposure to machine learning, data analysis, or AI concepts applied to engineering problems.      Experience automating workflows, analyzing large datasets, or contributing to technical tools or open-source projects.          NVIDIA is widely considered one of the technology world’s most desirable employers. We employ some of the most forward-thinking and talented people in the world. Are you passionate about joining our life work to amplify human creativity and intelligence? If you are creative, collaborative, and have a real passion for design methodology and automation, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 2, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "AI Systems Software Engineering Intern – Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, TX, Austin",
-  "etype": "Intern",
-  "pub": "2026-10-29",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
-  "desc": " NVIDIA is looking for an AI Systems Software Engineering Intern to apply AI agents, machine learning, and performance engineering to compilers and developer tools. You will work with compiler and AI engineers on a scoped project involving code, compiler and performance feedback, experiments, and optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, performance analysis, or AI-enabled developer tools. Experience in every area is not expected.    What you’ll be doing:    Build AI-agent workflows that interact with code, compilers, benchmarks, performance tools, and engineering systems.  Develop tools that help agents collect data, run experiments, analyze compiler and performance feedback, identify optimization opportunities, and recommend next steps.  Explore data-driven approaches for compiler optimization, performance prediction, decision support, and workflow automation.  Build reliable interfaces between AI agents and compiler or developer-tool infrastructure.  Prototype improvements to compiler flows, optimization tools, experimentation systems, or developer workflows.  Work with compiler, architecture, AI, and performance engineers to evaluate ideas on representative workloads.  Measure correctness, runtime performance, compile time, reliability, and other relevant outcomes.  Document the design, experiments, results, limitations, and next steps.     What we need to see:    Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field.  Strong programming skills in Python, C, C++, or a similar language.  Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.  Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, systems, performance engineering, optimization, or developer tools.  Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.  Interest in learning across AI, compiler, performance, and systems boundaries.     Ways to stand out from the crowd:    Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.  Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.  Familiarity with GPU architecture, CUDA, GPU programming, or performance optimization.  Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.  Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 2, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "agent",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
   "title": "Go-to-Market Strategy Intern, NPN AI Consulting - Summer 2027  [Summer 2027 ✓]",
   "loc": "US, CA, Santa Clara",
   "etype": "Intern",
-  "pub": "2026-10-26",
+  "pub": "2026-10-30",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Go-to-Market-Strategy-Intern--NPN-AI-Consulting---Summer-2027_JR2028642",
-  "desc": "  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.     Our department’s charter is working with AI Consulting partners, including Global Systems Integrators and Advanced Technology Partners, who participate in the NVIDIA Partner Network “NPN”, to drive top tier customers to adopt the NVIDIA AI Solution stack. We develop and manage Go-to-Market strategies and projects, track and analyze customer influence and publish meaningful reports. An intern will provide significant value by participating in project management, data collection and analysis. We are looking for a GTM Intern to join us in Summer 2027!      What you will be doing :       Work with NPN AI Consulting Organization leaders, individual contributors, programs teams and operations teams to collect, analyze and present data    Build dashboards and/or executive-level presentations to showcase initiatives and findings to measure progress.     Develop reference tools for the NPN AI Consulting Organization and other NPN Partner types that work with our NPN AI Consultants.    Collaborate with cross functional teams, including Partner Account Managers, Developer Relations, Product Management and Partner Programs.       What we need to see :     Pursuing a Bachelor’s degree or Master's degree in Business, Finance, Mathematics, Statistics, IT, Economics or related fields, completing a minimum of freshman year undergrad.    Hands-on experience with AI assistants and/or agentic workflows to accelerate day-to-day work    Experience using Microsoft Office Suite tools, including Excel and Powerpoint.    Some experience as a sales or marketing intern for technical products.       Ways to stand out from the crowd:      You're proactive and entrepreneurial — you don't wait to be told what to do next.    Exceptionally organized: you can juggle multiple workstreams without dropping a single ball.    You have hands-on experience with or a genuine passion for AI, cloud computing, or tech partner ecosystems.      Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family     www.nvidiabenefits.com/         Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 20 USD - 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until October 30, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "desc": "  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.     Our department’s charter is working with AI Consulting partners, including Global Systems Integrators and Advanced Technology Partners, who participate in the NVIDIA Partner Network “NPN”, to drive top tier customers to adopt the NVIDIA AI Solution stack. We develop and manage Go-to-Market strategies and projects, track and analyze customer influence and publish meaningful reports. An intern will provide significant value by participating in project management, data collection and analysis. We are looking for a GTM Intern to join us in Summer 2027!      What you will be doing :       Work with NPN AI Consulting Organization leaders, individual contributors, programs teams and operations teams to collect, analyze and present data    Build dashboards and/or executive-level presentations to showcase initiatives and findings to measure progress.     Develop reference tools for the NPN AI Consulting Organization and other NPN Partner types that work with our NPN AI Consultants.    Collaborate with cross functional teams, including Partner Account Managers, Developer Relations, Product Management and Partner Programs.       What we need to see :     Pursuing a Bachelor’s degree or Master's degree in Business, Finance, Mathematics, Statistics, IT, Economics or related fields, completing a minimum of freshman year undergrad.    Hands-on experience with AI assistants and/or agentic workflows to accelerate day-to-day work    Experience using Microsoft Office Suite tools, including Excel and Powerpoint.    Some experience as a sales or marketing intern for technical products.       Ways to stand out from the crowd:      You're proactive and entrepreneurial — you don't wait to be told what to do next.    Exceptionally organized: you can juggle multiple workstreams without dropping a single ball.    You have hands-on experience with or a genuine passion for AI, cloud computing, or tech partner ecosystems.      Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family     www.nvidiabenefits.com/         Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 3, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -637,12 +636,61 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-  "loc": "Switzerland, Zurich",
+  "title": "Research Intern, Spatial Intelligence - Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
   "etype": "Intern",
-  "pub": "2026-10-26",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-  "desc": " NVIDIA is at the forefront of the generative AI revolution! The Algorithmic Model Optimization Team focuses on optimizing generative AI models such as large language models (LLMs), vision-language models (VLMs), and diffusion models for maximal inference efficiency using techniques ranging from quantization, speculative decoding, sparsity, distillation, pruning to neural architecture search, and automated deployment strategies.     Our work includes conducting applied research to improve model efficiency as well as developing an innovative open-source model optimization platform (NVIDIA Model Optimizer). Our software is used both internally across NVIDIA and externally by research and engineering teams alike developing best-in-class AI models.     We are seeking a GenAI Algorithms Intern to help optimize state-of-the-art generative AI models like LLMs, VLMs, multimodal and diffusion models. In this role, you will design, implement, and productionize model optimization algorithms for inference and deployment on NVIDIA’s latest hardware platforms. The focus is on ease of use, compute and memory efficiency, and achieving the best accuracy–performance tradeoffs through software–hardware co-design.     Your work will span multiple layers of the AI software stack—ranging from algorithm design to integration—within NVIDIA’s ecosystem (Model Optimizer, NeMo/Megatron, TensorRT-LLM) and open-source frameworks (PyTorch, Hugging Face, vLLM, SGLang). You may also dive deeper into  GPU-level optimization , including custom kernel development with CUDA and Triton.      What you’ll be doing:    Help design and build modular, scalable model optimization software platforms that deliver exceptional user experiences while supporting diverse AI models and optimization techniques.  Explore, develop, and integrate innovative deep learning optimization algorithms (quantization, speculative decoding, sparsity, distillation, pruning, neural architecture search) into NVIDIA's AI software stack.  Deploy optimized models into leading open-source inference frameworks and contribute specialized APIs, model-level optimizations, and new features tailored to the latest NVIDIA hardware capabilities.  Collaborate with NVIDIA teams on model optimization solutions for customer use cases, aiming for optimal end-to-end workflows and balanced accuracy–performance trade-offs.  Conduct GPU kernel-level profiling to identify and capitalize on hardware and software optimization opportunities (e.g., efficient attention kernels, KV cache optimization, parallelism strategies).       What we need to see:       Pursuing a Master's or PhD in Computer Science, AI, Applied Math, or a related field.  Strong deep learning background and hands-on experience with language models.  Solid foundation in algorithms and programming.  Proficiency in Python, PyTorch, and modern ML frameworks/tools.  Good written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.       Ways to stand out from the crowd:       Experience with model optimization and efficiency (e.g., quantization, distillation, pruning).  Contributions to PyTorch, JAX, vLLM, SGLang, or other machine learning training and inference frameworks.  Hands-on experience training or fine-tuning generative AI models on large-scale GPU clusters.  Knowledge of GPU architectures and compilation stacks, and the ability to analyze and debug end-to-end performance.  Familiarity with NVIDIA’s deep learning SDKs (Model Optimizer, NeMo).      Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive   benefits package.   Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly-growing field.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.         ",
+  "pub": "2026-10-30",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+  "desc": "  NVIDIA is searching for an outstanding computer vision and deep learning intern researcher to join the spatial intelligence lab. We are passionate about research that pushes boundaries but also has impact in the real world!          What you’ll be doing:      Research, design and implement methods for one of the key research topics of the team: generative AI for videos, reconstruction, simulation, video understanding, policy learning, reinforcement learning, VLMs.    Publish original research at the end of the internship.    Collaborate with other team members and teams.    Collaborate with external researchers.           What we need to see:      Must currently be at least a second-year Ph.D. student in, e.g., Computer Science/Engineering, Mathematics.    Excellent knowledge of theory and practice of computer vision methods, as well as deep learning.    Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA)    Knowledge of common machine learning frameworks, such as PyTorch.    Outstanding research track record.    Very good publication record in computer vision, with a minimum of 2 papers (1 as main author) published at top venues CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.    Excellent communications skills.    Good knowledge of version control systems, e.g., git.          NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an AA/EEO/Veterans/Disabled employer. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 38 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 3, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.       ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
+  "etype": "Intern",
+  "pub": "2026-10-30",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
+  "desc": "  NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to resolve, that only we can seek, and that matter to the world. This is our life’s work, to amplify human inventiveness and intelligence.         We are looking for a VLSI CAD Timing Intern focused on Applied AI to lead end-to-end solution development — spanning data generation, model training, orchestration, and agentic automation — for timing and constraint analysis workflows. You will be part of a cross-disciplinary team building intelligent systems that learn from sign-off data, reason across flows, and assist engineers in achieving faster and more predictable closure.          What You’ll Be Doing:      Learn and support static timing analysis (STA) flows using industry tools like PrimeTime and Tempus for advanced ASIC designs.    Help develop and automate timing, constraints, and QoR validation flows using scripting and data-driven methods.    Assist with analyzing timing reports, constraints, and design data across corners and modes to improve closure predictability.    Collaborate with CAD, physical design, and methodology engineers on timing sign-off strategies and best practices.    Contribute to early AI- or analytics-assisted approaches for timing analysis, constraint checking, or flow optimization.    Explore how physical effects (e.g., IR drop, crosstalk, aging, thermal impact) influence timing and design decisions.           What we need to see:      Currently pursuing a Master’s or PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field.    Coursework or academic knowledge in VLSI/ASIC design, digital circuits, or computer architecture.    Exposure to applying agentic AI to back-end VLSI tasks (e.g., floorplanning, timing closure, or physical verification).    Familiarity with the basics of static timing analysis, constraints, or digital design flows.    Knowledge in scripting or programming (Python preferred).    Comfort working with data, reports, and technical problem-solving in complex systems.           Ways to stand out from the crowd:      Academic projects, research, or internships related to VLSI, physical design, STA, or EDA tools.      Exposure to TCL.      Exposure to machine learning, data analysis, or AI concepts applied to engineering problems.      Experience automating workflows, analyzing large datasets, or contributing to technical tools or open-source projects.          NVIDIA is widely considered one of the technology world’s most desirable employers. We employ some of the most forward-thinking and talented people in the world. Are you passionate about joining our life work to amplify human creativity and intelligence? If you are creative, collaborative, and have a real passion for design methodology and automation, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 3, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "AI Developer Technology Intern - 2027",
+  "loc": "Germany, Munich",
+  "etype": "Intern",
+  "pub": "2026-10-31",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
+  "desc": " NVIDIA is looking for a passionate, computer science student to work in its Compute Developer Technology (Devtech) team as an AI Developer Technology intern. Artificial intelligence, the dream of computer scientists for over half a century, is no longer science fiction. And in the next few years, it will transform every industry. Soon, self-driving cars will reduce congestion and improve road safety. AI travel agents will know your preferences and arrange every detail of your family vacation. And medical instruments will read and understand patient DNA to detect and treat early signs of cancer. Where engines made us stronger and powered the first industrial revolution, AI will make us smarter and power the next. What will make this intelligent industrial revolution possible? A new computing model — GPU deep learning — that enables computers to learn from data and write software that is too complex for people to code.       What you will be doing:     Study and develop cutting-edge techniques in deep learning, graphs, machine learning, and data analytics, and perform in-depth analysis and optimization to ensure the best possible performance on current- and next-generation GPU architectures.   Work directly with key customers to understand the current and future problems they are solving and provide the best AI solutions using GPUs.   Collaborate closely with the architecture, research, libraries, tools, and system software teams at NVIDIA to influence the design of next-generation architectures, software platforms, and programming models.      What we need to see:     Pursuing a Bachelor degree or a Master degree or a PhD degree in an engineering, computer science or natural science related discipline with a strong computational profile.   Good knowledge of C/C++, DL frameworks, programming techniques, and AI algorithms.   Firsthand work experience with parallel programming, ideally CUDA C/C++.   Strong communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.   Some travel is required for conferences and for on-site visits with developers.        NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.         Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rate for this position is 47,850 EUR – 82,940 EUR.",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+  "loc": "Poland, Warsaw, Poland, Remote",
+  "etype": "Intern",
+  "pub": "2026-10-31",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2027377",
+  "desc": " NVIDIA is at the forefront of the generative AI revolution! The Algorithmic Model Optimization Team focuses on optimizing generative AI models such as large language models (LLMs), vision-language models (VLMs), and diffusion models for maximal inference efficiency using techniques ranging from quantization, speculative decoding, sparsity, distillation, pruning to neural architecture search, and automated deployment strategies.     Our work includes conducting applied research to improve model efficiency as well as developing an innovative open-source model optimization platform (NVIDIA Model Optimizer). Our software is used both internally across NVIDIA and externally by research and engineering teams alike developing best-in-class AI models.     We are seeking a GenAI Algorithms Intern to help optimize state-of-the-art generative AI models like LLMs, VLMs, multimodal and diffusion models. In this role, you will design, implement, and productionize model optimization algorithms for inference and deployment on NVIDIA’s latest hardware platforms. The focus is on ease of use, compute and memory efficiency, and achieving the best accuracy–performance tradeoffs through software–hardware co-design.     Your work will span multiple layers of the AI software stack—ranging from algorithm design to integration—within NVIDIA’s ecosystem (Model Optimizer, NeMo/Megatron, TensorRT-LLM) and open-source frameworks (PyTorch, Hugging Face, vLLM, SGLang). You may also dive deeper into  GPU-level optimization , including custom kernel development with CUDA and Triton.      What you’ll be doing:    Help design and build modular, scalable model optimization software platforms that deliver exceptional user experiences while supporting diverse AI models and optimization techniques.  Explore, develop, and integrate innovative deep learning optimization algorithms (quantization, speculative decoding, sparsity, distillation, pruning, neural architecture search) into NVIDIA's AI software stack.  Deploy optimized models into leading open-source inference frameworks and contribute specialized APIs, model-level optimizations, and new features tailored to the latest NVIDIA hardware capabilities.  Collaborate with NVIDIA teams on model optimization solutions for customer use cases, aiming for optimal end-to-end workflows and balanced accuracy–performance trade-offs.  Conduct GPU kernel-level profiling to identify and capitalize on hardware and software optimization opportunities (e.g., efficient attention kernels, KV cache optimization, parallelism strategies).       What we need to see:       Pursuing a Master's or PhD in Computer Science, AI, Applied Math, or a related field.  Strong deep learning background and hands-on experience with language models.  Solid foundation in algorithms and programming.  Proficiency in Python, PyTorch, and modern ML frameworks/tools.  Good written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.       Ways to stand out from the crowd:       Experience with model optimization and efficiency (e.g., quantization, distillation, pruning).  Contributions to PyTorch, JAX, vLLM, SGLang, or other machine learning training and inference frameworks.  Hands-on experience training or fine-tuning generative AI models on large-scale GPU clusters.  Knowledge of GPU architectures and compilation stacks, and the ability to analyze and debug end-to-end performance.  Familiarity with NVIDIA’s deep learning SDKs (Model Optimizer, NeMo).      Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive   benefits package.   Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly-growing field.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.     Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rate for this position is 117,750 PLN – 261,300 PLN.",
   "tier": "B",
   "geo": "EU",
   "dirs": [
@@ -654,16 +702,18 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "AI Developer Technology Intern - 2027",
-  "loc": "Germany, Munich",
+  "title": "AI Systems Software Engineering Intern – Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, TX, Austin",
   "etype": "Intern",
-  "pub": "2026-10-20",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Munich/AI-Developer-Technology-Intern---2027_JR2027497",
-  "desc": " NVIDIA is looking for a passionate, computer science student to work in its Compute Developer Technology (Devtech) team as an AI Developer Technology intern. Artificial intelligence, the dream of computer scientists for over half a century, is no longer science fiction. And in the next few years, it will transform every industry. Soon, self-driving cars will reduce congestion and improve road safety. AI travel agents will know your preferences and arrange every detail of your family vacation. And medical instruments will read and understand patient DNA to detect and treat early signs of cancer. Where engines made us stronger and powered the first industrial revolution, AI will make us smarter and power the next. What will make this intelligent industrial revolution possible? A new computing model — GPU deep learning — that enables computers to learn from data and write software that is too complex for people to code.       What you will be doing:     Study and develop cutting-edge techniques in deep learning, graphs, machine learning, and data analytics, and perform in-depth analysis and optimization to ensure the best possible performance on current- and next-generation GPU architectures.   Work directly with key customers to understand the current and future problems they are solving and provide the best AI solutions using GPUs.   Collaborate closely with the architecture, research, libraries, tools, and system software teams at NVIDIA to influence the design of next-generation architectures, software platforms, and programming models.      What we need to see:     Pursuing a Bachelor degree or a Master degree or a PhD degree in an engineering, computer science or natural science related discipline with a strong computational profile.   Good knowledge of C/C++, DL frameworks, programming techniques, and AI algorithms.   Firsthand work experience with parallel programming, ideally CUDA C/C++.   Strong communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.   Some travel is required for conferences and for on-site visits with developers.        NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.             ",
+  "pub": "2026-10-30",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170",
+  "desc": " NVIDIA is looking for an AI Systems Software Engineering Intern to apply AI agents, machine learning, and performance engineering to compilers and developer tools. You will work with compiler and AI engineers on a scoped project involving code, compiler and performance feedback, experiments, and optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, performance analysis, or AI-enabled developer tools. Experience in every area is not expected.    What you’ll be doing:    Build AI-agent workflows that interact with code, compilers, benchmarks, performance tools, and engineering systems.  Develop tools that help agents collect data, run experiments, analyze compiler and performance feedback, identify optimization opportunities, and recommend next steps.  Explore data-driven approaches for compiler optimization, performance prediction, decision support, and workflow automation.  Build reliable interfaces between AI agents and compiler or developer-tool infrastructure.  Prototype improvements to compiler flows, optimization tools, experimentation systems, or developer workflows.  Work with compiler, architecture, AI, and performance engineers to evaluate ideas on representative workloads.  Measure correctness, runtime performance, compile time, reliability, and other relevant outcomes.  Document the design, experiments, results, limitations, and next steps.     What we need to see:    Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a related field.  Strong programming skills in Python, C, C++, or a similar language.  Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.  Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, systems, performance engineering, optimization, or developer tools.  Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.  Interest in learning across AI, compiler, performance, and systems boundaries.     Ways to stand out from the crowd:    Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.  Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.  Familiarity with GPU architecture, CUDA, GPU programming, or performance optimization.  Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.  Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 3, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "B",
-  "geo": "EU",
+  "geo": "US",
   "dirs": [
-   "agent"
+   "llm",
+   "agent",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -684,35 +734,18 @@
   "start_hint": ""
  },
  {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
-  "loc": "Germany, Remote, France, Remote",
-  "etype": "Intern",
-  "pub": "2026-10-15",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
-  "desc": " NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.   Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join us!     What you’ll be doing:    Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous graph.  Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a single, extensible foundation model.  Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s possible.  Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.      What we need to see:    Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area  Proficiency in Python and deep learning frameworks, such as PyTorch  Coursework or research experience in crafting ML algorithm solutions      Ways to stand out from the crowd:    Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar    NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!         ",
+  "src": "amazon",
+  "company": "Amazon",
+  "title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027  [Summer 2027 ✓]",
+  "loc": "Seattle, Washington, USA",
+  "etype": "full-time",
+  "pub": "October 30",
+  "url": "https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027",
+  "desc": "Shape what comes next | Discover careers in TechAt Amazon, our tech isn't just a tool, it's your playground. Our engineers work on scalable systems, cloud services, and customer-facing products that operate",
   "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "Research Intern, Spatial Intelligence - Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-10-12",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-  "desc": "  NVIDIA is searching for an outstanding computer vision and deep learning intern researcher to join the spatial intelligence lab. We are passionate about research that pushes boundaries but also has impact in the real world!          What you’ll be doing:      Research, design and implement methods for one of the key research topics of the team: generative AI for videos, reconstruction, simulation, video understanding, policy learning, reinforcement learning, VLMs.    Publish original research at the end of the internship.    Collaborate with other team members and teams.    Collaborate with external researchers.           What we need to see:      Must currently be at least a second-year Ph.D. student in, e.g., Computer Science/Engineering, Mathematics.    Excellent knowledge of theory and practice of computer vision methods, as well as deep learning.    Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA)    Knowledge of common machine learning frameworks, such as PyTorch.    Outstanding research track record.    Very good publication record in computer vision, with a minimum of 2 papers (1 as main author) published at top venues CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.    Excellent communications skills.    Good knowledge of version control systems, e.g., git.          NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an AA/EEO/Veterans/Disabled employer. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The hourly rate for our interns is 38 USD - 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until October 16, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.       ",
-  "tier": "B",
   "geo": "US",
   "dirs": [
-   "llm",
-   "rl"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -972,12 +1005,12 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Steering LLM to inhibit biases- Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
+  "company": "Renault Group",
+  "title": "CS27 Bac+5 Stage ingénieur Intelligence Artificielle / LLM (H/F)",
+  "loc": "Valbonne, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-steering-llm-to-inhibit-biases-saclay-h-f-at-cea-4472568310",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-ing%C3%A9nieur-intelligence-artificielle-llm-h-f-at-renault-group-4484864889",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -999,6 +1032,38 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-en-intelligence-artificielle-llm-deep-learning-f-h-at-dassault-syst%C3%A8mes-4477838300",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "NAVAL GROUP",
+  "title": "STAGE - Développeur/se agents IA Open Lab - H/F",
+  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-se-agents-ia-open-lab-h-f-at-naval-group-4474826763",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1052,6 +1117,102 @@
  },
  {
   "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H",
+  "loc": "Gennevilliers, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "BASSETTI Group",
+  "title": "Stage - Ingénieur Data Science - IA Générative H/F",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-ia-g%C3%A9n%C3%A9rative-h-f-at-bassetti-group-4473253079",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "NAVAL GROUP",
+  "title": "STAGE - Ingénieur genie logiciel & IA - plateforme d'agents - H/F",
+  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-genie-logiciel-ia-plateforme-d-agents-h-f-at-naval-group-4474082629",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+  "loc": "Toulouse, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485126603",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ArianeGroup",
+  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
+  "loc": "Les Mureaux, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "addactis",
+  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
+  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "LNE",
   "title": "Stage - Industrialisation des essais d'évaluation des LLM H/F",
   "loc": "Trappes, Île-de-France, France",
@@ -1068,12 +1229,44 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur développement - Agent IA (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "Stellantis",
+  "title": "Stage : Ingénieur benchmarking des grands modèles de langage",
+  "loc": "Sochaux, Bourgogne-Franche-Comté, France",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-benchmarking-des-grands-mod%C3%A8les-de-langage-at-stellantis-4473672333",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Societe Generale",
+  "title": "AI & Agentic Software Engineering",
+  "loc": "La Défense, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-agent-ia-f-h-at-dassault-syst%C3%A8mes-4466542848",
+  "url": "https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "SLIB",
+  "title": "Stagiaire Ingénieur développement logiciel & IA agentique",
+  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-agentique-at-slib-4482938771",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1100,12 +1293,12 @@
  },
  {
   "src": "linkedin",
-  "company": "SLIB",
-  "title": "Stagiaire Ingénieur développement logiciel & IA agentique",
-  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
+  "company": "Siemens",
+  "title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
+  "loc": "Châtillon, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-ia-agentique-at-slib-4482938771",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1132,46 +1325,30 @@
  },
  {
   "src": "linkedin",
-  "company": "Stellantis",
-  "title": "Stage : Ingénieur benchmarking des grands modèles de langage",
-  "loc": "Sochaux, Bourgogne-Franche-Comté, France",
+  "company": "Jobster",
+  "title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-benchmarking-des-grands-mod%C3%A8les-de-langage-at-stellantis-4473672333",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4484182798",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Digital4Better",
-  "title": "Stage de fin d'études - Développeur·euse JavaScript / TypeScript & IA générative F/H",
-  "loc": "Rennes, Brittany, France",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-d%C3%A9veloppeur%C2%B7euse-javascript-typescript-ia-g%C3%A9n%C3%A9rative-f-h-at-digital4better-4483136721",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
   "company": "Thales",
-  "title": "STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H",
-  "loc": "Gennevilliers, Île-de-France, France",
+  "title": "STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H",
+  "loc": "Meudon, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1196,49 +1373,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Jobster",
-  "title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
-  "loc": "Paris, Île-de-France, France",
+  "company": "CLS Group (Collecte Localisation Satellites)",
+  "title": "Stage - UI Development & Generative AI - H/F",
+  "loc": "Ramonville-Saint-Agne, Occitanie, France",
   "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4484182798",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ui-development-generative-ai-h-f-at-cls-group-collecte-localisation-satellites-4485385035",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Eviden",
-  "title": "Stage - IA Agentique pour la migration automatisée de données H/F",
-  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1268,6 +1413,22 @@
   "url": "https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-deep-reinforcement-learning-pour-la-prise-de-d%C3%A9cision-en-conduite-autonome-h-f-at-renault-group-4480487329",
   "desc": "",
   "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Groupe SII",
+  "title": "Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)",
+  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-drone-hybride-apprentissage-par-renforcement-pour-le-pilotage-autonome-h-f-at-groupe-sii-4485378793",
+  "desc": "",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "rl"
@@ -1309,23 +1470,6 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage - Bac+5 - Apprentissage par Renforcement et Modèles de Monde pour les maillages - H/F",
-  "loc": "Bruyères-le-Châtel, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/stage-bac%2B5-apprentissage-par-renforcement-et-mod%C3%A8les-de-monde-pour-les-maillages-h-f-at-cea-4466863393",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Safran",
   "title": "STAGE : IA générative pour la conception F/H",
   "loc": "Saclay, Île-de-France, France",
@@ -1342,6 +1486,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Stellantis",
+  "title": "Stage : Solution IA agentique pour le traitement et l'analyse de résultats de simulation",
+  "loc": "Poissy, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-solution-ia-agentique-pour-le-traitement-et-l-analyse-de-r%C3%A9sultats-de-simulation-at-stellantis-4470882893",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Alpine",
   "title": "ALPINE CARS - CS27 - BAC+5 - Ingénieur.e Innovation Automobile, Benchmarking & IA Générative (F/H)",
   "loc": "Guyancourt, Île-de-France, France",
@@ -1353,22 +1513,6 @@
   "geo": "FR",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Societe Generale",
-  "title": "AI & Agentic Software Engineering",
-  "loc": "La Défense, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
@@ -1408,60 +1552,12 @@
  },
  {
   "src": "linkedin",
-  "company": "ArianeGroup",
-  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
-  "loc": "Les Mureaux, Île-de-France, France",
+  "company": "SuperGrid Institute",
+  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
+  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Parrot",
-  "title": "Stage - Machine Learning - Foundation Model (H/F)",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-machine-learning-foundation-model-h-f-at-parrot-4483129367",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H",
-  "loc": "Meudon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "addactis",
-  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
-  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1472,31 +1568,15 @@
  },
  {
   "src": "linkedin",
-  "company": "STATION F",
-  "title": "STAGE AI AGENT OPS",
+  "company": "Curium Pharma",
+  "title": "Stage IT - Développeur Agentic AI - Paris (H/F/X)",
   "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4483290258",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929",
   "desc": "",
   "tier": "A",
   "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Bosch USA",
-  "title": "Agentic AI R&D Intern",
-  "loc": "Sunnyvale, CA",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://www.linkedin.com/jobs/view/agentic-ai-r-d-intern-at-bosch-usa-4480669990",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
   "dirs": [
    "agent"
   ],
@@ -1510,22 +1590,6 @@
   "etype": "Internship",
   "pub": "2026-10-27",
   "url": "https://www.linkedin.com/jobs/view/genai-and-agentic-frameworks-summer-intern-at-moody-s-corporation-4484045587",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "ByteDance",
-  "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
-  "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475060276",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1568,54 +1632,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Merck",
-  "title": "2027 Future Talent Program - Data, AI, and Genome Sciences, Foundation Models - Intern",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://www.linkedin.com/jobs/view/2027-future-talent-program-data-ai-and-genome-sciences-foundation-models-intern-at-merck-4483127613",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Docusign",
-  "title": "Agentic AI Engineer Intern",
-  "loc": "San Francisco, CA",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-intern-at-docusign-4481930370",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "ICE",
-  "title": "Summer Internship Program 2027 - Agentic AI Data Science Intern",
-  "loc": "Jacksonville, FL",
-  "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://www.linkedin.com/jobs/view/summer-internship-program-2027-agentic-ai-data-science-intern-at-ice-4483180328",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "JPMorganChase",
   "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
   "loc": "New York, NY",
@@ -1642,23 +1658,6 @@
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "XPENG",
-  "title": "AI Research Intern – Predictive World Model",
-  "loc": "Santa Clara, CA",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff",
    "rl"
   ],
   "start_hint": ""
@@ -1713,49 +1712,50 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Multimodal Algorithmic Reasoning",
-  "loc": "Cambridge, MA",
+  "company": "XPENG",
+  "title": "AI Research Intern – Predictive World Model",
+  "loc": "Santa Clara, CA",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://www.linkedin.com/jobs/view/internship-multimodal-algorithmic-reasoning-at-mitsubishi-electric-research-laboratories-4483718855",
+  "pub": "2026-10-27",
+  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff",
+   "rl"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "Tractian",
-  "title": "Generative AI Engineering Intern",
-  "loc": "Atlanta, GA",
-  "etype": "Internship",
-  "pub": "2026-10-23",
-  "url": "https://www.linkedin.com/jobs/view/generative-ai-engineering-intern-at-tractian-4472840492",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "MITRE",
-  "title": "Internships in Generative and Agentic AI",
-  "loc": "McLean, VA",
+  "company": "Federal Reserve Board",
+  "title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT  [Summer 2027 ✓]",
+  "loc": "Washington, DC",
   "etype": "Internship",
   "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484211785",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "MeeBoss",
+  "title": "Generative AI Engineer",
+  "loc": "United States",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4485663276",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1778,12 +1778,28 @@
  },
  {
   "src": "linkedin",
-  "company": "Federal Reserve Board",
-  "title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT  [Summer 2027 ✓]",
-  "loc": "Washington, DC",
+  "company": "Toyota Research Institute",
+  "title": "Machine Learning/Agentic AI Intern",
+  "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150",
+  "pub": "2026-10-30",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "VSP Vision Care",
+  "title": "Internship, AI – Agentic & Machine Learning Development",
+  "loc": "United States",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/internship-ai-%E2%80%93-agentic-machine-learning-development-at-vsp-vision-care-4483907783",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1818,6 +1834,22 @@
   "url": "https://www.linkedin.com/jobs/view/robotics-intern-world-foundation-models-at-toyota-research-institute-4483750417",
   "desc": "",
   "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Highmark Health",
+  "title": "Summer 2027 Applied Gen AI/Data Scientist Graduate Intern  [Summer 2027 ✓]",
+  "loc": "United States",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-applied-gen-ai-data-scientist-graduate-intern-at-highmark-health-4483598026",
+  "desc": "",
+  "tier": "B",
   "geo": "US",
   "dirs": [
    "llm"

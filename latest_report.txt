@@ -1,29 +1,36 @@
-实习监控 2026-10-30 · 新增 10 · 当前在挂命中 111 · 显示 10
+实习监控 2026-10-31 · 新增 14 · 当前在挂命中 113 · 显示 14
 
-🇫🇷 FRANCE  (5)
-[A] agent · GetVocal AI — AI Agent Engineer Intern (Internship)  (Paris, Île-de-France, France · 发布 2026-10-30 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771
-[A] agent · Jobster — Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr  (Paris, Île-de-France, France · 发布 2026-10-29 · [linkedin])
-    https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4484182798
-[B] llm · Equans France — STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F  (Marcq-en-Barœul, Hauts-de-France, France · 发布 2026-10-29 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484515697
-[B] llm · MBDA — Stage IA : Structuration des données et développement d'outils métiers à base d'IA générative F/H  (Le Plessis-Robinson, Île-de-France, France · 发布 2026-10-29 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-structuration-des-donn%C3%A9es-et-d%C3%A9veloppement-d-outils-m%C3%A9tiers-%C3%A0-base-d-ia-g%C3%A9n%C3%A9rative-f-h-at-mbda-4483024670
-[B] llm · VISEO — Stage - Data Engineer IA/GenAI F/H  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-10-29 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-engineer-ia-genai-f-h-at-viseo-4484187089
+🇫🇷 FRANCE  (8)
+[A] agent · Curium Pharma — Stage IT - Développeur Agentic AI - Paris (H/F/X)  (Paris, Île-de-France, France · 发布 2026-10-31 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929
+[A] llm · Renault Group — CS27 Bac+5 Stage ingénieur Intelligence Artificielle / LLM (H/F)  (Valbonne, Provence-Alpes-Côte d'Azur, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-ing%C3%A9nieur-intelligence-artificielle-llm-h-f-at-renault-group-4484864889
+[A] agent · Siemens — Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H  (Châtillon, Île-de-France, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746
+[A] agent · Siemens Digital Industries Software — Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program  (Toulouse, Occitanie, France · 发布 2026-10-31 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485126603
+[A] agent · Stellantis — Stage : Solution IA agentique pour le traitement et l'analyse de résultats de simulation  (Poissy, Île-de-France, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-solution-ia-agentique-pour-le-traitement-et-l-analyse-de-r%C3%A9sultats-de-simulation-at-stellantis-4470882893
+[A] agent · SuperGrid Institute — Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H  (Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151
+[B] llm · CLS Group (Collecte Localisation Satellites) — Stage - UI Development & Generative AI - H/F  (Ramonville-Saint-Agne, Occitanie, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ui-development-generative-ai-h-f-at-cls-group-collecte-localisation-satellites-4485385035
+[C] rl · Groupe SII — Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)  (Bordeaux, Nouvelle-Aquitaine, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-drone-hybride-apprentissage-par-renforcement-pour-le-pilotage-autonome-h-f-at-groupe-sii-4485378793
 
-🇺🇸 USA  (5)
-[A] agent · MITRE — Internships in Generative and Agentic AI  (McLean, VA · 发布 2026-10-27 · [linkedin])
-    https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484211785
-[A] diff/rl · tri — Human Interactive Driving Research Intern, World Models  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
-    https://jobs.lever.co/tri/828d98d0-f914-404f-b537-5d05236128bb
-[B] llm/agent/rl · NVIDIA — AI Systems Software Engineering Intern – Summer 2027 [Summer 2027 ✓]  (US, TX, Austin · 发布 2026-10-29 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170
-[B] agent · NVIDIA — VLSI CAD Timing Intern, Applied AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-10-29 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799
-[B] llm · tri — Human Interactive Driving Research Intern, Perception for Driving at the Limits [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
-    起始线索: …This paid, 12-week, Summer 2027 internship is a hybrid in-office role at our headquarters i…
-    https://jobs.lever.co/tri/33c33641-756d-4cd1-8238-0100af2224b8
+🇺🇸 USA  (6)
+[A] llm · Amazon — Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027 [Summer 2027 ✓]  (Seattle, Washington, USA · 发布 October 30 · [amazon])
+    https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027
+[A] agent · Toyota Research Institute — Machine Learning/Agentic AI Intern  (Cambridge, MA · 发布 2026-10-30 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083
+[A] agent · tri — Machine Learning/Agentic AI Intern  (Cambridge, MA, US, hybrid · 发布 2026-10-30 · [lever])
+    https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495
+[A] agent · VSP Vision Care — Internship, AI – Agentic & Machine Learning Development  (United States · 发布 2026-10-31 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-ai-%E2%80%93-agentic-machine-learning-development-at-vsp-vision-care-4483907783
+[B] llm · MeeBoss — Generative AI Engineer  (United States · 发布 2026-10-31 · [linkedin])
+    https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4485663276
+[B] llm · tri — Accelerated Science Intern, Representation Learning for Molecules and Materials  (Los Altos, CA, US, hybrid · 发布 2026-10-30 · [lever])
+    https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

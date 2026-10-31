@@ -9203,5 +9203,103 @@
 "company": "MITRE",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.lever.co/tri/9c851b9d-169d-4bb3-b164-828098e077e7": {
+"first_seen": "2026-10-31",
+"title": "Accelerated Science Intern, Representation Learning for Molecules and Materials",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495": {
+"first_seen": "2026-10-31",
+"title": "Machine Learning/Agentic AI Intern",
+"company": "tri",
+"geo": "US",
+"tier": "A"
+},
+"https://www.amazon.jobs/en/jobs/10593521/software-development-engineer-intern-machine-learning-automated-reasoning-summer-2027": {
+"first_seen": "2026-10-31",
+"title": "Software Development Engineer Intern, Machine Learning/Automated Reasoning- Summer 2027  [Summer 2027 ✓]",
+"company": "Amazon",
+"geo": "US",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/cs27-bac%2B5-stage-ing%C3%A9nieur-intelligence-artificielle-llm-h-f-at-renault-group-4484864889": {
+"first_seen": "2026-10-31",
+"title": "CS27 Bac+5 Stage ingénieur Intelligence Artificielle / LLM (H/F)",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485126603": {
+"first_seen": "2026-10-31",
+"title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746": {
+"first_seen": "2026-10-31",
+"title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
+"company": "Siemens",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ui-development-generative-ai-h-f-at-cls-group-collecte-localisation-satellites-4485385035": {
+"first_seen": "2026-10-31",
+"title": "Stage - UI Development & Generative AI - H/F",
+"company": "CLS Group (Collecte Localisation Satellites)",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-drone-hybride-apprentissage-par-renforcement-pour-le-pilotage-autonome-h-f-at-groupe-sii-4485378793": {
+"first_seen": "2026-10-31",
+"title": "Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)",
+"company": "Groupe SII",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-solution-ia-agentique-pour-le-traitement-et-l-analyse-de-r%C3%A9sultats-de-simulation-at-stellantis-4470882893": {
+"first_seen": "2026-10-31",
+"title": "Stage : Solution IA agentique pour le traitement et l'analyse de résultats de simulation",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151": {
+"first_seen": "2026-10-31",
+"title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
+"company": "SuperGrid Institute",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929": {
+"first_seen": "2026-10-31",
+"title": "Stage IT - Développeur Agentic AI - Paris (H/F/X)",
+"company": "Curium Pharma",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4485663276": {
+"first_seen": "2026-10-31",
+"title": "Generative AI Engineer",
+"company": "MeeBoss",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083": {
+"first_seen": "2026-10-31",
+"title": "Machine Learning/Agentic AI Intern",
+"company": "Toyota Research Institute",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-ai-%E2%80%93-agentic-machine-learning-development-at-vsp-vision-care-4483907783": {
+"first_seen": "2026-10-31",
+"title": "Internship, AI – Agentic & Machine Learning Development",
+"company": "VSP Vision Care",
+"geo": "US",
+"tier": "A"
 }
 }
