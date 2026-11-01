@@ -9301,5 +9301,33 @@
 "company": "VSP Vision Care",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-scalabilit%C3%A9-des-approches-de-calcul-analog-in-memory-computing-vers-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-at-cea-4476292894": {
+"first_seen": "2026-11-01",
+"title": "Stage - Scalabilité des approches de calcul analog in-memory computing vers des modèles d'IA générative",
+"company": "CEA",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948": {
+"first_seen": "2026-11-01",
+"title": "Research Intern, Frontier Agents (Summer 2027)  [Summer 2027 ✓]",
+"company": "Together AI",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-2027-at-nvidia-4476874075": {
+"first_seen": "2026-11-01",
+"title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-development-intern-at-carnegie-mellon-university-4484852849": {
+"first_seen": "2026-11-01",
+"title": "Agentic Development Intern",
+"company": "Carnegie Mellon University",
+"geo": "US",
+"tier": "A"
 }
 }

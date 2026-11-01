@@ -1005,6 +1005,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Betclic Group",
+  "title": "Stage - Applied Research in GenAI / NLP F/M",
+  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-applied-research-in-genai-nlp-f-m-at-betclic-group-4477869517",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Renault Group",
   "title": "CS27 Bac+5 Stage ingénieur Intelligence Artificielle / LLM (H/F)",
   "loc": "Valbonne, Provence-Alpes-Côte d'Azur, France",
@@ -1022,11 +1038,27 @@
  {
   "src": "linkedin",
   "company": "CEA",
-  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "title": "Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
+  "loc": "Saclay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-la-g%C3%A9n%C3%A9ration-de-plug-ins-civa-saclay-h-f-at-cea-4476852231",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage Développement d'un assistant LLM pour l'utilisation et l'analyse de simulations CIVA-Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-l-utilisation-et-l-analyse-de-simulations-civa-saclay-h-f-at-cea-4476838954",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1053,22 +1085,6 @@
  },
  {
   "src": "linkedin",
-  "company": "NAVAL GROUP",
-  "title": "STAGE - Développeur/se agents IA Open Lab - H/F",
-  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-se-agents-ia-open-lab-h-f-at-naval-group-4474826763",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
   "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
@@ -1080,6 +1096,22 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "NAVAL GROUP",
+  "title": "STAGE - Développeur/se agents IA Open Lab - H/F",
+  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-se-agents-ia-open-lab-h-f-at-naval-group-4474826763",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1101,12 +1133,12 @@
  },
  {
   "src": "linkedin",
-  "company": "GetVocal AI",
-  "title": "AI Agent Engineer Intern (Internship)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "SAP",
+  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
+  "loc": "Levallois-Perret, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771",
+  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1149,6 +1181,22 @@
  },
  {
   "src": "linkedin",
+  "company": "STATION F",
+  "title": "STAGE AI AGENT OPS",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4483290258",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "NAVAL GROUP",
   "title": "STAGE - Ingénieur genie logiciel & IA - plateforme d'agents - H/F",
   "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
@@ -1176,22 +1224,6 @@
   "geo": "FR",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "ArianeGroup",
-  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
-  "loc": "Les Mureaux, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1325,6 +1357,22 @@
  },
  {
   "src": "linkedin",
+  "company": "GetVocal AI",
+  "title": "AI Agent Engineer Intern (Internship)",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Jobster",
   "title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
   "loc": "Paris, Île-de-France, France",
@@ -1373,28 +1421,12 @@
  },
  {
   "src": "linkedin",
-  "company": "CLS Group (Collecte Localisation Satellites)",
-  "title": "Stage - UI Development & Generative AI - H/F",
-  "loc": "Ramonville-Saint-Agne, Occitanie, France",
+  "company": "SuperGrid Institute",
+  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
+  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
   "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ui-development-generative-ai-h-f-at-cls-group-collecte-localisation-satellites-4485385035",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "BPCE Infogérance & Technologies",
-  "title": "Stage - 3 à 6 mois - Ingénieur Sécurité et IA Agentique F/H",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/stage-3-%C3%A0-6-mois-ing%C3%A9nieur-s%C3%A9curit%C3%A9-et-ia-agentique-f-h-at-bpce-infog%C3%A9rance-technologies-4474094540",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1454,17 +1486,17 @@
  },
  {
   "src": "linkedin",
-  "company": "InterDigital, Inc.",
-  "title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
-  "loc": "Greater Rennes Metropolitan Area",
+  "company": "Servier France",
+  "title": "STAGE - Bioinformatique & IA : Fine-tuning de modèles de fondation (H/F)",
+  "loc": "Gif-sur-Yvette, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-bioinformatique-ia-fine-tuning-de-mod%C3%A8les-de-fondation-h-f-at-servier-france-4477828288",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "rl"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1486,22 +1518,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Stellantis",
-  "title": "Stage : Solution IA agentique pour le traitement et l'analyse de résultats de simulation",
-  "loc": "Poissy, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-solution-ia-agentique-pour-le-traitement-et-l-analyse-de-r%C3%A9sultats-de-simulation-at-stellantis-4470882893",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Alpine",
   "title": "ALPINE CARS - CS27 - BAC+5 - Ingénieur.e Innovation Automobile, Benchmarking & IA Générative (F/H)",
   "loc": "Guyancourt, Île-de-France, France",
@@ -1513,6 +1529,38 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "InterDigital, Inc.",
+  "title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
+  "loc": "Greater Rennes Metropolitan Area",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur.e Recherche - Modèles génératifs de scènes 3D (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-recherche-mod%C3%A8les-g%C3%A9n%C3%A9ratifs-de-sc%C3%A8nes-3d-f-h-at-dassault-syst%C3%A8mes-4469149141",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "diff"
   ],
   "start_hint": ""
  },
@@ -1535,6 +1583,38 @@
  },
  {
   "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA Générative – Modélisation 3D (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-%E2%80%93-mod%C3%A9lisation-3d-f-h-at-dassault-syst%C3%A8mes-4468695185",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage - Scalabilité des approches de calcul analog in-memory computing vers des modèles d'IA générative",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-scalabilit%C3%A9-des-approches-de-calcul-analog-in-memory-computing-vers-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-at-cea-4476292894",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "CEA",
   "title": "Internship Reinforcement learning of VLMs for table understanding-Saclay-H/F",
   "loc": "Saclay, Île-de-France, France",
@@ -1552,12 +1632,12 @@
  },
  {
   "src": "linkedin",
-  "company": "SuperGrid Institute",
-  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
-  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
+  "company": "Curium Pharma",
+  "title": "Stage IT - Développeur Agentic AI - Paris (H/F/X)",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1568,15 +1648,31 @@
  },
  {
   "src": "linkedin",
-  "company": "Curium Pharma",
-  "title": "Stage IT - Développeur Agentic AI - Paris (H/F/X)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "ArianeGroup",
+  "title": "STAGE - Ingénieure / Ingénieur IA générative multimodale appliqué aux productions spatiales",
+  "loc": "Les Mureaux, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929",
+  "pub": "2026-10-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieure-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-multimodale-appliqu%C3%A9-aux-productions-spatiales-at-arianegroup-4482934005",
   "desc": "",
   "tier": "A",
   "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Together AI",
+  "title": "Research Intern, Frontier Agents (Summer 2027)  [Summer 2027 ✓]",
+  "loc": "San Francisco, CA",
+  "etype": "Internship",
+  "pub": "2026-11-01",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
   "dirs": [
    "agent"
   ],
@@ -1600,12 +1696,29 @@
  },
  {
   "src": "linkedin",
-  "company": "TikTok USDS Joint Venture",
-  "title": "Research Scientist Intern (Enterprise AI Agent) - 2027 Start",
-  "loc": "San Jose, CA",
+  "company": "XPENG",
+  "title": "AI Research Intern – Predictive World Model",
+  "loc": "Santa Clara, CA",
   "etype": "Internship",
   "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-enterprise-ai-agent-2027-start-at-tiktok-usds-joint-venture-4474047193",
+  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Machine Learning/Agentic AI Intern",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1627,6 +1740,22 @@
   "geo": "US",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Human-Centered AI Research Intern, Causal Reasoning Models",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-causal-reasoning-models-at-toyota-research-institute-4468697896",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1680,82 +1809,18 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Multimodal Embodied AI",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-10-24",
-  "url": "https://www.linkedin.com/jobs/view/internship-multimodal-embodied-ai-at-mitsubishi-electric-research-laboratories-4483352156",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "42dot",
-  "title": "Internship, Foundation Models",
-  "loc": "Sunnyvale, CA",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "XPENG",
-  "title": "AI Research Intern – Predictive World Model",
+  "company": "NVIDIA",
+  "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027  [Summer 2027 ✓]",
   "loc": "Santa Clara, CA",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-2027-at-nvidia-4476874075",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
    "diff",
    "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Federal Reserve Board",
-  "title": "Summer 2027 Graduate Intern – Super Intelligence (SI) Connectors Platform Engineer (MCP and RAG) – IT  [Summer 2027 ✓]",
-  "loc": "Washington, DC",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/summer-2027-graduate-intern-%E2%80%93-super-intelligence-si-connectors-platform-engineer-mcp-and-rag-%E2%80%93-it-at-federal-reserve-board-4484097150",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "MeeBoss",
-  "title": "Generative AI Engineer",
-  "loc": "United States",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://www.linkedin.com/jobs/view/generative-ai-engineer-at-meeboss-4485663276",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1778,28 +1843,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Machine Learning/Agentic AI Intern",
-  "loc": "Cambridge, MA",
+  "company": "TikTok USDS Joint Venture",
+  "title": "Research Scientist Intern (Enterprise AI Agent) - 2027 Start",
+  "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "VSP Vision Care",
-  "title": "Internship, AI – Agentic & Machine Learning Development",
-  "loc": "United States",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://www.linkedin.com/jobs/view/internship-ai-%E2%80%93-agentic-machine-learning-development-at-vsp-vision-care-4483907783",
+  "pub": "2026-10-27",
+  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-enterprise-ai-agent-2027-start-at-tiktok-usds-joint-venture-4474047193",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1811,11 +1860,11 @@
  {
   "src": "linkedin",
   "company": "TikTok USDS Joint Venture",
-  "title": "Software Engineer Intern (Agentic Platform) - 2027 Summer  [Summer 2027 ✓]",
+  "title": "AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer  [Summer 2027 ✓]",
   "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4473681604",
+  "pub": "2026-11-01",
+  "url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466940465",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1826,12 +1875,44 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Robotics Intern, World Foundation Models",
-  "loc": "Los Altos, CA",
+  "company": "TikTok USDS Joint Venture",
+  "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer  [Summer 2027 ✓]",
+  "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://www.linkedin.com/jobs/view/robotics-intern-world-foundation-models-at-toyota-research-institute-4483750417",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4466937957",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Carnegie Mellon University",
+  "title": "Agentic Development Intern",
+  "loc": "Pittsburgh, PA",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://www.linkedin.com/jobs/view/agentic-development-intern-at-carnegie-mellon-university-4484852849",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TikTok",
+  "title": "AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "San Jose, CA",
+  "etype": "Internship",
+  "pub": "2026-10-29",
+  "url": "https://www.linkedin.com/jobs/view/ai-infra-engineer-intern-recommendation-llm-2027-summer-at-tiktok-4457692099",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1853,6 +1934,22 @@
   "geo": "US",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ByteDance",
+  "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+  "loc": "Seattle, WA",
+  "etype": "Internship",
+  "pub": "2026-10-26",
+  "url": "https://www.linkedin.com/jobs/view/agent-evaluation-evolution-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475530047",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  }
