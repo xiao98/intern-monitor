@@ -9329,5 +9329,40 @@
 "company": "Carnegie Mellon University",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274": {
+"first_seen": "2026-11-02",
+"title": "STAGE AI AGENT OPS",
+"company": "STATION F",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4485482702": {
+"first_seen": "2026-11-02",
+"title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
+"company": "Jobster",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484510770": {
+"first_seen": "2026-11-02",
+"title": "STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F",
+"company": "Equans France",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/visual-generation-multimodal-evaluation-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475845217": {
+"first_seen": "2026-11-02",
+"title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
+"company": "ByteDance",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541": {
+"first_seen": "2026-11-02",
+"title": "Co-op, Agentic and Generative Protein Design",
+"company": "Lila Sciences",
+"geo": "US",
+"tier": "A"
 }
 }

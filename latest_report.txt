@@ -1,17 +1,19 @@
-实习监控 2026-11-01 · 新增 4 · 当前在挂命中 119 · 显示 4
+实习监控 2026-11-02 · 新增 5 · 当前在挂命中 119 · 显示 5
 
-🇫🇷 FRANCE  (1)
-[B] llm · CEA — Stage - Scalabilité des approches de calcul analog in-memory computing vers des modèles d'IA générative  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-10-31 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-scalabilit%C3%A9-des-approches-de-calcul-analog-in-memory-computing-vers-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-at-cea-4476292894
+🇫🇷 FRANCE  (3)
+[A] agent · Jobster — Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr  (Paris, Île-de-France, France · 发布 2026-11-02 · [linkedin])
+    https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4485482702
+[A] agent · STATION F — STAGE AI AGENT OPS  (Paris, Île-de-France, France · 发布 2026-11-02 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274
+[B] llm · Equans France — STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F  (Courbevoie, Île-de-France, France · 发布 2026-10-30 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484510770
 
-🇺🇸 USA  (3)
-[A] agent · Carnegie Mellon University — Agentic Development Intern  (Pittsburgh, PA · 发布 2026-10-30 · [linkedin])
-    https://www.linkedin.com/jobs/view/agentic-development-intern-at-carnegie-mellon-university-4484852849
-[A] diff/rl · NVIDIA — Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027 [Summer 2027 ✓]  (Santa Clara, CA · 发布 2026-10-31 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-2027-at-nvidia-4476874075
-[A] agent · Together AI — Research Intern, Frontier Agents (Summer 2027) [Summer 2027 ✓]  (San Francisco, CA · 发布 2026-11-01 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948
+🇺🇸 USA  (2)
+[A] llm · ByteDance — Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer [Summer 2027 ✓]  (San Jose, CA · 发布 2026-10-27 · [linkedin])
+    https://www.linkedin.com/jobs/view/visual-generation-multimodal-evaluation-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475845217
+[A] agent · Lila Sciences — Co-op, Agentic and Generative Protein Design  (Cambridge, MA · 发布 2026-11-02 · [linkedin])
+    https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1
