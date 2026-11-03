@@ -1,19 +1,35 @@
-实习监控 2026-11-02 · 新增 5 · 当前在挂命中 119 · 显示 5
+实习监控 2026-11-03 · 新增 12 · 当前在挂命中 117 · 显示 12
 
-🇫🇷 FRANCE  (3)
-[A] agent · Jobster — Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr  (Paris, Île-de-France, France · 发布 2026-11-02 · [linkedin])
-    https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4485482702
-[A] agent · STATION F — STAGE AI AGENT OPS  (Paris, Île-de-France, France · 发布 2026-11-02 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274
-[B] llm · Equans France — STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F  (Courbevoie, Île-de-France, France · 发布 2026-10-30 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484510770
+🇫🇷 FRANCE  (7)
+[A] agent · CS GROUP — Stage - Ingénieur(e) en Développement d’Agents IA pour la Création Industrialisée d’IHM - Spatial - Toulouse  (Toulouse, Occitanie, France · 发布 2026-10-28 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-en-d%C3%A9veloppement-d%E2%80%99agents-ia-pour-la-cr%C3%A9ation-industrialis%C3%A9e-d%E2%80%99ihm-spatial-toulouse-at-cs-group-4484750411
+[A] llm · Jimini AI — AI Engineer, LLM (Stagiaire, Alternant)  (Paris, Île-de-France, France · 发布 2026-11-02 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973
+[A] agent · Qwokka — Stage AI Ops & Agents IA (Support Client)  (Greater Paris Metropolitan Region · 发布 2026-11-03 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777
+[A] agent · Siemens Digital Industries Software — Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program  (Châtillon, Île-de-France, France · 发布 2026-10-31 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622
+[A] agent · STMicroelectronics France — STAGE – Sécurité et explicabilité des systèmes agentiques – F/H.  (Crolles, Auvergne-Rhône-Alpes, France · 发布 2026-10-29 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-s%C3%A9curit%C3%A9-et-explicabilit%C3%A9-des-syst%C3%A8mes-agentiques-%E2%80%93-f-h-at-stmicroelectronics-france-4485223566
+[A] agent · TLD Robotics — Employee Augmentation & AI Agents Intern – Toulouse (F/M)  (Toulouse, Occitanie, France · 发布 2026-11-02 · [linkedin])
+    https://fr.linkedin.com/jobs/view/employee-augmentation-ai-agents-intern-%E2%80%93-toulouse-f-m-at-tld-robotics-4484376472
+[B] llm · Michelin — Stage - Explorer l’IA générative pour moderniser une application R&D (F/H)  (Clermont-Ferrand, Auvergne-Rhône-Alpes, France · 发布 2026-11-02 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-explorer-l%E2%80%99ia-g%C3%A9n%C3%A9rative-pour-moderniser-une-application-r-d-f-h-at-michelin-4486411764
 
-🇺🇸 USA  (2)
-[A] llm · ByteDance — Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer [Summer 2027 ✓]  (San Jose, CA · 发布 2026-10-27 · [linkedin])
-    https://www.linkedin.com/jobs/view/visual-generation-multimodal-evaluation-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475845217
-[A] agent · Lila Sciences — Co-op, Agentic and Generative Protein Design  (Cambridge, MA · 发布 2026-11-02 · [linkedin])
-    https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541
+🇪🇺 EUROPE  (1)
+[B] llm · NVIDIA — AI Compiler Intern, CUDA Tile IR - Summer 2027  (Switzerland, Zurich · 发布 2026-11-03 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069
+
+🇺🇸 USA  (4)
+[A] diff · BehaviorAI — Machine Learning Engineer Internship — Generative Modeling  (New York City Metropolitan Area · 发布 2026-11-02 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-engineer-internship-%E2%80%94-generative-modeling-at-behaviorai-4485763430
+[A] agent · Labcorp — Co-op - Agentic AI Developer  (Durham, NC · 发布 2026-11-03 · [linkedin])
+    https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562
+[A] llm · Mitsubishi Electric Research Laboratories — Internship - Foundation Models for Humanoid Robots  (Cambridge, MA · 发布 2026-11-02 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-foundation-models-for-humanoid-robots-at-mitsubishi-electric-research-laboratories-4486445151
+[B] llm/agent/rl · NVIDIA — AI Compiler and Kernel Intern – Summer 2027 [Summer 2027 ✓]  (US, TX, Austin · 发布 2026-11-02 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1

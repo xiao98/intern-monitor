@@ -176,7 +176,7 @@
   "etype": "",
   "pub": "2026-10-16",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
-  "desc": "<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About the Role</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">The Speculative Decoding team at Together AI builds the draft models and algorithms that let large language models generate faster without changing their outputs. Our speculators run in production on frontier open models such as DeepSeek, Kimi and GLM. Our work sits at the intersection of model training, inference algorithms and serving systems, and we co-design all three to lower the cost and latency of generation.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">As a research intern, you will dive into open questions in speculative decoding: new drafter architectures and verification schemes, knowledge distillation and training recipes that align draft and target models, and drafters that adapt as traffic shifts. You will train and fine-tune draft models at scale on dedicated GPU clusters, and test your ideas against realistic serving workloads, including long-context and agentic traffic.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Projects aim to answer important research questions in speculative decoding, enabling faster generation on frontier models, drafters that keep pace with changing workloads, and robust, reproducible evaluation under real traffic.</span></p>\n<h3 id=\"past-research\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Past Research</span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Speculative decoding research by Together researchers, interns and academic collaborators includes:</span></p>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://openreview.net/forum?id=aL1Wnml9Ef\" target=\"_blank\">Speculative Speculative Decoding</a> (ICLR 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2602.06932\" target=\"_blank\">When RL Meets Adaptive Speculative Training: A Unified Training-Serving System</a> (ICML 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2511.13841\" target=\"_blank\">Beat the Long Tail: Distribution-Aware Speculative Decoding for RL Training</a> (MLSys 2026)</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Responsibilities</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Research and prototype new efficient speculative decoding algorithms and draft model architectures</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Train, fine-tune and distill draft models, and design rigorous experiments to validate hypotheses.</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Implement optimized version for serving engines to show efficacy in real world workloads</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Communicate the plans, progress, and results of projects to the broader team</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Share findings through technical write-ups and blog posts, and help bring successful ideas into production</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Requirements</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Currently pursuing a Master's or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Strong knowledge of Machine Learning and Deep Learning fundamentals</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Hands-on experience training or fine-tuning large models with distributed training frameworks (e.g., Megatron-LM, FSDP)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with modern model architectures, such as Mixture-of-Experts and hybrid attention</span></li>\n</ul>\n<h3 id=\"preferred-qualifications\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Preferred Qualifications</span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Prior research experience in speculative decoding, efficient inference, or efficient machine learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Publications at leading conferences in machine learning or systems (e.g., NeurIPS, ICML, ICLR, MLSys)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Experience with knowledge distillation, post-training, or reinforcement learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with LLM serving engines (e.g., vLLM, SGLang, TensorRT-LLM)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Contributions to open-source machine learning projects</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About Together AI</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Internship Program Details</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span May 17th to August 6th or June 14th to September 3rd.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Compensation</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 - $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Equal Opportunity</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">For more information about our privacy policy, please visit:<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></span></p>\n<h3><br><br><br></h3>",
+  "desc": "<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About the Role</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">The Speculative Decoding team at Together AI builds the draft models and algorithms that let large language models generate faster without changing their outputs. Our speculators run in production on frontier open models such as DeepSeek, Kimi and GLM. Our work sits at the intersection of model training, inference algorithms and serving systems, and we co-design all three to lower the cost and latency of generation.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">As a research intern, you will dive into open questions in speculative decoding: new drafter architectures and verification schemes, knowledge distillation and training recipes that align draft and target models, and drafters that adapt as traffic shifts. You will train and fine-tune draft models at scale on dedicated GPU clusters, and test your ideas against realistic serving workloads, including long-context and agentic traffic.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Projects aim to answer important research questions in speculative decoding, enabling faster generation on frontier models, drafters that keep pace with changing workloads, and robust, reproducible evaluation under real traffic.</span></p>\n<h3 id=\"past-research\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Past Research</span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Speculative decoding research by Together researchers, interns and academic collaborators includes:</span></p>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://openreview.net/forum?id=aL1Wnml9Ef\" target=\"_blank\">Speculative Speculative Decoding</a> (ICLR 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2602.06932\" target=\"_blank\">When RL Meets Adaptive Speculative Training: A Unified Training-Serving System</a> (ICML 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2511.13841\" target=\"_blank\">Beat the Long Tail: Distribution-Aware Speculative Decoding for RL Training</a> (MLSys 2026)</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Responsibilities</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Research and prototype new efficient speculative decoding algorithms and draft model architectures</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Train, fine-tune and distill draft models, and design rigorous experiments to validate hypotheses.</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Implement optimized version for serving engines to show efficacy in real world workloads</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Communicate the plans, progress, and results of projects to the broader team</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Share findings through technical write-ups and blog posts, and help bring successful ideas into production</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Requirements</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Currently pursuing a Master's or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Strong knowledge of Machine Learning and Deep Learning fundamentals</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Hands-on experience training or fine-tuning large models with distributed training frameworks (e.g., Megatron-LM, FSDP)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with modern model architectures, such as Mixture-of-Experts and hybrid attention</span></li>\n</ul>\n<h3 id=\"preferred-qualifications\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Preferred Qualifications</span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Prior research experience in speculative decoding, efficient inference, or efficient machine learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Publications at leading conferences in machine learning or systems (e.g., NeurIPS, ICML, ICLR, MLSys)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Experience with knowledge distillation, post-training, or reinforcement learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with LLM serving engines (e.g., vLLM, SGLang, TensorRT-LLM)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Contributions to open-source machine learning projects</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About Together AI</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Internship Program Details</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span May 17th to August 6th or June 14th to September 3rd.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Compensation</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 - $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</span></p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Equal Opportunity</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">For more information about our privacy policy, please visit:<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></span></p>\n<h3><br><br><br></h3>",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -194,7 +194,7 @@
   "etype": "",
   "pub": "2026-09-18",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
-  "desc": "<h3><strong>About The Role&nbsp;&nbsp;</strong></h3>\n<p>The Inference Research team is dedicated to building the next generation of efficient, scalable, and reliable serving systems for large foundation models, directly contributing to the mission of advancing open and transparent AI. Our work operates at the critical intersection of cutting-edge model architectures, high-performance systems engineering, and deep hardware optimization. We focus on co-designing software, algorithms, and models to significantly lower the cost and latency of modern AI systems.</p>\n<p>As a research intern, you will dive into the complexities of distributed inference, compiler-aware optimization, and novel inference-time computation strategies (such as speculative decoding and phase-aware execution). You will be tasked with co-designing and implementing cross-layer optimizations across models, systems, and hardware, with a focus on areas like KV cache design and large-scale serving architectures.</p>\n<p>Projects aim to unlock unprecedented performance and scale for foundation models, enabling faster serving, larger model deployment (e.g., Mixture-of-Experts), and robust, reproducible evaluation under realistic serving workloads.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Communicate the plans, progress, and results of projects to the broader team</li>\n<li>Document findings in scientific publications and blog posts</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a final year of Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Strong programming skills in Python</li>\n<li>Familiarity with Transformer architectures and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Qualifications</strong></h3>\n<ul>\n<li>Prior research experience in <strong>foundation models</strong>, <strong>efficient machine learning</strong>, or <strong>ML systems</strong>.</li>\n<li>Publications at leading conferences in machine learning or systems (i.e., <strong>MLSys, ICLR</strong>).</li>\n<li>Experience with CUDA programming (for kernel development)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
+  "desc": "<h3><strong>About The Role&nbsp;&nbsp;</strong></h3>\n<p>The Inference Research team is dedicated to building the next generation of efficient, scalable, and reliable serving systems for large foundation models, directly contributing to the mission of advancing open and transparent AI. Our work operates at the critical intersection of cutting-edge model architectures, high-performance systems engineering, and deep hardware optimization. We focus on co-designing software, algorithms, and models to significantly lower the cost and latency of modern AI systems.</p>\n<p>As a research intern, you will dive into the complexities of distributed inference, compiler-aware optimization, and novel inference-time computation strategies (such as speculative decoding and phase-aware execution). You will be tasked with co-designing and implementing cross-layer optimizations across models, systems, and hardware, with a focus on areas like KV cache design and large-scale serving architectures.</p>\n<p>Projects aim to unlock unprecedented performance and scale for foundation models, enabling faster serving, larger model deployment (e.g., Mixture-of-Experts), and robust, reproducible evaluation under realistic serving workloads.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Communicate the plans, progress, and results of projects to the broader team</li>\n<li>Document findings in scientific publications and blog posts</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a final year of Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Strong programming skills in Python</li>\n<li>Familiarity with Transformer architectures and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Qualifications</strong></h3>\n<ul>\n<li>Prior research experience in <strong>foundation models</strong>, <strong>efficient machine learning</strong>, or <strong>ML systems</strong>.</li>\n<li>Publications at leading conferences in machine learning or systems (i.e., <strong>MLSys, ICLR</strong>).</li>\n<li>Experience with CUDA programming (for kernel development)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -211,7 +211,7 @@
   "etype": "",
   "pub": "2026-09-18",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
-  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd in our San Francisco or Amsterdam office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
+  "desc": "<h3><strong>About the Role</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd in our San Francisco or Amsterdam office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
   "tier": "B",
   "geo": "EU",
   "dirs": [
@@ -228,7 +228,7 @@
   "etype": "",
   "pub": "2026-09-18",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span January 4th to April 9th either in our San Francisco or Amsterdam Office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
+  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span January 4th to April 9th either in our San Francisco or Amsterdam Office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
   "tier": "B",
   "geo": "EU",
   "dirs": [
@@ -245,7 +245,7 @@
   "etype": "",
   "pub": "2026-09-18",
   "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
-  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Systems Research Engineer Intern specialized in GPU Programming, you will play a crucial role in developing and optimizing GPU-accelerated kernels and algorithms for ML/AI applications. Working closely with the modeling and algorithm team, you will co-design GPU kernels and model architecture to enhance the performance and efficiency of our AI systems. Collaborating with the hardware and software teams, you will contribute to the co-design of efficient GPU architectures and programming models, leveraging your expertise in GPU programming and parallel computing. Your research skills will be vital in staying up-to-date with the latest advancements in GPU programming techniques, ensuring that our AI infrastructure remains at the forefront of innovation.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Optimize and fine-tune GPU code to achieve better performance and scalability</li>\n<li>Collaborate with cross-functional teams to integrate GPU-accelerated solutions into existing software systems</li>\n<li>Stay up-to-date with the latest advancements in GPU programming techniques and technologies</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Strong background in GPU programming and parallel computing, such as CUDA and/or Triton.</li>\n<li>Knowledge of ML/AI applications and models</li>\n<li>Knowledge of performance profiling and optimization tools for GPU programming</li>\n<li>Excellent problem-solving and analytical skills</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details:&nbsp;</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
+  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Systems Research Engineer Intern specialized in GPU Programming, you will play a crucial role in developing and optimizing GPU-accelerated kernels and algorithms for ML/AI applications. Working closely with the modeling and algorithm team, you will co-design GPU kernels and model architecture to enhance the performance and efficiency of our AI systems. Collaborating with the hardware and software teams, you will contribute to the co-design of efficient GPU architectures and programming models, leveraging your expertise in GPU programming and parallel computing. Your research skills will be vital in staying up-to-date with the latest advancements in GPU programming techniques, ensuring that our AI infrastructure remains at the forefront of innovation.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Optimize and fine-tune GPU code to achieve better performance and scalability</li>\n<li>Collaborate with cross-functional teams to integrate GPU-accelerated solutions into existing software systems</li>\n<li>Stay up-to-date with the latest advancements in GPU programming techniques and technologies</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Strong background in GPU programming and parallel computing, such as CUDA and/or Triton.</li>\n<li>Knowledge of ML/AI applications and models</li>\n<li>Knowledge of performance profiling and optimization tools for GPU programming</li>\n<li>Excellent problem-solving and analytical skills</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details:&nbsp;</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -344,15 +344,14 @@
   "src": "greenhouse",
   "company": "waymo",
   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations  [Summer 2027 ✓]",
-  "loc": "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)",
+  "loc": "San Francisco, CA, USA, San Francisco (US-SFO-MKT555)",
   "etype": "",
-  "pub": "2026-10-01",
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
-  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The subteam for this role will be:</p>\n<p>Driver Refinement foundations - The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms, including the Data Flywheel and the Reasoning platform, to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Optimize Multimodal generative models using RLFT. Explore Reward modeling</li>\n<li>Design and implement Evaluation metrics and iterate on improvements</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and developing metrics</li>\n<li>Experience developing models</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
+  "pub": "2026-10-23",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
+  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The team for this role will be:</p>\n<p>Driver Refinement Foundations</p>\n<p>Description:</p>\n<p>The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Design and implement robust data generation pipelines for data generation</li>\n<li>Design and evaluate experiments for model training</li>\n<li>Designing robust data generation pipelines for model training</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and understanding metrics</li>\n<li>Experience in strong software engineering principles</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Help solve challenging problems with a direct impact on the company</li>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
   "tier": "B",
   "geo": "US",
   "dirs": [
-   "diff",
    "llm"
   ],
   "start_hint": ""
@@ -616,6 +615,56 @@
    "llm"
   ],
   "start_hint": "division is looking for research interns for the summer of 2027 in a variety of areas such as Video Generation, World Model"
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "AI Compiler Intern, CUDA Tile IR - Summer 2027",
+  "loc": "Switzerland, Zurich",
+  "etype": "Intern",
+  "pub": "2026-11-03",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069",
+  "desc": " NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people.   Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.   We are now hiring deep learning compiler engineering interns to work on CUDA Tile IR!   NVIDIA GPUs are at the center of the deep learning revolution and continue to enable breakthroughs in generative AI, large language models, recommendation systems, speech recognition, image classification and other areas. CUDA Tile IR is a new and exciting way to program those GPUs.  Come join us to work with an outstanding team and make an impact across the entire deep learning community.    What you'll be doing:     Improve the performance and expressivity of CUDA Tile IR.  Analyze deep learning networks and developing compiler optimization algorithms, adding new constructs to the language to better enable various workloads, and expanding support to new hardware generations.  Collaborate with members of the deep learning software framework teams and the hardware architecture teams to accelerate the next generation of deep learning software.     What we need to see:     Currently pursuing a Bachelor's, Master's, or PhD degree within Computer Engineering, Electrical Engineering, Computer Science, or a similar field  Excellent C/C++ programming and software design skills, including debugging, performance analysis, and test design.     Ways to stand out from the crowd:     Experience with the following technologies: MLIR, LLVM, XLA, deep learning models and algorithms, and deep learning framework design.  History of contributions to open-source projects.  Knowledge of CPU and/or GPU architecture. CUDA or OpenCL programming experience.    Widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive benefits package. As you plan your future, see what we can offer to you and your family www.nvidiabenefits.com/         ",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "AI Compiler and Kernel Intern – Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, TX, Austin",
+  "etype": "Intern",
+  "pub": "2026-11-02",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
+  "desc": " NVIDIA is looking for an AI Compiler & Kernel Intern to apply AI agents, machine learning, and performance engineering to compilers, GPU kernels, and developer tools. You will work with compiler, kernel, and AI engineers on a scoped project involving code, compiler and kernel feedback, performance experiments, and optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, compiler optimization, GPU kernel development, performance analysis, or AI-enabled developer tools. Candidates may enter from either a compiler or kernel background; experience in every area is not expected.    What You’ll Be Doing:    Build AI-agent workflows that interact with code, compilers, GPU kernels, benchmarks, performance tools, and engineering systems.  Develop tools that help agents collect data, run experiments, analyze compiler, kernel, and performance feedback, identify optimization opportunities, and recommend next steps.  Explore data-driven approaches for compiler optimization, GPU kernel generation and tuning, performance prediction, decision support, and workflow automation.  Build reliable interfaces between AI agents and compiler, kernel, or developer-tool infrastructure.  Prototype improvements to compiler flows, code generation, GPU kernels, optimization tools, experimentation systems, or developer workflows.  Work with compiler, kernel, architecture, AI, and performance engineers to evaluate ideas on representative workloads.  Measure correctness, runtime performance, compile time, resource utilization, reliability, and other relevant outcomes.  Document the design, experiments, results, limitations, and next steps.     What We Need to See:    Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a similar field .   Strong programming skills in Python, C, C++, or a similar language.  Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.  Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, GPU kernels, CUDA or accelerator programming, systems, performance engineering, optimization, or developer tools.  Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.  Experience working in one or more of AI, compiler, kernel, performance, or systems areas, with the ability to learn across technical boundaries.     Ways to Stand Out from the Crowd:    Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.  Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.  Experience writing, analyzing, or optimizing GPU kernels using CUDA, Triton, or a similar accelerator programming model.  Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.    Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity     Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 6, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm",
+   "agent",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+  "loc": "Germany, Remote, France, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-02",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+  "desc": " NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.   Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join us!     What you’ll be doing:    Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous graph.  Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a single, extensible foundation model.  Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s possible.  Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.      What we need to see:    Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area  Proficiency in Python and deep learning frameworks, such as PyTorch  Coursework or research experience in crafting ML algorithm solutions      Ways to stand out from the crowd:    Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar    NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!     Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rates for this position are: Germany: 47,850 EUR – 82,940 EUR. France: 40,500 EUR – 70,200 EUR.",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
  },
  {
   "src": "nvidia",
@@ -954,24 +1003,6 @@
  {
   "src": "watch",
   "company": "CEA",
-  "title": "2026-41593-S2197 - Stage - Bac+5 - Apprentissage par Renforcement et Modèles de Monde pour les maillages - H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41593&idOrigine=502&LCID=1036&offerReference=2026-41593-S2197",
-  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn considérant un problème plus simple de maillage, à savoir le lissage qui consiste à déplacer les sommets d’un maillage pour améliorer la qualité géométrique des cellules composant le maillage, l’étudiant(e) aura pour objectif de développer et évaluer une architecture hybride où un agent RL apprend à déplacer les sommets du maillage en s’appuyant sur les prédictions abstraites de Graph-JEPA. L’idée sous-jacente est d’apprendre des représentations latentes relatives à des opérations de maillage sur des cartes combinatoires de dimension 2 et 3. \r\nLes grandes étapes du travail proposé seront : \r\n(1) Assimiler les concepts suffisants en maillage et comprendre le formalisme des cartes combinatoire. \r\n(2) Concevoir une architecture JEPA adaptée. Le modèle devra apprendre à prédire l’impact latent d’un déplacement de sommet sans reconstruire le maillage complet.\r\n(3) Implémenter un agent de RL avec une approche acteur-critique et une fonction de récompense qui sera directement corrélée à des métriques de qualité de mailles (ex : rapport de forme, jacobien des éléments, régularité des angles) en utilisant l’architecture précédemment définie.\r\n(4) Comparer les résultats obtenus avec des algorithmes de lissage usuels, aussi bien en termes de qualité finale du maillage et de temps de convergence.\r\n\r\nConformément aux engagements pris par le CEA en faveur de l'intégration des personnes handicapées, cet emploi est ouvert à toutes et à tous. Le CEA propose des aménagements et/ou des possibilités d'organisation pour l’inclusion des travailleurs handicapés.\r\nParticipant à la protection nationale, une enquête administrative est réalisée pour tous les collaborateurs du CEA afin d'assurer l'intégrité et la sécurité de la nation.<br /><br />\r\nPython, Apprentissage par renforcement, apprentissage profond, pytorch\r\nBac+5\r\n<br />\r\n<b>Ville : </b>Bruyères-le-Châtel<br />\r\n",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
   "title": "2026-42301 - Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
   "loc": "France",
   "etype": "",
@@ -1069,30 +1100,14 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-en-intelligence-artificielle-llm-deep-learning-f-h-at-dassault-syst%C3%A8mes-4477838300",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "Veepee",
+  "title": "Stage - Développeur(euse) IA Générative (H/F/X) - Janvier 2027",
+  "loc": "St.-Denis, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1101,12 +1116,44 @@
  },
  {
   "src": "linkedin",
-  "company": "NAVAL GROUP",
-  "title": "STAGE - Développeur/se agents IA Open Lab - H/F",
-  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
+  "company": "Societe Generale",
+  "title": "AI & Agentic Software Engineering",
+  "loc": "La Défense, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-se-agents-ia-open-lab-h-f-at-naval-group-4474826763",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TLD Robotics",
+  "title": "Employee Augmentation & AI Agents Intern – Toulouse (F/M)",
+  "loc": "Toulouse, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/employee-augmentation-ai-agents-intern-%E2%80%93-toulouse-f-m-at-tld-robotics-4484376472",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Qwokka",
+  "title": "Stage AI Ops & Agents IA (Support Client)",
+  "loc": "Greater Paris Metropolitan Region",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1133,49 +1180,33 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
-  "loc": "Levallois-Perret, Île-de-France, France",
+  "company": "Jimini AI",
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+  "loc": "Châtillon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE – Ingénieur IA générative appliquée à l’IVVQ - F/H",
-  "loc": "Gennevilliers, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-appliqu%C3%A9e-%C3%A0-l%E2%80%99ivvq-f-h-at-thales-4483556633",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "BASSETTI Group",
-  "title": "Stage - Ingénieur Data Science - IA Générative H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-ia-g%C3%A9n%C3%A9rative-h-f-at-bassetti-group-4473253079",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1187,54 +1218,6 @@
   "etype": "Internship",
   "pub": "2026-11-02",
   "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "NAVAL GROUP",
-  "title": "STAGE - Ingénieur genie logiciel & IA - plateforme d'agents - H/F",
-  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-genie-logiciel-ia-plateforme-d-agents-h-f-at-naval-group-4474082629",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485126603",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "addactis",
-  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
-  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1261,70 +1244,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Societe Generale",
-  "title": "AI & Agentic Software Engineering",
-  "loc": "La Défense, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://fr.linkedin.com/jobs/view/ai-agentic-software-engineering-at-societe-generale-4482298979",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Veepee",
-  "title": "Stage - Développeur(euse) IA Générative (H/F/X) - Janvier 2027",
-  "loc": "St.-Denis, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens",
-  "title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
-  "loc": "Châtillon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "VISEO",
-  "title": "Stage - Data Engineer IA/GenAI F/H",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-engineer-ia-genai-f-h-at-viseo-4484187089",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "GetVocal AI",
   "title": "AI Agent Engineer Intern (Internship)",
   "loc": "Paris, Île-de-France, France",
@@ -1341,17 +1260,33 @@
  },
  {
   "src": "linkedin",
-  "company": "Jobster",
-  "title": "Agent immobilier OU Assistant(e) Commercial(e) en Immobilier - Studentjob.fr",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Michelin",
+  "title": "Stage - Explorer l’IA générative pour moderniser une application R&D (F/H)",
+  "loc": "Clermont-Ferrand, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
   "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/agent-immobilier-ou-assistant-e-commercial-e-en-immobilier-studentjob-fr-at-jobster-4485482702",
+  "url": "https://fr.linkedin.com/jobs/view/stage-explorer-l%E2%80%99ia-g%C3%A9n%C3%A9rative-pour-moderniser-une-application-r-d-f-h-at-michelin-4486411764",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "MBDA",
+  "title": "Stage IA : Structuration des données et développement d'outils métiers à base d'IA générative F/H",
+  "loc": "Le Plessis-Robinson, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-structuration-des-donn%C3%A9es-et-d%C3%A9veloppement-d-outils-m%C3%A9tiers-%C3%A0-base-d-ia-g%C3%A9n%C3%A9rative-f-h-at-mbda-4483024670",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1373,12 +1308,76 @@
  },
  {
   "src": "linkedin",
-  "company": "SuperGrid Institute",
-  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
-  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
+  "company": "Thales",
+  "title": "STAGE - IA Agent for IVVQ management F/H",
+  "loc": "La Ciotat, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agent-for-ivvq-management-f-h-at-thales-4476182470",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Coexya",
+  "title": "Ingénieur IA & Agents - F/H",
+  "loc": "Rennes, Brittany, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-agents-f-h-at-coexya-4468646790",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "STMicroelectronics France",
+  "title": "STAGE – Sécurité et explicabilité des systèmes agentiques – F/H.",
+  "loc": "Crolles, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-s%C3%A9curit%C3%A9-et-explicabilit%C3%A9-des-syst%C3%A8mes-agentiques-%E2%80%93-f-h-at-stmicroelectronics-france-4485223566",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CS GROUP",
+  "title": "Stage - Ingénieur(e) en Développement d’Agents IA pour la Création Industrialisée d’IHM - Spatial - Toulouse",
+  "loc": "Toulouse, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-en-d%C3%A9veloppement-d%E2%80%99agents-ia-pour-la-cr%C3%A9ation-industrialis%C3%A9e-d%E2%80%99ihm-spatial-toulouse-at-cs-group-4484750411",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens",
+  "title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
+  "loc": "Châtillon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-29",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1422,12 +1421,44 @@
  },
  {
   "src": "linkedin",
+  "company": "InterDigital, Inc.",
+  "title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
+  "loc": "Greater Rennes Metropolitan Area",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Servier France",
   "title": "STAGE - Bioinformatique & IA : Fine-tuning de modèles de fondation (H/F)",
   "loc": "Gif-sur-Yvette, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-10-31",
   "url": "https://fr.linkedin.com/jobs/view/stage-bioinformatique-ia-fine-tuning-de-mod%C3%A8les-de-fondation-h-f-at-servier-france-4477828288",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-en-intelligence-artificielle-llm-deep-learning-f-h-at-dassault-syst%C3%A8mes-4477838300",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1449,22 +1480,6 @@
   "geo": "FR",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "InterDigital, Inc.",
-  "title": "Intern, AI-Driven Energy-Aware Adaptive Video Streaming: From Client-Side Optimization to End-to-End Collaborative Reinforcement Learning",
-  "loc": "Greater Rennes Metropolitan Area",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://fr.linkedin.com/jobs/view/intern-ai-driven-energy-aware-adaptive-video-streaming-from-client-side-optimization-to-end-to-end-collaborative-reinforcement-learning-at-interdigital-inc-4484253499",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "rl"
   ],
   "start_hint": ""
  },
@@ -1535,14 +1550,46 @@
  },
  {
   "src": "linkedin",
-  "company": "Equans France",
-  "title": "STAGE - Ingénieur IA Générative & RAG appliqués aux Projets d'Ingénierie H/F",
-  "loc": "Courbevoie, Île-de-France, France",
+  "company": "Thales",
+  "title": "STAGE - Ingénieur IA / LLM – Innovation Identité & Sécurité Numérique - F/H",
+  "loc": "Meudon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-28",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-llm-%E2%80%93-innovation-identit%C3%A9-s%C3%A9curit%C3%A9-num%C3%A9rique-f-h-at-thales-4484713906",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "SuperGrid Institute",
+  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
+  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
   "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-rag-appliqu%C3%A9s-aux-projets-d-ing%C3%A9nierie-h-f-at-equans-france-4484510770",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
+  "desc": "",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1584,77 +1631,12 @@
  },
  {
   "src": "linkedin",
-  "company": "MBDA",
-  "title": "Stage IA : Structuration des données et développement d'outils métiers à base d'IA générative F/H",
-  "loc": "Le Plessis-Robinson, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-structuration-des-donn%C3%A9es-et-d%C3%A9veloppement-d-outils-m%C3%A9tiers-%C3%A0-base-d-ia-g%C3%A9n%C3%A9rative-f-h-at-mbda-4483024670",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Together AI",
   "title": "Research Intern, Frontier Agents (Summer 2027)  [Summer 2027 ✓]",
   "loc": "San Francisco, CA",
   "etype": "Internship",
   "pub": "2026-11-01",
   "url": "https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Moody's Corporation",
-  "title": "GenAI and Agentic Frameworks Summer Intern",
-  "loc": "New York, NY",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/genai-and-agentic-frameworks-summer-intern-at-moody-s-corporation-4484045587",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "XPENG",
-  "title": "AI Research Intern – Predictive World Model",
-  "loc": "Santa Clara, CA",
-  "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4483779878",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Machine Learning/Agentic AI Intern",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1697,17 +1679,17 @@
  },
  {
   "src": "linkedin",
-  "company": "ByteDance",
-  "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "MITRE",
+  "title": "Internships in Generative and Agentic AI",
+  "loc": "McLean, VA",
   "etype": "Internship",
   "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/visual-generation-multimodal-evaluation-machine-learning-engineer-intern-aml-ark-us-2027-summer-at-bytedance-4475845217",
+  "url": "https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484211785",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1745,33 +1727,33 @@
  },
  {
   "src": "linkedin",
-  "company": "Skydio",
-  "title": "Autonomy Engineer Intern, Reinforcement Learning, 2027 (HQ)",
-  "loc": "San Mateo, CA",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Foundation Models for Humanoid Robots",
+  "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://www.linkedin.com/jobs/view/autonomy-engineer-intern-reinforcement-learning-2027-hq-at-skydio-4483750264",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "42dot",
-  "title": "Internship, Foundation Models",
-  "loc": "Sunnyvale, CA",
-  "etype": "Internship",
-  "pub": "2026-10-28",
-  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
+  "pub": "2026-11-02",
+  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-for-humanoid-robots-at-mitsubishi-electric-research-laboratories-4486445151",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "BehaviorAI",
+  "title": "Machine Learning Engineer Internship — Generative Modeling",
+  "loc": "New York City Metropolitan Area",
+  "etype": "Internship",
+  "pub": "2026-11-02",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-internship-%E2%80%94-generative-modeling-at-behaviorai-4485763430",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff"
   ],
   "start_hint": ""
  },
@@ -1794,29 +1776,28 @@
  },
  {
   "src": "linkedin",
-  "company": "Persona AI",
-  "title": "Autonomy Software Engineering Internship, World Modeling",
-  "loc": "Houston, TX",
+  "company": "42dot",
+  "title": "Internship, Foundation Models",
+  "loc": "Sunnyvale, CA",
   "etype": "Internship",
   "pub": "2026-10-28",
-  "url": "https://www.linkedin.com/jobs/view/autonomy-software-engineering-internship-world-modeling-at-persona-ai-4448252827",
+  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff",
-   "rl"
+   "llm"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "TikTok USDS Joint Venture",
-  "title": "Research Scientist Intern (Enterprise AI Agent) - 2027 Start",
-  "loc": "San Jose, CA",
+  "company": "Labcorp",
+  "title": "Co-op - Agentic AI Developer",
+  "loc": "Durham, NC",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-enterprise-ai-agent-2027-start-at-tiktok-usds-joint-venture-4474047193",
+  "pub": "2026-11-03",
+  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1828,11 +1809,11 @@
  {
   "src": "linkedin",
   "company": "TikTok USDS Joint Venture",
-  "title": "AI Agent Engineer Intern (Payment Data Intelligence) - 2027 Summer  [Summer 2027 ✓]",
+  "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer  [Summer 2027 ✓]",
   "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-11-01",
-  "url": "https://www.linkedin.com/jobs/view/ai-agent-engineer-intern-payment-data-intelligence-2027-summer-at-tiktok-usds-joint-venture-4466940465",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4466937957",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1875,17 +1856,18 @@
  },
  {
   "src": "linkedin",
-  "company": "TikTok",
-  "title": "AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "Persona AI",
+  "title": "Autonomy Software Engineering Internship, World Modeling",
+  "loc": "Houston, TX",
   "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://www.linkedin.com/jobs/view/ai-infra-engineer-intern-recommendation-llm-2027-summer-at-tiktok-4457692099",
+  "pub": "2026-10-28",
+  "url": "https://www.linkedin.com/jobs/view/autonomy-software-engineering-internship-world-modeling-at-persona-ai-4448252827",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1907,28 +1889,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Highmark Health",
-  "title": "Summer 2027 Applied Gen AI/Data Scientist Graduate Intern  [Summer 2027 ✓]",
-  "loc": "United States",
-  "etype": "Internship",
-  "pub": "2026-10-26",
-  "url": "https://www.linkedin.com/jobs/view/summer-2027-applied-gen-ai-data-scientist-graduate-intern-at-highmark-health-4483598026",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "TikTok USDS Joint Venture",
-  "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "Armadin",
+  "title": "Summer 2027 Internship - Member of Technical Staff - Agent Systems  [Summer 2027 ✓]",
+  "loc": "Palo Alto, CA",
   "etype": "Internship",
   "pub": "2026-10-31",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4466937957",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-systems-at-armadin-4470941038",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1939,12 +1905,12 @@
  },
  {
   "src": "linkedin",
-  "company": "TikTok USDS Joint Venture",
-  "title": "Software Engineer Intern (Agentic Platform) - 2027 Summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "VSP Vision Care",
+  "title": "Internship, AI – Agentic & Machine Learning Development",
+  "loc": "United States",
   "etype": "Internship",
-  "pub": "2026-10-27",
-  "url": "https://www.linkedin.com/jobs/view/software-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4473681604",
+  "pub": "2026-10-31",
+  "url": "https://www.linkedin.com/jobs/view/internship-ai-%E2%80%93-agentic-machine-learning-development-at-vsp-vision-care-4483907783",
   "desc": "",
   "tier": "A",
   "geo": "US",
