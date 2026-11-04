@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-03T12:57:28+00:00",
- "raw": 10511,
- "hits": 117,
- "new": 12,
+ "generated_at": "2026-11-04T13:09:42+00:00",
+ "raw": 10505,
+ "hits": 118,
+ "new": 20,
  "fails": [
   "lever/aircall:404",
   "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1"

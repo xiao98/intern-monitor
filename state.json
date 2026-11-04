@@ -9448,5 +9448,145 @@
 "company": "Labcorp",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440": {
+"first_seen": "2026-11-04",
+"title": "IA Research Engineer (Kernels) Intern ",
+"company": "etched",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-g%C3%A9n%C3%A9rative-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4485007360": {
+"first_seen": "2026-11-04",
+"title": "Stage : Application de l'IA générative à l'automatisation des tests xIL",
+"company": "Stellantis",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-assistant-ia-agentic-pour-l%E2%80%99employee-experience-parfums-beaut%C3%A9-f-h-x-mars-2027-at-chanel-4486074145": {
+"first_seen": "2026-11-04",
+"title": "Stage - Assistant IA & Agentic pour l’Employee Experience - Parfums Beauté - F/H/X - Mars 2027",
+"company": "CHANEL",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-benchmark-et-%C3%A9valuation-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-pour-les-g%C3%A9osciences-h-f-at-totalenergies-4487247846": {
+"first_seen": "2026-11-04",
+"title": "STAGE - Benchmark et évaluation des modèles d'IA générative pour les Géosciences H/F",
+"company": "TotalEnergies",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-at-soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-factoring-4484386478": {
+"first_seen": "2026-11-04",
+"title": "Stage IA Générative",
+"company": "Société Générale Factoring",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/internship-%E2%80%93-outcome-guided-financial-reasoning-to-predict-the-markets-at-capital-fund-management-cfm-4485002025": {
+"first_seen": "2026-11-04",
+"title": "Internship – Outcome-Guided Financial Reasoning to Predict the Markets",
+"company": "Capital Fund Management (CFM)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131553": {
+"first_seen": "2026-11-04",
+"title": "Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-optimisation-du-routage-des-agents-d%E2%80%99intelligence-artificielle-h-f-at-schneider-electric-4486093152": {
+"first_seen": "2026-11-04",
+"title": "Stage – Optimisation du Routage des Agents d’Intelligence Artificielle - H/F",
+"company": "Schneider Electric",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-time-series-foundation-models-pour-optimisation-pr%C3%A9dictive-h-f-at-schneider-electric-4486088219": {
+"first_seen": "2026-11-04",
+"title": "Stage – Time Series Foundation Models pour optimisation prédictive - H/F",
+"company": "Schneider Electric",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933": {
+"first_seen": "2026-11-04",
+"title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
+"company": "SAP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-e-de-recherche-surveillance-des-donn%C3%A9es-de-vie-priv%C3%A9e-pour-les-agents-d-ia-f-h-at-sap-4486071605": {
+"first_seen": "2026-11-04",
+"title": "Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H",
+"company": "SAP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-agents-pour-lobservation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911": {
+"first_seen": "2026-11-04",
+"title": "Stage - Agents pour lobservation de la Terre - H/F",
+"company": "CLS Group (Collecte Localisation Satellites)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/cs27-stage-bac%2B5-%E2%80%93-ing%C3%A9nieur-ia-agentique-maintenance-pr%C3%A9dictive-h-f-at-renault-group-4484873926": {
+"first_seen": "2026-11-04",
+"title": "CS27 - Stage - Bac+5 – Ingénieur IA Agentique & Maintenance Prédictive (H/F)",
+"company": "Renault Group",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ppo-janvier-2027-f-h-at-pwc-france-4479074651": {
+"first_seen": "2026-11-04",
+"title": "Stage - PPO - Janvier 2027 - F/H",
+"company": "PwC France",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-gen-ai-engineer-h-f-at-bforbank-4487273331": {
+"first_seen": "2026-11-04",
+"title": "Stage – Gen AI Engineer (H/F)",
+"company": "BforBank",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-am%C3%A9lioration-d-un-agent-ia-f-h-at-thales-4487025844": {
+"first_seen": "2026-11-04",
+"title": "STAGE - Développement et amélioration d'un agent IA - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-foundational-models-agent-at-microsoft-4486885694": {
+"first_seen": "2026-11-04",
+"title": "Research Intern - Foundational Models & Agent",
+"company": "Microsoft",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-spring-summer-intern-agentic-ai-solutions-at-samsung-research-america-sra-4486084359": {
+"first_seen": "2026-11-04",
+"title": "2027 Spring/Summer Intern, Agentic AI Solutions",
+"company": "Samsung Research America (SRA)",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701": {
+"first_seen": "2026-11-04",
+"title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
+"company": "Samsung Research America (SRA)",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-intern-enterprise-agent-development-at-biospace-4487026018": {
+"first_seen": "2026-11-04",
+"title": "AI Intern, Enterprise Agent Development",
+"company": "BioSpace",
+"geo": "US",
+"tier": "A"
 }
 }
