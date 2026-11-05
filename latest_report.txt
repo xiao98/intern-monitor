@@ -1,49 +1,28 @@
-实习监控 2026-11-04 · 新增 20 · 当前在挂命中 118 · 显示 20
+实习监控 2026-11-05 · 新增 9 · 当前在挂命中 118 · 显示 9
 
-🇫🇷 FRANCE  (15)
-[A] llm · Capital Fund Management (CFM) — Internship – Outcome-Guided Financial Reasoning to Predict the Markets  (Paris, Île-de-France, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/internship-%E2%80%93-outcome-guided-financial-reasoning-to-predict-the-markets-at-capital-fund-management-cfm-4485002025
-[A] agent · CHANEL — Stage - Assistant IA & Agentic pour l’Employee Experience - Parfums Beauté - F/H/X - Mars 2027  (Neuilly-sur-Seine, Île-de-France, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-assistant-ia-agentic-pour-l%E2%80%99employee-experience-parfums-beaut%C3%A9-f-h-x-mars-2027-at-chanel-4486074145
-[A] agent · CLS Group (Collecte Localisation Satellites) — Stage - Agents pour lobservation de la Terre - H/F  (Ramonville-Saint-Agne, Occitanie, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-agents-pour-lobservation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911
-[A] agent · Renault Group — CS27 - Stage - Bac+5 – Ingénieur IA Agentique & Maintenance Prédictive (H/F)  (Guyancourt, Île-de-France, France · 发布 2026-10-30 · [linkedin])
-    https://fr.linkedin.com/jobs/view/cs27-stage-bac%2B5-%E2%80%93-ing%C3%A9nieur-ia-agentique-maintenance-pr%C3%A9dictive-h-f-at-renault-group-4484873926
-[A] agent · SAP — Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F  (Mougins, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933
-[A] agent · SAP — Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H  (Mougins, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-e-de-recherche-surveillance-des-donn%C3%A9es-de-vie-priv%C3%A9e-pour-les-agents-d-ia-f-h-at-sap-4486071605
-[A] agent · Schneider Electric — Stage – Optimisation du Routage des Agents d’Intelligence Artificielle - H/F  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-optimisation-du-routage-des-agents-d%E2%80%99intelligence-artificielle-h-f-at-schneider-electric-4486093152
-[A] llm · Schneider Electric — Stage – Time Series Foundation Models pour optimisation prédictive - H/F  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-time-series-foundation-models-pour-optimisation-pr%C3%A9dictive-h-f-at-schneider-electric-4486088219
-[A] agent · Siemens Digital Industries Software — Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program  (Toulouse, Occitanie, France · 发布 2026-10-31 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131553
-[A] agent · Thales — STAGE - Développement et amélioration d'un agent IA - F/H  (Limours, Île-de-France, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-am%C3%A9lioration-d-un-agent-ia-f-h-at-thales-4487025844
-[B] llm · BforBank — Stage – Gen AI Engineer (H/F)  (Greater Paris Metropolitan Region · 发布 2026-11-04 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-gen-ai-engineer-h-f-at-bforbank-4487273331
-[B] llm · Société Générale Factoring — Stage IA Générative  (Fontenay-sous-Bois, Île-de-France, France · 发布 2026-11-02 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-at-soci%C3%A9t%C3%A9-g%C3%A9n%C3%A9rale-factoring-4484386478
-[B] llm · Stellantis — Stage : Application de l'IA générative à l'automatisation des tests xIL  (Poissy, Île-de-France, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-g%C3%A9n%C3%A9rative-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4485007360
-[B] llm · TotalEnergies — STAGE - Benchmark et évaluation des modèles d'IA générative pour les Géosciences H/F  (Pau, Nouvelle-Aquitaine, France · 发布 2026-11-04 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-benchmark-et-%C3%A9valuation-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-pour-les-g%C3%A9osciences-h-f-at-totalenergies-4487247846
-[C] rl · PwC France — Stage - PPO - Janvier 2027 - F/H  (Neuilly-sur-Seine, Île-de-France, France · 发布 2026-11-04 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ppo-janvier-2027-f-h-at-pwc-france-4479074651
+🇫🇷 FRANCE  (3)
+[A] agent · ChapsVision — Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources  (Paris, Île-de-France, France · 发布 2026-11-04 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447
+[C] diff · Aubay — Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-11-05 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527
+[C] diff/llm · Aubay — Stage PFE Watermarking : Signature de l'IA (Watermarking ; LLM ; Modèles de diffusion ; AI Act – Article 50)  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-11-05 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-pfe-watermarking-signature-de-l-ia-watermarking-llm-mod%C3%A8les-de-diffusion-ai-act-%E2%80%93-article-50-at-aubay-4485819697
 
-🇺🇸 USA  (5)
-[A] agent · BioSpace — AI Intern, Enterprise Agent Development  (Piscataway, NJ · 发布 2026-11-03 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-intern-enterprise-agent-development-at-biospace-4487026018
-[A] agent · Microsoft — Research Intern - Foundational Models & Agent  (Redmond, WA · 发布 2026-11-03 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-foundational-models-agent-at-microsoft-4486885694
-[A] agent · Samsung Research America (SRA) — 2027 Spring/Summer Intern, Agentic AI Solutions  (Mountain View, CA · 发布 2026-11-03 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-spring-summer-intern-agentic-ai-solutions-at-samsung-research-america-sra-4486084359
-[B] llm/agent · etched — IA Research Engineer (Kernels) Intern  (San Jose · 发布 2026-11-04 · [ashby])
-    起始线索: …We are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer (Kernels) interns t…
-    https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440
-[B] llm · Samsung Research America (SRA) — 2027 Summer Intern, Generative AI based Imaging and Video R&D [Summer 2027 ✓]  (Plano, TX · 发布 2026-11-04 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701
+🇺🇸 USA  (6)
+[A] llm/agent · Mercedes-Benz Research & Development North America, Inc. — AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents  (San Jose, CA · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-ml-intern-long-term-memory-multimodal-slms-for-automotive-agents-at-mercedes-benz-research-development-north-america-inc-4487538929
+[A] diff · Mitsubishi Electric Research Laboratories — Internship - Generative Modeling, Inference, and Uncertainty Quantification  (Cambridge, MA · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089
+[A] llm/agent · NVIDIA — Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-04 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548
+[A] llm · tri — Human-Centered AI Research Intern, Human Language Models [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
+    起始线索: …This is a Summer 2027 paid 12-week internship opportunity…
+    https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e
+[B] diff · tri — Automated Driving Advanced Development Intern, Machine Learning Research [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
+    起始线索: …This is a Summer 2027 paid 12-week internship opportunity…
+    https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b
+[B] llm/agent · tri — Robotics Research Intern, Manipulation  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
+    https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

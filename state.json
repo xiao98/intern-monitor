@@ -9588,5 +9588,68 @@
 "company": "BioSpace",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b": {
+"first_seen": "2026-11-05",
+"title": "Automated Driving Advanced Development Intern, Machine Learning Research  [Summer 2027 ✓]",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e": {
+"first_seen": "2026-11-05",
+"title": "Human-Centered AI Research Intern, Human Language Models  [Summer 2027 ✓]",
+"company": "tri",
+"geo": "US",
+"tier": "A"
+},
+"https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd": {
+"first_seen": "2026-11-05",
+"title": "Robotics Research Intern, Manipulation",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548": {
+"first_seen": "2026-11-05",
+"title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-pfe-watermarking-signature-de-l-ia-watermarking-llm-mod%C3%A8les-de-diffusion-ai-act-%E2%80%93-article-50-at-aubay-4485819697": {
+"first_seen": "2026-11-05",
+"title": "Stage PFE Watermarking : Signature de l'IA (Watermarking ; LLM ; Modèles de diffusion ; AI Act – Article 50)",
+"company": "Aubay",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527": {
+"first_seen": "2026-11-05",
+"title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
+"company": "Aubay",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447": {
+"first_seen": "2026-11-05",
+"title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+"company": "ChapsVision",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-ml-intern-long-term-memory-multimodal-slms-for-automotive-agents-at-mercedes-benz-research-development-north-america-inc-4487538929": {
+"first_seen": "2026-11-05",
+"title": "AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents",
+"company": "Mercedes-Benz Research & Development North America, Inc.",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089": {
+"first_seen": "2026-11-05",
+"title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
+"company": "Mitsubishi Electric Research Laboratories",
+"geo": "US",
+"tier": "A"
 }
 }
