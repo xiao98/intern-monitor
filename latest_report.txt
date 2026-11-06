@@ -1,28 +1,44 @@
-实习监控 2026-11-05 · 新增 9 · 当前在挂命中 118 · 显示 9
+实习监控 2026-11-06 · 新增 17 · 当前在挂命中 127 · 显示 17
 
-🇫🇷 FRANCE  (3)
-[A] agent · ChapsVision — Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources  (Paris, Île-de-France, France · 发布 2026-11-04 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447
-[C] diff · Aubay — Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-11-05 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527
-[C] diff/llm · Aubay — Stage PFE Watermarking : Signature de l'IA (Watermarking ; LLM ; Modèles de diffusion ; AI Act – Article 50)  (Boulogne-Billancourt, Île-de-France, France · 发布 2026-11-05 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-pfe-watermarking-signature-de-l-ia-watermarking-llm-mod%C3%A8les-de-diffusion-ai-act-%E2%80%93-article-50-at-aubay-4485819697
+🇫🇷 FRANCE  (5)
+[A] agent · Asys — STAGE Ingénieur - Framework Harness Agentic AI F/H  (Nantes, Pays de la Loire, France · 发布 2026-11-06 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-framework-harness-agentic-ai-f-h-at-asys-4488147282
+[A] agent · Dassault Systèmes — STAGE - Ingénieur.e IA - Assistants et Plateforme Agentique (F/H)  (Paris, Île-de-France, France · 发布 2026-11-04 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746
+[B] llm/agent · Apple — Cellular Baseband Security Research Intern  (Paris, France · 发布 2026-11-05 · [apple])
+    https://jobs.apple.com/en-us/details/200693660-2911
+[B] llm · Societe Generale — Chargé Data Science & IA Générative  (La Défense, Île-de-France, France · 发布 2026-11-05 · [linkedin])
+    https://fr.linkedin.com/jobs/view/charg%C3%A9-data-science-ia-g%C3%A9n%C3%A9rative-at-societe-generale-4485845716
+[C] agent · ALTEN — Stage IA Générative – Architectures Agentiques (H/F)  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-05 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-%E2%80%93-architectures-agentiques-h-f-at-alten-4485818963
 
-🇺🇸 USA  (6)
-[A] llm/agent · Mercedes-Benz Research & Development North America, Inc. — AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents  (San Jose, CA · 发布 2026-11-04 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-ml-intern-long-term-memory-multimodal-slms-for-automotive-agents-at-mercedes-benz-research-development-north-america-inc-4487538929
-[A] diff · Mitsubishi Electric Research Laboratories — Internship - Generative Modeling, Inference, and Uncertainty Quantification  (Cambridge, MA · 发布 2026-11-04 · [linkedin])
-    https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089
-[A] llm/agent · NVIDIA — Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-04 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548
-[A] llm · tri — Human-Centered AI Research Intern, Human Language Models [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
-    起始线索: …This is a Summer 2027 paid 12-week internship opportunity…
-    https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e
-[B] diff · tri — Automated Driving Advanced Development Intern, Machine Learning Research [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
-    起始线索: …This is a Summer 2027 paid 12-week internship opportunity…
-    https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b
-[B] llm/agent · tri — Robotics Research Intern, Manipulation  (Los Altos, CA, US, hybrid · 发布 2026-11-04 · [lever])
-    https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd
+🇪🇺 EUROPE  (1)
+[B] agent · palantir — Software Engineer, Internship - Sovereign AI Systems  (London, United Kingdom, GB, onsite · 发布 2026-11-05 · [lever])
+    https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e
+
+🇺🇸 USA  (11)
+[A] llm · Eluvio — Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)  (Berkeley, CA · 发布 2026-11-05 · [linkedin])
+    https://www.linkedin.com/jobs/view/last-minute-ai-machine-learning-summer-internship-gen-ai-multimodal-at-eluvio-4488030782
+[A] diff · HoYoverse — Research Scientist Intern - Video Generation  (Mountain View, CA · 发布 2026-11-06 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-hoyoverse-4486972902
+[A] llm · Mitsubishi Electric Research Laboratories — Internship - Radar/Sensor Reasoning Models  (Cambridge, MA · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-radar-sensor-reasoning-models-at-mitsubishi-electric-research-laboratories-4486910125
+[A] agent · NVIDIA — Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara, US, TX, Austin, US, WA, Redmond · 发布 2026-11-05 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260
+[A] agent · Toyota Research Institute — Accelerated Science Intern, Machine Learning/Agentic AI  (Cambridge, MA · 发布 2026-10-30 · [linkedin])
+    https://www.linkedin.com/jobs/view/accelerated-science-intern-machine-learning-agentic-ai-at-toyota-research-institute-4485391083
+[A] agent · Toyota Research Institute — Accelerated Science Intern, Multi-Agent Learning and Coordination  (Los Altos, CA · 发布 2026-11-05 · [linkedin])
+    https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554
+[A] diff/rl · Toyota Research Institute — Human Interactive Driving Research Intern, World Models  (Los Altos, CA · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/human-interactive-driving-research-intern-world-models-at-toyota-research-institute-4427062296
+[A] llm · Toyota Research Institute — Human-Centered AI Research Intern, Human Language Models  (Los Altos, CA · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-human-language-models-at-toyota-research-institute-4487548381
+[A] agent · tri — Accelerated Science Intern, Multi-Agent Learning and Coordination  (Los Altos, CA, US, hybrid · 发布 2026-11-05 · [lever])
+    https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d
+[B] llm · tri — Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems  (Los Altos, CA, US, hybrid · 发布 2026-11-03 · [lever])
+    https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418
+[B] llm · tri — Accelerated Science Intern, Multi-scale Physics Battery Modeling  (Los Altos, CA, US, hybrid · 发布 2026-10-30 · [lever])
+    https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

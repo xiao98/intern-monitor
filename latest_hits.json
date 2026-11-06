@@ -36,25 +36,6 @@
  },
  {
   "src": "ashby",
-  "company": "ami",
-  "title": "AMI Scientist/Interns - Geometry and 3D Vision",
-  "loc": "Paris, Singapore, New York, Montreal",
-  "etype": "FullTime",
-  "pub": "2026-08-27",
-  "url": "https://jobs.ashbyhq.com/ami/0d7332d8-b8e7-40d3-89b6-dfc02b40bfa2",
-  "desc": "ABOUT AMI\n\nWe are building a new breed of AI systems that (1) understand the real world, (2) have persistent memory, (3) can reason and plan, and (4) are controllable and safe.\n\nWe are a team of scientists and engineers building frontier world model-based AI. We combine the scientific rigor of a top-tier research institute with focus on engineering excellence and execution.\n\nWe are a global company, with offices in Paris, Montreal, New York, and Singapore. Come build the future of AI with us!\n\n\nABOUT THIS ROLE\n\nAMI believes AI agents should predict and plan using an internal model of the world — their world model. We’re looking for new team members to advance the state-of-the-art in world modeling. We believe that video is a rich and abundant source of data reflecting how the world works, and that in general models need to be able to process continuous, high-dimensional data from a variety of sensors to: (a) understand context about the current state of the physical world, (b) make predictions about how the world will evolve, possibly as a result of actions taken, and (c) plan and adapt sequences of actions to complete complex tasks, possibly in dynamic, complex environments.\n\n \n\nYou will work with a team on world model research efforts, with a specific focus on 3D geometry of the real world, including::\n\n - Self-supervised learning methods to efficiently learn from video and other continuous, high-dimensional signals\n\n - New architectures that efficiently learn to predict world dynamics from video and other high-dimensional signals\n\n - Scalable algorithms for pre-processing and curating video data\n\n - Evaluations for benchmarking world model understanding, prediction, and planning\n\n - Efficient algorithms for model-based planning and reasoning\n\n \n\nMinimum Qualifications:\n\n - Bachelor’s degree or equivalent experience in Computer Science or a related field\n\n - Proficiency in Python\n\n - Ability to design, run, and analyze experiments independently\n\n - Understanding of machine learning fundamentals, large-scale training, and accelerator-based (GPU or TPU) compute environments\n\n \n\nPreferred Qualifications:\n\n - Deep expertise in at least one of the following: 3D/4D reconstruction, SLAM or SfM, depth and pose estimation, point tracking.\n\n - Hands-on proficiency with a rendering or simulation engine (Blender, Isaac Sim, etc.), including scripted scene generation and batch rendering pipelines.\n\n - Demonstrated record of contributing to advanced research projects via publications and/or major model releases\n\n - Experience developing evaluation frameworks for world models\n\n - Experience releasing and maintaining open-source projects\n\n - Proficiency in a deep learning framework (PyTorch or JAX)",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "llm",
-   "agent",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "ashby",
   "company": "doctolib",
   "title": "Stage - SEO : Contenu & recherche IA (x/f/m) - novembre 2026",
   "loc": "Paris, Remote",
@@ -176,7 +157,7 @@
   "etype": "Intern",
   "pub": "2026-11-04",
   "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
-  "desc": "About Etched\n\nEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.\n\n\n\nJob Summary\n\nWe are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build the agents that accelerate how Etched produces frontier tokens. You will embed with our kernels team and work alongside our founders on agentic harnesses, tools, and evals that let agents do long-running engineering work people actually rely on. This role is for builders who thrive on ambiguity, have real product sense, and want to own problems end to end.\n\n\n\nKey responsibilities\n\n - Embed with our kernels team to find high-leverage bottlenecks and help turn them into tools engineers use every day.\n\n - Build and deploy LLM agents wired into our engineering workflows via tool-calling and MCP.\n\n - Help build execution environments where agents can verify their own work, with sandboxed access to simulators, compilers, profilers, and real hardware.\n\n - Ship internal products end to end, including the interfaces, data pipelines, and infrastructure behind them.\n\n - Design evals and track adoption to measure which tools are working and which aren’t.\n\n - Support special projects with the founders across the company.\n\n\n\nYou may be a good fit if you have\n\n - Progress towards a Bachelor’s, Master’s, or PhD degree in computer science, computer engineering, or a related field\n\n - Strong software engineering fundamentals and a record of shipping projects other people use\n\n - Built agents for multi-step tasks beyond calling an API: tool design, context management, evals, and failure analysis\n\n - Heavy use of coding agents, including reading their transcripts and changing the system when an agent is confidently wrong\n\n - High agency in unfamiliar domains, product sense, and extreme attention to detail\n\n\n\nStrong candidates may have some experience with\n\n - Chip development, GPU kernels, hardware, or manufacturing\n\n - Infrastructure, data engineering, or DevOps\n\n - Fine-tuning, RAG over technical data, or multi-agent orchestration\n\n - Hackathons, startups, or side projects with real users\n\nWe encourage you to apply even if you do not believe you meet every qualification.\n\n\n\nProgram details\n\n - 12-week paid internship\n\n - Generous housing support for those relocating\n\n - Daily lunch and dinner in our office\n\n - Based at our office in San Jose, CA\n\n - Direct mentorship from industry leaders and world-class engineers\n\n - Opportunity to work on one of the most important problems of our time\n\nFor any questions, contact internships@etched.com.\n\n\n\nHow we’re different\n\nEtched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.\n\n\n\nWe are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.\n\n",
+  "desc": "About Etched\n\nEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.\n\n\n\nJob Summary\n\nWe are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build the agents that accelerate how Etched produces frontier tokens. You will embed with our kernels team and work alongside our founders on agentic harnesses, tools, and evals that let agents do long-running engineering work people actually rely on. This role is for builders who thrive on ambiguity, have real product sense, and want to own problems end to end.\n\n\n\nKey responsibilities\n\n - Embed with our kernels team to find high-leverage bottlenecks and help turn them into tools engineers use every day.\n\n - Build and deploy LLM agents wired into our engineering workflows via tool-calling and MCP.\n\n - Help build execution environments where agents can verify their own work, with sandboxed access to simulators, compilers, profilers, and real hardware.\n\n - Ship internal products end to end, including the interfaces, data pipelines, and infrastructure behind them.\n\n - Design evals and track adoption to measure which tools are working and which aren’t.\n\n - Support special projects with the founders across the company.\n\n\n\nYou may be a good fit if you have\n\n - Progress towards a Bachelor’s, Master’s, or PhD degree in computer science, computer engineering, or a related field\n\n - Strong software engineering fundamentals and a record of shipping projects other people use\n\n - Built agents for multi-step tasks beyond calling an API: tool design, context management, evals, and failure analysis\n\n - Heavy use of coding agents, including reading their transcripts and changing the system when an agent is confidently wrong\n\n - High agency in unfamiliar domains, product sense, and extreme attention to detail\n\n\n\nStrong candidates may have some experience with\n\n - Chip development, GPU kernels, hardware, or manufacturing\n\n - Infrastructure, data engineering, or DevOps\n\n - Fine-tuning, RAG over technical data, or multi-agent orchestration\n\n - Hackathons, startups, or side projects with real users\n\nWe encourage you to apply even if you do not believe you meet every qualification.\n\n\n\nProgram details\n\n - 12-week paid internship\n\n - Daily lunch and dinner in our office\n\n - Based at our office in San Jose, CA\n\n - Direct mentorship from industry leaders and world-class engineers\n\n - Opportunity to work on one of the most important problems of our time\n\nFor any questions, contact internships@etched.com.\n\n\n\nHow we’re different\n\nEtched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.\n\n\n\nWe are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.\n\n",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -539,6 +520,70 @@
  {
   "src": "lever",
   "company": "tri",
+  "title": "Accelerated Science Intern, Bridging Atomistic Modeling to Real Electrochemical Systems",
+  "loc": "Los Altos, CA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-11-03",
+  "url": "https://jobs.lever.co/tri/44812007-50a8-49e6-87ed-3fac9fa6b418",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Team \nThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge sophisticated computational materials modeling, new experimental data, artificial intelligence, and automation to significantly accelerate materials research in this area. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and our colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community, more broadly.\n \nThis Internship\nWe are looking for an intern researcher to contribute to the development of atomistic catalysis modeling that bridges the gap between current simulation (e.g. DFT) and in-situ catalysis experiments. We will develop reasoning models with embedded chemical and atomistic descriptors as well as experimental parameters and measurements. Your day-to-day may include: literature review of computational methods and model construction and validation. We welcome you to join a unique team of scientists and engineers where you will constantly learn new skills at the interface of materials science and thoughtful\n",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
+  "title": "Accelerated Science Intern, Machine Learning/Agentic AI",
+  "loc": "Cambridge, MA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-10-30",
+  "url": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nTeam\nWe are a group of researchers building agentic AI systems for a diverse range of applications, including robotics, vehicle design, factory logistics, and numerical optimization.\n\nAbout the Internship\nA successful candidate would have a background in both agentic AI and one of the above applications.\nThis is an opportunity to apply your knowledge to novel research questions and work towards a publication with professional researchers.  The internship will be in our Cambridge office and includes competitive compensation befitting the challenging but fun nature of the research work at TRI.\n",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
+  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
+  "loc": "Los Altos, CA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-11-05",
+  "url": "https://jobs.lever.co/tri/86e6a285-bb0a-4e84-8bf9-bd498d45c33d",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Team\n \nThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge cutting-edge computational materials modeling, experimental data, artificial intelligence, and automation to significantly accelerate materials research. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community more broadly.\n\nThe Internship\n \nWe are seeking a research intern to develop algorithms and computational systems for multi-agent learning and coordination. The central question is how agents with different data and capabilities can share information, build predictive models, and select computational tasks that improve their collective understanding of data. Potential approaches include distributed and federated learning, as well as information-theoretic methods for communication and task selection. The intern will implement and benchmark these methods, evaluating how coordination affects model accuracy, communication costs, and computational efficiency. Relevant interests include machine learning, multi-agent systems, distributed computing, and information theory.\n",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
+  "title": "Accelerated Science Intern, Multi-scale Physics Battery Modeling",
+  "loc": "Los Altos, CA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-10-30",
+  "url": "https://jobs.lever.co/tri/debebb69-84c1-4466-a75f-e12244f68593",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Team \nThe long-term vision of TRI’s Accelerated Materials Design and Discovery (AMDD) program is to accelerate the development of truly emissions-free mobility. Realizing this vision will require the discovery of new materials and devices for batteries, fuel cells, and more. Our aim at TRI is to merge sophisticated computational materials modeling, new experimental data, artificial intelligence, and automation to significantly accelerate materials research in this area. Our focus is on developing tools and capabilities to enable this acceleration. We collaborate closely with a dozen universities and national labs and our colleagues across global Toyota. AMDD seeks to develop and translate the newest technologies into practice, both within Toyota and the open research community, more broadly.\nThis Internship\nWe are looking for an intern researcher to contribute to the development of automated reasoning with multiscale physics-based battery models. We will benchmark this model against existing multiscale modeling software, incorporate fundamental materials knowledge, and integrate new methods for automated scientific reasoning. Your day-to-day will include building new and researching existing multiscale physics models. We welcome you to join a unique team of scientists and engineers where you will constantly learn new skills at the interface of materials science and thoughtful AI integration.\n",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
   "title": "Accelerated Science Intern, Representation Learning for Molecules and Materials",
   "loc": "Los Altos, CA, US, hybrid",
   "etype": "Intern",
@@ -560,7 +605,7 @@
   "etype": "Intern",
   "pub": "2026-11-04",
   "url": "https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b",
-  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nAt Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\n \nThis is a Summer 2027 paid 12-week internship opportunity. Please note that this internship will be a hybrid in-office role.\n \nThe Team\n \nThe Automated Driving Advanced Development division at TRI will focus on enabling innovation and transformation at Toyota by building a bridge between TRI research and Toyota products, services, and needs. We achieve this through partnership, collaboration, and shared commitment. This new division is leading a new cross-organizational project between TRI and Woven by Toyota to conduct research and develop a fully end-to-end learned driving stack. This cross-org collaborative project is harmonious with TRI’s robotics divisions' efforts in Diffusion Policy and Large Behavior Models.\n \nThe Internship\n \nWe are looking for Machine Learning Research Interns to join our autonomy team and help bring end-to-end ML models ( pixels to trajectories ) into robust, testable, and deployable systems. This role is ideal for those who thrive at the intersection of machine learning, systems engineering, and real-world deployment. This internship opportunity is a paid 12-week internship for Summer 2026. Please note that this internship will be a hybrid in-office role.\n \nYou’ll contribute to the implementation, evaluation, and integration of ML-based components for perception, planning, and control; with simulation-based testing. You’ll work closely with researchers, data engineers, and autonomy engineers to ensure models scale from prototype to production. This work is part of Toyota’s global AI efforts to build a more coordinated global approach across Toyota entities.\n \n",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nAt Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\n \nThis is a Summer 2027 paid 12-week internship opportunity. Please note that this internship will be a hybrid in-office role.\n \nThe Team\n \nThe Automated Driving Advanced Development division at TRI will focus on enabling innovation and transformation at Toyota by building a bridge between TRI research and Toyota products, services, and needs. We achieve this through partnership, collaboration, and shared commitment. This new division is leading a new cross-organizational project between TRI and Woven by Toyota to conduct research and develop a fully end-to-end learned driving stack. This cross-org collaborative project is harmonious with TRI’s robotics divisions' efforts in Diffusion Policy and Large Behavior Models.\n \nThe Internship\n \nWe are looking for Machine Learning Research Interns to join our autonomy team and help bring end-to-end ML models ( pixels to trajectories ) into robust, testable, and deployable systems. This role is ideal for those who thrive at the intersection of machine learning, systems engineering, and real-world deployment. This internship opportunity is a paid 12-week internship for Summer 2027. Please note that this internship will be a hybrid in-office role.\n \nYou’ll contribute to the implementation, evaluation, and integration of ML-based components for perception, planning, and control; with simulation-based testing. You’ll work closely with researchers, data engineers, and autonomy engineers to ensure models scale from prototype to production. This work is part of Toyota’s global AI efforts to build a more coordinated global approach across Toyota entities.\n \n",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -620,22 +665,6 @@
  {
   "src": "lever",
   "company": "tri",
-  "title": "Machine Learning/Agentic AI Intern",
-  "loc": "Cambridge, MA, US, hybrid",
-  "etype": "Intern",
-  "pub": "2026-10-30",
-  "url": "https://jobs.lever.co/tri/f8c9ed26-4574-4ad2-954b-b7f5ec365495",
-  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nTeam\nWe are a group of researchers building agentic AI systems for a diverse range of applications, including robotics, vehicle design, factory logistics, and numerical optimization.\n\nAbout the Internship\nA successful candidate would have a background in both agentic AI and one of the above applications.\nThis is an opportunity to apply your knowledge to novel research questions and work towards a publication with professional researchers.  The internship will be in our Cambridge office and includes competitive compensation befitting the challenging but fun nature of the research work at TRI.\n",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "lever",
-  "company": "tri",
   "title": "Robotics Intern, Post-Training and Continual Learning",
   "loc": "Los Altos, CA, US, hybrid",
   "etype": "Intern",
@@ -678,6 +707,38 @@
   "geo": "US",
   "dirs": [
    "llm",
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "palantir",
+  "title": "Software Engineer, Internship - Sovereign AI Systems",
+  "loc": "London, United Kingdom, GB, onsite",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://jobs.lever.co/palantir/40840cef-bbd7-4557-bb21-cbdcf4be616e",
+  "desc": "A World-Changing Company\n \nPalantir builds the world’s leading software for data-driven decisions and operations. By bringing the right data to the people who need it, our platforms empower our partners to develop lifesaving drugs, forecast supply chain disruptions, locate missing children, and more.\n\n\nThe Role\n \nAs a Software Engineer Intern on Sovereign AI Infrastructure, you will help build the systems that make AI agents useful, reliable, and governable in high-stakes operational environments.\n\nThis is not a research-only internship. You’ll own a project with hands-on mentorship from experienced engineers, contributing to the systems that make production AI useful and trustworthy. That may mean working directly on agentic workflows, or on the layers they depend on: customer ontologies, context assembly, tool interfaces, agent identity or permissions, evaluations, and the core workflows that turn model outputs into real operational decisions.\n\nWe are looking for interns with strong coding fundamentals and experience with AI systems. You should be excited to learn quickly, communicate clearly, and build systems where correctness, reliability, and customer trust matter.\n \n\nCore Responsibilities (may include)\nBuild production software that improves how Palantir deploys, operates, evaluates, or monitors AI systems in customer-controlled environments.\nContribute to infrastructure for agentic workflows, including tool use, context assembly, permissions, execution safety, observability, and debugging.\nDesign and implement  services, APIs, test harnesses, evaluation pipelines, or developer tools that make AI systems easier to operate.\nWork with engineers, product teams, and customer-facing teams to understand real operational problems and turn them into durable software.\nDebug issues across services, deployment systems, logs, configuration, permissions, and product behaviour.\nWrite clear, maintainable code and participate in code review with a high bar for quality.\nCommunicate your design decisions, tradeoffs, and results clearly to teammates.\n\n",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara, US, TX, Austin, US, WA, Redmond",
+  "etype": "Intern",
+  "pub": "2026-11-05",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
+  "desc": "  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 30 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.     We are looking for an outstanding Research & Engineering Intern to join NVIDIA’s Agentic Systems Intelligence (ASI) team, a frontier research and engineering team advancing high-performance AI. Our team builds the next generation of agentic AI systems for the CUDA ecosystem, working across the full stack—from training and improving models, to designing agent architectures and multi-agent systems, to building the systems, runtimes, and evaluation frameworks that make them effective at scale. You will investigate open-ended research questions and turn promising ideas into working systems that can reason about, generate, optimize, and operate across NVIDIA’s accelerated computing stack. Depending on your strengths and interests, your work may focus on advancing model and agent capabilities, building scalable agent systems and runtimes, or developing high-fidelity training and evaluation environments. You will collaborate closely with NVIDIA software, model, and hardware teams, with opportunities to bring new capabilities into NVIDIA products.      What you'll be doing:      Research, build, and optimize agentic AI systems for the CUDA ecosystem, including agent architectures, multi-agent workflows, tool use, memory, and orchestration.    Develop data pipelines, environments, verification tools, reward mechanisms, and evaluation frameworks to improve model and agent capabilities through rigorous experimentation.    Co-design and optimize agentic systems across NVIDIA’s software and hardware stack, connecting advances in models and agents with compilers, runtimes, libraries, kernels, and GPUs. Demonstrate measurable improvements in correctness, performance, or developer productivity.       What we need to see:      You are pursuing a Master’s, or PhD in Computer Science, Electrical Engineering, or a similar field.    Strong foundations in one or more of the following: AI systems, agentic AI, machine learning, reinforcement learning, high-performance computing, or computer architecture.    Hands-on research or development experience in agent systems, coding agents, model training, reinforcement learning, or modern AI inference systems.    Strong Python programming skills and proficiency in C/C++ or Rust, with solid software engineering fundamentals.    Experience with GPU computing and an interest in performance optimization and working across system boundaries.       Ways To Stand Out From The Crowd:      PhD research in a relevant area, with demonstrated ability to formulate research questions, build working implementations, and evaluate them rigorously.    Experience building coding agents, autonomous software-engineering systems, or agent training and evaluation environments.    Hands-on experience with GPU programming and performance optimization, or with systems such as TRT-LLM, SGLang, or vLLM.    Evidence of technical depth and ownership through impactful research prototypes, deployed systems, or substantial open-source contributions. Relevant publications are welcome; we especially value strong engineering and measurable real-world impact.      With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous researcher/engineer with a real passion for technology, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 9, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
    "agent"
   ],
   "start_hint": ""
@@ -828,6 +889,23 @@
   "geo": "US",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "apple",
+  "company": "Apple",
+  "title": "Cellular Baseband Security Research Intern",
+  "loc": "Paris, France",
+  "etype": "Intern",
+  "pub": "2026-11-05",
+  "url": "https://jobs.apple.com/en-us/details/200693660-2911",
+  "desc": "Apple's Security Engineering & Architecture organization is responsible for the end-to-end security of Apple products, which are in use on over 2 billion active devices around the world. That mission is at the heart of everything we do, and our team approaches it from the offensive side by finding and helping eliminate vulnerabilities across Apple's hardware and software ecosystem, before adversaries can exploit them.\n\nWe are seeking a motivated student for a Cellular Baseband Security Research internship. The team you will join conducts full-stack security research across all major wireless technologies, including cellular, Wi-Fi, Bluetooth, Thread and satellite, covering both SoC firmware and host-side services. As a member of the team, you will work on developing emulation and AI-assisted analysis tools that support cellular baseband vulnerability discovery, crash triage, and fix verification.\n\nYou would be joining an extraordinary group of researchers who bring a range of backgrounds and perspectives to the work, and who are driven by curiosity, passion and genuine engagement with what they do. If you have strong technical experience and a passionate desire to secure systems, join us in protecting all Apple users. Our group engage in various activities, including vulnerability research, binary exploitation, security tooling development, fuzzing, machine learning and more. By developing and harnessing state-of-the-art technologies, we amplify our impact on Apple's product security.\n\nIn this internship, you will explore new ways to research the security of cellular baseband firmware without depending on complex hardware and RF test setups. You will survey the state of the art in baseband emulation, firmware rehosting and AI-based security research, and assess existing internal tooling to find opportunities for improvement. Building on these findings, you will help design and prototype an emulation-based framework that combines traditional and AI-assisted analysis, with the goal of making vulnerability discovery, triage and fix verification easier and more scalable. You will work closely with experienced security researchers on technically challenging problems at the intersection of wireless systems, firmware and AI. Knowledge of Apple operating systems such as iOS or macOS is a plus, but not required. Familiarity with cellular technologies, 3GPP standards (2G/3G/4G/5G) and baseband architectures\nSolid understanding of low-level systems, including embedded OS internals and ARM architecture, with hands-on experience in C, C++ and Python\nAbility to apply AI techniques and tools, such as LLMs, to security research and software development",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm",
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1149,28 +1227,12 @@
  },
  {
   "src": "linkedin",
-  "company": "TLD Robotics",
-  "title": "Employee Augmentation & AI Agents Intern – Toulouse (F/M)",
-  "loc": "Toulouse, Occitanie, France",
+  "company": "Asys",
+  "title": "STAGE Ingénieur - Framework Harness Agentic AI F/H",
+  "loc": "Nantes, Pays de la Loire, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/employee-augmentation-ai-agents-intern-%E2%80%93-toulouse-f-m-at-tld-robotics-4484376472",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Qwokka",
-  "title": "Stage AI Ops & Agents IA (Support Client)",
-  "loc": "Greater Paris Metropolitan Region",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-framework-harness-agentic-ai-f-h-at-asys-4488147282",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1197,14 +1259,110 @@
  },
  {
   "src": "linkedin",
-  "company": "Jimini AI",
-  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "SAP",
+  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
+  "loc": "Levallois-Perret, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "pub": "2026-10-30",
+  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
   "desc": "",
   "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Capital Fund Management (CFM)",
+  "title": "Internship – Outcome-Guided Financial Reasoning to Predict the Markets",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/internship-%E2%80%93-outcome-guided-financial-reasoning-to-predict-the-markets-at-capital-fund-management-cfm-4485002025",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ALTEN",
+  "title": "Stage IA Générative – Architectures Agentiques (H/F)",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-%E2%80%93-architectures-agentiques-h-f-at-alten-4485818963",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Berger-Levrault",
+  "title": "Stage – Innovation et IA générative pour l'assistance clients",
+  "loc": "Labège, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-innovation-et-ia-g%C3%A9n%C3%A9rative-pour-l-assistance-clients-at-berger-levrault-4470600363",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+  "loc": "Châtillon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-10-31",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Schneider Electric",
+  "title": "Stage – Optimisation du Routage des Agents d’Intelligence Artificielle - H/F",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-optimisation-du-routage-des-agents-d%E2%80%99intelligence-artificielle-h-f-at-schneider-electric-4486093152",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Stellantis",
+  "title": "Stage : Application de l'IA générative à l'automatisation des tests xIL",
+  "loc": "Poissy, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-g%C3%A9n%C3%A9rative-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4485007360",
+  "desc": "",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1229,28 +1387,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Stellantis",
-  "title": "Stage : Application de l'IA générative à l'automatisation des tests xIL",
-  "loc": "Poissy, Île-de-France, France",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur.e IA - Assistants et Plateforme Agentique (F/H)",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-g%C3%A9n%C3%A9rative-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4485007360",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Schneider Electric",
-  "title": "Stage – Optimisation du Routage des Agents d’Intelligence Artificielle - H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-optimisation-du-routage-des-agents-d%E2%80%99intelligence-artificielle-h-f-at-schneider-electric-4486093152",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1294,60 +1436,12 @@
  },
  {
   "src": "linkedin",
-  "company": "GetVocal AI",
-  "title": "AI Agent Engineer Intern (Internship)",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Siemens Digital Industries Software",
   "title": "Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program",
   "loc": "Toulouse, Occitanie, France",
   "etype": "Internship",
   "pub": "2026-10-31",
   "url": "https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131553",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Atos",
-  "title": "Conception et développement d'un agent IA autonome d'exploitation - Stage - F/H",
-  "loc": "Villeurbanne, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/conception-et-d%C3%A9veloppement-d-un-agent-ia-autonome-d-exploitation-stage-f-h-at-atos-4466699277",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
-  "loc": "Châtillon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1369,6 +1463,38 @@
   "geo": "FR",
   "dirs": [
    "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE - Développement et amélioration d'un agent IA - F/H",
+  "loc": "Limours, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-am%C3%A9lioration-d-un-agent-ia-f-h-at-thales-4487025844",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Aubay",
+  "title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
+  "loc": "Boulogne-Billancourt, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "diff"
   ],
   "start_hint": ""
  },
@@ -1408,22 +1534,6 @@
  {
   "src": "linkedin",
   "company": "SAP",
-  "title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SAP",
   "title": "Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H",
   "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
@@ -1439,12 +1549,12 @@
  },
  {
   "src": "linkedin",
-  "company": "CLS Group (Collecte Localisation Satellites)",
-  "title": "Stage - Agents pour lobservation de la Terre - H/F",
-  "loc": "Ramonville-Saint-Agne, Occitanie, France",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA & Agents Intelligents – Conception & Prototypage - High-Tech (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-agents-pour-lobservation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agents-intelligents-%E2%80%93-conception-prototypage-high-tech-f-h-at-dassault-syst%C3%A8mes-4469928811",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1455,44 +1565,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Renault Group",
-  "title": "CS27 - Stage - Bac+5 – Ingénieur IA Agentique & Maintenance Prédictive (H/F)",
-  "loc": "Guyancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/cs27-stage-bac%2B5-%E2%80%93-ing%C3%A9nieur-ia-agentique-maintenance-pr%C3%A9dictive-h-f-at-renault-group-4484873926",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SAP",
-  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
-  "loc": "Levallois-Perret, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Capital Fund Management (CFM)",
-  "title": "Internship – Outcome-Guided Financial Reasoning to Predict the Markets",
+  "company": "Jimini AI",
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
   "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/internship-%E2%80%93-outcome-guided-financial-reasoning-to-predict-the-markets-at-capital-fund-management-cfm-4485002025",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1519,28 +1597,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Aubay",
-  "title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
+  "company": "Quobly",
+  "title": "Stage IA générative pour données scientifiques",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-05",
-  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur IA Générative – Modélisation 3D (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-29",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-%E2%80%93-mod%C3%A9lisation-3d-f-h-at-dassault-syst%C3%A8mes-4468695185",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
   "desc": "",
   "tier": "B",
   "geo": "FR",
@@ -1583,14 +1645,14 @@
  },
  {
   "src": "linkedin",
-  "company": "ChapsVision",
-  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Atos",
+  "title": "STAGE - Ingénieur IA Agentique et Applications Spatiales H/F",
+  "loc": "Toulouse, Occitanie, France",
   "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-et-applications-spatiales-h-f-at-atos-4477387383",
   "desc": "",
-  "tier": "A",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "agent"
@@ -1615,38 +1677,6 @@
  },
  {
   "src": "linkedin",
-  "company": "NAVAL GROUP",
-  "title": "STAGE - Développeur/se agents IA Open Lab - H/F",
-  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-se-agents-ia-open-lab-h-f-at-naval-group-4474826763",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SuperGrid Institute",
-  "title": "Stage - IA Générative, Agents IA et Analyse de Données Scientifiques – F/H",
-  "loc": "Saint-Martin-d’Hères, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-agents-ia-et-analyse-de-donn%C3%A9es-scientifiques-%E2%80%93-f-h-at-supergrid-institute-4485344151",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "PwC France",
   "title": "Stage - PPO - Janvier 2027 - F/H",
   "loc": "Neuilly-sur-Seine, Île-de-France, France",
@@ -1663,12 +1693,28 @@
  },
  {
   "src": "linkedin",
-  "company": "BforBank",
-  "title": "Stage – Gen AI Engineer (H/F)",
-  "loc": "Greater Paris Metropolitan Region",
+  "company": "ChapsVision",
+  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-gen-ai-engineer-h-f-at-bforbank-4487273331",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Societe Generale",
+  "title": "Chargé Data Science & IA Générative",
+  "loc": "La Défense, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://fr.linkedin.com/jobs/view/charg%C3%A9-data-science-ia-g%C3%A9n%C3%A9rative-at-societe-generale-4485845716",
   "desc": "",
   "tier": "B",
   "geo": "FR",
@@ -1679,12 +1725,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Développement et amélioration d'un agent IA - F/H",
-  "loc": "Limours, Île-de-France, France",
+  "company": "SAP",
+  "title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
+  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
   "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-am%C3%A9lioration-d-un-agent-ia-f-h-at-thales-4487025844",
+  "url": "https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1760,33 +1806,33 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Machine Learning/Agentic AI Intern",
-  "loc": "Cambridge, MA",
+  "company": "Eluvio",
+  "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
+  "loc": "Berkeley, CA",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-agentic-ai-intern-at-toyota-research-institute-4485391083",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/last-minute-ai-machine-learning-summer-internship-gen-ai-multimodal-at-eluvio-4488030782",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "Labcorp",
-  "title": "Co-op - Agentic AI Developer",
-  "loc": "Durham, NC",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
+  "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "agent"
+   "diff"
   ],
   "start_hint": ""
  },
@@ -1825,14 +1871,79 @@
  },
  {
   "src": "linkedin",
-  "company": "Samsung Research America (SRA)",
-  "title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
-  "loc": "Plano, TX",
+  "company": "Toyota Research Institute",
+  "title": "Human Interactive Driving Research Intern, World Models",
+  "loc": "Los Altos, CA",
   "etype": "Internship",
   "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701",
+  "url": "https://www.linkedin.com/jobs/view/human-interactive-driving-research-intern-world-models-at-toyota-research-institute-4427062296",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Accelerated Science Intern, Machine Learning/Agentic AI",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-10-30",
+  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-machine-learning-agentic-ai-at-toyota-research-institute-4485391083",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "HoYoverse",
+  "title": "Research Scientist Intern - Video Generation",
+  "loc": "Mountain View, CA",
+  "etype": "Internship",
+  "pub": "2026-11-06",
+  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-hoyoverse-4486972902",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Radar/Sensor Reasoning Models",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/internship-radar-sensor-reasoning-models-at-mitsubishi-electric-research-laboratories-4486910125",
+  "desc": "",
+  "tier": "A",
   "geo": "US",
   "dirs": [
    "llm"
@@ -1841,17 +1952,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
-  "loc": "Cambridge, MA",
+  "company": "Labcorp",
+  "title": "Co-op - Agentic AI Developer",
+  "loc": "Durham, NC",
   "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
+  "pub": "2026-11-03",
+  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1933,6 +2044,38 @@
   "geo": "US",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "GE Vernova",
+  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
+  "loc": "Bellevue, WA",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4479573257",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Human-Centered AI Research Intern, Human Language Models",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-human-language-models-at-toyota-research-institute-4487548381",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  }
