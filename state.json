@@ -9770,5 +9770,75 @@
 "company": "Toyota Research Institute",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97": {
+"first_seen": "2026-11-07",
+"title": "AI Scientist Intern - (Internship, Masters or Phd)",
+"company": "mistral.ai",
+"geo": "FR",
+"tier": "B"
+},
+"https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c": {
+"first_seen": "2026-11-07",
+"title": "Internship - Machine Learning Research Engineer",
+"company": "perplexity",
+"geo": "EU",
+"tier": "B"
+},
+"https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e": {
+"first_seen": "2026-11-07",
+"title": "Software Engineer Intern, Agent (Summer 2027)  [Summer 2027 ✓]",
+"company": "sierra",
+"geo": "US",
+"tier": "A"
+},
+"https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff": {
+"first_seen": "2026-11-07",
+"title": "Software Engineer Intern, Agent (London 2027)",
+"company": "sierra",
+"geo": "EU",
+"tier": "A"
+},
+"https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440": {
+"first_seen": "2026-11-07",
+"title": "IA Research Engineer Intern ",
+"company": "etched",
+"geo": "US",
+"tier": "B"
+},
+"https://careers.withwaymo.com/jobs?gh_jid=8358262": {
+"first_seen": "2026-11-07",
+"title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)   [Summer 2027 ✓]",
+"company": "waymo",
+"geo": "US",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-agents-pour-l-observation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911": {
+"first_seen": "2026-11-07",
+"title": "Stage - Agents pour l'observation de la Terre - H/F",
+"company": "CLS Group (Collecte Localisation Satellites)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/internship-time-series-foundation-models-for-forecasting-at-capital-fund-management-cfm-4486237794": {
+"first_seen": "2026-11-07",
+"title": "Internship - Time Series Foundation Models for Forecasting",
+"company": "Capital Fund Management (CFM)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-%E2%80%93-g%C3%A9n%C3%A9ration-agentique-multimodale-f-h-at-dassault-syst%C3%A8mes-4488464405": {
+"first_seen": "2026-11-07",
+"title": "STAGE – Ingénieur IA – Génération Agentique Multimodale (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805": {
+"first_seen": "2026-11-07",
+"title": "Software Engineering Generative AI Intern",
+"company": "SPX Technologies",
+"geo": "US",
+"tier": "B"
 }
 }

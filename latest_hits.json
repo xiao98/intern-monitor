@@ -36,6 +36,23 @@
  },
  {
   "src": "ashby",
+  "company": "mistral.ai",
+  "title": "AI Scientist Intern - (Internship, Masters or Phd)",
+  "loc": "Paris, Zurich, Warsaw, London, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-06",
+  "url": "https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97",
+  "desc": "ABOUT MISTRAL\n\nMistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector, co-creating customized AI systems that they can run on their terms.\n\nWe are a dynamic, collaborative team passionate about AI and its potential to transform society. Our diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between Europe, North America, Asia and the Middle East. We are creative, low-ego and team-spirited.\n\n\n\nAbout Mistral \n\n \n\nAt Mistral AI, we believe in the power of AI to simplify tasks, save time, and enhance learning and creativity. Our technology is designed to integrate seamlessly into daily working life.\n\n \n\nWe democratize AI through high-performance, optimized, open-source and cutting-edge models, products and solutions. Our comprehensive AI platform is designed to meet enterprise needs, whether on-premises or in cloud environments. Our offerings include le Chat, the AI assistant for life and work.\n\n \n\nWe are a dynamic, collaborative team passionate about AI and its potential to transform society.\n\nOur diverse workforce thrives in competitive environments and is committed to driving innovation. Our teams are distributed between France, USA, UK, Germany and Singapore. We are creative, low-ego and team-spirited.\n\n \n\nJoin us to be part of a pioneering company shaping the future of AI. Together, we can make a meaningful impact. See more about our culture on https://mistral.ai/careers.\n\n \n\nMistral AI are hiring experts in the role of pre-training and fine-tuning large language models.\n\n \n\nRole Summary \n\n \n\n-You will be working with the fine tuning team on making state-of-the-art generative models.\n\n-You will run autonomous work streams under the supervision of experienced scientists.\n\n-The role is based in one of our offices in Paris, London, Zurich or Warsaw. \n\n-Internship duration : 6 months. We will only consider candidates looking for end of studies internships (Master or Phd)\n\n \n\nWhat you will do\n\n \n\n-Explore state-of-the-art LLM algorithms for fine tuning LLMs, with the supervision of top level scientists.\n\n-Assist in the design and implementation of machine learning models and algorithms.\n\n-Conduct research on the latest advancements in natural language processing and LLMs.\n\n-Contribute to the development and optimization of our LLM systems.\n\n-Collaborate with cross-functional teams to integrate LLM technologies into various applications.\n\n-Perform data analysis and visualization to support research and development efforts.\n\n-Document research findings and contribute to technical reports and publications.\n\n-Participate in team meetings and brainstorming sessions to share ideas and insights\n\n \n\nAbout you\n\n \n\n-Currently doing a Master or PhD at a tier 1 engineering schools / Universities.\n\n-High scientific understanding of the field of generative AI. \n\n-Broad knowledge of the field of AI, and specific knowledge or interest in fine-tuning and using language models for applications.\n\n-Strong programming skills in Python, with experience in libraries such as TensorFlow, PyTorch, or similar.\n\n-Familiarity with natural language processing techniques and machine learning algorithms.\n\n-Design complex software and make them usable in production. \n\n-Navigate the full MLOps technical stack, with a focus on architecture development and model evaluation and usage. \n\n-Previous experience with LLMs or related technologies.\n\n-Knowledge of deep learning frameworks and techniques..Experience with version control systems (e.g., Git) and linux shell environment.\n\n \n\nNow, it would be ideal if you : \n\n-Have experience in fine tuning LLMs.\n\n-Have used complex HPC infrastructure with full autonomy.\n\n \n\n\n\n\nWHAT WE OFFER\n\nWe offer a comprehensive benefits package designed to support your well-being, growth, and work-life balance. Benefits vary by country and may include healthcare coverage, parental leave, retirement plans, relocation support, wellness programs, meal and transportation allowances, and other location-specific perks.\n\nFor the most up-to-date details on benefits available in your location, please refer to our Benefits page https://app.notion.com/p/mistralai/Benefits-at-Mistral-36e6ba59a7fe836b93dd01737fcc27ef?source=copy_link.\n\n\n\n\nPRIVACY POLICY\n\nYour privacy matters to us. You can learn more about how we handle your personal data in our Applicant Privacy Policy https://legal.mistral.ai/terms/applicant-privacy-policy.",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "diff",
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "ashby",
   "company": "doctolib",
   "title": "Stage - SEO : Contenu & recherche IA (x/f/m) - novembre 2026",
   "loc": "Paris, Remote",
@@ -57,7 +74,7 @@
   "loc": "Berlin, Remote",
   "etype": "FullTime",
   "pub": "2026-09-02",
-  "url": "https://jobs.ashbyhq.com/perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
+  "url": "https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c",
   "desc": "Internship Program Berlin\n\nInternship program: 12 - 24 weeks, full-time, in-person in the Berlin office.\n\nResponsibilities\n\n - Relentlessly push search quality forward — through models, data, tools, or any other leverage available.\n\n - Train, and optimize large-scale deep learning models using frameworks like PyTorch, leveraging distributed training (e.g., PyTorch Distributed, DeepSpeed, FSDP) and hardware acceleration, with a focus on retrieval and ranking models.\n\n - Conduct research in representation learning, including contrastive learning, multilingual, evaluation, and multimodal modeling for search and retrieval.\n\n - Build and optimize RAG pipelines for grounding and answer generation.\n\nQualifications\n\n - Understanding of search and retrieval systems, including quality evaluation principles and metrics.\n\n - Strong proficiency with PyTorch, including experience in distributed training techniques and performance optimization for large models.\n\n - Interested in representation learning, including contrastive learning, dense & sparse vector representations, representation fusion, cross-lingual representation alignment, training data optimization and robust evaluation.\n\n - Publication record in AI/ML conferences or workshops (e.g., NeurIPS, ICML, ICLR, ACL, EMNLP, SIGIR).",
   "tier": "B",
   "geo": "EU",
@@ -73,7 +90,7 @@
   "loc": "San Francisco, CA, New York, NY",
   "etype": "Intern",
   "pub": "2026-08-31",
-  "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+  "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
   "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nOur co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\n\n - Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\n\n - Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\n\n - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits through Carrot\n\n - Lunch, as well as delicious snacks and coffee to keep you energized \n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.",
   "tier": "A",
   "geo": "US",
@@ -89,7 +106,7 @@
   "loc": "London",
   "etype": "Intern",
   "pub": "2026-10-20",
-  "url": "https://jobs.ashbyhq.com/sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
+  "url": "https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
   "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nOur co-founders are Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/. Bret currently serves as Board Chair of OpenAI. Previously, he was co-CEO of Salesforce (which had acquired the company he founded, Quip) and CTO of Facebook. Bret was also one of Google's earliest product managers and co-creator of Google Maps. Before founding Sierra, Clay spent 18 years at Google, where he most recently led Google Labs. Earlier, he started and led Google’s AR/VR effort, Project Starline, and Google Lens. Before that, Clay led the product and design teams for Google Workspace.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\n\n - Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\n\n - Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\n\n - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits through Carrot\n\n - Lunch, as well as delicious snacks and coffee to keep you energized \n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply even if your experience doesn't precisely match the job description. We strive to evaluate all applicants consistently without regard to race, color, religion, gender, national origin, age, disability, veteran status, pregnancy, gender expression or identity, sexual orientation, citizenship, or any other legally protected class.",
   "tier": "A",
   "geo": "EU",
@@ -156,7 +173,7 @@
   "loc": "San Jose",
   "etype": "Intern",
   "pub": "2026-11-04",
-  "url": "https://jobs.ashbyhq.com/etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
+  "url": "https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440",
   "desc": "About Etched\n\nEtched is building hardware for frontier intelligence. We co-design chips, racks, software, and manufacturing to deliver best-in-class throughput and latency across both prefill and decode workloads. Our first products are heavily focused on inference. Backed by hundreds of millions from top-tier investors and staffed by leading engineers, Etched is redefining the infrastructure layer for the fastest growing industry in history.\n\n\n\nJob Summary\n\nWe are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build the agents that accelerate how Etched produces frontier tokens. You will embed with our kernels team and work alongside our founders on agentic harnesses, tools, and evals that let agents do long-running engineering work people actually rely on. This role is for builders who thrive on ambiguity, have real product sense, and want to own problems end to end.\n\n\n\nKey responsibilities\n\n - Embed with our kernels team to find high-leverage bottlenecks and help turn them into tools engineers use every day.\n\n - Build and deploy LLM agents wired into our engineering workflows via tool-calling and MCP.\n\n - Help build execution environments where agents can verify their own work, with sandboxed access to simulators, compilers, profilers, and real hardware.\n\n - Ship internal products end to end, including the interfaces, data pipelines, and infrastructure behind them.\n\n - Design evals and track adoption to measure which tools are working and which aren’t.\n\n - Support special projects with the founders across the company.\n\n\n\nYou may be a good fit if you have\n\n - Progress towards a Bachelor’s, Master’s, or PhD degree in computer science, computer engineering, or a related field\n\n - Strong software engineering fundamentals and a record of shipping projects other people use\n\n - Built agents for multi-step tasks beyond calling an API: tool design, context management, evals, and failure analysis\n\n - Heavy use of coding agents, including reading their transcripts and changing the system when an agent is confidently wrong\n\n - High agency in unfamiliar domains, product sense, and extreme attention to detail\n\n\n\nStrong candidates may have some experience with\n\n - Chip development, GPU kernels, hardware, or manufacturing\n\n - Infrastructure, data engineering, or DevOps\n\n - Fine-tuning, RAG over technical data, or multi-agent orchestration\n\n - Hackathons, startups, or side projects with real users\n\nWe encourage you to apply even if you do not believe you meet every qualification.\n\n\n\nProgram details\n\n - 12-week paid internship\n\n - Daily lunch and dinner in our office\n\n - Based at our office in San Jose, CA\n\n - Direct mentorship from industry leaders and world-class engineers\n\n - Opportunity to work on one of the most important problems of our time\n\nFor any questions, contact internships@etched.com.\n\n\n\nHow we’re different\n\nEtched believes in the Bitter Lesson. We are the first inference-focused frontier AI system. Our addressable market is the entirety of inference, unlike many of our competitors.\n\n\n\nWe are a fully in-person team in San Jose (Santana Row), and greatly value engineering skills. We do not have boundaries between engineering and research, and we expect all of our technical staff to contribute to both and work across disciplines as needed.\n\n",
   "tier": "B",
   "geo": "US",
@@ -217,23 +234,6 @@
    "rl"
   ],
   "start_hint": ""
- },
- {
-  "src": "greenhouse",
-  "company": "togetherai",
-  "title": "Research Intern, Model Shaping (Winter 2027)",
-  "loc": "San Francisco, Amsterdam, San Francisco",
-  "etype": "",
-  "pub": "2026-09-18",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238465007",
-  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span January 4th to April 9th either in our San Francisco or Amsterdam Office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
-  "tier": "B",
-  "geo": "EU",
-  "dirs": [
-   "llm",
-   "rl"
-  ],
-  "start_hint": "This cohort's internship dates span January 4th to April 9th either in our San Francisco or Amsterdam Office"
  },
  {
   "src": "greenhouse",
@@ -335,6 +335,23 @@
   "dirs": [
    "llm",
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "greenhouse",
+  "company": "waymo",
+  "title": "2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model)   [Summer 2027 ✓]",
+  "loc": "Mountain View, California, United States, Mountain View (US-MTV-EMF680)",
+  "etype": "",
+  "pub": "2026-11-06",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8358262",
+  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds the brains of Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p>&nbsp;</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Implement, train, and evaluate generative models (such as diffusion models, flow matching, or autoregressive transformers) for video and physical world simulation.</li>\n<li>Experiment with unified 3D/4D and spatiotemporal representations that generalize across diverse scenes, vehicle platforms, and sensor modalities.</li>\n<li>Investigate conditioning, fine-tuning, or distillation methods to improve temporal consistency, physical realism, and inference speed for closed-loop simulation.</li>\n<li>Partner with mentors and researchers across Waymo and frontier AI labs at Google to adapt foundation world models and translate research prototypes into Waymo’s simulation pipeline.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently pursuing an MS or PhD in Computer Science, Machine Learning, Computer Vision, Robotics, or a related field.</li>\n<li>Solid background in deep learning and computer vision, with hands-on experience in modern generative modeling (e.g., diffusion models, flow matching, VAEs, or transformers).</li>\n<li>Strong coding skills in Python and practical experience training and debugging models in PyTorch or JAX.</li>\n</ul>\n<p>&nbsp;</p>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Prior research or projects in video generation, world models, or generalized 3D/4D scene representations.</li>\n<li>Exposure to 3D computer vision, multi-view geometry, physical/geometric priors, or multimodal sensor data (Camera, LiDAR, Radar).</li>\n<li>Contributions to open-source projects or publications in ML, vision, or robotics venues (e.g., CVPR, ICCV, ECCV, NeurIPS, ICML).</li>\n</ul>\n<p>&nbsp;</p>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1147,22 +1164,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Betclic Group",
-  "title": "Stage - Applied Research in GenAI / NLP F/M",
-  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-applied-research-in-genai-nlp-f-m-at-betclic-group-4477869517",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "CEA",
   "title": "Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
   "loc": "Saclay, Île-de-France, France",
@@ -1211,12 +1212,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "Silae",
+  "title": "Stage de fin d'études- Ingénieur IA/LLM",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-en-intelligence-artificielle-llm-deep-learning-f-h-at-dassault-syst%C3%A8mes-4477838300",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-ia-llm-at-silae-4470936586",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1243,12 +1244,28 @@
  },
  {
   "src": "linkedin",
-  "company": "Curium Pharma",
-  "title": "Stage IT - Développeur Agentic AI - Paris (H/F/X)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "BforBank",
+  "title": "Stage – Gen AI Engineer (H/F)",
+  "loc": "Greater Paris Metropolitan Region",
   "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-it-d%C3%A9veloppeur-agentic-ai-paris-h-f-x-at-curium-pharma-4483928929",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-gen-ai-engineer-h-f-at-bforbank-4487273331",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Qwokka",
+  "title": "Stage AI Ops & Agents IA (Support Client)",
+  "loc": "Greater Paris Metropolitan Region",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1259,17 +1276,17 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
-  "loc": "Levallois-Perret, Île-de-France, France",
+  "company": "Jimini AI",
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1323,12 +1340,44 @@
  },
  {
   "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
-  "loc": "Châtillon, Île-de-France, France",
+  "company": "Thales",
+  "title": "STAGE - Ingénieur Développement d'Agents IA – F/H",
+  "loc": "Cholet, Pays de la Loire, France",
   "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-d-agents-ia-%E2%80%93-f-h-at-thales-4480354961",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Collins Aerospace",
+  "title": "STAGE – Chaines de Pensées et Agents pour assistant IA",
+  "loc": "Blagnac, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-chaines-de-pens%C3%A9es-et-agents-pour-assistant-ia-at-collins-aerospace-4479046331",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "STATION F",
+  "title": "STAGE AI AGENT OPS",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1387,27 +1436,11 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur.e IA - Assistants et Plateforme Agentique (F/H)",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "BASSETTI Group",
   "title": "Stage - Ingénieur Data Science - IA Générative H/F",
   "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-10-30",
+  "pub": "2026-11-06",
   "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-data-science-ia-g%C3%A9n%C3%A9rative-h-f-at-bassetti-group-4473253079",
   "desc": "",
   "tier": "B",
@@ -1431,54 +1464,6 @@
   "dirs": [
    "diff",
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131553",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Groupe SII",
-  "title": "Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)",
-  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-drone-hybride-apprentissage-par-renforcement-pour-le-pilotage-autonome-h-f-at-groupe-sii-4485378793",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Développement et amélioration d'un agent IA - F/H",
-  "loc": "Limours, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-et-am%C3%A9lioration-d-un-agent-ia-f-h-at-thales-4487025844",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
@@ -1533,22 +1518,6 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-e-de-recherche-surveillance-des-donn%C3%A9es-de-vie-priv%C3%A9e-pour-les-agents-d-ia-f-h-at-sap-4486071605",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
   "title": "STAGE - Ingénieur IA & Agents Intelligents – Conception & Prototypage - High-Tech (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
@@ -1565,12 +1534,60 @@
  },
  {
   "src": "linkedin",
-  "company": "Jimini AI",
-  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+  "company": "Groupe SII",
+  "title": "Ingénieur R&D Gestion IA génératives (F/H)",
+  "loc": "Toulouse, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-gestion-ia-g%C3%A9n%C3%A9ratives-f-h-at-groupe-sii-4478791297",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CLS Group (Collecte Localisation Satellites)",
+  "title": "Stage - Agents pour l'observation de la Terre - H/F",
+  "loc": "Ramonville-Saint-Agne, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agents-pour-l-observation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "SAP",
+  "title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
+  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Capital Fund Management (CFM)",
+  "title": "Internship - Time Series Foundation Models for Forecasting",
   "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "pub": "2026-11-06",
+  "url": "https://fr.linkedin.com/jobs/view/internship-time-series-foundation-models-for-forecasting-at-capital-fund-management-cfm-4486237794",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1605,22 +1622,6 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
   "desc": "",
   "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Groupe SII",
-  "title": "Ingénieur R&D Gestion IA génératives (F/H)",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-r-d-gestion-ia-g%C3%A9n%C3%A9ratives-f-h-at-groupe-sii-4478791297",
-  "desc": "",
-  "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1677,22 +1678,6 @@
  },
  {
   "src": "linkedin",
-  "company": "PwC France",
-  "title": "Stage - PPO - Janvier 2027 - F/H",
-  "loc": "Neuilly-sur-Seine, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ppo-janvier-2027-f-h-at-pwc-france-4479074651",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "ChapsVision",
   "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
   "loc": "Paris, Île-de-France, France",
@@ -1703,6 +1688,23 @@
   "tier": "A",
   "geo": "FR",
   "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur IA – Génération Agentique Multimodale (F/H)",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-07",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-%E2%80%93-g%C3%A9n%C3%A9ration-agentique-multimodale-f-h-at-dassault-syst%C3%A8mes-4488464405",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm",
    "agent"
   ],
   "start_hint": ""
@@ -1720,22 +1722,6 @@
   "geo": "FR",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SAP",
-  "title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/internship-research-associate-privacy-aware-oversight-for-enterprise-ai-agents-m-f-at-sap-4486055933",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
@@ -1822,33 +1808,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
-  "loc": "Cambridge, MA",
+  "company": "Microsoft",
+  "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
+  "loc": "Redmond, WA",
   "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-interactive-multimodal-futures-group-situated-social-ubiquitous-computing-at-microsoft-4479822729",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "BehaviorAI",
-  "title": "Machine Learning Engineer Internship — Generative Modeling",
-  "loc": "New York City Metropolitan Area",
-  "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-internship-%E2%80%94-generative-modeling-at-behaviorai-4485763430",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1888,22 +1858,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Accelerated Science Intern, Machine Learning/Agentic AI",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-10-30",
-  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-machine-learning-agentic-ai-at-toyota-research-institute-4485391083",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "HoYoverse",
   "title": "Research Scientist Intern - Video Generation",
   "loc": "Mountain View, CA",
@@ -1936,22 +1890,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Radar/Sensor Reasoning Models",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/internship-radar-sensor-reasoning-models-at-mitsubishi-electric-research-laboratories-4486910125",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Labcorp",
   "title": "Co-op - Agentic AI Developer",
   "loc": "Durham, NC",
@@ -1974,6 +1912,22 @@
   "etype": "Internship",
   "pub": "2026-11-03",
   "url": "https://www.linkedin.com/jobs/view/ai-intern-enterprise-agent-development-at-biospace-4487026018",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Microsoft",
+  "title": "Research Intern - Foundational Models & Agent",
+  "loc": "Redmond, WA",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-foundational-models-agent-at-microsoft-4486885694",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -2017,6 +1971,38 @@
  },
  {
   "src": "linkedin",
+  "company": "SPX Technologies",
+  "title": "Software Engineering Generative AI Intern",
+  "loc": "Elk Grove Village, IL",
+  "etype": "Internship",
+  "pub": "2026-11-06",
+  "url": "https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "GE Vernova",
+  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
+  "loc": "Bellevue, WA",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4479573257",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Armadin",
   "title": "Summer 2027 Internship - Member of Technical Staff - Agent Systems  [Summer 2027 ✓]",
   "loc": "Palo Alto, CA",
@@ -2049,17 +2035,17 @@
  },
  {
   "src": "linkedin",
-  "company": "GE Vernova",
-  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
-  "loc": "Bellevue, WA",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
+  "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-11-05",
-  "url": "https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4479573257",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff"
   ],
   "start_hint": ""
  },
