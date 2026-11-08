@@ -9840,5 +9840,19 @@
 "company": "SPX Technologies",
 "geo": "US",
 "tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4487635143": {
+"first_seen": "2026-11-08",
+"title": "STAGE AI AGENT OPS",
+"company": "STATION F",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746": {
+"first_seen": "2026-11-08",
+"title": "STAGE - Ingénieur IA - Assistants et Plateforme Agentique (F/H)",
+"company": "Dassault Systèmes",
+"geo": "FR",
+"tier": "A"
 }
 }

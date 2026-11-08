@@ -359,14 +359,15 @@
   "src": "greenhouse",
   "company": "waymo",
   "title": "2027 Summer Intern, MS/PhD, Machine Learning, Driver Refinement Foundations  [Summer 2027 ✓]",
-  "loc": "San Francisco, CA, USA, San Francisco (US-SFO-MKT555)",
+  "loc": "Mountain View, CA, USA, Mountain View (US-MTV-EMF680)",
   "etype": "",
-  "pub": "2026-10-23",
-  "url": "https://careers.withwaymo.com/jobs?gh_jid=8304574",
-  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The team for this role will be:</p>\n<p>Driver Refinement Foundations</p>\n<p>Description:</p>\n<p>The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Design and implement robust data generation pipelines for data generation</li>\n<li>Design and evaluate experiments for model training</li>\n<li>Designing robust data generation pipelines for model training</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and understanding metrics</li>\n<li>Experience in strong software engineering principles</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Help solve challenging problems with a direct impact on the company</li>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
+  "pub": "2026-10-01",
+  "url": "https://careers.withwaymo.com/jobs?gh_jid=8243556",
+  "desc": "<div class=\"content-intro\"><p>Waymo is an autonomous driving technology company with the mission to be the world's most trusted driver. Since its start as the Google Self-Driving Car Project in 2009, Waymo has focused on building the Waymo Driver—The World's Most Experienced Driver™—to improve access to mobility while saving thousands of lives now lost to traffic crashes. The Waymo Driver powers Waymo’s fully autonomous ride-hail service and can also be applied to a range of vehicle platforms and product use cases. The Waymo Driver has provided over ten million rider-only trips, enabled by its experience autonomously driving over 100 million miles on public roads and tens of billions in simulation across 15+ U.S. states.</p></div><p>Software Engineering builds&nbsp;the brains of&nbsp;Waymo's fully autonomous driving technology. Our software allows the Waymo Driver to perceive the world around it, make the right decision for every situation, and deliver people safely to their destinations. We think deeply and solve complex technical challenges in areas like robotics, perception, decision-making and deep learning, while collaborating with hardware and systems engineers. If you’re a software engineer or researcher who’s curious and passionate about Level 4 autonomous driving, we'd like to meet you.&nbsp;</p>\n<p>The subteam for this role will be:</p>\n<p>Driver Refinement foundations - The team is accountable for providing the common, consistent framework (and enabling expertise) for post-training and heuristic hill climbing across the entire Planner organization. We build fundamental platforms, including the Data Flywheel and the Reasoning platform, to assist Waymo engineers in delivering driving behavior improvements using data-driven and heuristic methods.</p>\n<p>Waymo interns partner with leaders in the industry on projects that create impact to the company. We believe learning is a two-way street: applying your knowledge while providing you with opportunities to expand your skill-set. Interns are an important part of our culture and our recruiting pipeline. Join us at Waymo for a fun and rewarding internship!</p>\n<p><strong>You will:</strong></p>\n<ul>\n<li>Mine and curate dataset samples from large corpus of driving data</li>\n<li>Leverage large language models and world foundation models for reasoning, decision making and multi-modality generation</li>\n<li>Optimize Multimodal generative models using RLFT. Explore Reward modeling</li>\n<li>Design and implement Evaluation metrics and iterate on improvements</li>\n</ul>\n<p><strong>You have:</strong></p>\n<ul>\n<li>Currently enrolled in a graduate program (Master's or PhD) in Computer Science or a related technical field</li>\n<li>You have strong problem solving and programming skills in Python and/or C++</li>\n<li>Good understanding of Jax/Pytorch</li>\n<li>Experience in model evaluation and developing metrics</li>\n<li>Experience developing models</li>\n</ul>\n<p><strong>We prefer:</strong></p>\n<ul>\n<li>Some understanding of SQL is preferred, not required</li>\n<li>Previous Internship experience</li>\n<li>PhD preferred</li>\n</ul>\n<h4><strong>General Perks</strong></h4>\n<ul>\n<li>Competitive compensation packages with a housing/relocation bonus (if applicable)</li>\n<li>Medical, dental, and vision insurance</li>\n<li>Fun intern events and networking opportunities</li>\n</ul>\n<h4><strong>Onsite Perks</strong></h4>\n<ul>\n<li>Free breakfast, lunch, dinner, and snacks&nbsp;</li>\n<li>Free access to Google shuttles</li>\n<li>Onsite gym</li>\n</ul>\n<p>Note: This will be a hybrid onsite internship position. We will accept resumes on a rolling basis until the role is filled. To be in consideration for multiple roles, you will need to apply to each one individually - please apply to the top 3 roles you are interested in.</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly Masters Pay</div><div class=\"pay-range\"><span>$70</span><span class=\"divider\">&mdash;</span><span>$70 USD</span></div></div><div class=\"pay-input\"><div class=\"description\"><div>The expected hourly rate for this full-time position is listed below. Interns are also eligible to participate in the Company’s generous benefits programs, subject to eligibility requirements.</div></div><div class=\"title\">Hourly PhD Pay</div><div class=\"pay-range\"><span>$85</span><span class=\"divider\">&mdash;</span><span>$85 USD</span></div></div></div>",
   "tier": "B",
   "geo": "US",
   "dirs": [
+   "diff",
    "llm"
   ],
   "start_hint": ""
@@ -1164,44 +1165,12 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-la-g%C3%A9n%C3%A9ration-de-plug-ins-civa-saclay-h-f-at-cea-4476852231",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Stellantis",
   "title": "Stage : Fine-tuning de modèles de langage pour la description automatique de flow charts",
   "loc": "Poissy, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-11-03",
   "url": "https://fr.linkedin.com/jobs/view/stage-fine-tuning-de-mod%C3%A8les-de-langage-pour-la-description-automatique-de-flow-charts-at-stellantis-4476028772",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Développement d'un assistant LLM pour l'utilisation et l'analyse de simulations CIVA-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-l-utilisation-et-l-analyse-de-simulations-civa-saclay-h-f-at-cea-4476838954",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1260,12 +1229,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Qwokka",
-  "title": "Stage AI Ops & Agents IA (Support Client)",
-  "loc": "Greater Paris Metropolitan Region",
+  "company": "ChapsVision",
+  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+  "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1276,12 +1245,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Jimini AI",
-  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "CEA",
+  "title": "Stage IA de confiance - Abstraction bilinéaires pour les RNN et Transformers -Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "pub": "2026-11-05",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-de-confiance-abstraction-bilin%C3%A9aires-pour-les-rnn-et-transformers-saclay-h-f-at-cea-4469007365",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1376,8 +1345,8 @@
   "title": "STAGE AI AGENT OPS",
   "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4485714274",
+  "pub": "2026-11-08",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4487635143",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1431,6 +1400,38 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage Case-Based Reasoning on Concepts for Sensible Explainable AI- Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-case-based-reasoning-on-concepts-for-sensible-explainable-ai-saclay-h-f-at-cea-4477566865",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA - Assistants et Plateforme Agentique (F/H)",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1598,22 +1599,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur.e Recherche - Modèles génératifs de scènes 3D (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-recherche-mod%C3%A8les-g%C3%A9n%C3%A9ratifs-de-sc%C3%A8nes-3d-f-h-at-dassault-syst%C3%A8mes-4469149141",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Quobly",
   "title": "Stage IA générative pour données scientifiques",
   "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
@@ -1622,22 +1607,6 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
   "desc": "",
   "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage IA de confiance - Abstraction bilinéaires pour les RNN et Transformers -Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-05",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-de-confiance-abstraction-bilin%C3%A9aires-pour-les-rnn-et-transformers-saclay-h-f-at-cea-4469007365",
-  "desc": "",
-  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1662,6 +1631,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur·e R&D en IA agentique (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-07",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur%C2%B7e-r-d-en-ia-agentique-f-h-at-dassault-syst%C3%A8mes-4480535303",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "TotalEnergies",
   "title": "STAGE - Benchmark et évaluation des modèles d'IA générative pour les Géosciences H/F",
   "loc": "Pau, Nouvelle-Aquitaine, France",
@@ -1678,34 +1663,17 @@
  },
  {
   "src": "linkedin",
-  "company": "ChapsVision",
-  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+  "company": "Jimini AI",
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
   "loc": "Paris, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur IA – Génération Agentique Multimodale (F/H)",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-07",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-%E2%80%93-g%C3%A9n%C3%A9ration-agentique-multimodale-f-h-at-dassault-syst%C3%A8mes-4488464405",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm",
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1727,115 +1695,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Together AI",
-  "title": "Research Intern, Frontier Agents (Summer 2027)  [Summer 2027 ✓]",
-  "loc": "San Francisco, CA",
-  "etype": "Internship",
-  "pub": "2026-11-01",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-frontier-agents-summer-2027-at-together-ai-4467896948",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Agentic Data Memory",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-data-memory-at-microsoft-4479529037",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Mercedes-Benz Research & Development North America, Inc.",
-  "title": "AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents",
-  "loc": "San Jose, CA",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/ai-ml-intern-long-term-memory-multimodal-slms-for-automotive-agents-at-mercedes-benz-research-development-north-america-inc-4487538929",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Agentic Graph Learning",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-graph-learning-at-microsoft-4478792783",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Eluvio",
-  "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
-  "loc": "Berkeley, CA",
+  "company": "Toyota Research Institute",
+  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
+  "loc": "Los Altos, CA",
   "etype": "Internship",
   "pub": "2026-11-05",
-  "url": "https://www.linkedin.com/jobs/view/last-minute-ai-machine-learning-summer-internship-gen-ai-multimodal-at-eluvio-4488030782",
+  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-05",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-interactive-multimodal-futures-group-situated-social-ubiquitous-computing-at-microsoft-4479822729",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "NVIDIA",
-  "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027  [Summer 2027 ✓]",
-  "loc": "Santa Clara, CA",
-  "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-2027-at-nvidia-4476874075",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff",
-   "rl"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1858,33 +1728,34 @@
  },
  {
   "src": "linkedin",
-  "company": "HoYoverse",
-  "title": "Research Scientist Intern - Video Generation",
-  "loc": "Mountain View, CA",
+  "company": "Mercedes-Benz Research & Development North America, Inc.",
+  "title": "AI/ML Intern, Long-Term Memory & Multimodal SLMs for Automotive Agents",
+  "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-11-06",
-  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-hoyoverse-4486972902",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/ai-ml-intern-long-term-memory-multimodal-slms-for-automotive-agents-at-mercedes-benz-research-development-north-america-inc-4487538929",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff"
+   "llm",
+   "agent"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
-  "loc": "Los Altos, CA",
+  "company": "Eluvio",
+  "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
+  "loc": "Berkeley, CA",
   "etype": "Internship",
   "pub": "2026-11-05",
-  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
+  "url": "https://www.linkedin.com/jobs/view/last-minute-ai-machine-learning-summer-internship-gen-ai-multimodal-at-eluvio-4488030782",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1971,22 +1842,6 @@
  },
  {
   "src": "linkedin",
-  "company": "SPX Technologies",
-  "title": "Software Engineering Generative AI Intern",
-  "loc": "Elk Grove Village, IL",
-  "etype": "Internship",
-  "pub": "2026-11-06",
-  "url": "https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "GE Vernova",
   "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
   "loc": "Bellevue, WA",
@@ -2003,12 +1858,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Armadin",
-  "title": "Summer 2027 Internship - Member of Technical Staff - Agent Systems  [Summer 2027 ✓]",
-  "loc": "Palo Alto, CA",
+  "company": "Lila Sciences",
+  "title": "Co-op, Agentic and Generative Protein Design",
+  "loc": "Cambridge, MA",
   "etype": "Internship",
-  "pub": "2026-10-31",
-  "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-systems-at-armadin-4470941038",
+  "pub": "2026-11-02",
+  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -2019,12 +1874,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Lila Sciences",
-  "title": "Co-op, Agentic and Generative Protein Design",
-  "loc": "Cambridge, MA",
+  "company": "Microsoft",
+  "title": "Research Intern - Agentic Graph Learning",
+  "loc": "Redmond, WA",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541",
+  "pub": "2026-11-03",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-graph-learning-at-microsoft-4478792783",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -2051,17 +1906,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Human-Centered AI Research Intern, Human Language Models",
-  "loc": "Los Altos, CA",
+  "company": "Microsoft",
+  "title": "Research Intern - Agentic Data Memory",
+  "loc": "Redmond, WA",
   "etype": "Internship",
   "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-human-language-models-at-toyota-research-institute-4487548381",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-data-memory-at-microsoft-4479529037",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  }

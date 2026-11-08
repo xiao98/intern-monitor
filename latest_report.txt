@@ -1,34 +1,11 @@
-实习监控 2026-11-07 · 新增 10 · 当前在挂命中 126 · 显示 10
+实习监控 2026-11-08 · 新增 2 · 当前在挂命中 117 · 显示 2
 
-🇫🇷 FRANCE  (4)
-[A] llm · Capital Fund Management (CFM) — Internship - Time Series Foundation Models for Forecasting  (Paris, Île-de-France, France · 发布 2026-11-06 · [linkedin])
-    https://fr.linkedin.com/jobs/view/internship-time-series-foundation-models-for-forecasting-at-capital-fund-management-cfm-4486237794
-[A] agent · CLS Group (Collecte Localisation Satellites) — Stage - Agents pour l'observation de la Terre - H/F  (Ramonville-Saint-Agne, Occitanie, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-agents-pour-l-observation-de-la-terre-h-f-at-cls-group-collecte-localisation-satellites-4486896911
-[A] llm/agent · Dassault Systèmes — STAGE – Ingénieur IA – Génération Agentique Multimodale (F/H)  (Paris, Île-de-France, France · 发布 2026-11-07 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-%E2%80%93-g%C3%A9n%C3%A9ration-agentique-multimodale-f-h-at-dassault-syst%C3%A8mes-4488464405
-[B] diff/llm · mistral.ai — AI Scientist Intern - (Internship, Masters or Phd)  (Paris, Zurich, Warsaw, London, Remote · 发布 2026-11-06 · [ashby])
-    https://jobs.ashbyhq.com/mistral.ai/f7245b49-92a0-4111-bba1-343183de7d97
-
-🇪🇺 EUROPE  (2)
-[A] agent · sierra — Software Engineer Intern, Agent (London 2027)  (London · 发布 2026-10-20 · [ashby])
-    起始线索: …The intern program is open to students graduating December 2027 - June 2028…
-    https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff
-[B] llm · perplexity — Internship - Machine Learning Research Engineer  (Berlin, Remote · 发布 2026-09-02 · [ashby])
-    https://jobs.ashbyhq.com/Perplexity/b9e1ff15-d52a-46d5-abf0-26460f2a116c
-
-🇺🇸 USA  (4)
-[A] agent · sierra — Software Engineer Intern, Agent (Summer 2027) [Summer 2027 ✓]  (San Francisco, CA, New York, NY · 发布 2026-08-31 · [ashby])
-    起始线索: …The intern program is open to students graduating December 2027 - June 2028…
-    https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e
-[A] diff/rl · waymo — 2027 Summer Intern, Machine Learning, MS/PhD, Simulation Realism (World Model) [Summer 2027 ✓]  (Mountain View, California, United States, Mountain View (US- · 发布 2026-11-06 · [greenhouse])
-    https://careers.withwaymo.com/jobs?gh_jid=8358262
-[B] llm/agent · etched — IA Research Engineer Intern  (San Jose · 发布 2026-11-04 · [ashby])
-    起始线索: …We are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build th…
-    https://jobs.ashbyhq.com/Etched/05d67dff-a7a4-4ece-a809-3200d95e7440
-[B] llm · SPX Technologies — Software Engineering Generative AI Intern  (Elk Grove Village, IL · 发布 2026-11-06 · [linkedin])
-    https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805
+🇫🇷 FRANCE  (2)
+[A] agent · Dassault Systèmes — STAGE - Ingénieur IA - Assistants et Plateforme Agentique (F/H)  (Paris, Île-de-France, France · 发布 2026-11-04 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746
+[A] agent · STATION F — STAGE AI AGENT OPS  (Paris, Île-de-France, France · 发布 2026-11-08 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4487635143
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
