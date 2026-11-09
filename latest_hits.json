@@ -930,22 +930,6 @@
  {
   "src": "apple",
   "company": "Apple",
-  "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
-  "loc": "Paris, France",
-  "etype": "Intern",
-  "pub": "2026-10-17",
-  "url": "https://jobs.apple.com/en-us/details/200689695-2911",
-  "desc": "AI agents have reached the point where they find real vulnerabilities in software. How well they do depends heavily on the harness around the model: its tools, scaffolding, model choice, memory, and orchestration. Hand-tuning these harnesses does not scale, and agents that improve their own harnesses are still largely unexplored especially for security-related tasks. In this role, you will contribute to this effort: building on existing work towards creating agents and methods that design, evaluate, and improve their own harness.\nApple's Security Engineering & Architecture organization is responsible for the security of every Apple product. AI is rapidly changing how cybersecurity work gets done. When it comes to securing more than a billion devices running the world's most sophisticated operating systems, that means ensuring that we make full use of AI's capabilities while maintaining high-quality standards. This internship focuses on developing methods for automatically improving AI agents for security tasks.\nDuring this internship, you will work with some of the best security researchers in the world to apply AI to real-world security problems and to develop new AI methods. We are looking for students in AI/ML with an interest in agentic AI who want to take on the hard, open problems that cybersecurity offers. No prior experience in cybersecurity is required. Security tasks are a distinctive setting for agentic self-improvement. (a) Success is highly verifiable but rare. (b) The search space is vast and the horizons are extremely long. (c) They are grounded in real-life codebases that constantly evolve. These properties make security both a demanding test and a rich source of signal for continuously improving agents automatically. While base models provide the basis of an agent's capability, the harness around them has a large effect on many of the required attributes.\n\nThe goal of this internship is to experiment with new self-improvement methods on real-world security problems. You will study how to automatically improve harnesses on cost, performance, robustness, and how to feed-in signals from the software development lifecycle into that process. Novel ideas will be required to tackle these challenges. Code and the agent's environment constantly evolve: fixes for past issues may not lead to future ones, and the harness must keep evolving. Because agents are non-deterministic and successes are sparse, telling signal from noise is both critical and hard. Solving these challenges calls for novel techniques that draw on state-of-the-art LLM research, active learning, black-box optimization, software engineering practice, and program analysis. Currently doing a degree in one of the following fields: machine learning, AI, software engineering, computer science, security, or a related field.\nExperience building, experimenting with, and evaluating agentic AI systems (e.g., with LangChain, LangGraph, OpenHands SDK, Pi).\nStrong software engineering skills in Python, and experience with agentic coding.\nAutonomous drive, a collaborative mindset, and a proactive approach to problem-solving.",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "apple",
-  "company": "Apple",
   "title": "Internship - Machine Learning Research",
   "loc": "Paris, France",
   "etype": "Intern",
@@ -1013,23 +997,6 @@
  {
   "src": "watch",
   "company": "CEA",
-  "title": "2026-41444 - STAGE - Utilisation d'agents IA pour automatiser des calculs Monte Carlo H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41444&idOrigine=502&LCID=1036&offerReference=2026-41444",
-  "desc": "<b>Domaine : </b>Instrumentation, métrologie et contrôle<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nVous serez accueilli·e au sein de l’IRESNE, institut de la DES, où vous intégrerez l’équipe du laboratoire et participerez pleinement à ses activités.\r\n\r\nParticipez vous aussi à des projets qui dessineront le monde de demain !\r\n\r\nLes codes de simulation utilisent la méthode Monte Carlo qui reproduit numériquement les aléas subis par les particules lorsqu’elles interagissent avec la matière les environnant.\r\n\r\nTypiquement, étant donnée une source de particules (source radioactive, générateur de neutron, accélérateur de particules, …) et son environnement (murs, sol, blindages, …) on cherche par exemple à déterminer la réponse d’un détecteur à ces particules. Optimiser les dimensions, la position ou la nature d’un détecteur requiert de nombreuses itérations de calculs [1] qui sont chronophages, car il faut modifier les paramètres un à un et relancer à chaque fois les simulations. L’utilisation d’un agent IA permettrait d’automatiser ces étapes. De la même façon, on peut aussi vouloir optimiser des épaisseurs et natures de matériaux pour minimiser le bruit de fond associé à des sources radioactives parasites [2], ou construire des méta-modèles à partir d’un grand nombre de simulations comportant plusieurs paramètres à faire varier, pour faire du Machine Learning [3]. Ces tâches seront soumises à l’agent IA en utilisant le langage naturel.\r\n\r\nLe stage consistera à prendre en main un code en open source [4] et à l’adapter aux besoins du laboratoire afin de tester ses performances, notamment pour l’automatisation des tâches.\r\n\r\nDans un premier temps, le travail du stagiaire consistera à reproduire les exemples décrits dans la publication de référence [4], en testant éventuellement l’impact de différents LLM.\r\n\r\nEnsuite, le package devra être adapté pour pouvoir être utilisé avec un code de calcul Monté Carlo différent de celui présenté dans la publication de référence.\r\n\r\nEnfin, les performances de l’agent seront évaluées sur des cas tests représentatifs de certaines tâches effectuées au LMN.\r\n\r\nL’agent fonctionnera en local avec un supercalculateur d’IA de bureau, donc sans aucune connexion à internet, en utilisant une LLM disponible en open source qui aura été préalablement téléchargée et installée dans le supercalculateur.\r\n\r\n[1] https://theses.hal.science/tel-02366534v1 (§ II.6.2.1)\r\n\r\n[2] https://doi.org/10.1007/s10967-016-4816-3\r\n\r\n[3] https://doi.org/10.1109/TNS.2024.3351275\r\n\r\n[4] https://doi.org/10.1016/j.egyai.2025.100555\r\n\r\n« Conformément aux engagements pris par le CEA en faveur de l'intégration des personnes handicapées, cet emploi est ouvert à toutes et à tous. Le CEA propose des aménagements et/ou des possibilités d'organisation pour l’inclusion des travailleurs handicapés »<br /><br />\r\nLe stage s’adresse à un(e) étudiant(e) de niveau Master 2 d'informatique ou en dernière année d’école d’ingénieur mettant ",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
   "title": "2026-41932 - Stage KV Cache design for efficient transformer deployment in edge systems-Saclay-H/F",
   "loc": "France",
   "etype": "",
@@ -1041,6 +1008,23 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "watch",
+  "company": "CEA",
+  "title": "2026-41444 - STAGE - Utilisation d'agents IA pour automatiser des calculs Monte Carlo H/F",
+  "loc": "France",
+  "etype": "",
+  "pub": "",
+  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41444&idOrigine=502&LCID=1036&offerReference=2026-41444",
+  "desc": "<b>Domaine : </b>Instrumentation, métrologie et contrôle<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nVous serez accueilli·e au sein de l’IRESNE, institut de la DES, où vous intégrerez l’équipe du laboratoire et participerez pleinement à ses activités.\r\n\r\nParticipez vous aussi à des projets qui dessineront le monde de demain !\r\n\r\nLes codes de simulation utilisent la méthode Monte Carlo qui reproduit numériquement les aléas subis par les particules lorsqu’elles interagissent avec la matière les environnant.\r\n\r\nTypiquement, étant donnée une source de particules (source radioactive, générateur de neutron, accélérateur de particules, …) et son environnement (murs, sol, blindages, …) on cherche par exemple à déterminer la réponse d’un détecteur à ces particules. Optimiser les dimensions, la position ou la nature d’un détecteur requiert de nombreuses itérations de calculs [1] qui sont chronophages, car il faut modifier les paramètres un à un et relancer à chaque fois les simulations. L’utilisation d’un agent IA permettrait d’automatiser ces étapes. De la même façon, on peut aussi vouloir optimiser des épaisseurs et natures de matériaux pour minimiser le bruit de fond associé à des sources radioactives parasites [2], ou construire des méta-modèles à partir d’un grand nombre de simulations comportant plusieurs paramètres à faire varier, pour faire du Machine Learning [3]. Ces tâches seront soumises à l’agent IA en utilisant le langage naturel.\r\n\r\nLe stage consistera à prendre en main un code en open source [4] et à l’adapter aux besoins du laboratoire afin de tester ses performances, notamment pour l’automatisation des tâches.\r\n\r\nDans un premier temps, le travail du stagiaire consistera à reproduire les exemples décrits dans la publication de référence [4], en testant éventuellement l’impact de différents LLM.\r\n\r\nEnsuite, le package devra être adapté pour pouvoir être utilisé avec un code de calcul Monté Carlo différent de celui présenté dans la publication de référence.\r\n\r\nEnfin, les performances de l’agent seront évaluées sur des cas tests représentatifs de certaines tâches effectuées au LMN.\r\n\r\nL’agent fonctionnera en local avec un supercalculateur d’IA de bureau, donc sans aucune connexion à internet, en utilisant une LLM disponible en open source qui aura été préalablement téléchargée et installée dans le supercalculateur.\r\n\r\n[1] https://theses.hal.science/tel-02366534v1 (§ II.6.2.1)\r\n\r\n[2] https://doi.org/10.1007/s10967-016-4816-3\r\n\r\n[3] https://doi.org/10.1109/TNS.2024.3351275\r\n\r\n[4] https://doi.org/10.1016/j.egyai.2025.100555\r\n\r\n« Conformément aux engagements pris par le CEA en faveur de l'intégration des personnes handicapées, cet emploi est ouvert à toutes et à tous. Le CEA propose des aménagements et/ou des possibilités d'organisation pour l’inclusion des travailleurs handicapés »<br /><br />\r\nLe stage s’adresse à un(e) étudiant(e) de niveau Master 2 d'informatique ou en dernière année d’école d’ingénieur mettant ",
+  "note": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1165,6 +1149,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Equancy | Groupe EDG",
+  "title": "Stage AI Engineer – IA générative & agentique – Paris – 1 500 €/mois | 6 mois",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-09",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-engineer-%E2%80%93-ia-g%C3%A9n%C3%A9rative-agentique-%E2%80%93-paris-%E2%80%93-1-500-%E2%82%AC-mois-6-mois-at-equancy-%C2%A0groupe-edg-4488831574",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Stellantis",
   "title": "Stage : Fine-tuning de modèles de langage pour la description automatique de flow charts",
   "loc": "Poissy, Île-de-France, France",
@@ -1229,17 +1229,33 @@
  },
  {
   "src": "linkedin",
-  "company": "ChapsVision",
-  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Qwokka",
+  "title": "Stage AI Ops & Agents IA (Support Client)",
+  "loc": "Greater Paris Metropolitan Region",
   "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "pub": "2026-11-03",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4486849777",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Jimini AI",
+  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-02",
+  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1341,12 +1357,12 @@
  },
  {
   "src": "linkedin",
-  "company": "STATION F",
-  "title": "STAGE AI AGENT OPS",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Gerflor",
+  "title": "STAGIAIRE DEPLOIEMENT DES AGENTS IA F/H",
+  "loc": "Tarare, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-08",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4487635143",
+  "pub": "2026-11-09",
+  "url": "https://fr.linkedin.com/jobs/view/stagiaire-deploiement-des-agents-ia-f-h-at-gerflor-4488846749",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1567,6 +1583,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Quobly",
+  "title": "Generative AI Internship for Scientific Data",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-09",
+  "url": "https://fr.linkedin.com/jobs/view/generative-ai-internship-for-scientific-data-at-quobly-4477304391",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "SAP",
   "title": "Internship: Research Associate - Privacy-Aware Oversight for Enterprise AI Agents - M/F",
   "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
@@ -1599,14 +1631,14 @@
  },
  {
   "src": "linkedin",
-  "company": "Quobly",
-  "title": "Stage IA générative pour données scientifiques",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "MBDA",
+  "title": "Stage Traitement d'Images : Recalage d'images multimodales par Deep Learning F/H",
+  "loc": "Le Plessis-Robinson, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-06",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-pour-donn%C3%A9es-scientifiques-at-quobly-4477092817",
+  "pub": "2026-11-08",
+  "url": "https://fr.linkedin.com/jobs/view/stage-traitement-d-images-recalage-d-images-multimodales-par-deep-learning-f-h-at-mbda-4472091355",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1631,22 +1663,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur·e R&D en IA agentique (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-07",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur%C2%B7e-r-d-en-ia-agentique-f-h-at-dassault-syst%C3%A8mes-4480535303",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "TotalEnergies",
   "title": "STAGE - Benchmark et évaluation des modèles d'IA générative pour les Géosciences H/F",
   "loc": "Pau, Nouvelle-Aquitaine, France",
@@ -1663,17 +1679,49 @@
  },
  {
   "src": "linkedin",
-  "company": "Jimini AI",
-  "title": "AI Engineer, LLM (Stagiaire, Alternant)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "PwC France",
+  "title": "Stage - PPO - Janvier 2027 - F/H",
+  "loc": "Neuilly-sur-Seine, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4485742973",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ppo-janvier-2027-f-h-at-pwc-france-4479074651",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur·e R&D en IA agentique (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-07",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur%C2%B7e-r-d-en-ia-agentique-f-h-at-dassault-syst%C3%A8mes-4480535303",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ChapsVision",
+  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1695,34 +1743,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
-  "loc": "Los Altos, CA",
+  "company": "Microsoft",
+  "title": "Research Intern - Agentic Data Memory",
+  "loc": "Redmond, WA",
   "etype": "Internship",
-  "pub": "2026-11-05",
-  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-data-memory-at-microsoft-4479529037",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Human Interactive Driving Research Intern, World Models",
-  "loc": "Los Altos, CA",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/human-interactive-driving-research-intern-world-models-at-toyota-research-institute-4427062296",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff",
-   "rl"
   ],
   "start_hint": ""
  },
@@ -1745,6 +1776,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Microsoft",
+  "title": "Research Intern - Agentic Graph Learning",
+  "loc": "Redmond, WA",
+  "etype": "Internship",
+  "pub": "2026-11-03",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-graph-learning-at-microsoft-4478792783",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Eluvio",
   "title": "Last Minute AI-Machine Learning Summer Internship (Gen AI - Multimodal)",
   "loc": "Berkeley, CA",
@@ -1756,6 +1803,103 @@
   "geo": "US",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Mitsubishi Electric Research Laboratories",
+  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
+  "loc": "Cambridge, MA",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Microsoft",
+  "title": "Research Intern - Interactive Multimodal Futures Group (Situated, Social & Ubiquitous Computing)",
+  "loc": "Redmond, WA",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-interactive-multimodal-futures-group-situated-social-ubiquitous-computing-at-microsoft-4479822729",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Human Interactive Driving Research Intern, World Models",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/human-interactive-driving-research-intern-world-models-at-toyota-research-institute-4427062296",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "HoYoverse",
+  "title": "Research Scientist Intern - Video Generation",
+  "loc": "Mountain View, CA",
+  "etype": "Internship",
+  "pub": "2026-11-06",
+  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-hoyoverse-4486972902",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Samsung Research America (SRA)",
+  "title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
+  "loc": "Plano, TX",
+  "etype": "Internship",
+  "pub": "2026-11-04",
+  "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-11-05",
+  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1842,6 +1986,22 @@
  },
  {
   "src": "linkedin",
+  "company": "SPX Technologies",
+  "title": "Software Engineering Generative AI Intern",
+  "loc": "Elk Grove Village, IL",
+  "etype": "Internship",
+  "pub": "2026-11-06",
+  "url": "https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "GE Vernova",
   "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
   "loc": "Bellevue, WA",
@@ -1858,65 +2018,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Lila Sciences",
-  "title": "Co-op, Agentic and Generative Protein Design",
-  "loc": "Cambridge, MA",
-  "etype": "Internship",
-  "pub": "2026-11-02",
-  "url": "https://www.linkedin.com/jobs/view/co-op-agentic-and-generative-protein-design-at-lila-sciences-4486170541",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Agentic Graph Learning",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-03",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-graph-learning-at-microsoft-4478792783",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Mitsubishi Electric Research Laboratories",
-  "title": "Internship - Generative Modeling, Inference, and Uncertainty Quantification",
-  "loc": "Cambridge, MA",
+  "company": "Toyota Research Institute",
+  "title": "Human-Centered AI Research Intern, Human Language Models",
+  "loc": "Los Altos, CA",
   "etype": "Internship",
   "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/internship-generative-modeling-inference-and-uncertainty-quantification-at-mitsubishi-electric-research-laboratories-4486538089",
+  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-human-language-models-at-toyota-research-institute-4487548381",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Agentic Data Memory",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-04",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-data-memory-at-microsoft-4479529037",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  }

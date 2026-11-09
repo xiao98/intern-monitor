@@ -1,11 +1,11 @@
-实习监控 2026-11-08 · 新增 2 · 当前在挂命中 117 · 显示 2
+实习监控 2026-11-09 · 新增 2 · 当前在挂命中 124 · 显示 2
 
 🇫🇷 FRANCE  (2)
-[A] agent · Dassault Systèmes — STAGE - Ingénieur IA - Assistants et Plateforme Agentique (F/H)  (Paris, Île-de-France, France · 发布 2026-11-04 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746
-[A] agent · STATION F — STAGE AI AGENT OPS  (Paris, Île-de-France, France · 发布 2026-11-08 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ai-agent-ops-at-station-f-4487635143
+[A] agent · Equancy | Groupe EDG — Stage AI Engineer – IA générative & agentique – Paris – 1 500 €/mois | 6 mois  (Paris, Île-de-France, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ai-engineer-%E2%80%93-ia-g%C3%A9n%C3%A9rative-agentique-%E2%80%93-paris-%E2%80%93-1-500-%E2%82%AC-mois-6-mois-at-equancy-%C2%A0groupe-edg-4488831574
+[A] agent · Gerflor — STAGIAIRE DEPLOIEMENT DES AGENTS IA F/H  (Tarare, Auvergne-Rhône-Alpes, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-deploiement-des-agents-ia-f-h-at-gerflor-4488846749
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
