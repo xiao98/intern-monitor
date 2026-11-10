@@ -1,11 +1,31 @@
-实习监控 2026-11-09 · 新增 2 · 当前在挂命中 124 · 显示 2
+实习监控 2026-11-10 · 新增 11 · 当前在挂命中 122 · 显示 11
 
-🇫🇷 FRANCE  (2)
-[A] agent · Equancy | Groupe EDG — Stage AI Engineer – IA générative & agentique – Paris – 1 500 €/mois | 6 mois  (Paris, Île-de-France, France · 发布 2026-11-09 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ai-engineer-%E2%80%93-ia-g%C3%A9n%C3%A9rative-agentique-%E2%80%93-paris-%E2%80%93-1-500-%E2%82%AC-mois-6-mois-at-equancy-%C2%A0groupe-edg-4488831574
-[A] agent · Gerflor — STAGIAIRE DEPLOIEMENT DES AGENTS IA F/H  (Tarare, Auvergne-Rhône-Alpes, France · 发布 2026-11-09 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-deploiement-des-agents-ia-f-h-at-gerflor-4488846749
+🇫🇷 FRANCE  (8)
+[A] agent · AMIAD - French Agency for AI in Defence — Stage de 6 mois - Architectures de systèmes multi-agents pour l’IA agentique long horizon  (Bruz, Brittany, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-de-6-mois-architectures-de-syst%C3%A8mes-multi-agents-pour-l%E2%80%99ia-agentique-long-horizon-at-amiad-french-agency-for-ai-in-defence-4489474270
+[A] agent · AMIAD - French Agency for AI in Defence — Stage de 6 mois - Optimisation des performances d’un système multi-agents  (Bruz, Brittany, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-de-6-mois-optimisation-des-performances-d%E2%80%99un-syst%C3%A8me-multi-agents-at-amiad-french-agency-for-ai-in-defence-4489463704
+[A] rl · CS GROUP — Stage Ingénieur/e IA – Reinforcement Learning - Défense & Sécurité - Aix-en-Provence  (Aix-en-Provence, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-%E2%80%93-reinforcement-learning-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4489450393
+[A] agent · DEEP — Stage - Ingénieur IA agentique (H/F)  (Levallois-Perret, Île-de-France, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-h-f-at-deep-4487157672
+[A] agent · EDF — STAGE M2 IA GENERATIVE : ÉVALUATION FIABLE DES SYSTEMES RAG EN PRODUCTION ET AGENTS AUTONOMES F/H  (Palaiseau, Île-de-France, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-%C3%A9valuation-fiable-des-systemes-rag-en-production-et-agents-autonomes-f-h-at-edf-4489415171
+[A] agent · Gerflor — STAGIAIRE REALISATION ET DEPLOIEMENT DES AGENTS IA F/H  (Tarare, Auvergne-Rhône-Alpes, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-realisation-et-deploiement-des-agents-ia-f-h-at-gerflor-4488846749
+[A] agent · Siemens Digital Industries Software — Stage - Agentic AI & Virtual Validation Workflow for Automotive Electronics f/m - Strategic Student Program  (Toulouse, Occitanie, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-agentic-ai-virtual-validation-workflow-for-automotive-electronics-f-m-strategic-student-program-at-siemens-digital-industries-software-4489414402
+[C] agent · Groupe SII — Stage IA & Data - Développement Multi-Agents (F/H)  (Nantes, Pays de la Loire, France · 发布 2026-11-03 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ia-data-d%C3%A9veloppement-multi-agents-f-h-at-groupe-sii-4487007748
+
+🇺🇸 USA  (3)
+[A] agent · Artmac — Agentic AI Engineering Intern  (Prosper, TX · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/agentic-ai-engineering-intern-at-artmac-4489459655
+[A] llm/agent · Maxinsights — Machine Learning Engineer Intern - Video Foundation Models & Agentic AI  (Santa Clara, CA · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-video-foundation-models-agentic-ai-at-maxinsights-4489194978
+[B] llm/agent · tri — Robotics Intern, Human-Machine Interaction Research  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
+    https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1

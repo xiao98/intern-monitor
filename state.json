@@ -9868,5 +9868,82 @@
 "company": "Gerflor",
 "geo": "FR",
 "tier": "A"
+},
+"https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047": {
+"first_seen": "2026-11-10",
+"title": "Robotics Intern, Human-Machine Interaction Research",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-h-f-at-deep-4487157672": {
+"first_seen": "2026-11-10",
+"title": "Stage - Ingénieur IA agentique (H/F)",
+"company": "DEEP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-%C3%A9valuation-fiable-des-systemes-rag-en-production-et-agents-autonomes-f-h-at-edf-4489415171": {
+"first_seen": "2026-11-10",
+"title": "STAGE M2 IA GENERATIVE : ÉVALUATION FIABLE DES SYSTEMES RAG EN PRODUCTION ET AGENTS AUTONOMES F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-realisation-et-deploiement-des-agents-ia-f-h-at-gerflor-4488846749": {
+"first_seen": "2026-11-10",
+"title": "STAGIAIRE REALISATION ET DEPLOIEMENT DES AGENTS IA F/H",
+"company": "Gerflor",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-6-mois-optimisation-des-performances-d%E2%80%99un-syst%C3%A8me-multi-agents-at-amiad-french-agency-for-ai-in-defence-4489463704": {
+"first_seen": "2026-11-10",
+"title": "Stage de 6 mois - Optimisation des performances d’un système multi-agents",
+"company": "AMIAD - French Agency for AI in Defence",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-6-mois-architectures-de-syst%C3%A8mes-multi-agents-pour-l%E2%80%99ia-agentique-long-horizon-at-amiad-french-agency-for-ai-in-defence-4489474270": {
+"first_seen": "2026-11-10",
+"title": "Stage de 6 mois - Architectures de systèmes multi-agents pour l’IA agentique long horizon",
+"company": "AMIAD - French Agency for AI in Defence",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-%E2%80%93-reinforcement-learning-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4489450393": {
+"first_seen": "2026-11-10",
+"title": "Stage Ingénieur/e IA – Reinforcement Learning - Défense & Sécurité - Aix-en-Provence",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-agentic-ai-virtual-validation-workflow-for-automotive-electronics-f-m-strategic-student-program-at-siemens-digital-industries-software-4489414402": {
+"first_seen": "2026-11-10",
+"title": "Stage - Agentic AI & Virtual Validation Workflow for Automotive Electronics f/m - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-data-d%C3%A9veloppement-multi-agents-f-h-at-groupe-sii-4487007748": {
+"first_seen": "2026-11-10",
+"title": "Stage IA & Data - Développement Multi-Agents (F/H)",
+"company": "Groupe SII",
+"geo": "FR",
+"tier": "C"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-engineering-intern-at-artmac-4489459655": {
+"first_seen": "2026-11-10",
+"title": "Agentic AI Engineering Intern",
+"company": "Artmac",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-video-foundation-models-agentic-ai-at-maxinsights-4489194978": {
+"first_seen": "2026-11-10",
+"title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
+"company": "Maxinsights",
+"geo": "US",
+"tier": "A"
 }
 }
