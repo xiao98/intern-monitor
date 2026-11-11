@@ -1,31 +1,38 @@
-实习监控 2026-11-10 · 新增 11 · 当前在挂命中 122 · 显示 11
+实习监控 2026-11-11 · 新增 14 · 当前在挂命中 120 · 显示 14
 
-🇫🇷 FRANCE  (8)
-[A] agent · AMIAD - French Agency for AI in Defence — Stage de 6 mois - Architectures de systèmes multi-agents pour l’IA agentique long horizon  (Bruz, Brittany, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-6-mois-architectures-de-syst%C3%A8mes-multi-agents-pour-l%E2%80%99ia-agentique-long-horizon-at-amiad-french-agency-for-ai-in-defence-4489474270
-[A] agent · AMIAD - French Agency for AI in Defence — Stage de 6 mois - Optimisation des performances d’un système multi-agents  (Bruz, Brittany, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-6-mois-optimisation-des-performances-d%E2%80%99un-syst%C3%A8me-multi-agents-at-amiad-french-agency-for-ai-in-defence-4489463704
-[A] rl · CS GROUP — Stage Ingénieur/e IA – Reinforcement Learning - Défense & Sécurité - Aix-en-Provence  (Aix-en-Provence, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-%E2%80%93-reinforcement-learning-d%C3%A9fense-s%C3%A9curit%C3%A9-aix-en-provence-at-cs-group-4489450393
-[A] agent · DEEP — Stage - Ingénieur IA agentique (H/F)  (Levallois-Perret, Île-de-France, France · 发布 2026-11-09 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-agentique-h-f-at-deep-4487157672
-[A] agent · EDF — STAGE M2 IA GENERATIVE : ÉVALUATION FIABLE DES SYSTEMES RAG EN PRODUCTION ET AGENTS AUTONOMES F/H  (Palaiseau, Île-de-France, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-%C3%A9valuation-fiable-des-systemes-rag-en-production-et-agents-autonomes-f-h-at-edf-4489415171
-[A] agent · Gerflor — STAGIAIRE REALISATION ET DEPLOIEMENT DES AGENTS IA F/H  (Tarare, Auvergne-Rhône-Alpes, France · 发布 2026-11-09 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-realisation-et-deploiement-des-agents-ia-f-h-at-gerflor-4488846749
-[A] agent · Siemens Digital Industries Software — Stage - Agentic AI & Virtual Validation Workflow for Automotive Electronics f/m - Strategic Student Program  (Toulouse, Occitanie, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-agentic-ai-virtual-validation-workflow-for-automotive-electronics-f-m-strategic-student-program-at-siemens-digital-industries-software-4489414402
-[C] agent · Groupe SII — Stage IA & Data - Développement Multi-Agents (F/H)  (Nantes, Pays de la Loire, France · 发布 2026-11-03 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-data-d%C3%A9veloppement-multi-agents-f-h-at-groupe-sii-4487007748
+🇫🇷 FRANCE  (5)
+[A] llm · Réseau de Transport d'Électricité — Stage - Chargé d’étude R&D - amélioration d’une architecture Transformer pour l’exploitation des réseaux électriques F/H  (Paris-l’Hôpital, Bourgogne-Franche-Comté, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-d%E2%80%99%C3%A9tude-r-d-am%C3%A9lioration-d%E2%80%99une-architecture-transformer-pour-l%E2%80%99exploitation-des-r%C3%A9seaux-%C3%A9lectriques-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4487681609
+[A] agent · SILAMIR GROUP — Stagiaire Data IA / Agentique – Stage de 4 à 6 mois basé à Paris  (Paris, Île-de-France, France · 发布 2026-11-11 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-data-ia-agentique-%E2%80%93-stage-de-4-%C3%A0-6-mois-bas%C3%A9-%C3%A0-paris-at-silamir-group-4488648642
+[A] agent · STMicroelectronics France — STAGE - Création d’un agent IA pour les flots de conception numérique et analogique - F/H  (Crolles, Auvergne-Rhône-Alpes, France · 发布 2026-11-09 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-cr%C3%A9ation-d%E2%80%99un-agent-ia-pour-les-flots-de-conception-num%C3%A9rique-et-analogique-f-h-at-stmicroelectronics-france-4489122396
+[C] agent · Accenture France — Stage - Ingénieur Digital Foundations – Cloud, Software Engineering & Agentic AI  (Paris, Île-de-France, France · 发布 2026-11-10 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-digital-foundations-%E2%80%93-cloud-software-engineering-agentic-ai-at-accenture-france-4487857490
+[C] agent · Sopra Steria — Stage - Conception et Déploiement d’Agents IA - Infrastructure - Rennes  (Cesson-Sévigné, Brittany, France · 发布 2026-11-06 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-conception-et-d%C3%A9ploiement-d%E2%80%99agents-ia-infrastructure-rennes-at-sopra-steria-4488125984
 
-🇺🇸 USA  (3)
-[A] agent · Artmac — Agentic AI Engineering Intern  (Prosper, TX · 发布 2026-11-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/agentic-ai-engineering-intern-at-artmac-4489459655
-[A] llm/agent · Maxinsights — Machine Learning Engineer Intern - Video Foundation Models & Agentic AI  (Santa Clara, CA · 发布 2026-11-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-video-foundation-models-agentic-ai-at-maxinsights-4489194978
-[B] llm/agent · tri — Robotics Intern, Human-Machine Interaction Research  (Los Altos, CA, US, hybrid · 发布 2026-10-29 · [lever])
-    https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047
+🇺🇸 USA  (9)
+[A] diff · Game Companies — Research Scientist Intern - Video Generation  (Mountain View, CA · 发布 2026-11-06 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-game-companies-4489671711
+[A] agent · Jabil — AI Agent Developer Intern (Supply Chain IT - AI & Enablement)  (St. Petersburg, FL · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-agent-developer-intern-supply-chain-it-ai-enablement-at-jabil-4488378729
+[A] agent · Microsoft — Research Intern - Next-Generation AI Agents  (Redmond, WA · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-next-generation-ai-agents-at-microsoft-4489601251
+[A] agent · TikTok — Software Engineer Intern (TikTok-Agentic Creation-Effect Platform) - 2027 Summer [Summer 2027 ✓]  (San Jose, CA · 发布 2026-11-11 · [linkedin])
+    https://www.linkedin.com/jobs/view/software-engineer-intern-tiktok-agentic-creation-effect-platform-2027-summer-at-tiktok-4447905377
+[A] llm · Toyota Research Institute — Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) [Summer 2027 ✓]  (Los Altos, CA · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-causal-reasoning-models-summer-2027-at-toyota-research-institute-4489642321
+[A] llm · tri — Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027) [Summer 2027 ✓]  (Los Altos, CA, US, hybrid · 发布 2026-11-10 · [lever])
+    起始线索: …This is a Summer 2027 paid 12-week internship opportunity…
+    https://jobs.lever.co/tri/be41a03c-460e-4ff7-b817-f012aa1c4b37
+[A] agent · William Blair — Working in Technology (WiT) - Agentic AI Development- Summer 2027 [Summer 2027 ✓]  (Chicago, IL · 发布 2026-11-04 · [linkedin])
+    https://www.linkedin.com/jobs/view/working-in-technology-wit-agentic-ai-development-summer-2027-at-william-blair-4468931734
+[B] llm · NVIDIA — AI Operations Intern, AI Clouds - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-10 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1
+[B] llm/agent · tri — Automated Driving Advanced Development Intern, Machine Learning Research  (Los Altos, CA, US, hybrid · 发布 2026-11-09 · [lever])
+    https://jobs.lever.co/tri/9c48b236-e6ad-4b97-9380-c675e5432415
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
