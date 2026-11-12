@@ -10043,5 +10043,19 @@
 "company": "Toyota Research Institute",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ia-agent-pour-v%C3%A9rification-de-3d-design-f-h-at-technip-energies-4488396868": {
+"first_seen": "2026-11-12",
+"title": "Stage - IA Agent pour vérification de 3D Design- F/H",
+"company": "Technip Energies",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineering-intern-summer-2027-at-seagate-technology-4487854368": {
+"first_seen": "2026-11-12",
+"title": "Generative AI & Machine Learning Engineering Intern (Summer 2027)  [Summer 2027 ✓]",
+"company": "Seagate Technology",
+"geo": "US",
+"tier": "B"
 }
 }
