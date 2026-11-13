@@ -10057,5 +10057,47 @@
 "company": "Seagate Technology",
 "geo": "US",
 "tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/memory-augmented-llms-for-financial-text-%E2%80%93-internship-at-capital-fund-management-cfm-4488533357": {
+"first_seen": "2026-11-13",
+"title": "Memory-Augmented LLMs for Financial Text – Internship",
+"company": "Capital Fund Management (CFM)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-self-supervised-pre-training-and-domain-adaptation-for-longitudinal-eeg-biometric-authentication-h-f-at-thales-4490510298": {
+"first_seen": "2026-11-13",
+"title": "STAGE – Self-Supervised Pre-Training and Domain Adaptation for Longitudinal EEG Biometric Authentication (H/F)",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99une-cha%C3%AEne-d%E2%80%99ia-de-transformation-de-vid%C3%A9os-en-connaissances-pour-un-syst%C3%A8me-rag-multimodal-bas%C3%A9-sur-des-llm-f-h-at-thales-4490399660": {
+"first_seen": "2026-11-13",
+"title": "STAGE - Développement d’une chaîne d’IA de transformation de vidéos en connaissances pour un système RAG multimodal basé sur des LLM - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-des-grands-mod%C3%A8les-de-langage-pour-les-syst%C3%A8mes-critiques-via-l%E2%80%99analyse-s%C3%A9mantique-des-graphes-f-h-at-thales-4490546788": {
+"first_seen": "2026-11-13",
+"title": "STAGE - Évaluation des grands modèles de langage pour les systèmes critiques via l’analyse sémantique des graphes (F/H)",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484212798": {
+"first_seen": "2026-11-13",
+"title": "Internships in Generative and Agentic AI",
+"company": "MITRE",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-time-series-foundation-models-at-bosch-usa-4488539750": {
+"first_seen": "2026-11-13",
+"title": "AI Research Intern – Time Series Foundation Models",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "A"
 }
 }

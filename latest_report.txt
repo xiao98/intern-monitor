@@ -1,13 +1,21 @@
-实习监控 2026-11-12 · 新增 2 · 当前在挂命中 110 · 显示 2
+实习监控 2026-11-13 · 新增 6 · 当前在挂命中 112 · 显示 6
 
-🇫🇷 FRANCE  (1)
-[A] agent · Technip Energies — Stage - IA Agent pour vérification de 3D Design- F/H  (Paris, Île-de-France, France · 发布 2026-11-10 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ia-agent-pour-v%C3%A9rification-de-3d-design-f-h-at-technip-energies-4488396868
+🇫🇷 FRANCE  (4)
+[A] llm · Capital Fund Management (CFM) — Memory-Augmented LLMs for Financial Text – Internship  (Paris, Île-de-France, France · 发布 2026-11-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/memory-augmented-llms-for-financial-text-%E2%80%93-internship-at-capital-fund-management-cfm-4488533357
+[A] llm · Thales — STAGE - Développement d’une chaîne d’IA de transformation de vidéos en connaissances pour un système RAG multimodal basé sur des LLM - F/H  (Gémenos, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99une-cha%C3%AEne-d%E2%80%99ia-de-transformation-de-vid%C3%A9os-en-connaissances-pour-un-syst%C3%A8me-rag-multimodal-bas%C3%A9-sur-des-llm-f-h-at-thales-4490399660
+[A] llm · Thales — STAGE - Évaluation des grands modèles de langage pour les systèmes critiques via l’analyse sémantique des graphes (F/H)  (Palaiseau, Île-de-France, France · 发布 2026-11-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-des-grands-mod%C3%A8les-de-langage-pour-les-syst%C3%A8mes-critiques-via-l%E2%80%99analyse-s%C3%A9mantique-des-graphes-f-h-at-thales-4490546788
+[A] llm · Thales — STAGE – Self-Supervised Pre-Training and Domain Adaptation for Longitudinal EEG Biometric Authentication (H/F)  (Palaiseau, Île-de-France, France · 发布 2026-11-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-self-supervised-pre-training-and-domain-adaptation-for-longitudinal-eeg-biometric-authentication-h-f-at-thales-4490510298
 
-🇺🇸 USA  (1)
-[B] llm · Seagate Technology — Generative AI & Machine Learning Engineering Intern (Summer 2027) [Summer 2027 ✓]  (Bloomington, MN · 发布 2026-11-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/generative-ai-machine-learning-engineering-intern-summer-2027-at-seagate-technology-4487854368
+🇺🇸 USA  (2)
+[A] llm · Bosch USA — AI Research Intern – Time Series Foundation Models  (Sunnyvale, CA · 发布 2026-11-12 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-time-series-foundation-models-at-bosch-usa-4488539750
+[A] agent · MITRE — Internships in Generative and Agentic AI  (Bedford, MA · 发布 2026-11-10 · [linkedin])
+    https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484212798
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/IRIT Toulouse stages:-1, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
