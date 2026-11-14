@@ -10099,5 +10099,54 @@
 "company": "Bosch USA",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac": {
+"first_seen": "2026-11-14",
+"title": "Research Intern, Continual Adaptation for Robotics",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-agentique-at-ensimag-alumni-4489820937": {
+"first_seen": "2026-11-14",
+"title": "Ingénieur IA agentique",
+"company": "Ensimag Alumni",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-d%C3%A9tection-de-backdoors-dans-les-grands-mod%C3%A8les-de-langage-h-f-at-thales-4490500415": {
+"first_seen": "2026-11-14",
+"title": "STAGE – Ingénieur de Recherche Détection de backdoors dans les grands modèles de langage (H/F)",
+"company": "Thales",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-assistant-intelligent-de-cr%C3%A9ation-de-cha%C3%AEnes-de-traitements-scientifiques-g%C3%A9ospatiaux-spatial-toulouse-at-cs-group-4490744746": {
+"first_seen": "2026-11-14",
+"title": "Stage - Ingénieur(e) : IA générative : Assistant intelligent de création de chaînes de traitements scientifiques géospatiaux - Spatial - Toulouse",
+"company": "CS GROUP",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-6-mois-charg%C3%A9-d-%C3%A9tudes-ia-g%C3%A9n%C3%A9rative-amp-analyse-financi%C3%A8re-f-h-charenton-at-groupe-bpce-4488522428": {
+"first_seen": "2026-11-14",
+"title": "Stage - 6 mois - Chargé d'Études IA Générative &amp; Analyse Financière (F/H) - Charenton",
+"company": "Groupe BPCE",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4489805361": {
+"first_seen": "2026-11-14",
+"title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
+"company": "GE Vernova",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-agent-developer-intern-at-hiebing-4488954550": {
+"first_seen": "2026-11-14",
+"title": "AI Agent Developer Intern",
+"company": "Hiebing",
+"geo": "US",
+"tier": "A"
 }
 }

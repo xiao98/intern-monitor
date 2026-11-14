@@ -1,21 +1,23 @@
-实习监控 2026-11-13 · 新增 6 · 当前在挂命中 112 · 显示 6
+实习监控 2026-11-14 · 新增 7 · 当前在挂命中 112 · 显示 7
 
 🇫🇷 FRANCE  (4)
-[A] llm · Capital Fund Management (CFM) — Memory-Augmented LLMs for Financial Text – Internship  (Paris, Île-de-France, France · 发布 2026-11-12 · [linkedin])
-    https://fr.linkedin.com/jobs/view/memory-augmented-llms-for-financial-text-%E2%80%93-internship-at-capital-fund-management-cfm-4488533357
-[A] llm · Thales — STAGE - Développement d’une chaîne d’IA de transformation de vidéos en connaissances pour un système RAG multimodal basé sur des LLM - F/H  (Gémenos, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-12 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99une-cha%C3%AEne-d%E2%80%99ia-de-transformation-de-vid%C3%A9os-en-connaissances-pour-un-syst%C3%A8me-rag-multimodal-bas%C3%A9-sur-des-llm-f-h-at-thales-4490399660
-[A] llm · Thales — STAGE - Évaluation des grands modèles de langage pour les systèmes critiques via l’analyse sémantique des graphes (F/H)  (Palaiseau, Île-de-France, France · 发布 2026-11-13 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-des-grands-mod%C3%A8les-de-langage-pour-les-syst%C3%A8mes-critiques-via-l%E2%80%99analyse-s%C3%A9mantique-des-graphes-f-h-at-thales-4490546788
-[A] llm · Thales — STAGE – Self-Supervised Pre-Training and Domain Adaptation for Longitudinal EEG Biometric Authentication (H/F)  (Palaiseau, Île-de-France, France · 发布 2026-11-12 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-self-supervised-pre-training-and-domain-adaptation-for-longitudinal-eeg-biometric-authentication-h-f-at-thales-4490510298
+[A] agent · Ensimag Alumni — Ingénieur IA agentique  (Marseille, Provence-Alpes-Côte d'Azur, France · 发布 2026-11-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-agentique-at-ensimag-alumni-4489820937
+[A] llm · Thales — STAGE – Ingénieur de Recherche Détection de backdoors dans les grands modèles de langage (H/F)  (Palaiseau, Île-de-France, France · 发布 2026-11-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-d%C3%A9tection-de-backdoors-dans-les-grands-mod%C3%A8les-de-langage-h-f-at-thales-4490500415
+[B] llm · CS GROUP — Stage - Ingénieur(e) : IA générative : Assistant intelligent de création de chaînes de traitements scientifiques géospatiaux - Spatial - Toulouse  (Toulouse, Occitanie, France · 发布 2026-11-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-assistant-intelligent-de-cr%C3%A9ation-de-cha%C3%AEnes-de-traitements-scientifiques-g%C3%A9ospatiaux-spatial-toulouse-at-cs-group-4490744746
+[B] llm · Groupe BPCE — Stage - 6 mois - Chargé d'Études IA Générative &amp; Analyse Financière (F/H) - Charenton  (Charenton-le-Pont, Île-de-France, France · 发布 2026-11-12 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-6-mois-charg%C3%A9-d-%C3%A9tudes-ia-g%C3%A9n%C3%A9rative-amp-analyse-financi%C3%A8re-f-h-charenton-at-groupe-bpce-4488522428
 
-🇺🇸 USA  (2)
-[A] llm · Bosch USA — AI Research Intern – Time Series Foundation Models  (Sunnyvale, CA · 发布 2026-11-12 · [linkedin])
-    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-time-series-foundation-models-at-bosch-usa-4488539750
-[A] agent · MITRE — Internships in Generative and Agentic AI  (Bedford, MA · 发布 2026-11-10 · [linkedin])
-    https://www.linkedin.com/jobs/view/internships-in-generative-and-agentic-ai-at-mitre-4484212798
+🇺🇸 USA  (3)
+[A] llm · GE Vernova — GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027 [Summer 2027 ✓]  (Bellevue, WA · 发布 2026-11-13 · [linkedin])
+    https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4489805361
+[A] agent · Hiebing — AI Agent Developer Intern  (Madison, WI · 发布 2026-11-13 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-agent-developer-intern-at-hiebing-4488954550
+[B] agent/rl · tri — Research Intern, Continual Adaptation for Robotics  (Cambridge, MA, US, hybrid · 发布 2026-11-13 · [lever])
+    https://jobs.lever.co/tri/6c9002a1-6ed1-42b7-829c-5ba6661446ac
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, nvidia:EXC JSONDecodeError Expecting value: line 1 column 1 (char 0), watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
