@@ -10148,5 +10148,26 @@
 "company": "Hiebing",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-data-agentic-systems-stage-at-capgemini-4491009718": {
+"first_seen": "2026-11-15",
+"title": "AI Engineer / Data & Agentic Systems - Stage",
+"company": "Capgemini",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-exploration-de-l%E2%80%99ia-agentique-pour-acc%C3%A9l%C3%A9rer-la-conception-de-circuits-digitaux-%E2%80%93-f-h-at-stmicroelectronics-france-4490761864": {
+"first_seen": "2026-11-15",
+"title": "STAGE – Exploration de l’IA agentique pour accélérer la conception de circuits digitaux – F/H",
+"company": "STMicroelectronics France",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-ai-coding-agents-at-microsoft-4491096076": {
+"first_seen": "2026-11-15",
+"title": "Research Intern - AI Coding Agents",
+"company": "Microsoft",
+"geo": "US",
+"tier": "A"
 }
 }
