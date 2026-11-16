@@ -898,23 +898,6 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "GenAI Algorithms Intern – Model Optimization for Inference",
-  "loc": "Switzerland, Zurich",
-  "etype": "Intern",
-  "pub": "2026-10-26",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
-  "desc": " NVIDIA is at the forefront of the generative AI revolution! The Algorithmic Model Optimization Team focuses on optimizing generative AI models such as large language models (LLMs), vision-language models (VLMs), and diffusion models for maximal inference efficiency using techniques ranging from quantization, speculative decoding, sparsity, distillation, pruning to neural architecture search, and automated deployment strategies.     Our work includes conducting applied research to improve model efficiency as well as developing an innovative open-source model optimization platform (NVIDIA Model Optimizer). Our software is used both internally across NVIDIA and externally by research and engineering teams alike developing best-in-class AI models.     We are seeking a GenAI Algorithms Intern to help optimize state-of-the-art generative AI models like LLMs, VLMs, multimodal and diffusion models. In this role, you will design, implement, and productionize model optimization algorithms for inference and deployment on NVIDIA’s latest hardware platforms. The focus is on ease of use, compute and memory efficiency, and achieving the best accuracy–performance tradeoffs through software–hardware co-design.     Your work will span multiple layers of the AI software stack—ranging from algorithm design to integration—within NVIDIA’s ecosystem (Model Optimizer, NeMo/Megatron, TensorRT-LLM) and open-source frameworks (PyTorch, Hugging Face, vLLM, SGLang). You may also dive deeper into  GPU-level optimization , including custom kernel development with CUDA and Triton.      What you’ll be doing:    Help design and build modular, scalable model optimization software platforms that deliver exceptional user experiences while supporting diverse AI models and optimization techniques.  Explore, develop, and integrate innovative deep learning optimization algorithms (quantization, speculative decoding, sparsity, distillation, pruning, neural architecture search) into NVIDIA's AI software stack.  Deploy optimized models into leading open-source inference frameworks and contribute specialized APIs, model-level optimizations, and new features tailored to the latest NVIDIA hardware capabilities.  Collaborate with NVIDIA teams on model optimization solutions for customer use cases, aiming for optimal end-to-end workflows and balanced accuracy–performance trade-offs.  Conduct GPU kernel-level profiling to identify and capitalize on hardware and software optimization opportunities (e.g., efficient attention kernels, KV cache optimization, parallelism strategies).       What we need to see:       Pursuing a Master's or PhD in Computer Science, AI, Applied Math, or a related field.  Strong deep learning background and hands-on experience with language models.  Solid foundation in algorithms and programming.  Proficiency in Python, PyTorch, and modern ML frameworks/tools.  Good written and verbal communication skills, with the ability to work both independently and collaboratively in a fast-paced environment.       Ways to stand out from the crowd:       Experience with model optimization and efficiency (e.g., quantization, distillation, pruning).  Contributions to PyTorch, JAX, vLLM, SGLang, or other machine learning training and inference frameworks.  Hands-on experience training or fine-tuning generative AI models on large-scale GPU clusters.  Knowledge of GPU architectures and compilation stacks, and the ability to analyze and debug end-to-end performance.  Familiarity with NVIDIA’s deep learning SDKs (Model Optimizer, NeMo).      Increasingly known as “the AI computing company” and widely considered to be one of the technology world’s most desirable employers, NVIDIA offers highly competitive salaries and a comprehensive   benefits package.   Are you creative, motivated, and love a challenge? If so, we want to hear from you! Come, join our model optimization group, where you can help build real-time, cost-effective computing platforms driving our success in this exciting and rapidly-growing field.  NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.         ",
-  "tier": "B",
-  "geo": "EU",
-  "dirs": [
-   "diff",
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
   "title": "AI Compiler Formal Verification Intern",
   "loc": "Switzerland, Zurich",
   "etype": "Intern",
@@ -1231,22 +1214,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Equancy | Groupe EDG",
-  "title": "Stage AI Engineer – IA générative & agentique – Paris – 1 500 €/mois | 6 mois",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-09",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ai-engineer-%E2%80%93-ia-g%C3%A9n%C3%A9rative-agentique-%E2%80%93-paris-%E2%80%93-1-500-%E2%82%AC-mois-6-mois-at-equancy-%C2%A0groupe-edg-4488831574",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "CEA",
   "title": "Stage Steering LLM to inhibit biases- Saclay-H/F",
   "loc": "Saclay, Île-de-France, France",
@@ -1255,6 +1222,22 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-steering-llm-to-inhibit-biases-saclay-h-f-at-cea-4472568310",
   "desc": "",
   "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "LIMAGRAIN",
+  "title": "Stagiaire - AI Engineer / Generative AI (H/F)",
+  "loc": "Chappes, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-16",
+  "url": "https://fr.linkedin.com/jobs/view/stagiaire-ai-engineer-generative-ai-h-f-at-limagrain-4489757509",
+  "desc": "",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1311,44 +1294,28 @@
  },
  {
   "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE - Évaluation des grands modèles de langage pour les systèmes critiques via l’analyse sémantique des graphes (F/H)",
+  "loc": "Palaiseau, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-13",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-des-grands-mod%C3%A8les-de-langage-pour-les-syst%C3%A8mes-critiques-via-l%E2%80%99analyse-s%C3%A9mantique-des-graphes-f-h-at-thales-4490546788",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Siemens Digital Industries Software",
   "title": "Stage - AI Agent Evaluation for Simcenter Amesim f/m - Strategic Student Program",
   "loc": "Villeurbanne, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
   "pub": "2026-11-13",
   "url": "https://fr.linkedin.com/jobs/view/stage-ai-agent-evaluation-for-simcenter-amesim-f-m-strategic-student-program-at-siemens-digital-industries-software-4481382311",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Gerflor",
-  "title": "STAGIAIRE REALISATION ET DEPLOIEMENT DES AGENTS IA F/H",
-  "loc": "Tarare, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-09",
-  "url": "https://fr.linkedin.com/jobs/view/stagiaire-realisation-et-deploiement-des-agents-ia-f-h-at-gerflor-4488846749",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Criteo",
-  "title": "Product Data Science & AI Agents Intern",
-  "loc": "Paris, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-11",
-  "url": "https://fr.linkedin.com/jobs/view/product-data-science-ai-agents-intern-at-criteo-4464358910",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1376,16 +1343,16 @@
  {
   "src": "linkedin",
   "company": "CEA",
-  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
+  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
+  "pub": "2026-11-15",
+  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1415,22 +1382,6 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235",
   "desc": "",
   "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Atos",
-  "title": "Stage IA Générative & Innovation Commerciale H/F",
-  "loc": "Bezons, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-09",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-g%C3%A9n%C3%A9rative-innovation-commerciale-h-f-at-atos-4478252536",
-  "desc": "",
-  "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1487,14 +1438,14 @@
  },
  {
   "src": "linkedin",
-  "company": "Eviden",
-  "title": "Stage - IA Agentique pour la migration automatisée de données H/F",
-  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
+  "company": "CEA",
+  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020",
+  "pub": "2026-11-14",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
   "desc": "",
-  "tier": "C",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
    "agent"
@@ -1557,70 +1508,6 @@
   "etype": "Internship",
   "pub": "2026-11-12",
   "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-d%C3%A9tection-de-backdoors-dans-les-grands-mod%C3%A8les-de-langage-h-f-at-thales-4490500415",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Réseau de Transport d'Électricité",
-  "title": "Stage - Chargé d’étude R&D - amélioration d’une architecture Transformer pour l’exploitation des réseaux électriques F/H",
-  "loc": "Paris-l’Hôpital, Bourgogne-Franche-Comté, France",
-  "etype": "Internship",
-  "pub": "2026-11-09",
-  "url": "https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-d%E2%80%99%C3%A9tude-r-d-am%C3%A9lioration-d%E2%80%99une-architecture-transformer-pour-l%E2%80%99exploitation-des-r%C3%A9seaux-%C3%A9lectriques-f-h-at-r%C3%A9seau-de-transport-d-%C3%A9lectricit%C3%A9-4487681609",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "STMicroelectronics France",
-  "title": "STAGE – Exploration de l’IA agentique pour accélérer la conception de circuits digitaux – F/H",
-  "loc": "Crolles, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-exploration-de-l%E2%80%99ia-agentique-pour-acc%C3%A9l%C3%A9rer-la-conception-de-circuits-digitaux-%E2%80%93-f-h-at-stmicroelectronics-france-4490761864",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "STMicroelectronics France",
-  "title": "STAGE - IA agentique pour la Technology Intelligence & Strategy - F/H",
-  "loc": "Crolles, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-11",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-technology-intelligence-strategy-f-h-at-stmicroelectronics-france-4481756376",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Développement d’une chaîne d’IA de transformation de vidéos en connaissances pour un système RAG multimodal basé sur des LLM - F/H",
-  "loc": "Gémenos, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-12",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d%E2%80%99une-cha%C3%AEne-d%E2%80%99ia-de-transformation-de-vid%C3%A9os-en-connaissances-pour-un-syst%C3%A8me-rag-multimodal-bas%C3%A9-sur-des-llm-f-h-at-thales-4490399660",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1695,22 +1582,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
-  "loc": "Gennevilliers, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
   "title": "STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
@@ -1728,11 +1599,11 @@
  {
   "src": "linkedin",
   "company": "Thales",
-  "title": "STAGE - Évaluation des grands modèles de langage pour les systèmes critiques via l’analyse sémantique des graphes (F/H)",
-  "loc": "Palaiseau, Île-de-France, France",
+  "title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
+  "loc": "Gennevilliers, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%C3%A9valuation-des-grands-mod%C3%A8les-de-langage-pour-les-syst%C3%A8mes-critiques-via-l%E2%80%99analyse-s%C3%A9mantique-des-graphes-f-h-at-thales-4490546788",
+  "pub": "2026-11-10",
+  "url": "https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1834,23 +1705,6 @@
   "geo": "US",
   "dirs": [
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Maxinsights",
-  "title": "Machine Learning Engineer Intern - Video Foundation Models & Agentic AI",
-  "loc": "Santa Clara, CA",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-video-foundation-models-agentic-ai-at-maxinsights-4489194978",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "agent"
   ],
   "start_hint": ""
  },

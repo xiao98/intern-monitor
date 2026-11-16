@@ -1,15 +1,9 @@
-实习监控 2026-11-15 · 新增 3 · 当前在挂命中 123 · 显示 3
+实习监控 2026-11-16 · 新增 1 · 当前在挂命中 114 · 显示 1
 
-🇫🇷 FRANCE  (2)
-[A] agent · STMicroelectronics France — STAGE – Exploration de l’IA agentique pour accélérer la conception de circuits digitaux – F/H  (Crolles, Auvergne-Rhône-Alpes, France · 发布 2026-11-13 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-exploration-de-l%E2%80%99ia-agentique-pour-acc%C3%A9l%C3%A9rer-la-conception-de-circuits-digitaux-%E2%80%93-f-h-at-stmicroelectronics-france-4490761864
-[C] agent · Capgemini — AI Engineer / Data & Agentic Systems - Stage  (Lille, Hauts-de-France, France · 发布 2026-11-14 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-engineer-data-agentic-systems-stage-at-capgemini-4491009718
-
-🇺🇸 USA  (1)
-[A] agent · Microsoft — Research Intern - AI Coding Agents  (Redmond, WA · 发布 2026-11-14 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-ai-coding-agents-at-microsoft-4491096076
+🇫🇷 FRANCE  (1)
+[B] llm · LIMAGRAIN — Stagiaire - AI Engineer / Generative AI (H/F)  (Chappes, Auvergne-Rhône-Alpes, France · 发布 2026-11-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stagiaire-ai-engineer-generative-ai-h-f-at-limagrain-4489757509
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: apple:502, lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
