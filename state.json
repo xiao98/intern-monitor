@@ -10176,5 +10176,82 @@
 "company": "LIMAGRAIN",
 "geo": "FR",
 "tier": "B"
+},
+"https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476": {
+"first_seen": "2026-11-17",
+"title": "Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e": {
+"first_seen": "2026-11-17",
+"title": "Research Intern, Spatial Intelligence for Robotics",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3": {
+"first_seen": "2026-11-17",
+"title": "Robotics Intern, World Models, Multimodal Sensing",
+"company": "tri",
+"geo": "US",
+"tier": "A"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307": {
+"first_seen": "2026-11-17",
+"title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/online-learning-of-generative-ai-models-for-turbulent-flow-inpainting-at-groupe-calcul-4490916553": {
+"first_seen": "2026-11-17",
+"title": "Online Learning of Generative AI models for turbulent flow inpainting",
+"company": "Groupe Calcul",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4490952362": {
+"first_seen": "2026-11-17",
+"title": "AI Engineer, LLM (Stagiaire, Alternant)",
+"company": "Jimini AI",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4489777397": {
+"first_seen": "2026-11-17",
+"title": "STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)",
+"company": "Top Agent",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/intern-world-models-for-xr-and-robotics-at-interdigital-inc-4489799069": {
+"first_seen": "2026-11-17",
+"title": "Intern, World Models for XR and Robotics",
+"company": "InterDigital, Inc.",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-multimodal-sensor-foundation-models-at-bosch-usa-4490921472": {
+"first_seen": "2026-11-17",
+"title": "Research Intern: Multimodal Sensor Foundation Models",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-generative-ai-developer-at-asml-4490133199": {
+"first_seen": "2026-11-17",
+"title": "Internship-Generative AI developer",
+"company": "ASML",
+"geo": "US",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/ai-engineering-intern-generative-agentic-ai-at-boston-scientific-4490907963": {
+"first_seen": "2026-11-17",
+"title": "AI Engineering Intern (Generative & Agentic AI)",
+"company": "Boston Scientific",
+"geo": "US",
+"tier": "A"
 }
 }

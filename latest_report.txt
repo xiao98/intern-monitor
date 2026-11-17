@@ -1,9 +1,31 @@
-实习监控 2026-11-16 · 新增 1 · 当前在挂命中 114 · 显示 1
+实习监控 2026-11-17 · 新增 11 · 当前在挂命中 121 · 显示 11
 
-🇫🇷 FRANCE  (1)
-[B] llm · LIMAGRAIN — Stagiaire - AI Engineer / Generative AI (H/F)  (Chappes, Auvergne-Rhône-Alpes, France · 发布 2026-11-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-ai-engineer-generative-ai-h-f-at-limagrain-4489757509
+🇫🇷 FRANCE  (4)
+[A] diff/rl · InterDigital, Inc. — Intern, World Models for XR and Robotics  (Greater Rennes Metropolitan Area · 发布 2026-11-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/intern-world-models-for-xr-and-robotics-at-interdigital-inc-4489799069
+[A] llm · Jimini AI — AI Engineer, LLM (Stagiaire, Alternant)  (Paris, Île-de-France, France · 发布 2026-11-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-engineer-llm-stagiaire-alternant-at-jimini-ai-4490952362
+[A] agent · Top Agent — STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)  (St-Étienne, Auvergne-Rhône-Alpes, France · 发布 2026-11-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-agent-immobilier-transaction-location-3-places-at-top-agent-4489777397
+[B] llm · Groupe Calcul — Online Learning of Generative AI models for turbulent flow inpainting  (Toulouse, Occitanie, France · 发布 2026-11-16 · [linkedin])
+    https://fr.linkedin.com/jobs/view/online-learning-of-generative-ai-models-for-turbulent-flow-inpainting-at-groupe-calcul-4490916553
+
+🇺🇸 USA  (7)
+[A] llm · Bosch USA — Research Intern: Multimodal Sensor Foundation Models  (Pittsburgh, PA · 发布 2026-11-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-multimodal-sensor-foundation-models-at-bosch-usa-4490921472
+[A] agent · Boston Scientific — AI Engineering Intern (Generative & Agentic AI)  (Marlborough, MA · 发布 2026-11-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-engineering-intern-generative-agentic-ai-at-boston-scientific-4490907963
+[A] agent · NVIDIA — Applied Research Scientist Intern, Agentic Biology - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-16 · [nvidia])
+    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307
+[A] diff/llm/rl · tri — Robotics Intern, World Models, Multimodal Sensing  (Cambridge, MA, US, hybrid · 发布 2026-11-16 · [lever])
+    https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3
+[B] llm · ASML — Internship-Generative AI developer  (San Jose, CA · 发布 2026-11-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-generative-ai-developer-at-asml-4490133199
+[B] llm/agent · tri — Automated Driving Advanced Development Intern, Machine Learning Research (Cambridge)  (Cambridge, MA, US, hybrid · 发布 2026-11-16 · [lever])
+    https://jobs.lever.co/tri/3a7510ff-7cef-4d6e-8c32-0b6e6b8a2476
+[B] llm/agent · tri — Research Intern, Spatial Intelligence for Robotics  (Cambridge, MA, US, hybrid · 发布 2026-11-16 · [lever])
+    https://jobs.lever.co/tri/2d65fd58-00bb-49bc-b4db-e381df1ebd1e
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: apple:502, lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
+失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1
