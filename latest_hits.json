@@ -69,13 +69,81 @@
  },
  {
   "src": "ashby",
+  "company": "doctolib",
+  "title": "AI Engineer Intern (x/f/m) - Paris",
+  "loc": "Paris, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-18",
+  "url": "https://jobs.ashbyhq.com/doctolib/4588a32b-f865-48ec-a2b3-2c89d735c7cb",
+  "desc": "Join a team of passionate and committed people working to improve healthcare.\n\nAt Doctolib, our tech teams build products and features that improve the daily lives of healthcare professionals and patients. We work in feature teams within an agile environment, in close collaboration with Product, Design, Data Science, and Business teams.\n\n\nWHAT YOU'LL DO\n\nWe are looking for an AI Engineer Intern to join our Tech team and contribute to the development of AI-powered features at Doctolib.\n\nYou will work closely with experienced AI and software engineers to explore, prototype, evaluate, and improve AI-based solutions. This internship will give you the opportunity to gain practical experience across the different stages of an AI product, from experimentation to integration into a production environment.\n\nYour responsibilities will include:\n\n - Contribute to the development of AI features and services under the guidance of experienced engineers\n\n - Write Python code to support prototypes, experiments, evaluation tools, and backend components\n\n - Experiment with large language models, prompting techniques, retrieval, and tool integration\n\n - Contribute to automated tests and documentation for the components you develop\n\n - Investigate issues, analyse results, and suggest improvements to your team\n\n - Participate in code reviews, technical discussions, and team rituals\n\nYou will receive regular guidance from your mentor and teammates. The scope of your work will grow progressively as you become familiar with the codebase, the tools, and the technical challenges.\n\n\nWHO YOU ARE\n\nBefore you read on, if you do not have the exact profile described below but feel that this internship matches your skills and interests, we still encourage you to apply.\n\nYou will be a great fit if you:\n\n - Are in the final year of a degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field\n\n - Have basic experience with Python through coursework, personal projects, research, or previous internships\n\n - Have a basic understanding of programming concepts, data structures, and software development\n\n - Are curious about artificial intelligence and interested in understanding how AI systems work\n\n - Are comfortable communicating in English, both written and spoken\n\nIt would be fantastic if you:\n\n - Have worked on a project involving machine learning, natural language processing, or large language models\n\n - Have used agentic frameworks like Langchain or Google ADK.\n\n - Have experimented with AI APIs, prompting, retrieval, or conversational interfaces\n\n - Have experience in taking products to production and supporting them with real users.\n\n - Have some experience with Git, APIs, testing, or data analysis\n\n - Have an interest in healthcare, privacy, or responsible AI\n\n\nLIFE AT DOCTOLIB TECH\n\nOur products are built on a cloud-native platform that supports web and mobile applications across several countries and healthcare systems.\n\nEven if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices.\n\nDiscover our AI vision here https://careers.doctolib.com/ai-careers/ and learn more about our tech culture on the Doctolib Tech site https://careers.doctolib.com/tech-doctolib/.\n\n\nWHAT WE OFFER\n\n - A structured internship with dedicated mentoring\n\n - The opportunity to work on real AI projects in a healthcare environment\n\n - Technical learning sessions and access to internal engineering communities\n\n - Access to AI tools for coding, development, and learning\n\n - Meal vouchers\n\n - Free breakfast in the office\n\n - Up to 2 days of remote work per week\n\n - A flexible workplace policy, depending on the team and location\n\n - A collaborative and international working environment\n\n\nTHE INTERVIEW PROCESS\n\n - Coding Game\n\n - Recruiter Interview\n\n - Technical Interview\n\n - Behavioral Interview\n\n\nJOB DETAILS\n\n - Internship, 6 months, full-time\n\n - Location: Berlin, Paris, Nantes, Milan, or Amsterdam\n\n - Hybrid work setup, up to 2 remote days per week\n\n - Start date: March 2027\n\n\nWE WELCOME EVERYONE\n\nAt Doctolib, we are committed to improving access to healthcare for everyone. We evaluate candidates based on their qualifications, motivation, and potential, without discrimination.\n\nThe more diverse ideas are heard, the better our products can serve patients and healthcare professionals. We welcome applications regardless of gender, religion, age, sexual orientation, ethnicity, disability, or place of origin.\n\nTo support an inclusive recruitment process, we invite you to leave personal information such as pictures and age off your application. If you require an accommodation during the interview process, please let us know.\n\nJoin us in building the healthcare we all dream of!\n\n\nYOUR DATA PRIVACY\n\nAll information provided through this application is processed by Doctolib for recruitment purposes. For more information about how Doctolib processes your application data, please consult the relevant privacy policy:\n\n - Germany https://doctolib.legal/B2C-Privacy-Policy-Career-DE\n\n - France https://doctolib.legal/B2C-Privacy-Policy-Career-FR\n\n - Italy https://doctolib.legal/B2C-Privacy-Policy-Career-IT\n\n - The Netherlands https://doctolib.legal/B2C-Privacy-Policy-Career-COM\n\nFor questions or to exercise your rights, please contact hr.dataprivacy(at)doctolib.com http://doctolib.com/.",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm",
+   "agent"
+  ],
+  "start_hint": "- Start date: March 2027"
+ },
+ {
+  "src": "ashby",
+  "company": "doctolib",
+  "title": "AI Engineer intern (x/f/m) - Berlin",
+  "loc": "Berlin, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-18",
+  "url": "https://jobs.ashbyhq.com/doctolib/2a909eff-070e-4c49-a305-5adf5aa5c5a2",
+  "desc": "Join a team of passionate and committed people working to improve healthcare.\n\nAt Doctolib, our tech teams build products and features that improve the daily lives of healthcare professionals and patients. We work in feature teams within an agile environment, in close collaboration with Product, Design, Data Science, and Business teams.\n\n\nWHAT YOU'LL DO\n\nWe are looking for an AI Engineer Intern to join our Tech team and contribute to the development of AI-powered features at Doctolib.\n\nYou will work closely with experienced AI and software engineers to explore, prototype, evaluate, and improve AI-based solutions. This internship will give you the opportunity to gain practical experience across the different stages of an AI product, from experimentation to integration into a production environment.\n\nYour responsibilities will include:\n\n - Contribute to the development of AI features and services under the guidance of experienced engineers\n\n - Write Python code to support prototypes, experiments, evaluation tools, and backend components\n\n - Experiment with large language models, prompting techniques, retrieval, and tool integration\n\n - Contribute to automated tests and documentation for the components you develop\n\n - Investigate issues, analyse results, and suggest improvements to your team\n\n - Participate in code reviews, technical discussions, and team rituals\n\nYou will receive regular guidance from your mentor and teammates. The scope of your work will grow progressively as you become familiar with the codebase, the tools, and the technical challenges.\n\n\nWHO YOU ARE\n\nBefore you read on, if you do not have the exact profile described below but feel that this internship matches your skills and interests, we still encourage you to apply.\n\nYou will be a great fit if you:\n\n - Are in the final year of a degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field\n\n - Have basic experience with Python through coursework, personal projects, research, or previous internships\n\n - Have a basic understanding of programming concepts, data structures, and software development\n\n - Are curious about artificial intelligence and interested in understanding how AI systems work\n\n - Are comfortable communicating in English, both written and spoken\n\nIt would be fantastic if you:\n\n - Have worked on a project involving machine learning, natural language processing, or large language models\n\n - Have used agentic frameworks like Langchain or Google ADK.\n\n - Have experimented with AI APIs, prompting, retrieval, or conversational interfaces\n\n - Have experience in taking products to production and supporting them with real users.\n\n - Have some experience with Git, APIs, testing, or data analysis\n\n - Have an interest in healthcare, privacy, or responsible AI\n\n\nLIFE AT DOCTOLIB TECH\n\nOur products are built on a cloud-native platform that supports web and mobile applications across several countries and healthcare systems.\n\nEven if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices.\n\nDiscover our AI vision here https://careers.doctolib.com/ai-careers/ and learn more about our tech culture on the Doctolib Tech site https://careers.doctolib.com/tech-doctolib/.\n\n\nWHAT WE OFFER\n\n - A structured internship with dedicated mentoring\n\n - The opportunity to work on real AI projects in a healthcare environment\n\n - Technical learning sessions and access to internal engineering communities\n\n - Access to AI tools for coding, development, and learning\n\n - Meal vouchers\n\n - Free breakfast in the office\n\n - Up to 2 days of remote work per week\n\n - A flexible workplace policy, depending on the team and location\n\n - A collaborative and international working environment\n\n\nTHE INTERVIEW PROCESS\n\n - Coding Game\n\n - Recruiter Interview\n\n - Technical Interview\n\n - Behavioral Interview\n\n\nJOB DETAILS\n\n - Internship, 6 months, full-time\n\n - Location: Berlin\n\n - Hybrid work setup, up to 2 remote days per week\n\n - Start date: March 2027\n\n\nWE WELCOME EVERYONE\n\nAt Doctolib, we are committed to improving access to healthcare for everyone. We evaluate candidates based on their qualifications, motivation, and potential, without discrimination.\n\nThe more diverse ideas are heard, the better our products can serve patients and healthcare professionals. We welcome applications regardless of gender, religion, age, sexual orientation, ethnicity, disability, or place of origin.\n\nTo support an inclusive recruitment process, we invite you to leave personal information such as pictures and age off your application. If you require an accommodation during the interview process, please let us know.\n\nJoin us in building the healthcare we all dream of!\n\n\nYOUR DATA PRIVACY\n\nAll information provided through this application is processed by Doctolib for recruitment purposes. For more information about how Doctolib processes your application data, please consult the relevant privacy policy:\n\n - Germany https://doctolib.legal/B2C-Privacy-Policy-Career-DE\n\n - France https://doctolib.legal/B2C-Privacy-Policy-Career-FR\n\n - Italy https://doctolib.legal/B2C-Privacy-Policy-Career-IT\n\n - The Netherlands https://doctolib.legal/B2C-Privacy-Policy-Career-COM\n\nFor questions or to exercise your rights, please contact hr.dataprivacy(at)doctolib.com http://doctolib.com/.",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "llm",
+   "agent"
+  ],
+  "start_hint": "- Start date: March 2027"
+ },
+ {
+  "src": "ashby",
+  "company": "doctolib",
+  "title": "AI Engineer Intern (x/f/m) - Nantes",
+  "loc": "Nantes, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-18",
+  "url": "https://jobs.ashbyhq.com/doctolib/170c2710-df1d-4630-8451-9433e959f4eb",
+  "desc": "Join a team of passionate and committed people working to improve healthcare.\n\nAt Doctolib, our tech teams build products and features that improve the daily lives of healthcare professionals and patients. We work in feature teams within an agile environment, in close collaboration with Product, Design, Data Science, and Business teams.\n\n\nWHAT YOU'LL DO\n\nWe are looking for an AI Engineer Intern to join our Tech team and contribute to the development of AI-powered features at Doctolib.\n\nYou will work closely with experienced AI and software engineers to explore, prototype, evaluate, and improve AI-based solutions. This internship will give you the opportunity to gain practical experience across the different stages of an AI product, from experimentation to integration into a production environment.\n\nYour responsibilities will include:\n\n - Contribute to the development of AI features and services under the guidance of experienced engineers\n\n - Write Python code to support prototypes, experiments, evaluation tools, and backend components\n\n - Experiment with large language models, prompting techniques, retrieval, and tool integration\n\n - Contribute to automated tests and documentation for the components you develop\n\n - Investigate issues, analyse results, and suggest improvements to your team\n\n - Participate in code reviews, technical discussions, and team rituals\n\nYou will receive regular guidance from your mentor and teammates. The scope of your work will grow progressively as you become familiar with the codebase, the tools, and the technical challenges.\n\n\nWHO YOU ARE\n\nBefore you read on, if you do not have the exact profile described below but feel that this internship matches your skills and interests, we still encourage you to apply.\n\nYou will be a great fit if you:\n\n - Are in the final year of a degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field\n\n - Have basic experience with Python through coursework, personal projects, research, or previous internships\n\n - Have a basic understanding of programming concepts, data structures, and software development\n\n - Are curious about artificial intelligence and interested in understanding how AI systems work\n\n - Are comfortable communicating in English, both written and spoken\n\nIt would be fantastic if you:\n\n - Have worked on a project involving machine learning, natural language processing, or large language models\n\n - Have used agentic frameworks like Langchain or Google ADK.\n\n - Have experimented with AI APIs, prompting, retrieval, or conversational interfaces\n\n - Have experience in taking products to production and supporting them with real users.\n\n - Have some experience with Git, APIs, testing, or data analysis\n\n - Have an interest in healthcare, privacy, or responsible AI\n\n\nLIFE AT DOCTOLIB TECH\n\nOur products are built on a cloud-native platform that supports web and mobile applications across several countries and healthcare systems.\n\nEven if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices.\n\nDiscover our AI vision here https://careers.doctolib.com/ai-careers/ and learn more about our tech culture on the Doctolib Tech site https://careers.doctolib.com/tech-doctolib/.\n\n\nWHAT WE OFFER\n\n - A structured internship with dedicated mentoring\n\n - The opportunity to work on real AI projects in a healthcare environment\n\n - Technical learning sessions and access to internal engineering communities\n\n - Access to AI tools for coding, development, and learning\n\n - Meal vouchers\n\n - Free breakfast in the office\n\n - Up to 2 days of remote work per week\n\n - A flexible workplace policy, depending on the team and location\n\n - A collaborative and international working environment\n\n\nTHE INTERVIEW PROCESS\n\n - Coding Game\n\n - Recruiter Interview\n\n - Technical Interview\n\n - Behavioral Interview\n\n\nJOB DETAILS\n\n - Internship, 6 months, full-time\n\n - Location: Nantes\n\n - Hybrid work setup, up to 2 remote days per week\n\n - Start date: March 2027\n\n\nWE WELCOME EVERYONE\n\nAt Doctolib, we are committed to improving access to healthcare for everyone. We evaluate candidates based on their qualifications, motivation, and potential, without discrimination.\n\nThe more diverse ideas are heard, the better our products can serve patients and healthcare professionals. We welcome applications regardless of gender, religion, age, sexual orientation, ethnicity, disability, or place of origin.\n\nTo support an inclusive recruitment process, we invite you to leave personal information such as pictures and age off your application. If you require an accommodation during the interview process, please let us know.\n\nJoin us in building the healthcare we all dream of!\n\n\nYOUR DATA PRIVACY\n\nAll information provided through this application is processed by Doctolib for recruitment purposes. For more information about how Doctolib processes your application data, please consult the relevant privacy policy:\n\n - Germany https://doctolib.legal/B2C-Privacy-Policy-Career-DE\n\n - France https://doctolib.legal/B2C-Privacy-Policy-Career-FR\n\n - Italy https://doctolib.legal/B2C-Privacy-Policy-Career-IT\n\n - The Netherlands https://doctolib.legal/B2C-Privacy-Policy-Career-COM\n\nFor questions or to exercise your rights, please contact hr.dataprivacy(at)doctolib.com http://doctolib.com/.",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm",
+   "agent"
+  ],
+  "start_hint": "- Start date: March 2027"
+ },
+ {
+  "src": "ashby",
+  "company": "doctolib",
+  "title": "AI Engineer intern (x/f/m) - Milano",
+  "loc": "Milan, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-18",
+  "url": "https://jobs.ashbyhq.com/doctolib/8eee07c8-dd36-4a3c-99cd-a95d65415dec",
+  "desc": "Join a team of passionate and committed people working to improve healthcare.\n\nAt Doctolib, our tech teams build products and features that improve the daily lives of healthcare professionals and patients. We work in feature teams within an agile environment, in close collaboration with Product, Design, Data Science, and Business teams.\n\n\nWHAT YOU'LL DO\n\nWe are looking for an AI Engineer Intern to join our Tech team and contribute to the development of AI-powered features at Doctolib.\n\nYou will work closely with experienced AI and software engineers to explore, prototype, evaluate, and improve AI-based solutions. This internship will give you the opportunity to gain practical experience across the different stages of an AI product, from experimentation to integration into a production environment.\n\nYour responsibilities will include:\n\n - Contribute to the development of AI features and services under the guidance of experienced engineers\n\n - Write Python code to support prototypes, experiments, evaluation tools, and backend components\n\n - Experiment with large language models, prompting techniques, retrieval, and tool integration\n\n - Contribute to automated tests and documentation for the components you develop\n\n - Investigate issues, analyse results, and suggest improvements to your team\n\n - Participate in code reviews, technical discussions, and team rituals\n\nYou will receive regular guidance from your mentor and teammates. The scope of your work will grow progressively as you become familiar with the codebase, the tools, and the technical challenges.\n\n\nWHO YOU ARE\n\nBefore you read on, if you do not have the exact profile described below but feel that this internship matches your skills and interests, we still encourage you to apply.\n\nYou will be a great fit if you:\n\n - Are in the final year of a degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field\n\n - Have basic experience with Python through coursework, personal projects, research, or previous internships\n\n - Have a basic understanding of programming concepts, data structures, and software development\n\n - Are curious about artificial intelligence and interested in understanding how AI systems work\n\n - Are comfortable communicating in English, both written and spoken\n\nIt would be fantastic if you:\n\n - Have worked on a project involving machine learning, natural language processing, or large language models\n\n - Have used agentic frameworks like Langchain or Google ADK.\n\n - Have experimented with AI APIs, prompting, retrieval, or conversational interfaces\n\n - Have experience in taking products to production and supporting them with real users.\n\n - Have some experience with Git, APIs, testing, or data analysis\n\n - Have an interest in healthcare, privacy, or responsible AI\n\n\nLIFE AT DOCTOLIB TECH\n\nOur products are built on a cloud-native platform that supports web and mobile applications across several countries and healthcare systems.\n\nEven if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices.\n\nDiscover our AI vision here https://careers.doctolib.com/ai-careers/ and learn more about our tech culture on the Doctolib Tech site https://careers.doctolib.com/tech-doctolib/.\n\n\nWHAT WE OFFER\n\n - A structured internship with dedicated mentoring\n\n - The opportunity to work on real AI projects in a healthcare environment\n\n - Technical learning sessions and access to internal engineering communities\n\n - Access to AI tools for coding, development, and learning\n\n - Meal vouchers\n\n - Free breakfast in the office\n\n - Up to 2 days of remote work per week\n\n - A flexible workplace policy, depending on the team and location\n\n - A collaborative and international working environment\n\n\nTHE INTERVIEW PROCESS\n\n - Coding Game\n\n - Recruiter Interview\n\n - Technical Interview\n\n - Behavioral Interview\n\n\nJOB DETAILS\n\n - Internship, 6 months, full-time\n\n - Location: Berlin, Paris, Nantes, Milan, or Amsterdam\n\n - Hybrid work setup, up to 2 remote days per week\n\n - Start date: March 2027\n\n - Salary : 1000€ gross per month\n\n\nWE WELCOME EVERYONE\n\nAt Doctolib, we are committed to improving access to healthcare for everyone. We evaluate candidates based on their qualifications, motivation, and potential, without discrimination.\n\nThe more diverse ideas are heard, the better our products can serve patients and healthcare professionals. We welcome applications regardless of gender, religion, age, sexual orientation, ethnicity, disability, or place of origin.\n\nTo support an inclusive recruitment process, we invite you to leave personal information such as pictures and age off your application. If you require an accommodation during the interview process, please let us know.\n\nJoin us in building the healthcare we all dream of!\n\n\nYOUR DATA PRIVACY\n\nAll information provided through this application is processed by Doctolib for recruitment purposes. For more information about how Doctolib processes your application data, please consult the relevant privacy policy:\n\n - Germany https://doctolib.legal/B2C-Privacy-Policy-Career-DE\n\n - France https://doctolib.legal/B2C-Privacy-Policy-Career-FR\n\n - Italy https://doctolib.legal/B2C-Privacy-Policy-Career-IT\n\n - The Netherlands https://doctolib.legal/B2C-Privacy-Policy-Career-COM\n\nFor questions or to exercise your rights, please contact hr.dataprivacy(at)doctolib.com http://doctolib.com/.",
+  "tier": "B",
+  "geo": "EU",
+  "dirs": [
+   "llm",
+   "agent"
+  ],
+  "start_hint": "- Start date: March 2027"
+ },
+ {
+  "src": "ashby",
   "company": "sierra",
   "title": "Software Engineer Intern, Agent (Summer 2027)  [Summer 2027 ✓]",
   "loc": "San Francisco, CA, New York, NY",
   "etype": "Intern",
   "pub": "2026-08-31",
   "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
-  "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nSierra was co-founded by Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/ who first met while working together at Google over 20 years ago. Bret currently serves as Chairman of the Board of Open AI. Previously, he was co-CEO of Salesforce and CTO of Facebook. Clay spent 18 years at Google, where he most recently led Google Labs.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\n\n - Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\n\n - Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\n\n - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits\n\n - Lunch, as well as delicious snacks and coffee to keep you energized when working onsite\n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region and employment type, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply through the link on this page even if your experience doesn't precisely match the job description.\n\nSierra is a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state or local laws, including veteran status and disability status. Hiring decisions are made by people, based on merit. If you need a reasonable accommodation for a disability, a religious practice, pregnancy or any related condition at any point in the application or interview process, contact us at accommodations@sierra.ai. Requests are handled confidentially and do not affect your candidacy.\n\nWe will consider qualified applicants with arrest and conviction records in accordance with applicable fair chance laws.",
+  "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nSierra was co-founded by Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/ who first met while working together at Google over 20 years ago. Bret currently serves as Chairman of the Board of Open AI. Previously, he was co-CEO of Salesforce and CTO of Facebook. Clay spent 18 years at Google, where he most recently led Google Labs.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We do the right thing, even when no one is looking, and even when it’s hard. When we screw up, we take accountability, fully and completely. We act in such a way that if all of our actions were completely visible to our customers, we would be proud.\n\n - Customer Obsession: Our entire business is designed to ensure every agent built on Sierra succeeds, and that we are accountable to our customers and their success. We do whatever it takes to make our customers successful, and we go the extra mile in how we show up as a partner with unreasonable hospitality.\n\n - Craftsmanship: A great company is the aggregation of thousands of things done well. As they say, “how you do anything is how you do everything”. Most important is craftsmanship in building agents that are so great that people thank them at the end of a call. That’s the standard.\n\n - Intensity: We operate with urgency, and we want to win. We are never complacent. We fight to win every deal, big or small, using the full force of the company. And when we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We work hard, and turn on the afterburners when needed. But we pick up our parents at the airport when they’re visiting from out of town. We go to our kids’ events. And we show up for one another, in moments of celebration and hardship.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits\n\n - Lunch, as well as delicious snacks and coffee to keep you energized when working onsite\n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region and employment type, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply through the link on this page even if your experience doesn't precisely match the job description.\n\nSierra is a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state or local laws, including veteran status and disability status. Hiring decisions are made by people, based on merit. If you need a reasonable accommodation for a disability, a religious practice, pregnancy or any related condition at any point in the application or interview process, contact us at accommodations@sierra.ai. Requests are handled confidentially and do not affect your candidacy.\n\nWe will consider qualified applicants with arrest and conviction records in accordance with applicable fair chance laws.",
   "tier": "A",
   "geo": "US",
   "dirs": [
@@ -91,7 +159,7 @@
   "etype": "Intern",
   "pub": "2026-10-20",
   "url": "https://jobs.ashbyhq.com/Sierra/7af8aa4e-ba84-49ba-bc53-19358f4564ff",
-  "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nSierra was co-founded by Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/ who first met while working together at Google over 20 years ago. Bret currently serves as Chairman of the Board of Open AI. Previously, he was co-CEO of Salesforce and CTO of Facebook. Clay spent 18 years at Google, where he most recently led Google Labs.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We build trust with our customers with our accountability, empathy, quality, and responsiveness. We build trust in AI by making it more accessible, safe, and useful. We build trust with each other by showing up for each other professionally and personally, creating an environment that enables all of us to do our best work.\n\n - Customer Obsession: We deeply understand our customers’ business goals and relentlessly focus on driving outcomes, not just technical milestones. Everyone at the company knows and spends time with our customers. When our customer is having an issue, we drop everything and fix it.\n\n - Craftsmanship: We get the details right, from the words on the page to the system architecture. We have good taste. When we notice something isn’t right, we take the time to fix it. We are proud of the products we produce. We continuously self-reflect to continuously self-improve.\n\n - Intensity: We know we don’t have the luxury of patience. We play to win. We care about our product being the best, and when it isn’t, we fix it. When we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We are the best technology company for parents. We support and respect each other and celebrate each other’s personal and professional achievements.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits\n\n - Lunch, as well as delicious snacks and coffee to keep you energized when working onsite\n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region and employment type, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply through the link on this page even if your experience doesn't precisely match the job description.\n\nSierra is a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state or local laws, including veteran status and disability status. Hiring decisions are made by people, based on merit. If you need a reasonable accommodation for a disability, a religious practice, pregnancy or any related condition at any point in the application or interview process, contact us at accommodations@sierra.ai. Requests are handled confidentially and do not affect your candidacy.\n\nWe will consider qualified applicants with arrest and conviction records in accordance with applicable fair chance laws.",
+  "desc": "ABOUT US\n\nSierra is the leading platform for customer-facing AI agents, working with many of the world's biggest brands — including The GAP, Rocket Mortgage, SoFi, Sutter Health, and SoftBank — to transform how they serve customers and grow their businesses. We are primarily an in-person company based in San Francisco, with growing offices across North America, Europe, and Asia.\n\nWe are guided by a set of values that are at the core of our actions and define our culture: Trust, Customer Obsession, Craftsmanship, Intensity, and a commitment to balancing Family along the way. These values are the foundation of our work, and we are committed to upholding them in everything we do.\n\nSierra was co-founded by Bret Taylor https://www.linkedin.com/in/brettaylor/ and Clay Bavor https://www.linkedin.com/in/claybavor/ who first met while working together at Google over 20 years ago. Bret currently serves as Chairman of the Board of Open AI. Previously, he was co-CEO of Salesforce and CTO of Facebook. Clay spent 18 years at Google, where he most recently led Google Labs.\n\nAs a Software Engineer Intern, Agent, you'll work directly on production AI agents for Sierra's customers. You'll gain hands-on experience contributing to the design and development of AI agents, shipping features, and learning from real-world use cases at scale. If you're hungry to shape and learn from the most important technological wave in history, come build at Sierra.\n\n \n\n\nWHAT YOU'LL BRING\n\n - Pursuing a bachelor's or master's degree in computer science or a related field\n\n - Strong technical problem-solving skills, especially in fast-changing, ambiguous environments\n\n - A builder and tinkerer’s mindset with high agency - you find creative ways to overcome obstacles and ship\n\n - Excellent communication skills - clear, direct, and persuasive across technical and non-technical audiences\n\n\nEVEN BETTER\n\n - Experience building or deploying AI/LLM systems in production\n\n - Familiarity with tools that power today's AI agents: eval frameworks, agent tooling, RAG pipelines, and prompt engineering\n\n - Prior experience with React, TypeScript, and/or Go\n\n\nINTERN QUALIFICATIONS\n\n - The intern program is open to students graduating December 2027 - June 2028\n\n - Note: The full benefits listed below are available only to full-time employees. Interns are eligible for a monthly stipend for health insurance, daily lunch, and, of course, free alphorn lessons.\n\n\nOUR VALUES\n\n - Trust: We do the right thing, even when no one is looking, and even when it’s hard. When we screw up, we take accountability, fully and completely. We act in such a way that if all of our actions were completely visible to our customers, we would be proud.\n\n - Customer Obsession: Our entire business is designed to ensure every agent built on Sierra succeeds, and that we are accountable to our customers and their success. We do whatever it takes to make our customers successful, and we go the extra mile in how we show up as a partner with unreasonable hospitality.\n\n - Craftsmanship: A great company is the aggregation of thousands of things done well. As they say, “how you do anything is how you do everything”. Most important is craftsmanship in building agents that are so great that people thank them at the end of a call. That’s the standard.\n\n - Intensity: We operate with urgency, and we want to win. We are never complacent. We fight to win every deal, big or small, using the full force of the company. And when we fail, we talk about it openly and without blame so we succeed the next time.\n\n - Family: We know that balance and intensity are compatible, and we model it in our actions and processes. We work hard, and turn on the afterburners when needed. But we pick up our parents at the airport when they’re visiting from out of town. We go to our kids’ events. And we show up for one another, in moments of celebration and hardship.\n\n\nWHAT WE OFFER\n\nWe want our benefits to reflect our values and offer the following to full-time employees:\n\n - Flexible (unlimited) paid time off\n\n - Medical, dental, and vision benefits for you and your family\n\n - Life insurance and disability benefits\n\n - Retirement plan dependent on country of employment\n\n - Parental leave\n\n - Fertility and family building benefits\n\n - Lunch, as well as delicious snacks and coffee to keep you energized when working onsite\n\n - Discretionary benefit stipend giving people the ability to spend where it matters most\n\n - Free alphorn lessons\n\nThese benefits are further detailed in Sierra's policies, may vary by region and employment type, and are subject to change at any time, consistent with the terms of any applicable compensation or benefits plans. Eligible full-time employees can participate in Sierra's equity plans subject to the terms of the applicable plans and policies.\n\n\nBE YOU, WITH US\n\nWe're working to bring the transformative power of AI to every organization in the world. To do so, it is important to us that the diversity of our employees represents the diversity of our customers. We believe that our work and culture are better when we encourage, support, and respect different skills and experiences represented within our team. We encourage you to apply through the link on this page even if your experience doesn't precisely match the job description.\n\nSierra is a proud equal opportunity employer. All qualified applicants will receive consideration for employment without regard to any characteristic protected by applicable federal, state or local laws, including veteran status and disability status. Hiring decisions are made by people, based on merit. If you need a reasonable accommodation for a disability, a religious practice, pregnancy or any related condition at any point in the application or interview process, contact us at accommodations@sierra.ai. Requests are handled confidentially and do not affect your candidacy.\n\nWe will consider qualified applicants with arrest and conviction records in accordance with applicable fair chance laws.",
   "tier": "A",
   "geo": "EU",
   "dirs": [
@@ -142,7 +210,7 @@
   "etype": "FullTime",
   "pub": "2026-10-12",
   "url": "https://jobs.ashbyhq.com/snowflake/418a8f32-1658-47d9-9450-ed3a6e947215",
-  "desc": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nWe’re at the forefront of the AI revolution, building the world’s leading data and applications platform. At Snowflake, our \"get it done\" culture empowers everyone to innovate, create impactful work, and thrive in a highly collaborative environment.\n\nWe are looking for a talented and motivated Software Engineering Intern to join our AI-focused R&D team. In this role, you will contribute to cutting-edge AI-powered products, such as Snowflake Intelligence https://www.snowflake.com/en/product/snowflake-intelligence/, which helps business users extract insights from large-scale data. Your work will be directly integrated into the Snowflake platform, driving AI innovation in data applications.\n\n\nWHAT WE OFFER:\n\n - Paid, full-time internship within a dynamic AI-driven R&D team\n\n - Collaboration with world-class experts on groundbreaking AI/ML research projects\n\n - Direct mentorship and structured feedback, including regular check-ins and a final evaluation\n\n - Integration as a full-fledged teammate of the Snowflake AI R&D Team\n\n - Post-internship career opportunities (full-time and/or additional internships)\n   \n\nWHAT WE EXPECT:\n\n - Must be actively enrolled in an accredited college/university program during the time of the internship\n\n - Strong programming skills in at least one of: Python, Go, or Java\n\n - Familiarity with ML frameworks (e.g., PyTorch, TensorFlow) and data processing systems (e.g., Spark, Snowpark).\n\n - Understanding of distributed systems, model serving, or inference infrastructure.\n\n - Proven ability to write clean, efficient, and scalable code.\n\n - Prior exposure to the software development lifecycle, with a commitment to applying best practices\n\n - Ability to work independently while effectively collaborating within a team\n\n - Strong communication skills to present insights and recommendations to both technical and non-technical audiences\n\n - Duration: Minimum 4 months (recommended 6 months, up to 12 months supported)\n   \n   \n   WHAT YOU WILL LEARN/GAIN:\n\n - Design, implement, and maintain AI-powered systems and infrastructure for large-scale data processing and inference.\n\n - Collaborate with AI researchers and product teams to bring novel ML methods into production.\n\n - Develop robust, scalable, and efficient ML pipelines, from model training to deployment.\n\n - Optimize model serving, latency, and cost efficiency in distributed environments.\n\n - Contribute to high-quality, maintainable codebases, including testing, documentation, and CI/CD.\n\nParticipate in code reviews and cross-team design discussions to ensure best engineering practices.\n\n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
+  "desc": "At Snowflake, we are powering the era of the agentic enterprise. To usher in this new era, we seek AI-native thinkers across every function who are energized by the opportunity to reinvent how they work. You don’t just use tools; you possess an innate curiosity, treating AI as a high-trust collaborator that is core to how you solve problems and accelerate your impact. We look for low-ego individuals who thrive in dynamic and fast-moving environments and move with an experimental mindset — who rapidly test emerging capabilities to discover simpler, more powerful ways to deliver results. At Snowflake, your role isn't just to execute a function, but to help redefine the future of how work gets done.\n\n\nWe’re at the forefront of the AI revolution, building the world’s leading data and applications platform. At Snowflake, our \"get it done\" culture empowers everyone to innovate, create impactful work, and thrive in a highly collaborative environment.\n\nWe are looking for a talented and motivated Software Engineering Intern to join our AI-focused R&D team. In this role, you will contribute to cutting-edge AI-powered products, such as Snowflake Intelligence https://www.snowflake.com/en/product/snowflake-intelligence/, which helps business users extract insights from large-scale data. Your work will be directly integrated into the Snowflake platform, driving AI innovation in data applications.\n\n\nWHAT WE OFFER:\n\n - Paid, full-time internship within a dynamic AI-driven R&D team\n\n - Collaboration with world-class experts on groundbreaking AI/ML research projects\n\n - Direct mentorship and structured feedback, including regular check-ins and a final evaluation\n\n - Integration as a full-fledged teammate of the Snowflake AI R&D Team\n\n - Post-internship career opportunities (full-time and/or additional internships)\n   \n\nWHAT WE EXPECT:\n\n - Must be actively enrolled in an accredited college/university program during the time of the internship\n\n - Strong programming skills in at least one of: Python, Go, or Java\n\n - Familiarity with ML frameworks (e.g., PyTorch, TensorFlow) and data processing systems (e.g., Spark, Snowpark).\n\n - Understanding of distributed systems, model serving, or inference infrastructure.\n\n - Proven ability to write clean, efficient, and scalable code.\n\n - Prior exposure to the software development lifecycle, with a commitment to applying best practices\n\n - Ability to work independently while effectively collaborating within a team\n\n - Strong communication skills to present insights and recommendations to both technical and non-technical audiences\n\n - Duration: Minimum 4 months (recommended 6 months, up to 12 months supported)\n\n - Required to work from designated office full time\n   \n   \n   WHAT YOU WILL LEARN/GAIN:\n\n - Design, implement, and maintain AI-powered systems and infrastructure for large-scale data processing and inference.\n\n - Collaborate with AI researchers and product teams to bring novel ML methods into production.\n\n - Develop robust, scalable, and efficient ML pipelines, from model training to deployment.\n\n - Optimize model serving, latency, and cost efficiency in distributed environments.\n\n - Contribute to high-quality, maintainable codebases, including testing, documentation, and CI/CD.\n\n - Participate in code reviews and cross-team design discussions to ensure best engineering practices.\n   \n\nSnowflake is growing fast, and we’re scaling our team to help enable and accelerate our growth. We are looking for people who share our values, challenge ordinary thinking, and push the pace of innovation while building a future for themselves and Snowflake.\n\nHow do you want to make your impact?\n\nFor jobs located in the United States, please visit the job posting on the Snowflake Careers Site for salary and benefits information: careers.snowflake.com http://careers.snowflake.com",
   "tier": "B",
   "geo": "EU",
   "dirs": [
@@ -166,75 +234,6 @@
    "agent"
   ],
   "start_hint": "We are seeking talented Spring ‘27 and Summer ‘27 IA Research Engineer interns to build th"
- },
- {
-  "src": "greenhouse",
-  "company": "togetherai",
-  "title": "Research Intern, Frontier Speculative Decoding (Summer 2027)  [Summer 2027 ✓]",
-  "loc": "San Francisco, San Francisco",
-  "etype": "",
-  "pub": "2026-10-16",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5267198007",
-  "desc": "<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About the Role</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">The Speculative Decoding team at Together AI builds the draft models and algorithms that let large language models generate faster without changing their outputs. Our speculators run in production on frontier open models such as DeepSeek, Kimi and GLM. Our work sits at the intersection of model training, inference algorithms and serving systems, and we co-design all three to lower the cost and latency of generation.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">As a research intern, you will dive into open questions in speculative decoding: new drafter architectures and verification schemes, knowledge distillation and training recipes that align draft and target models, and drafters that adapt as traffic shifts. You will train and fine-tune draft models at scale on dedicated GPU clusters, and test your ideas against realistic serving workloads, including long-context and agentic traffic.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Projects aim to answer important research questions in speculative decoding, enabling faster generation on frontier models, drafters that keep pace with changing workloads, and robust, reproducible evaluation under real traffic.</span></p>\n<h3 id=\"past-research\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Past Research</span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Speculative decoding research by Together researchers, interns and academic collaborators includes:</span></p>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://openreview.net/forum?id=aL1Wnml9Ef\" target=\"_blank\">Speculative Speculative Decoding</a> (ICLR 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2602.06932\" target=\"_blank\">When RL Meets Adaptive Speculative Training: A Unified Training-Serving System</a> (ICML 2026)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\"><a href=\"https://arxiv.org/abs/2511.13841\" target=\"_blank\">Beat the Long Tail: Distribution-Aware Speculative Decoding for RL Training</a> (MLSys 2026)</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Responsibilities</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Research and prototype new efficient speculative decoding algorithms and draft model architectures</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Train, fine-tune and distill draft models, and design rigorous experiments to validate hypotheses.</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Implement optimized version for serving engines to show efficacy in real world workloads</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Communicate the plans, progress, and results of projects to the broader team</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Share findings through technical write-ups and blog posts, and help bring successful ideas into production</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Requirements</strong></span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Currently pursuing a Master's or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Strong knowledge of Machine Learning and Deep Learning fundamentals</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Hands-on experience training or fine-tuning large models with distributed training frameworks (e.g., Megatron-LM, FSDP)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with modern model architectures, such as Mixture-of-Experts and hybrid attention</span></li>\n</ul>\n<h3 id=\"preferred-qualifications\" data-lfile-container=\"75b2226e-f583-4bc8-a073-fba516e11feb\" data-pm-slice=\"1 3 []\"><span style=\"font-family: helvetica, arial, sans-serif;\">Preferred Qualifications</span></h3>\n<ul>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Prior research experience in speculative decoding, efficient inference, or efficient machine learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Publications at leading conferences in machine learning or systems (e.g., NeurIPS, ICML, ICLR, MLSys)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Experience with knowledge distillation, post-training, or reinforcement learning</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Familiarity with LLM serving engines (e.g., vLLM, SGLang, TensorRT-LLM)</span></li>\n<li style=\"font-family: helvetica, arial, sans-serif;\"><span style=\"font-family: helvetica, arial, sans-serif;\">Contributions to open-source machine learning projects</span></li>\n</ul>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>About Together AI</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Internship Program Details</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span May 17th to August 6th or June 14th to September 3rd.</span></p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Compensation</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 - $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</span></p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><span style=\"font-family: helvetica, arial, sans-serif;\"><strong>Equal Opportunity</strong></span></h3>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</span></p>\n<p><span style=\"font-family: helvetica, arial, sans-serif;\">For more information about our privacy policy, please visit:<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></span></p>\n<h3><br><br><br></h3>",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "agent",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "greenhouse",
-  "company": "togetherai",
-  "title": "Research Intern, Inference (Summer 2027)  [Summer 2027 ✓]",
-  "loc": "San Francisco, San Francisco",
-  "etype": "",
-  "pub": "2026-09-18",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238462007",
-  "desc": "<h3><strong>About The Role&nbsp;&nbsp;</strong></h3>\n<p>The Inference Research team is dedicated to building the next generation of efficient, scalable, and reliable serving systems for large foundation models, directly contributing to the mission of advancing open and transparent AI. Our work operates at the critical intersection of cutting-edge model architectures, high-performance systems engineering, and deep hardware optimization. We focus on co-designing software, algorithms, and models to significantly lower the cost and latency of modern AI systems.</p>\n<p>As a research intern, you will dive into the complexities of distributed inference, compiler-aware optimization, and novel inference-time computation strategies (such as speculative decoding and phase-aware execution). You will be tasked with co-designing and implementing cross-layer optimizations across models, systems, and hardware, with a focus on areas like KV cache design and large-scale serving architectures.</p>\n<p>Projects aim to unlock unprecedented performance and scale for foundation models, enabling faster serving, larger model deployment (e.g., Mixture-of-Experts), and robust, reproducible evaluation under realistic serving workloads.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Communicate the plans, progress, and results of projects to the broader team</li>\n<li>Document findings in scientific publications and blog posts</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a final year of Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Strong programming skills in Python</li>\n<li>Familiarity with Transformer architectures and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Qualifications</strong></h3>\n<ul>\n<li>Prior research experience in <strong>foundation models</strong>, <strong>efficient machine learning</strong>, or <strong>ML systems</strong>.</li>\n<li>Publications at leading conferences in machine learning or systems (i.e., <strong>MLSys, ICLR</strong>).</li>\n<li>Experience with CUDA programming (for kernel development)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "greenhouse",
-  "company": "togetherai",
-  "title": "Research Intern, Model Shaping (Summer 2027)",
-  "loc": "San Francisco, Amsterdam, San Francisco",
-  "etype": "",
-  "pub": "2026-09-18",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238466007",
-  "desc": "<h3><strong>About the Role</strong></h3>\n<p>As a Research Intern in the Model Shaping team, you will work on one or more of the following areas:</p>\n<ul>\n<li>Advanced post-training methods across supervised learning, preference optimization, and reinforcement learning</li>\n<li>New techniques and systems for efficient training of neural networks (e.g., distributed training, algorithmic improvements, optimization methods)</li>\n<li>Robust and reliable evaluation of foundation model capabilities</li>\n</ul>\n<p>The Model Shaping team at Together AI works on products and research for tailoring open foundation models to downstream applications. We build services that allow machine learning developers to choose the best models for their tasks and further improve these models using domain-specific data. In addition to that, we develop new methods for more efficient model training and evaluation, drawing inspiration from a broad spectrum of ideas across machine learning, natural language processing, and ML systems.</p>\n<p>Past research led by Model Shaping interns resulted in the following publications:</p>\n<ul>\n<li><a href=\"https://arxiv.org/abs/2511.21667\">Escaping the Verifier: Learning to Reason via Demonstrations</a> (ICML 2026)</li>\n<li><a href=\"https://arxiv.org/abs/2602.21196\">Untied Ulysses: Memory-Efficient Context Parallelism via Headwise Chunking</a> (ICML 2026)</li>\n<li>​​<a href=\"https://arxiv.org/abs/2505.17967\">FFT-based Dynamic Subspace Selection for Low-Rank Adaptive Optimization of Large Language Models</a> (ICLR 2026)</li>\n</ul>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Research and implement novel techniques in one or more of our focus areas</li>\n<li>Design and conduct rigorous experiments to validate hypotheses</li>\n<li>Document findings in scientific publications and blog posts</li>\n<li>Integrate the research results into Together products</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Currently pursuing a Bachelor's, Master's, or Ph.D. degree in Computer Science, Electrical Engineering, or a related field</li>\n<li>Strong knowledge of Machine Learning and Deep Learning fundamentals</li>\n<li>Experience with deep learning frameworks (PyTorch, JAX, etc.)</li>\n<li>Familiarity with the Transformer architecture and recent developments in foundation models</li>\n</ul>\n<h3><strong>Preferred Requirements</strong></h3>\n<ul>\n<li>Prior research experience with training foundation models or efficient machine learning</li>\n<li>Publications at leading ML and NLP conferences (such as NeurIPS, ICML, ICLR, ACL, or EMNLP)</li>\n<li>Understanding of model optimization techniques and hardware acceleration approaches</li>\n<li>Contributions to open-source machine learning projects</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd in our San Francisco or Amsterdam office.</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
-  "tier": "B",
-  "geo": "EU",
-  "dirs": [
-   "llm",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "greenhouse",
-  "company": "togetherai",
-  "title": "Systems Research Engineer Intern - GPU Programming (Summer 2027)  [Summer 2027 ✓]",
-  "loc": "San Francisco, San Francisco",
-  "etype": "",
-  "pub": "2026-09-18",
-  "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238460007",
-  "desc": "<h3><strong>Role Overview</strong></h3>\n<p>As a Systems Research Engineer Intern specialized in GPU Programming, you will play a crucial role in developing and optimizing GPU-accelerated kernels and algorithms for ML/AI applications. Working closely with the modeling and algorithm team, you will co-design GPU kernels and model architecture to enhance the performance and efficiency of our AI systems. Collaborating with the hardware and software teams, you will contribute to the co-design of efficient GPU architectures and programming models, leveraging your expertise in GPU programming and parallel computing. Your research skills will be vital in staying up-to-date with the latest advancements in GPU programming techniques, ensuring that our AI infrastructure remains at the forefront of innovation.</p>\n<h3><strong>Responsibilities</strong></h3>\n<ul>\n<li>Optimize and fine-tune GPU code to achieve better performance and scalability</li>\n<li>Collaborate with cross-functional teams to integrate GPU-accelerated solutions into existing software systems</li>\n<li>Stay up-to-date with the latest advancements in GPU programming techniques and technologies</li>\n</ul>\n<h3><strong>Requirements</strong></h3>\n<ul>\n<li>Strong background in GPU programming and parallel computing, such as CUDA and/or Triton.</li>\n<li>Knowledge of ML/AI applications and models</li>\n<li>Knowledge of performance profiling and optimization tools for GPU programming</li>\n<li>Excellent problem-solving and analytical skills</li>\n</ul>\n<h3><strong>About Together AI</strong></h3>\n<p>Together AI, the AI Native Cloud, is purpose-built for AI engineers. AI application developers get high-performance inference that scales reliably, fine-tuning and reinforcement learning for creating frontier-level specialized models, and pre-training at massive scale for fully custom intelligence, all around a marketplace of leading open models that teams can run, adapt, and own. Trusted by Cursor, Decagon, ElevenLabs, Salesforce, and Zoom, Together serves 400+ trillion tokens a month.</p>\n<h3><strong>Internship Program Details:&nbsp;</strong></h3>\n<p>Our internship program runs 12 to 14 weeks, giving you the opportunity to work alongside industry-leading engineers and researchers across multiple teams. This cohort's internship dates span either May 17th to August 6th or June 14th to September 3rd.&nbsp;</p>\n<h3><strong>Compensation</strong></h3>\n<p>We offer competitive compensation, housing stipends, and other competitive benefits. The estimated US hourly rate for this role is $58 to $70 an hour. Our hourly rates are determined by location, level and role. Individual compensation will be determined by experience, skills, and job-related knowledge.</p>\n<h3><strong>Application Policy</strong></h3>\n<p>Please read each role carefully and apply to the position best suited to you. Candidates are limited to 6 applications within a 90-day period, and applications beyond that limit will be automatically rejected. You may apply to additional roles 90 days after your last application.</p>\n<h3><strong>Equal Opportunity</strong></h3>\n<p>Together AI is an Equal Opportunity Employer and is proud to offer equal employment opportunity to everyone regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, veteran status, and more.</p>\n<p>Please see our privacy policy at<a href=\"https://www.together.ai/privacy\"> https://www.together.ai/privacy</a></p>",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm",
-   "rl"
-  ],
-  "start_hint": ""
  },
  {
   "src": "greenhouse",
@@ -618,6 +617,22 @@
  {
   "src": "lever",
   "company": "tri",
+  "title": "Future Product Innovation Research Intern, Computational Cognitive Science",
+  "loc": "Los Altos, CA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-11-17",
+  "url": "https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Team\nThis internship opportunity falls within the Human-Centered AI Division (HCAI). We are an integrated team of ML researchers, behavioral scientists, and human-computer interaction experts. At the core of our work, we aim to create purposeful human futures enabled through technology.\nThe Internship\nWe are seeking a highly motivated PhD research intern to join our Future Product Innovation team and advance the frontiers of Generative AI for product design. The ideal candidate will have a strong background in Computational Cognitive Science with a demonstrated interest at the intersection of human preferences, creativity, and machine learning. In this project, the intern will build models of human preference and flexible decision making, with a particular focus on understanding how people negotiate multiple goals across contexts and over time.\nOver the course of the project, in addition to Future Product Innovation group meetings, the intern will also participate in all Human-Centered AI division meetings and meetings with stakeholders from relevant Toyota business groups. The intern will be exposed to how interdisciplinary industrial research works and learn from our team as well as the other interns in our division. Furthermore, the intern will engage in strategy discussions about how their research connects to business impact at Toyota.\n",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
   "title": "Human Interactive Driving Research Intern, Perception for Driving at the Limits  [Summer 2027 ✓]",
   "loc": "Los Altos, CA, US, hybrid",
   "etype": "Intern",
@@ -710,6 +725,22 @@
   "geo": "US",
   "dirs": [
    "llm",
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "lever",
+  "company": "tri",
+  "title": "Robotics Intern, Agentic Robotics",
+  "loc": "Cambridge, MA, US, hybrid",
+  "etype": "Intern",
+  "pub": "2026-11-17",
+  "url": "https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49",
+  "desc": "At Toyota Research Institute (TRI), we’re on a mission to improve the quality of human life. We’re developing new tools and capabilities to amplify the human experience. To lead this transformative shift in mobility, we’ve built a world-class team advancing the state of the art in AI, robotics, driving, and material sciences.\nThis is a paid 12-week internship opportunity and is a hybrid, in-office role.\nHere’s a glimpse into the Internship experience from some of our TRI interns!\n\n\nThe Mission\nWe are working to create general-purpose robots capable of accomplishing a wide variety of dexterous tasks. To do this, our team is building general-purpose machine learning foundation models for dexterous robot manipulation. These models, which we call Large Behavior Models, use generative AI techniques to produce robot action from sensor data and human request. To accomplish this, we are creating a large curriculum of embodied robot demonstration data and combining that data with a rich corpus of internet-scale text, image, and video data. We are also using high-quality simulation to augment real world robot data with procedurally-generated synthetic demonstrations.\nThe Team\nThe Large Behavior Models team charter is to push the frontiers of research in robotics and machine learning to develop the future capabilities required for general-purpose robots able to operate in unstructured environments such as homes!\nThe Internship\nWe are looking for a research intern in the area of data-efficient and general algorithms for learning robust policies leveraging multiple sensing modalities including proprioception, images, force, audio, and dense tactile sensing.\nThe intern who joins our team will be expected to create working code and/or hardware prototypes, interact frequently with team members, run experiments with both simulated and real (physical) robots, and participate in publishing the work to peer-reviewed venues. We’re looking for an intern who is comfortable working with both existing large static datasets as well as a growing and dynamic corpus of robot data.\n",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
    "agent"
   ],
   "start_hint": ""
@@ -811,6 +842,22 @@
   "geo": "EU",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "AI Operations Intern, AI Clouds - Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
+  "etype": "Intern",
+  "pub": "2026-11-17",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+  "desc": " Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world.    Join NVIDIA’s AI Clouds team to build software and automation that help our teams support cloud partners and advance AI infrastructure programs. Working with a technical mentor and business partners, you’ll take a focused project from an initial problem statement to a working tool or feature. You’ll gain experience using AI-assisted development tools, gathering user feedback, and measuring how your work improves everyday workflows.    What you’ll be doing:    Build and deliver a scoped software tool or automation feature using AI-assisted development tools, with guidance from your technical mentor.  Work with partners across sales, marketing, strategy and operations, program management, and solutions architecture to understand manual workflows and define project requirements.  Test, debug, and refine your work, following the team’s practices for code review, data handling, and deployment.  Analyze usage and user feedback to understand adoption, identify improvements, and help scope future projects.  Create documentation and quick-start guides that help colleagues adopt and use the tools you build.     What we need to see:    Pursuing a BS or MS in Computer Science, Software Engineering, Data Science, or an equivalent program area.  Programming experience in Python, JavaScript, or TypeScript through coursework, personal projects, or previous internships.  Experience building a software application, automation script, or data project, with the ability to explain your approach and technical decisions.  Familiarity with APIs, structured data, and Git or another version-control system.  Experience testing and debugging code, including checking the correctness of AI-generated outputs.     Ways to stand out from the crowd:    Projects using AI coding assistants, large language models, or workflow automation.  Experience creating dashboards, analyzing product usage, or connecting data from multiple sources.  Interest in cloud computing and AI infrastructure, with curiosity about how software can improve business operations.      NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 34 USD – 59 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 21, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -981,12 +1028,12 @@
  {
   "src": "apple",
   "company": "Apple",
-  "title": "Cellular Baseband Security Research Intern",
+  "title": "Defensive AI Security Intern - Paris, France",
   "loc": "Paris, France",
   "etype": "Intern",
-  "pub": "2026-11-05",
-  "url": "https://jobs.apple.com/en-us/details/200693660-2911",
-  "desc": "Apple's Security Engineering & Architecture organization is responsible for the end-to-end security of Apple products, which are in use on over 2 billion active devices around the world. That mission is at the heart of everything we do, and our team approaches it from the offensive side by finding and helping eliminate vulnerabilities across Apple's hardware and software ecosystem, before adversaries can exploit them.\n\nWe are seeking a motivated student for a Cellular Baseband Security Research internship. The team you will join conducts full-stack security research across all major wireless technologies, including cellular, Wi-Fi, Bluetooth, Thread and satellite, covering both SoC firmware and host-side services. As a member of the team, you will work on developing emulation and AI-assisted analysis tools that support cellular baseband vulnerability discovery, crash triage, and fix verification.\n\nYou would be joining an extraordinary group of researchers who bring a range of backgrounds and perspectives to the work, and who are driven by curiosity, passion and genuine engagement with what they do. If you have strong technical experience and a passionate desire to secure systems, join us in protecting all Apple users. Our group engage in various activities, including vulnerability research, binary exploitation, security tooling development, fuzzing, machine learning and more. By developing and harnessing state-of-the-art technologies, we amplify our impact on Apple's product security.\n\nIn this internship, you will explore new ways to research the security of cellular baseband firmware without depending on complex hardware and RF test setups. You will survey the state of the art in baseband emulation, firmware rehosting and AI-based security research, and assess existing internal tooling to find opportunities for improvement. Building on these findings, you will help design and prototype an emulation-based framework that combines traditional and AI-assisted analysis, with the goal of making vulnerability discovery, triage and fix verification easier and more scalable. You will work closely with experienced security researchers on technically challenging problems at the intersection of wireless systems, firmware and AI. Knowledge of Apple operating systems such as iOS or macOS is a plus, but not required. Familiarity with cellular technologies, 3GPP standards (2G/3G/4G/5G) and baseband architectures\nSolid understanding of low-level systems, including embedded OS internals and ARM architecture, with hands-on experience in C, C++ and Python\nAbility to apply AI techniques and tools, such as LLMs, to security research and software development",
+  "pub": "2026-11-16",
+  "url": "https://jobs.apple.com/en-us/details/200694900-2911",
+  "desc": "Apple's DRM stack protects media content and applications. Across the industry, external attackers increasingly use LLMs — interactively or via automated/agentic pipelines — to accelerate reverse-engineering of software protections; this is a general and growing trend, not specific to any one target. This internship addresses that trend directly: developing, from first principles, inputs that measurably perturb an LLM's internal state (activations, attention distributions, representation geometry) in ways that degrade its ability to usefully assist an attacker analyzing protected code/binaries. This internship addresses that trend directly: developing, from first principles, inputs that measurably perturb an LLM's internal state (activations, attention distributions, representation geometry) in ways that degrade its ability to usefully assist an attacker analyzing protected code/binaries.\n\nPlease note: Ideally, we would prefer applications for individuals based within France, specifically Paris. We will require you to access the office in Paris 3 x a week, and 2 days remote working from home. We will not be sponsoring visa's or relocating individuals for this internship.  Currently completing a Master's degree or enrolled in a PhD, in Computer Science, Applied Mathematics, or a related field, with strong theoretical grounding.\nStrong foundations in linear algebra, optimization (convex and non-convex), and probability/information theory, and ability to apply them to deep learning internals rather than just use libraries.\nSolid understanding of transformer architecture internals (attention mechanics, residual stream, embeddings) at a mathematical level.\nHands-on experience with gradient-based adversarial attack techniques (FGSM/PGD-style methods, discrete optimization for token sequences, universal adversarial perturbations).\nProficiency in Python and PyTorch, including writing custom gradient computations/hooks into model internals (not just using high-level APIs).",
   "tier": "B",
   "geo": "FR",
   "dirs": [
@@ -998,15 +1045,16 @@
  {
   "src": "apple",
   "company": "Apple",
-  "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+  "title": "Cellular Baseband Security Research Intern",
   "loc": "Paris, France",
   "etype": "Intern",
-  "pub": "2026-11-11",
-  "url": "https://jobs.apple.com/en-us/details/200689695-2911",
-  "desc": "AI agents have reached the point where they find real vulnerabilities in software. How well they do depends heavily on the harness around the model: its tools, scaffolding, model choice, memory, and orchestration. Hand-tuning these harnesses does not scale, and agents that improve their own harnesses are still largely unexplored especially for security-related tasks. In this role, you will contribute to this effort: building on existing work towards creating agents and methods that design, evaluate, and improve their own harness.\nApple's Security Engineering & Architecture organization is responsible for the security of every Apple product. AI is rapidly changing how cybersecurity work gets done. When it comes to securing more than a billion devices running the world's most sophisticated operating systems, that means ensuring that we make full use of AI's capabilities while maintaining high-quality standards. This internship focuses on developing methods for automatically improving AI agents for security tasks.\nDuring this internship, you will work with some of the best security researchers in the world to apply AI to real-world security problems and to develop new AI methods. We are looking for students in AI/ML with an interest in agentic AI who want to take on the hard, open problems that cybersecurity offers. No prior experience in cybersecurity is required. Security tasks are a distinctive setting for agentic self-improvement. (a) Success is highly verifiable but rare. (b) The search space is vast and the horizons are extremely long. (c) They are grounded in real-life codebases that constantly evolve. These properties make security both a demanding test and a rich source of signal for continuously improving agents automatically. While base models provide the basis of an agent's capability, the harness around them has a large effect on many of the required attributes.\n\nThe goal of this internship is to experiment with new self-improvement methods on real-world security problems. You will study how to automatically improve harnesses on cost, performance, robustness, and how to feed-in signals from the software development lifecycle into that process. Novel ideas will be required to tackle these challenges. Code and the agent's environment constantly evolve: fixes for past issues may not lead to future ones, and the harness must keep evolving. Because agents are non-deterministic and successes are sparse, telling signal from noise is both critical and hard. Solving these challenges calls for novel techniques that draw on state-of-the-art LLM research, active learning, black-box optimization, software engineering practice, and program analysis. Currently doing a degree in one of the following fields: machine learning, AI, software engineering, computer science, security, or a related field.\nExperience building, experimenting with, and evaluating agentic AI systems (e.g., with LangChain, LangGraph, OpenHands SDK, Pi).\nStrong software engineering skills in Python, and experience with agentic coding.\nAutonomous drive, a collaborative mindset, and a proactive approach to problem-solving.",
-  "tier": "A",
+  "pub": "2026-11-05",
+  "url": "https://jobs.apple.com/en-us/details/200693660-2911",
+  "desc": "Apple's Security Engineering & Architecture organization is responsible for the end-to-end security of Apple products, which are in use on over 2 billion active devices around the world. That mission is at the heart of everything we do, and our team approaches it from the offensive side by finding and helping eliminate vulnerabilities across Apple's hardware and software ecosystem, before adversaries can exploit them.\n\nWe are seeking a motivated student for a Cellular Baseband Security Research internship. The team you will join conducts full-stack security research across all major wireless technologies, including cellular, Wi-Fi, Bluetooth, Thread and satellite, covering both SoC firmware and host-side services. As a member of the team, you will work on developing emulation and AI-assisted analysis tools that support cellular baseband vulnerability discovery, crash triage, and fix verification.\n\nYou would be joining an extraordinary group of researchers who bring a range of backgrounds and perspectives to the work, and who are driven by curiosity, passion and genuine engagement with what they do. If you have strong technical experience and a passionate desire to secure systems, join us in protecting all Apple users. Our group engage in various activities, including vulnerability research, binary exploitation, security tooling development, fuzzing, machine learning and more. By developing and harnessing state-of-the-art technologies, we amplify our impact on Apple's product security.\n\nIn this internship, you will explore new ways to research the security of cellular baseband firmware without depending on complex hardware and RF test setups. You will survey the state of the art in baseband emulation, firmware rehosting and AI-based security research, and assess existing internal tooling to find opportunities for improvement. Building on these findings, you will help design and prototype an emulation-based framework that combines traditional and AI-assisted analysis, with the goal of making vulnerability discovery, triage and fix verification easier and more scalable. You will work closely with experienced security researchers on technically challenging problems at the intersection of wireless systems, firmware and AI. Knowledge of Apple operating systems such as iOS or macOS is a plus, but not required. Familiarity with cellular technologies, 3GPP standards (2G/3G/4G/5G) and baseband architectures\nSolid understanding of low-level systems, including embedded OS internals and ARM architecture, with hands-on experience in C, C++ and Python\nAbility to apply AI techniques and tools, such as LLMs, to security research and software development",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
+   "llm",
    "agent"
   ],
   "start_hint": ""
@@ -1248,39 +1296,6 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Intership Agentic Multimodal AI for Understanding and Reasoning over Complex Technical Documents-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-11",
-  "url": "https://fr.linkedin.com/jobs/view/intership-agentic-multimodal-ai-for-understanding-and-reasoning-over-complex-technical-documents-h-f-at-cea-4480779935",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm",
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Steering LLM to inhibit biases- Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-steering-llm-to-inhibit-biases-saclay-h-f-at-cea-4472568310",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "LIMAGRAIN",
   "title": "Stagiaire - AI Engineer / Generative AI (H/F)",
   "loc": "Chappes, Auvergne-Rhône-Alpes, France",
@@ -1308,6 +1323,22 @@
   "geo": "FR",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-15",
+  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1361,6 +1392,54 @@
  },
  {
   "src": "linkedin",
+  "company": "Stellantis",
+  "title": "Stage : Ingénieur benchmarking des grands modèles de langage",
+  "loc": "Sochaux, Bourgogne-Franche-Comté, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-benchmarking-des-grands-mod%C3%A8les-de-langage-at-stellantis-4473672333",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-14",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "SAP",
   "title": "Stage: Ingénieur Logiciel Cloud / Agentic AI F/H",
   "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
@@ -1372,70 +1451,6 @@
   "geo": "FR",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Aubay",
-  "title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-17",
-  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CS GROUP",
-  "title": "Stage - Ingénieur(e) : IA générative : Assistant intelligent de création de chaînes de traitements scientifiques géospatiaux - Spatial - Toulouse",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-assistant-intelligent-de-cr%C3%A9ation-de-cha%C3%AEnes-de-traitements-scientifiques-g%C3%A9ospatiaux-spatial-toulouse-at-cs-group-4490744746",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Capgemini",
-  "title": "AI Engineer / Data & Agentic Systems - Stage",
-  "loc": "Lille, Hauts-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://fr.linkedin.com/jobs/view/ai-engineer-data-agentic-systems-stage-at-capgemini-4491009718",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-15",
-  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1468,22 +1483,6 @@
   "geo": "FR",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Veepee",
-  "title": "Stage - Développeur(euse) IA Générative (H/F/X) - Janvier 2027",
-  "loc": "St.-Denis, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppeur-euse-ia-g%C3%A9n%C3%A9rative-h-f-x-janvier-2027-at-veepee-4473641235",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
   ],
   "start_hint": ""
  },
@@ -1537,17 +1536,65 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
+  "company": "Eviden",
+  "title": "Stage - IA Agentique pour la migration automatisée de données H/F",
+  "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
   "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
+  "pub": "2026-11-13",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-agentique-pour-la-migration-automatis%C3%A9e-de-donn%C3%A9es-h-f-at-eviden-4472974020",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "INRAE",
+  "title": "Stage M2 - Apprentissage par renforcement argumentatif",
+  "loc": "Castanet-Tolosan, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-4491766246",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "INRAE Occitanie-Toulouse",
+  "title": "Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire",
+  "loc": "Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-occitanie-toulouse-4490819863",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "INRAE",
+  "title": "Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire",
+  "loc": "Castanet-Tolosan, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-4491764335",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1569,6 +1616,22 @@
  },
  {
   "src": "linkedin",
+  "company": "INRAE Occitanie-Toulouse",
+  "title": "Stage M2 - Apprentissage par renforcement argumentatif",
+  "loc": "Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-occitanie-toulouse-4490814999",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Dassault Systèmes",
   "title": "STAGE - Ingenieur R&D Deep Reinforcement Learning - Aix-en-Provence (F/H)",
   "loc": "Aix-en-Provence, Provence-Alpes-Côte d'Azur, France",
@@ -1585,34 +1648,97 @@
  },
  {
   "src": "linkedin",
-  "company": "InterDigital, Inc.",
-  "title": "Intern, World Models for XR and Robotics",
-  "loc": "Greater Rennes Metropolitan Area",
-  "etype": "Internship",
-  "pub": "2026-11-16",
-  "url": "https://fr.linkedin.com/jobs/view/intern-world-models-for-xr-and-robotics-at-interdigital-inc-4489799069",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE – Ingénieur de Recherche Détection de backdoors dans les grands modèles de langage (H/F)",
-  "loc": "Palaiseau, Île-de-France, France",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
   "pub": "2026-11-12",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-d%C3%A9tection-de-backdoors-dans-les-grands-mod%C3%A8les-de-langage-h-f-at-thales-4490500415",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Apple",
+  "title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-12",
+  "url": "https://fr.linkedin.com/jobs/view/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear-at-apple-4489085890",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Ensimag Alumni",
+  "title": "Ingénieur IA agentique",
+  "loc": "Marseille, Provence-Alpes-Côte d'Azur, France",
+  "etype": "Internship",
+  "pub": "2026-11-13",
+  "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-agentique-at-ensimag-alumni-4489820937",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Alpine",
+  "title": "ALPINE CARS - CS27 - BAC+5 - Ingénieur.e Innovation Automobile, Benchmarking & IA Générative (F/H)",
+  "loc": "Guyancourt, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/alpine-cars-cs27-bac%2B5-ing%C3%A9nieur-e-innovation-automobile-benchmarking-ia-g%C3%A9n%C3%A9rative-f-h-at-alpine-4471911795",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "MBDA",
+  "title": "Stage Traitement d'Images : Outils de modélisation 3D et génération d'images de synthèse IR F/H",
+  "loc": "Le Plessis-Robinson, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-16",
+  "url": "https://fr.linkedin.com/jobs/view/stage-traitement-d-images-outils-de-mod%C3%A9lisation-3d-et-g%C3%A9n%C3%A9ration-d-images-de-synth%C3%A8se-ir-f-h-at-mbda-4491534541",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "diff"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "addactis",
+  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
+  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1630,23 +1756,6 @@
   "dirs": [
    "diff",
    "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE DE RECHERCHE en IA - World Models pour la prévision de la qualité de l’air et l’observation de la Terre - F/H",
-  "loc": "Toulouse, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://fr.linkedin.com/jobs/view/stage-de-recherche-en-ia-world-models-pour-la-pr%C3%A9vision-de-la-qualit%C3%A9-de-l%E2%80%99air-et-l%E2%80%99observation-de-la-terre-f-h-at-thales-4482100301",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "rl"
   ],
   "start_hint": ""
  },
@@ -1684,79 +1793,15 @@
  },
  {
   "src": "linkedin",
-  "company": "Thales",
-  "title": "STAGE - Application des LLMs à l'Automatisation de Tests 4G/5G - F/H",
-  "loc": "Gennevilliers, Île-de-France, France",
+  "company": "Aubay",
+  "title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
+  "loc": "Boulogne-Billancourt, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://fr.linkedin.com/jobs/view/stage-application-des-llms-%C3%A0-l-automatisation-de-tests-4g-5g-f-h-at-thales-4481578233",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527",
   "desc": "",
-  "tier": "A",
+  "tier": "C",
   "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur de Recherche - IA Générative / LLM (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-12",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-ia-g%C3%A9n%C3%A9rative-llm-f-h-at-dassault-syst%C3%A8mes-4482138323",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "JPMorganChase",
-  "title": "2027 Machine Learning Center of Excellence (NLP) - Summer Associate",
-  "loc": "New York, NY",
-  "etype": "Internship",
-  "pub": "2026-11-11",
-  "url": "https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-nlp-summer-associate-at-jpmorganchase-4481592595",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Next-Generation AI Agents",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-next-generation-ai-agents-at-microsoft-4489601251",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Algorithms Group: Generative Modeling",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-algorithms-group-generative-modeling-at-microsoft-4481581107",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
   "dirs": [
    "diff"
   ],
@@ -1780,38 +1825,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Toyota Research Institute",
-  "title": "Human-Centered AI Research Intern, Causal Reasoning Models (Summer 2027)  [Summer 2027 ✓]",
-  "loc": "Los Altos, CA",
-  "etype": "Internship",
-  "pub": "2026-11-10",
-  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-causal-reasoning-models-summer-2027-at-toyota-research-institute-4489642321",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Bosch USA",
-  "title": "AI Research Intern – Time Series Foundation Models",
-  "loc": "Sunnyvale, CA",
-  "etype": "Internship",
-  "pub": "2026-11-12",
-  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-time-series-foundation-models-at-bosch-usa-4488539750",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Sandisk",
   "title": "GenAI & AI/ML Engineering Summer Intern",
   "loc": "Milpitas, CA",
@@ -1820,6 +1833,22 @@
   "url": "https://www.linkedin.com/jobs/view/genai-ai-ml-engineering-summer-intern-at-sandisk-4482022677",
   "desc": "",
   "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "42dot",
+  "title": "Internship, Foundation Models",
+  "loc": "Sunnyvale, CA",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
+  "desc": "",
+  "tier": "A",
   "geo": "US",
   "dirs": [
    "llm"
@@ -1844,12 +1873,12 @@
  },
  {
   "src": "linkedin",
-  "company": "GE Vernova",
-  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
-  "loc": "Bellevue, WA",
+  "company": "Bosch USA",
+  "title": "AI Research Intern – Time Series Foundation Models",
+  "loc": "Sunnyvale, CA",
   "etype": "Internship",
-  "pub": "2026-11-13",
-  "url": "https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4489805361",
+  "pub": "2026-11-12",
+  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-time-series-foundation-models-at-bosch-usa-4488539750",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1887,6 +1916,22 @@
   "geo": "US",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "JPMorganChase",
+  "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
+  "loc": "New York, NY",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://www.linkedin.com/jobs/view/2027-machine-learning-center-of-excellence-time-series-and-reinforcement-learning-tsrl-summer-associate-at-jpmorganchase-4484401926",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1972,17 +2017,17 @@
  },
  {
   "src": "linkedin",
-  "company": "ICE",
-  "title": "Summer Internship Program 2027 - Agentic AI Data Science Intern",
-  "loc": "Jacksonville, FL",
+  "company": "GE Vernova",
+  "title": "GE Vernova – AGI – AI Post-Training and Model Alignment Intern - Summer 2027  [Summer 2027 ✓]",
+  "loc": "Bellevue, WA",
   "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://www.linkedin.com/jobs/view/summer-internship-program-2027-agentic-ai-data-science-intern-at-ice-4483180328",
+  "pub": "2026-11-13",
+  "url": "https://www.linkedin.com/jobs/view/ge-vernova-%E2%80%93-agi-%E2%80%93-ai-post-training-and-model-alignment-intern-summer-2027-at-ge-vernova-4489805361",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  }

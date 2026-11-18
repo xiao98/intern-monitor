@@ -10253,5 +10253,82 @@
 "company": "Boston Scientific",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/doctolib/2a909eff-070e-4c49-a305-5adf5aa5c5a2": {
+"first_seen": "2026-11-18",
+"title": "AI Engineer intern (x/f/m) - Berlin",
+"company": "doctolib",
+"geo": "EU",
+"tier": "B"
+},
+"https://jobs.ashbyhq.com/doctolib/8eee07c8-dd36-4a3c-99cd-a95d65415dec": {
+"first_seen": "2026-11-18",
+"title": "AI Engineer intern (x/f/m) - Milano",
+"company": "doctolib",
+"geo": "EU",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b": {
+"first_seen": "2026-11-18",
+"title": "Future Product Innovation Research Intern, Computational Cognitive Science",
+"company": "tri",
+"geo": "US",
+"tier": "B"
+},
+"https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49": {
+"first_seen": "2026-11-18",
+"title": "Robotics Intern, Agentic Robotics",
+"company": "tri",
+"geo": "US",
+"tier": "A"
+},
+"https://jobs.apple.com/en-us/details/200694900-2911": {
+"first_seen": "2026-11-18",
+"title": "Defensive AI Security Intern - Paris, France",
+"company": "Apple",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-4491766246": {
+"first_seen": "2026-11-18",
+"title": "Stage M2 - Apprentissage par renforcement argumentatif",
+"company": "INRAE",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-occitanie-toulouse-4490819863": {
+"first_seen": "2026-11-18",
+"title": "Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire",
+"company": "INRAE Occitanie-Toulouse",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-4491764335": {
+"first_seen": "2026-11-18",
+"title": "Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire",
+"company": "INRAE",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-occitanie-toulouse-4490814999": {
+"first_seen": "2026-11-18",
+"title": "Stage M2 - Apprentissage par renforcement argumentatif",
+"company": "INRAE Occitanie-Toulouse",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear-at-apple-4489085890": {
+"first_seen": "2026-11-18",
+"title": "AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR",
+"company": "Apple",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-traitement-d-images-outils-de-mod%C3%A9lisation-3d-et-g%C3%A9n%C3%A9ration-d-images-de-synth%C3%A8se-ir-f-h-at-mbda-4491534541": {
+"first_seen": "2026-11-18",
+"title": "Stage Traitement d'Images : Outils de modélisation 3D et génération d'images de synthèse IR F/H",
+"company": "MBDA",
+"geo": "FR",
+"tier": "A"
 }
 }
