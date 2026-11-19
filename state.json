@@ -10330,5 +10330,82 @@
 "company": "MBDA",
 "geo": "FR",
 "tier": "A"
+},
+"https://jobs.inria.fr/public/classic/en/offres/2026-10733": {
+"first_seen": "2026-11-19",
+"title": "Master Internship - Tool‐augmented LLM agents for abdominal CT question answering: benchmarking, tool attribution and reasoning faithfulness",
+"company": "Inria",
+"geo": "FR",
+"tier": "A"
+},
+"https://cognitive-ml.fr/jobs/#forthespring2027internsh": {
+"first_seen": "2026-11-19",
+"title": "For the Spring 2027 internship period, you will find here the list of available internship topics",
+"company": "ENS CoML/LSCP (Dupoux)",
+"geo": "FR",
+"tier": "A"
+},
+"https://jobs.inria.fr/public/classic/fr/offres?filtre=stage-recherche#20270228masterinternship": {
+"first_seen": "2026-11-19",
+"title": "2027-02-28 Master Internship - Tool‐augmented LLM agents for abdominal CT question answering: benchmarking, tool attribution and reasoning faithfulness Référenc",
+"company": "Inria stages recherche (全法)",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ai-engineer-data-agentic-systems-stage-at-capgemini-4490766192": {
+"first_seen": "2026-11-19",
+"title": "AI Engineer / Data & Agentic Systems - Stage",
+"company": "Capgemini",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-conception-et-d%C3%A9ploiement-d%E2%80%99agents-ia-infrastructure-rennes-at-sopra-steria-4492048664": {
+"first_seen": "2026-11-19",
+"title": "Stage - Conception et Déploiement d’Agents IA - Infrastructure - Rennes",
+"company": "Sopra Steria",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-r%C3%A9mun%C3%A9r%C3%A9-feedback-implicite-pour-l-%C3%A9valuation-automatique-d-agents-ia-f-h-at-berger-levrault-4492401968": {
+"first_seen": "2026-11-19",
+"title": "STAGE RÉMUNÉRÉ - Feedback implicite pour l'évaluation automatique d'agents IA F/H",
+"company": "Berger-Levrault",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-engineering-technology-intern-full-time-internship-jan-june-2027-at-state-street-4492080399": {
+"first_seen": "2026-11-19",
+"title": "Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)",
+"company": "State Street",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-software-engineer-si-reinforcement-learning-summer-2027-at-tesla-4490545485": {
+"first_seen": "2026-11-19",
+"title": "Internship, Software Engineer, SI Reinforcement Learning (Summer 2027)  [Summer 2027 ✓]",
+"company": "Tesla",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-multimodal-foundation-models-for-healthcare-at-bosch-usa-4490924151": {
+"first_seen": "2026-11-19",
+"title": "Research Intern: Multimodal Foundation Models for Healthcare",
+"company": "Bosch USA",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-generative-ai-diffusion-flow-matching-models-agentic-ai-at-siemens-healthineers-4491311430": {
+"first_seen": "2026-11-19",
+"title": "Research Intern: Generative AI (Diffusion/Flow Matching Models, Agentic AI)",
+"company": "Siemens Healthineers",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-distributed-memory-centric-accelerators-at-samsung-semiconductor-4491895943": {
+"first_seen": "2026-11-19",
+"title": "Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)",
+"company": "Samsung Semiconductor",
+"geo": "US",
+"tier": "A"
 }
 }

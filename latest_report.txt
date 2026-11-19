@@ -1,35 +1,32 @@
-实习监控 2026-11-18 · 新增 11 · 当前在挂命中 124 · 显示 11
+实习监控 2026-11-19 · 新增 11 · 当前在挂命中 134 · 显示 11
 
-🇫🇷 FRANCE  (7)
-[A] agent · Apple — AI/ML Internship: Self-Improving AI Agents for Cybersecurity, SEAR  (Paris, Île-de-France, France · 发布 2026-11-12 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ai-ml-internship-self-improving-ai-agents-for-cybersecurity-sear-at-apple-4489085890
-[A] rl · INRAE — Stage M2 - Apprentissage par renforcement argumentatif  (Castanet-Tolosan, Occitanie, France · 发布 2026-11-17 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-4491766246
-[A] rl · INRAE — Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire  (Castanet-Tolosan, Occitanie, France · 发布 2026-11-17 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-4491764335
-[A] rl · INRAE Occitanie-Toulouse — Stage M2 - Apprentissage par renforcement argumentatif  (Occitanie, France · 发布 2026-11-18 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-occitanie-toulouse-4490814999
-[A] rl · INRAE Occitanie-Toulouse — Stage M2 : Apprentissage par renforcement pour la simulation de développement du système racinaire  (Occitanie, France · 发布 2026-11-18 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-pour-la-simulation-de-d%C3%A9veloppement-du-syst%C3%A8me-racinaire-at-inrae-occitanie-toulouse-4490819863
-[A] diff · MBDA — Stage Traitement d'Images : Outils de modélisation 3D et génération d'images de synthèse IR F/H  (Le Plessis-Robinson, Île-de-France, France · 发布 2026-11-16 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-traitement-d-images-outils-de-mod%C3%A9lisation-3d-et-g%C3%A9n%C3%A9ration-d-images-de-synth%C3%A8se-ir-f-h-at-mbda-4491534541
-[B] llm/agent · Apple — Defensive AI Security Intern - Paris, France  (Paris, France · 发布 2026-11-16 · [apple])
-    https://jobs.apple.com/en-us/details/200694900-2911
+🇫🇷 FRANCE  (6)
+[A] agent · Berger-Levrault — STAGE RÉMUNÉRÉ - Feedback implicite pour l'évaluation automatique d'agents IA F/H  (Labège, Occitanie, France · 发布 2026-11-19 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-r%C3%A9mun%C3%A9r%C3%A9-feedback-implicite-pour-l-%C3%A9valuation-automatique-d-agents-ia-f-h-at-berger-levrault-4492401968
+[A] llm · ENS CoML/LSCP (Dupoux) — For the Spring 2027 internship period, you will find here the list of available internship topics  (France · [watch])
+    https://cognitive-ml.fr/jobs/#forthespring2027internsh
+[A] llm/agent · Inria — Master Internship - Tool‐augmented LLM agents for abdominal CT question answering: benchmarking, tool attribution and reasoning faithfulness  (France Job reference : 2026-10733 Town/city : Gif sur Yvette · [inria])
+    起始线索: …city : Gif sur Yvette Inria Team : OPIS Deadline to apply : 2027-02-28…
+    https://jobs.inria.fr/public/classic/en/offres/2026-10733
+[A] llm/agent · Inria stages recherche (全法) — 2027-02-28 Master Internship - Tool‐augmented LLM agents for abdominal CT question answering: benchmarking, tool attribution and reasoning faithfulness Référenc  (France · [watch])
+    https://jobs.inria.fr/public/classic/fr/offres?filtre=stage-recherche#20270228masterinternship
+[C] agent · Capgemini — AI Engineer / Data & Agentic Systems - Stage  (Issy-les-Moulineaux, Île-de-France, France · 发布 2026-11-13 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ai-engineer-data-agentic-systems-stage-at-capgemini-4490766192
+[C] agent · Sopra Steria — Stage - Conception et Déploiement d’Agents IA - Infrastructure - Rennes  (Cesson-Sévigné, Brittany, France · 发布 2026-11-18 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-conception-et-d%C3%A9ploiement-d%E2%80%99agents-ia-infrastructure-rennes-at-sopra-steria-4492048664
 
-🇪🇺 EUROPE  (2)
-[B] llm/agent · doctolib — AI Engineer intern (x/f/m) - Berlin  (Berlin, Remote · 发布 2026-11-18 · [ashby])
-    起始线索: …- Start date: March 2027…
-    https://jobs.ashbyhq.com/doctolib/2a909eff-070e-4c49-a305-5adf5aa5c5a2
-[B] llm/agent · doctolib — AI Engineer intern (x/f/m) - Milano  (Milan, Remote · 发布 2026-11-18 · [ashby])
-    起始线索: …- Start date: March 2027…
-    https://jobs.ashbyhq.com/doctolib/8eee07c8-dd36-4a3c-99cd-a95d65415dec
-
-🇺🇸 USA  (2)
-[A] agent · tri — Robotics Intern, Agentic Robotics  (Cambridge, MA, US, hybrid · 发布 2026-11-17 · [lever])
-    https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49
-[B] llm · tri — Future Product Innovation Research Intern, Computational Cognitive Science  (Los Altos, CA, US, hybrid · 发布 2026-11-17 · [lever])
-    https://jobs.lever.co/tri/0d74ff26-05cc-4616-bda0-97d821c9452b
+🇺🇸 USA  (5)
+[A] llm · Bosch USA — Research Intern: Multimodal Foundation Models for Healthcare  (Pittsburgh, PA · 发布 2026-11-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-multimodal-foundation-models-for-healthcare-at-bosch-usa-4490924151
+[A] llm · Samsung Semiconductor — Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)  (San Jose, CA · 发布 2026-11-19 · [linkedin])
+    https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-distributed-memory-centric-accelerators-at-samsung-semiconductor-4491895943
+[A] diff/agent · Siemens Healthineers — Research Intern: Generative AI (Diffusion/Flow Matching Models, Agentic AI)  (Princeton, NJ · 发布 2026-11-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-generative-ai-diffusion-flow-matching-models-agentic-ai-at-siemens-healthineers-4491311430
+[A] agent · State Street — Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)  (Burlington, MA · 发布 2026-11-18 · [linkedin])
+    https://www.linkedin.com/jobs/view/agentic-ai-engineering-technology-intern-full-time-internship-jan-june-2027-at-state-street-4492080399
+[A] rl · Tesla — Internship, Software Engineer, SI Reinforcement Learning (Summer 2027) [Summer 2027 ✓]  (Palo Alto, CA · 发布 2026-11-13 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-software-engineer-si-reinforcement-learning-summer-2027-at-tesla-4490545485
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:404
+失败源: lever/agicap:502, lever/aircall:404, linkedin:429, watch/Dauphine IASD/MILES stages (Allauzen):-1, watch/Dauphine MILES open positions:-1, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:404
