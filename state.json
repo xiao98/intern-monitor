@@ -10407,5 +10407,61 @@
 "company": "Samsung Semiconductor",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907": {
+"first_seen": "2026-11-20",
+"title": "Software Engineer Intern (AI / ML) - Summer 2027  [Summer 2027 ✓]",
+"company": "snowflake",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-f-h-at-manitou-group-4492452987": {
+"first_seen": "2026-11-20",
+"title": "Stagiaire Ingénieur IA générative (F/H)",
+"company": "MANITOU Group",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stagaire-charg%C3%A9%C2%B7e-de-projets-ia-agentique-at-groupe-at-partner-4492913722": {
+"first_seen": "2026-11-20",
+"title": "Stagaire Chargé·e de projets IA agentique",
+"company": "Groupe AT Partner",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-ai-world-models-h-f-at-sogelink-4492156880": {
+"first_seen": "2026-11-20",
+"title": "Stage M2 IA - Generative AI & World Models H/F",
+"company": "Sogelink",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-alten-4492190174": {
+"first_seen": "2026-11-20",
+"title": "Stage Innovation : Ingénieur Intelligence Artificielle Générative",
+"company": "ALTEN",
+"geo": "FR",
+"tier": "C"
+},
+"https://www.linkedin.com/jobs/view/research-intern-self-improving-secure-ai-agents-microsoft-research-at-microsoft-4492443869": {
+"first_seen": "2026-11-20",
+"title": "Research Intern - Self-Improving & Secure AI Agents - Microsoft Research",
+"company": "Microsoft",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-generative-ai-diffusion-flow-matching-models-agentic-ai-at-siemens-healthineers-4491318217": {
+"first_seen": "2026-11-20",
+"title": "Research Intern: Generative AI (Diffusion/Flow Matching Models, Agentic AI)",
+"company": "Siemens Healthineers",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/internship-training-efficient-vision-%2B-language-reasoning-models-at-mitsubishi-electric-research-laboratories-4492194364": {
+"first_seen": "2026-11-20",
+"title": "Internship - Training Efficient Vision + Language Reasoning Models",
+"company": "Mitsubishi Electric Research Laboratories",
+"geo": "US",
+"tier": "A"
 }
 }
