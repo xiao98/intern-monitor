@@ -1,25 +1,19 @@
-实习监控 2026-11-20 · 新增 8 · 当前在挂命中 128 · 显示 8
+实习监控 2026-11-21 · 新增 5 · 当前在挂命中 124 · 显示 5
 
-🇫🇷 FRANCE  (4)
-[A] agent · Groupe AT Partner — Stagaire Chargé·e de projets IA agentique  (Gundershoffen, Grand Est, France · 发布 2026-11-20 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagaire-charg%C3%A9%C2%B7e-de-projets-ia-agentique-at-groupe-at-partner-4492913722
-[A] diff/rl · Sogelink — Stage M2 IA - Generative AI & World Models H/F  (Greater Lyon Area · 发布 2026-11-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-ai-world-models-h-f-at-sogelink-4492156880
-[B] llm · MANITOU Group — Stagiaire Ingénieur IA générative (F/H)  (Ancenis, Pays de la Loire, France · 发布 2026-11-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stagiaire-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-f-h-at-manitou-group-4492452987
-[C] llm · ALTEN — Stage Innovation : Ingénieur Intelligence Artificielle Générative  (Rennes, Brittany, France · 发布 2026-11-19 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-alten-4492190174
+🇫🇷 FRANCE  (1)
+[A] llm · Alumnforce - Alumni Students Success Platform — Stage Product Builder Data SQL BI IA LLM - Dev SaaS Communautaire CRM  (Paris, Île-de-France, France · 发布 2026-11-21 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-product-builder-data-sql-bi-ia-llm-dev-saas-communautaire-crm-at-alumnforce-alumni-students-success-platform-4492898184
 
 🇺🇸 USA  (4)
-[A] agent · Microsoft — Research Intern - Self-Improving & Secure AI Agents - Microsoft Research  (Redmond, WA · 发布 2026-11-19 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-self-improving-secure-ai-agents-microsoft-research-at-microsoft-4492443869
-[A] llm · Mitsubishi Electric Research Laboratories — Internship - Training Efficient Vision + Language Reasoning Models  (Cambridge, MA · 发布 2026-11-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/internship-training-efficient-vision-%2B-language-reasoning-models-at-mitsubishi-electric-research-laboratories-4492194364
-[A] diff/agent · Siemens Healthineers — Research Intern: Generative AI (Diffusion/Flow Matching Models, Agentic AI)  (Princeton, NJ · 发布 2026-11-18 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-generative-ai-diffusion-flow-matching-models-agentic-ai-at-siemens-healthineers-4491318217
-[B] diff/llm/agent · snowflake — Software Engineer Intern (AI / ML) - Summer 2027 [Summer 2027 ✓]  (US-CA-Menlo Park, US-WA-Bellevue · 发布 2026-11-19 · [ashby])
-    起始线索: …SOFTWARE ENGINEER INTERN (AI / ML) - SUMMER 2027…
-    https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907
+[A] llm · Microsoft — Research Intern - AI Safety, Alignment, and Post-Training  (Redmond, WA · 发布 2026-11-20 · [linkedin])
+    https://www.linkedin.com/jobs/view/research-intern-ai-safety-alignment-and-post-training-at-microsoft-4492928957
+[A] agent · Teradata — Agentic AI Intern  (San Diego, CA · 发布 2026-11-21 · [linkedin])
+    https://www.linkedin.com/jobs/view/agentic-ai-intern-at-teradata-4492859341
+[B] llm · Schnuck Markets, Inc. — 2027 Data Science - Generative AI Internship  (St Louis, MO · 发布 2026-11-20 · [linkedin])
+    https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749
+[B] diff/agent · thealleninstitute — Research Internship, Climate Modeling [Summer 2027 ✓]  (Seattle, WA, Seattle · 发布 2026-11-20 · [greenhouse])
+    起始线索: …We will be offering 12-week internships during summer 2027…
+    https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

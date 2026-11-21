@@ -10463,5 +10463,40 @@
 "company": "Mitsubishi Electric Research Laboratories",
 "geo": "US",
 "tier": "A"
+},
+"https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052": {
+"first_seen": "2026-11-21",
+"title": "Research Internship, Climate Modeling  [Summer 2027 ✓]",
+"company": "thealleninstitute",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-product-builder-data-sql-bi-ia-llm-dev-saas-communautaire-crm-at-alumnforce-alumni-students-success-platform-4492898184": {
+"first_seen": "2026-11-21",
+"title": "Stage Product Builder Data SQL BI IA LLM - Dev SaaS Communautaire CRM",
+"company": "Alumnforce - Alumni Students Success Platform",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-ai-safety-alignment-and-post-training-at-microsoft-4492928957": {
+"first_seen": "2026-11-21",
+"title": "Research Intern - AI Safety, Alignment, and Post-Training",
+"company": "Microsoft",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-intern-at-teradata-4492859341": {
+"first_seen": "2026-11-21",
+"title": "Agentic AI Intern",
+"company": "Teradata",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749": {
+"first_seen": "2026-11-21",
+"title": "2027 Data Science - Generative AI Internship",
+"company": "Schnuck Markets, Inc.",
+"geo": "US",
+"tier": "B"
 }
 }
