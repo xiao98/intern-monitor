@@ -10498,5 +10498,19 @@
 "company": "Schnuck Markets, Inc.",
 "geo": "US",
 "tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-pour-l%E2%80%99ing%C3%A9nierie-f-h-at-thales-4483711883": {
+"first_seen": "2026-11-22",
+"title": "STAGE - Ingénieur IA Générative pour l’Ingénierie - F/H",
+"company": "Thales",
+"geo": "FR",
+"tier": "B"
+},
+"https://www.linkedin.com/jobs/view/internship-integrate-gui-and-llm-at-asml-4490132243": {
+"first_seen": "2026-11-22",
+"title": "Internship - Integrate GUI and LLM",
+"company": "ASML",
+"geo": "US",
+"tier": "A"
 }
 }

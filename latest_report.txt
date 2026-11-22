@@ -1,19 +1,12 @@
-实习监控 2026-11-21 · 新增 5 · 当前在挂命中 124 · 显示 5
+实习监控 2026-11-22 · 新增 2 · 当前在挂命中 124 · 显示 2
 
 🇫🇷 FRANCE  (1)
-[A] llm · Alumnforce - Alumni Students Success Platform — Stage Product Builder Data SQL BI IA LLM - Dev SaaS Communautaire CRM  (Paris, Île-de-France, France · 发布 2026-11-21 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-product-builder-data-sql-bi-ia-llm-dev-saas-communautaire-crm-at-alumnforce-alumni-students-success-platform-4492898184
+[B] llm · Thales — STAGE - Ingénieur IA Générative pour l’Ingénierie - F/H  (Cholet, Pays de la Loire, France · 发布 2026-11-17 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-pour-l%E2%80%99ing%C3%A9nierie-f-h-at-thales-4483711883
 
-🇺🇸 USA  (4)
-[A] llm · Microsoft — Research Intern - AI Safety, Alignment, and Post-Training  (Redmond, WA · 发布 2026-11-20 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-ai-safety-alignment-and-post-training-at-microsoft-4492928957
-[A] agent · Teradata — Agentic AI Intern  (San Diego, CA · 发布 2026-11-21 · [linkedin])
-    https://www.linkedin.com/jobs/view/agentic-ai-intern-at-teradata-4492859341
-[B] llm · Schnuck Markets, Inc. — 2027 Data Science - Generative AI Internship  (St Louis, MO · 发布 2026-11-20 · [linkedin])
-    https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749
-[B] diff/agent · thealleninstitute — Research Internship, Climate Modeling [Summer 2027 ✓]  (Seattle, WA, Seattle · 发布 2026-11-20 · [greenhouse])
-    起始线索: …We will be offering 12-week internships during summer 2027…
-    https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052
+🇺🇸 USA  (1)
+[A] llm · ASML — Internship - Integrate GUI and LLM  (San Jose, CA · 发布 2026-11-16 · [linkedin])
+    https://www.linkedin.com/jobs/view/internship-integrate-gui-and-llm-at-asml-4490132243
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)

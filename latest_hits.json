@@ -799,22 +799,6 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "AI Operations Intern, AI Clouds - Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-11-19",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
-  "desc": " Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world.    Join NVIDIA’s AI Clouds team to build software and automation that help our teams support cloud partners and advance AI infrastructure programs. Working with a technical mentor and business partners, you’ll take a focused project from an initial problem statement to a working tool or feature. You’ll gain experience using AI-assisted development tools, gathering user feedback, and measuring how your work improves everyday workflows.    What you’ll be doing:    Build and deliver a scoped software tool or automation feature using AI-assisted development tools, with guidance from your technical mentor.  Work with partners across sales, marketing, strategy and operations, program management, and solutions architecture to understand manual workflows and define project requirements.  Test, debug, and refine your work, following the team’s practices for code review, data handling, and deployment.  Analyze usage and user feedback to understand adoption, identify improvements, and help scope future projects.  Create documentation and quick-start guides that help colleagues adopt and use the tools you build.     What we need to see:    Pursuing a BS or MS in Computer Science, Software Engineering, Data Science, or an equivalent program area.  Programming experience in Python, JavaScript, or TypeScript through coursework, personal projects, or previous internships.  Experience building a software application, automation script, or data project, with the ability to explain your approach and technical decisions.  Familiarity with APIs, structured data, and Git or another version-control system.  Experience testing and debugging code, including checking the correctness of AI-generated outputs.     Ways to stand out from the crowd:    Projects using AI coding assistants, large language models, or workflow automation.  Experience creating dashboards, analyzing product usage, or connecting data from multiple sources.  Interest in cloud computing and AI infrastructure, with curiosity about how software can improve business operations.      NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
   "title": "AI Compiler and Kernel Intern – Summer 2027  [Summer 2027 ✓]",
   "loc": "US, TX, Austin",
   "etype": "Intern",
@@ -1267,6 +1251,22 @@
  },
  {
   "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-la-g%C3%A9n%C3%A9ration-de-plug-ins-civa-saclay-h-f-at-cea-4476852231",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "LIMAGRAIN",
   "title": "Stagiaire - AI Engineer / Generative AI (H/F)",
   "loc": "Chappes, Auvergne-Rhône-Alpes, France",
@@ -1283,49 +1283,34 @@
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Large Language Model (LLM) for source code analysis in security evaluation H/F",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-15",
-  "url": "https://fr.linkedin.com/jobs/view/large-language-model-llm-for-source-code-analysis-in-security-evaluation-h-f-at-cea-4464531330",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-pour-le-d%C3%A9veloppement-d-un-framework-d-ia-agentique-saclay-h-f-at-cea-4481687863",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
+  "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-17",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
+  "pub": "2026-11-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-e-r-d-en-intelligence-artificielle-llm-deep-learning-f-h-at-dassault-syst%C3%A8mes-4477838300",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Sogelink",
+  "title": "Stage M2 IA - Generative AI & World Models H/F",
+  "loc": "Greater Lyon Area",
+  "etype": "Internship",
+  "pub": "2026-11-19",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-ai-world-models-h-f-at-sogelink-4492156880",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "diff",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1364,6 +1349,55 @@
  },
  {
   "src": "linkedin",
+  "company": "SAP",
+  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
+  "loc": "Levallois-Perret, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-21",
+  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "BPCE Infogérance & Technologies",
+  "title": "Stage - 3 à 6 mois - Ingénieur Sécurité et IA Agentique F/H",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-3-%C3%A0-6-mois-ing%C3%A9nieur-s%C3%A9curit%C3%A9-et-ia-agentique-f-h-at-bpce-infog%C3%A9rance-technologies-4474094540",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Aubay",
+  "title": "Stage PFE Watermarking : Signature de l'IA (Watermarking ; LLM ; Modèles de diffusion ; AI Act – Article 50)",
+  "loc": "Boulogne-Billancourt, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-watermarking-signature-de-l-ia-watermarking-llm-mod%C3%A8les-de-diffusion-ai-act-%E2%80%93-article-50-at-aubay-4485819697",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "diff",
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Société Générale Factoring",
   "title": "Stage IA Générative",
   "loc": "Fontenay-sous-Bois, Île-de-France, France",
@@ -1380,28 +1414,12 @@
  },
  {
   "src": "linkedin",
-  "company": "NAVAL GROUP",
-  "title": "STAGE - Ingénieur genie logiciel & IA - plateforme d'agents - H/F",
-  "loc": "Ollioules, Provence-Alpes-Côte d'Azur, France",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+  "loc": "Châtillon, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-genie-logiciel-ia-plateforme-d-agents-h-f-at-naval-group-4474082629",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SAP",
-  "title": "Stage: Ingénieur Logiciel Cloud / Agentic AI F/H",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-logiciel-cloud-agentic-ai-f-h-at-sap-4473344907",
+  "pub": "2026-11-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1444,18 +1462,49 @@
  },
  {
   "src": "linkedin",
-  "company": "Sogelink",
-  "title": "Stage M2 IA - Generative AI & World Models H/F",
-  "loc": "Greater Lyon Area",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur IA Machine Learning NLP (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m2-ia-generative-ai-world-models-h-f-at-sogelink-4492156880",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-machine-learning-nlp-f-h-at-dassault-syst%C3%A8mes-4475886824",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "diff",
-   "rl"
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Sopra Steria",
+  "title": "Stage - Conception et Déploiement d’Agents IA - Infrastructure - Rennes",
+  "loc": "Cesson-Sévigné, Brittany, France",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-conception-et-d%C3%A9ploiement-d%E2%80%99agents-ia-infrastructure-rennes-at-sopra-steria-4492048664",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "GetVocal AI",
+  "title": "AI Agent Engineer Intern (Internship)",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-20",
+  "url": "https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1509,22 +1558,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Siemens",
-  "title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
-  "loc": "Châtillon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Top Agent",
   "title": "STAGE AGENT IMMOBILIER TRANSACTION & LOCATION (3 PLACES)",
   "loc": "St-Étienne, Auvergne-Rhône-Alpes, France",
@@ -1541,12 +1574,12 @@
  },
  {
   "src": "linkedin",
-  "company": "GetVocal AI",
-  "title": "AI Agent Engineer Intern (Internship)",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur développement - Agent IA (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://fr.linkedin.com/jobs/view/ai-agent-engineer-intern-internship-at-getvocal-ai-4462799771",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-agent-ia-f-h-at-dassault-syst%C3%A8mes-4466542848",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1568,22 +1601,6 @@
   "geo": "FR",
   "dirs": [
    "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Aubay",
-  "title": "Stage PFE Explainable Aubay Intelligence (IA explicable (XAI) · Modèles de diffusion · IA responsable)",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-17",
-  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-explainable-aubay-intelligence-ia-explicable-xai-%C2%B7-mod%C3%A8les-de-diffusion-%C2%B7-ia-responsable-at-aubay-4485825527",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "diff"
   ],
   "start_hint": ""
  },
@@ -1621,18 +1638,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur IA - Architecture d'agents LLM (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "Servier France",
+  "title": "STAGE - Bioinformatique & IA : Fine-tuning de modèles de fondation (H/F)",
+  "loc": "Gif-sur-Yvette, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-architecture-d-agents-llm-f-h-at-dassault-syst%C3%A8mes-4476341491",
+  "pub": "2026-11-22",
+  "url": "https://fr.linkedin.com/jobs/view/stage-bioinformatique-ia-fine-tuning-de-mod%C3%A8les-de-fondation-h-f-at-servier-france-4477828288",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm",
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1670,49 +1686,17 @@
  },
  {
   "src": "linkedin",
-  "company": "MBDA",
-  "title": "Stage Traitement d'Images : Outils de modélisation 3D et génération d'images de synthèse IR F/H",
-  "loc": "Le Plessis-Robinson, Île-de-France, France",
+  "company": "Dassault Systèmes",
+  "title": "STAGE – Ingénieur IA - Architecture d'agents LLM (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-16",
-  "url": "https://fr.linkedin.com/jobs/view/stage-traitement-d-images-outils-de-mod%C3%A9lisation-3d-et-g%C3%A9n%C3%A9ration-d-images-de-synth%C3%A8se-ir-f-h-at-mbda-4491534541",
+  "pub": "2026-11-18",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-architecture-d-agents-llm-f-h-at-dassault-syst%C3%A8mes-4476341491",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "diff"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Aubay",
-  "title": "Stage PFE Watermarking : Signature de l'IA (Watermarking ; LLM ; Modèles de diffusion ; AI Act – Article 50)",
-  "loc": "Boulogne-Billancourt, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-17",
-  "url": "https://fr.linkedin.com/jobs/view/stage-pfe-watermarking-signature-de-l-ia-watermarking-llm-mod%C3%A8les-de-diffusion-ai-act-%E2%80%93-article-50-at-aubay-4485819697",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "diff",
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "addactis",
-  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
-  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
-  "etype": "Internship",
-  "pub": "2026-11-17",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
+   "llm",
    "agent"
   ],
   "start_hint": ""
@@ -1725,6 +1709,22 @@
   "etype": "Internship",
   "pub": "2026-11-20",
   "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-%E2%80%93-mod%C3%A9lisation-3d-f-h-at-dassault-syst%C3%A8mes-4468695185",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE - Ingénieur IA Générative pour l’Ingénierie - F/H",
+  "loc": "Cholet, Pays de la Loire, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-pour-l%E2%80%99ing%C3%A9nierie-f-h-at-thales-4483711883",
   "desc": "",
   "tier": "B",
   "geo": "FR",
@@ -1767,6 +1767,22 @@
  },
  {
   "src": "linkedin",
+  "company": "addactis",
+  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
+  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-17",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4483712665",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Microsoft",
   "title": "Research Intern - AI Safety, Alignment, and Post-Training",
   "loc": "Redmond, WA",
@@ -1799,22 +1815,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Sandisk",
-  "title": "GenAI & AI/ML Engineering Summer Intern",
-  "loc": "Milpitas, CA",
-  "etype": "Internship",
-  "pub": "2026-11-16",
-  "url": "https://www.linkedin.com/jobs/view/genai-ai-ml-engineering-summer-intern-at-sandisk-4482022677",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "State Street",
   "title": "Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)",
   "loc": "Burlington, MA",
@@ -1826,6 +1826,22 @@
   "geo": "US",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "42dot",
+  "title": "Internship, Foundation Models",
+  "loc": "Sunnyvale, CA",
+  "etype": "Internship",
+  "pub": "2026-11-18",
+  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1847,17 +1863,18 @@
  },
  {
   "src": "linkedin",
-  "company": "42dot",
-  "title": "Internship, Foundation Models",
-  "loc": "Sunnyvale, CA",
+  "company": "NVIDIA",
+  "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027  [Summer 2027 ✓]",
+  "loc": "Santa Clara, CA",
   "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://www.linkedin.com/jobs/view/internship-foundation-models-at-42dot-4484267427",
+  "pub": "2026-11-21",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-world-models-and-synthetic-data-for-autonomous-driving-summer-2027-at-nvidia-4476874075",
   "desc": "",
   "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff",
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1896,22 +1913,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Bosch USA",
-  "title": "Research Intern: Multimodal Foundation Models for Healthcare",
-  "loc": "Pittsburgh, PA",
-  "etype": "Internship",
-  "pub": "2026-11-16",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-multimodal-foundation-models-for-healthcare-at-bosch-usa-4490924151",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "JPMorganChase",
   "title": "2027 Machine Learning Center of Excellence - Time Series and Reinforcement Learning (TSRL) - Summer Associate",
   "loc": "New York, NY",
@@ -1923,22 +1924,6 @@
   "geo": "US",
   "dirs": [
    "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Docusign",
-  "title": "Agentic AI Engineer Intern",
-  "loc": "San Francisco, CA",
-  "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineer-intern-at-docusign-4481930370",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
   ],
   "start_hint": ""
  },
@@ -1976,12 +1961,28 @@
  },
  {
   "src": "linkedin",
-  "company": "Tractian",
-  "title": "Generative AI Engineering Intern",
-  "loc": "Atlanta, GA",
+  "company": "ASML",
+  "title": "Internship - Integrate GUI and LLM",
+  "loc": "San Jose, CA",
   "etype": "Internship",
-  "pub": "2026-11-14",
-  "url": "https://www.linkedin.com/jobs/view/generative-ai-engineering-intern-at-tractian-4472840492",
+  "pub": "2026-11-16",
+  "url": "https://www.linkedin.com/jobs/view/internship-integrate-gui-and-llm-at-asml-4490132243",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Sandisk",
+  "title": "GenAI & AI/ML Engineering Summer Intern",
+  "loc": "Milpitas, CA",
+  "etype": "Internship",
+  "pub": "2026-11-16",
+  "url": "https://www.linkedin.com/jobs/view/genai-ai-ml-engineering-summer-intern-at-sandisk-4482022677",
   "desc": "",
   "tier": "B",
   "geo": "US",
@@ -1992,17 +1993,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Schnuck Markets, Inc.",
-  "title": "2027 Data Science - Generative AI Internship",
-  "loc": "St Louis, MO",
+  "company": "Ancestry",
+  "title": "AI Discovery Co-Op - Agentic Personalization",
+  "loc": "Draper, UT",
   "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749",
+  "pub": "2026-11-18",
+  "url": "https://www.linkedin.com/jobs/view/ai-discovery-co-op-agentic-personalization-at-ancestry-4476367917",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -2024,14 +2025,14 @@
  },
  {
   "src": "linkedin",
-  "company": "TikTok",
-  "title": "AI Infra Engineer Intern (Recommendation & LLM) - 2027 Summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "Schnuck Markets, Inc.",
+  "title": "2027 Data Science - Generative AI Internship",
+  "loc": "St Louis, MO",
   "etype": "Internship",
   "pub": "2026-11-20",
-  "url": "https://www.linkedin.com/jobs/view/ai-infra-engineer-intern-recommendation-llm-2027-summer-at-tiktok-4457692099",
+  "url": "https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "US",
   "dirs": [
    "llm"
