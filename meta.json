@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T13:33:36+00:00",
- "raw": 10573,
- "hits": 124,
- "new": 2,
+ "generated_at": "2026-11-23T16:12:59+00:00",
+ "raw": 10564,
+ "hits": 121,
+ "new": 1,
  "fails": [
   "lever/aircall:404",
   "linkedin:429",
