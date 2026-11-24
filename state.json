@@ -10519,5 +10519,61 @@
 "company": "AMCC FENETRES ET PORTES",
 "geo": "FR",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/mistral.ai/36f5f453-92c1-4f55-ac2a-bcfad5ffe2d2": {
+"first_seen": "2026-11-24",
+"title": "AI Scientist - Physics Models (Internship, Masters or Phd)",
+"company": "mistral.ai",
+"geo": "FR",
+"tier": "B"
+},
+"https://jobs.ashbyhq.com/mistral.ai/f2443351-6105-44fb-8024-f31b9ba60d0b": {
+"first_seen": "2026-11-24",
+"title": "AI Scientist - Agentic Engineering - AI4Engineering - (Internship, Masters or PhD)",
+"company": "mistral.ai",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-agentic-stagiaire-fin-d-%C3%A9tudes-f-h-at-deloitte-4494331521": {
+"first_seen": "2026-11-24",
+"title": "Ingénieur IA Générative & Agentic stagiaire fin d'études F/H",
+"company": "Deloitte",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-research-engineer-synth%C3%A8se-de-programmes-pour-la-g%C3%A9n%C3%A9ration-3d-pfe-m2-recherche-at-sandflow-4494053754": {
+"first_seen": "2026-11-24",
+"title": "Stage Research Engineer : synthèse de programmes pour la génération 3D (PFE / M2 Recherche)",
+"company": "Sandflow",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-%E2%80%93-ia-g%C3%A9n%C3%A9rative-automatisation-%C3%A9cosyst%C3%A8me-agentique-h-f-at-orange-business-4493683854": {
+"first_seen": "2026-11-24",
+"title": "Stage Ingénieur – IA Générative, Automatisation & Écosystème Agentique H/F",
+"company": "Orange Business",
+"geo": "FR",
+"tier": "C"
+},
+"https://www.linkedin.com/jobs/view/2027-summer-internship-program-agentic-ai-for-drug-discovery-intern-at-takeda-4492671818": {
+"first_seen": "2026-11-24",
+"title": "2027 Summer Internship Program: Agentic AI for Drug Discovery Intern  [Summer 2027 ✓]",
+"company": "Takeda",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/agentic-ai-engineering-technology-intern-full-time-internship-jan-june-2027-at-state-street-4492066879": {
+"first_seen": "2026-11-24",
+"title": "Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)",
+"company": "State Street",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-engineering-intern-voice-llm-systems-at-presto-phoenix-inc-4494304453": {
+"first_seen": "2026-11-24",
+"title": "AI Engineering Intern, Voice & LLM Systems",
+"company": "Presto Phoenix, Inc.",
+"geo": "US",
+"tier": "A"
 }
 }
