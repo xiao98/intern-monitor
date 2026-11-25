@@ -10575,5 +10575,54 @@
 "company": "Presto Phoenix, Inc.",
 "geo": "US",
 "tier": "A"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517": {
+"first_seen": "2026-11-25",
+"title": "AI and Quant DevTech Engineering Intern – Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "B"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178": {
+"first_seen": "2026-11-25",
+"title": "Developer Technology Intern, AI - Summer 2027  [Summer 2027 ✓]",
+"company": "NVIDIA",
+"geo": "US",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-en-reinforcement-learning-f-h-at-valeo-4494401058": {
+"first_seen": "2026-11-25",
+"title": "Stage – Ingénieur de Recherche en Reinforcement Learning (F/H)",
+"company": "Valeo",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-r-d-ia-explicative-et-agentique-pour-l-analyse-de-sinistralit%C3%A9-f-h-at-axa-en-france-4493071098": {
+"first_seen": "2026-11-25",
+"title": "Stage R&D - IA Explicative et Agentique pour l'Analyse de Sinistralité F/H",
+"company": "AXA en France",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-multimodal-perception-vla-models-and-autonomous-robotics-at-siemens-healthineers-4493038196": {
+"first_seen": "2026-11-25",
+"title": "Research Intern - Multimodal Perception, VLA Models, and Autonomous Robotics",
+"company": "Siemens Healthineers",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/nsuf-agentic-workflow-development-intern-summer-2027-at-idaho-national-laboratory-4493048620": {
+"first_seen": "2026-11-25",
+"title": "NSUF Agentic Workflow Development Intern - Summer 2027  [Summer 2027 ✓]",
+"company": "Idaho National Laboratory",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-moe-attention%E2%80%93ffn-disaggregation-at-samsung-semiconductor-4494794065": {
+"first_seen": "2026-11-25",
+"title": "Intern, LLM Inference Acceleration Architecture (MoE & Attention–FFN Disaggregation)",
+"company": "Samsung Semiconductor",
+"geo": "US",
+"tier": "A"
 }
 }
