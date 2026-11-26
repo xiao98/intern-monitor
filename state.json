@@ -10624,5 +10624,68 @@
 "company": "Samsung Semiconductor",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/agentic-workflows-intern-at-mendo-4494967167": {
+"first_seen": "2026-11-26",
+"title": "Agentic Workflows Intern",
+"company": "Mendo",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-edf-4495263123": {
+"first_seen": "2026-11-26",
+"title": "Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-framatome-4494943599": {
+"first_seen": "2026-11-26",
+"title": "Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H",
+"company": "Framatome",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/agentic-workflow-intern-at-a-player-4494682202": {
+"first_seen": "2026-11-26",
+"title": "Agentic Workflow Intern",
+"company": "A Player",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-industrialisation-cloud-%E2%80%93-aeroline-%E2%80%93-toulouse-at-sopra-steria-4494167399": {
+"first_seen": "2026-11-26",
+"title": "Stage – Ingénieur/e IA générative & industrialisation Cloud – Aeroline – Toulouse",
+"company": "Sopra Steria",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-ia-agentique-pour-assister-les-projets-dans-la-sp%C3%A9cifications-des-logiciels-f-h-at-edf-4495259293": {
+"first_seen": "2026-11-26",
+"title": "STAGE - Développement IA agentique pour assister les projets dans la spécifications des logiciels F/H",
+"company": "EDF",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-fine-tuning-de-mod%C3%A8les-fondations-pour-la-pr%C3%A9vision-des-prix-de-l%E2%80%99%C3%A9lectricit%C3%A9-h-f-at-totalenergies-4495293465": {
+"first_seen": "2026-11-26",
+"title": "STAGE - Fine-tuning de Modèles Fondations pour la prévision des prix de l’électricité H/F",
+"company": "TotalEnergies",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/internship-computer-vision-vlms-for-fraud-detection-at-idemia-public-security-4494439268": {
+"first_seen": "2026-11-26",
+"title": "Internship : Computer Vision - VLMs for fraud detection",
+"company": "IDEMIA Public Security",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4495243459": {
+"first_seen": "2026-11-26",
+"title": "AI Research Intern – Predictive World Model",
+"company": "XPENG",
+"geo": "US",
+"tier": "A"
 }
 }

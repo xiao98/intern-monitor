@@ -1,23 +1,27 @@
-实习监控 2026-11-25 · 新增 7 · 当前在挂命中 125 · 显示 7
+实习监控 2026-11-26 · 新增 9 · 当前在挂命中 132 · 显示 9
 
-🇫🇷 FRANCE  (2)
-[A] agent · AXA en France — Stage R&D - IA Explicative et Agentique pour l'Analyse de Sinistralité F/H  (Suresnes, Île-de-France, France · 发布 2026-11-25 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-r-d-ia-explicative-et-agentique-pour-l-analyse-de-sinistralit%C3%A9-f-h-at-axa-en-france-4493071098
-[A] rl · Valeo — Stage – Ingénieur de Recherche en Reinforcement Learning (F/H)  (Créteil, Île-de-France, France · 发布 2026-11-24 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-en-reinforcement-learning-f-h-at-valeo-4494401058
+🇫🇷 FRANCE  (8)
+[A] agent · A Player — Agentic Workflow Intern  (Paris, Île-de-France, France · 发布 2026-11-25 · [linkedin])
+    https://fr.linkedin.com/jobs/view/agentic-workflow-intern-at-a-player-4494682202
+[A] agent · EDF — STAGE - Développement IA agentique pour assister les projets dans la spécifications des logiciels F/H  (Palaiseau, Île-de-France, France · 发布 2026-11-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-ia-agentique-pour-assister-les-projets-dans-la-sp%C3%A9cifications-des-logiciels-f-h-at-edf-4495259293
+[A] llm · IDEMIA Public Security — Internship : Computer Vision - VLMs for fraud detection  (Pontoise, Île-de-France, France · 发布 2026-11-24 · [linkedin])
+    https://fr.linkedin.com/jobs/view/internship-computer-vision-vlms-for-fraud-detection-at-idemia-public-security-4494439268
+[A] agent · Mendo — Agentic Workflows Intern  (Paris, Île-de-France, France · 发布 2026-11-25 · [linkedin])
+    https://fr.linkedin.com/jobs/view/agentic-workflows-intern-at-mendo-4494967167
+[A] llm · TotalEnergies — STAGE - Fine-tuning de Modèles Fondations pour la prévision des prix de l’électricité H/F  (Palaiseau, Île-de-France, France · 发布 2026-11-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-fine-tuning-de-mod%C3%A8les-fondations-pour-la-pr%C3%A9vision-des-prix-de-l%E2%80%99%C3%A9lectricit%C3%A9-h-f-at-totalenergies-4495293465
+[B] llm · EDF — Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-26 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-edf-4495263123
+[B] llm · Framatome — Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-25 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-framatome-4494943599
+[C] llm · Sopra Steria — Stage – Ingénieur/e IA générative & industrialisation Cloud – Aeroline – Toulouse  (Colomiers, Occitanie, France · 发布 2026-11-24 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-industrialisation-cloud-%E2%80%93-aeroline-%E2%80%93-toulouse-at-sopra-steria-4494167399
 
-🇺🇸 USA  (5)
-[A] agent · Idaho National Laboratory — NSUF Agentic Workflow Development Intern - Summer 2027 [Summer 2027 ✓]  (Idaho Falls, ID · 发布 2026-11-24 · [linkedin])
-    https://www.linkedin.com/jobs/view/nsuf-agentic-workflow-development-intern-summer-2027-at-idaho-national-laboratory-4493048620
-[A] llm · Samsung Semiconductor — Intern, LLM Inference Acceleration Architecture (MoE & Attention–FFN Disaggregation)  (San Jose, CA · 发布 2026-11-25 · [linkedin])
-    https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-moe-attention%E2%80%93ffn-disaggregation-at-samsung-semiconductor-4494794065
-[A] llm · Siemens Healthineers — Research Intern - Multimodal Perception, VLA Models, and Autonomous Robotics  (Princeton, NJ · 发布 2026-11-24 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-multimodal-perception-vla-models-and-autonomous-robotics-at-siemens-healthineers-4493038196
-[B] llm · NVIDIA — AI and Quant DevTech Engineering Intern – Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-24 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517
-[B] diff/llm · NVIDIA — Developer Technology Intern, AI - Summer 2027 [Summer 2027 ✓]  (US, CA, Santa Clara · 发布 2026-11-24 · [nvidia])
-    https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178
+🇺🇸 USA  (1)
+[A] diff/rl · XPENG — AI Research Intern – Predictive World Model  (Santa Clara, CA · 发布 2026-11-26 · [linkedin])
+    https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4495243459
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:404
+失败源: lever/aircall:404, linkedin:429, watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1, watch/LIG GETALP Grenoble:404

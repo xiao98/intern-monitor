@@ -1,10 +1,11 @@
 {
- "generated_at": "2026-11-25T15:47:47+00:00",
- "raw": 10578,
- "hits": 125,
- "new": 7,
+ "generated_at": "2026-11-26T15:31:04+00:00",
+ "raw": 10591,
+ "hits": 132,
+ "new": 9,
  "fails": [
   "lever/aircall:404",
+  "linkedin:429",
   "watch/Inria Flowers (Bordeaux, Oudeyer/Romac/Moulin-Frier):-1",
   "watch/LIG GETALP Grenoble:404"
  ]

@@ -813,77 +813,12 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
-  "title": "AI and Quant DevTech Engineering Intern – Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-11-24",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
-  "desc": "  We are looking for a software engineer with a strong background in parallel processing and GPU architecture to push the limits of performance at the intersection of AI, high-performance computing, and financial markets. In this role, you will dive deep into parallel algorithms, GPUs, and sophisticated systems, identifying and eliminating bottlenecks to unlock the full power of the world’s most advanced processing hardware.         You will collaborate with top experts across industry and academia, influence next-generation platforms, and share your insights with the global developer community. Do you enjoy solving hard technical problems, love performance tuning, and want your work to have a visible impact across an entire industry? If so, we'd love for you to consider this role.          What you will be doing:      ● Designing and developing groundbreaking techniques to accelerate high-performance workloads at the intersection of AI, math, and financial systems.     ● Working hands-on with leading technical experts to analyze, optimize, and scale complex AI and HPC workloads for modern CPU and GPU architectures.    ● Profiling and eliminating performance bottlenecks across the stack—from algorithms to kernels to system-level behavior.    ● Publishing and presenting your work in conferences, talks, and blogs to educate and inspire the broader developer community.    ● Influencing the design of future hardware architectures, system software, libraries, and programming models by collaborating closely with NVIDIA research, hardware, compiler, and tools teams.      What we need to see:       ● Pursuing a Master’s or PhD degree in Computer Science, Computer Engineering, or Electrical and Computer Engineering or related field.     ● Relevant work or research experience.    ● Experience with low-level parallel programming (e.g., CUDA).    ● Deep understanding of CPU/GPU architecture fundamentals and how they impact performance.    ● Fluency in C/C++ and solid foundations in algorithms and software design.    ● Experience improving the performance of large-scale computational applications on GPUs.    ● Good understanding of linear algebra.    ● Strong communication and organization skills, with a logical approach to problem solving and solid prioritization abilities.      Ways to stand out from the crowd:      ● Prior internship experience in a related field.     ● Experience with inference optimization techniques and deploying optimized AI models in production.    ● Experience with TensorRT, TensorRT-LLM, and cuTile.    ● Background in capital markets with exposure to systematic/algorithmic strategies or quantitative trading.    ● Experience parallelizing and optimizing machine learning methods such as decision trees, time series models, and Monte Carlo simulations.    ● Knowledge of financial data models, pricing and risk simulation algorithms, portfolio optimization, or other finance-focused applications and services.         NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most forward-thinking, inventive, and hardworking people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 28, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "Developer Technology Intern, AI - Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-11-24",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
-  "desc": " We are seeking an AI Developer Technology (DevTech) Engineering Intern to accelerate the frontier of generative AI training and inference. Our team is the bridge connecting the NVIDIA platform with developers worldwide. We dive deep into customer projects to accelerate performance, eliminate bottlenecks, and partner with a vibrant developer community to deliver outstanding performance on NVIDIA systems.   If you are passionate about accelerating the world's most advanced AI models, we want you to be on our team.     What you will be doing:      Develop cutting-edge techniques to GPU-accelerate complex workloads across state-of-the-art generative AI (including LLMs, diffusion models, and multimodal systems), deep learning, and machine learning domains.    Build and optimize algorithms to deliver the best performance, and contribute to training and inference frameworks, low-level software libraries, and open-source projects.    Partner directly with top technical experts to perform in-depth analysis and optimization of complex AI algorithms on modern CPU and GPU architectures.        What we need to see:      Currently pursuing BS, MS, or BS in engineering or Computer Science related discipline    Programming fluency in C/C++ with a deep understanding of algorithms and software development.    Foundational understanding of modern CPU and GPU architectures.    A background in accelerated computing, with comprehensive knowledge of parallel programming and linear algebra, performance analysis and optimization.       Ways to stand out from the crowd:      Hands on experience doing low-level performance optimizations.     Experience with training and inference stacks, serving frameworks, pre-training, and post-training pipelines.       NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most forward-thinking, inventive, and hardworking people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We want to hear from you!     Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 28, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "diff",
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
-  "loc": "Germany, Remote, France, Remote",
-  "etype": "Intern",
-  "pub": "2026-11-23",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
-  "desc": " NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.   Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join us!     What you’ll be doing:    Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous graph.  Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a single, extensible foundation model.  Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s possible.  Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.      What we need to see:    Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area  Proficiency in Python and deep learning frameworks, such as PyTorch  Coursework or research experience in crafting ML algorithm solutions      Ways to stand out from the crowd:    Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar    NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!     Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rates for this position are: Germany: 52,800 EUR – 91,520 EUR. France: 43,500 EUR – 75,400 EUR.",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
-  "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027  [Summer 2027 ✓]",
-  "loc": "US, CA, Santa Clara",
-  "etype": "Intern",
-  "pub": "2026-11-19",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
-  "desc": "  Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world.      NVIDIA is using the power of high-performance computing and AI to accelerate digital biology. Join our applied research team to study agent swarms: coordinated teams of AI agents that plan, build, experiment, and check one another’s work. Working with a mentor, you will investigate how these systems can solve hard problems in computational biology using NVIDIA’s accelerated computing platform. You will also use swarms as a daily research tool, rapidly turning ideas into implementations, experiments, and useful scientific software. We are looking for exceptional researchers who combine deep computational foundations with original thinking and careful scientific judgment. Expect a lively, collaborative environment with ambitious questions, short cycles from hypothesis to experiment, and the fun of building things that work.     What You'll Be Doing:     Work with a mentor to formulate original research questions about how agent swarms can solve difficult computational biology problems, and design a focused project to test them.    Build and orchestrate agents that divide work, explore approaches in parallel, write and execute scientific code, exchange evidence, and critique or refine one another’s solutions.    Use agent swarms in your daily research workflow to rapidly implement algorithms, build scientific tools, and run experiments, taking responsibility for correctness and scientific interpretation.    Design controlled evaluations against single-agent systems and established computational methods; use ablation studies and comparable compute budgets to measure solution quality, reliability, and time to solution.    Collaborate with biologists, computational scientists, and engineers to connect experiments to meaningful biological questions; share reproducible code, benchmarks, and findings through open-source releases and research publications where appropriate.      What We Need To See:     Pursuing an MS or PhD in computer science, computational biology, bioinformatics, chemistry, physics, mathematics, or a related quantitative field, or an equivalent program area.    Strong foundations in algorithms, data structures, numerical methods, and scientific computing, demonstrated through coursework, research, or substantial projects.    Proficiency in Python and experience implementing, testing, and debugging scientific software, including the ability to inspect and validate agent-generated code and numerical results.    Hands-on experience using and orchestrating multiple AI agents to solve technical problems, including task decomposition, tool use, parallel execution, and verification of outputs.    Evidence of research depth and originality through a project, thesis, paper, or software contribution: formulating a question, designing convincing experiments, and critically interpreting findings and limitations.      Ways To Stand Out From The Crowd:     Experience turning scientific papers or mathematical descriptions into efficient implementations, including profiling, numerical validation, and optimization in C/C++, CUDA, or other parallel computing environments.    Experience applying computational methods to biological problems, such as sequence or structure analysis, molecular modeling, or genomics.    Research on multi-agent systems for scientific discovery, with evidence of when coordination improves results over simpler approaches.    Experience building agent systems with shared state, experiment tracking, automated tests, or recovery from failed runs, and an interest in making ambitious research workflows reliable.          NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "nvidia",
-  "company": "NVIDIA",
   "title": "AI Compiler and Kernel Intern – Summer 2027  [Summer 2027 ✓]",
   "loc": "US, TX, Austin",
   "etype": "Intern",
-  "pub": "2026-11-19",
+  "pub": "2026-11-25",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Compiler-and-Kernel-Intern---Summer-2027_JR2029220-1",
-  "desc": " NVIDIA is looking for an AI Compiler & Kernel Intern to apply AI agents, machine learning, and performance engineering to compilers, GPU kernels, and developer tools. You will work with compiler, kernel, and AI engineers on a scoped project involving code, compiler and kernel feedback, performance experiments, and optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, compiler optimization, GPU kernel development, performance analysis, or AI-enabled developer tools. Candidates may enter from either a compiler or kernel background; experience in every area is not expected.    What You’ll Be Doing:    Build AI-agent workflows that interact with code, compilers, GPU kernels, benchmarks, performance tools, and engineering systems.  Develop tools that help agents collect data, run experiments, analyze compiler, kernel, and performance feedback, identify optimization opportunities, and recommend next steps.  Explore data-driven approaches for compiler optimization, GPU kernel generation and tuning, performance prediction, decision support, and workflow automation.  Build reliable interfaces between AI agents and compiler, kernel, or developer-tool infrastructure.  Prototype improvements to compiler flows, code generation, GPU kernels, optimization tools, experimentation systems, or developer workflows.  Work with compiler, kernel, architecture, AI, and performance engineers to evaluate ideas on representative workloads.  Measure correctness, runtime performance, compile time, resource utilization, reliability, and other relevant outcomes.  Document the design, experiments, results, limitations, and next steps.     What We Need to See:    Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a similar field .   Strong programming skills in Python, C, C++, or a similar language.  Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.  Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, GPU kernels, CUDA or accelerator programming, systems, performance engineering, optimization, or developer tools.  Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.  Experience working in one or more of AI, compiler, kernel, performance, or systems areas, with the ability to learn across technical boundaries.     Ways to Stand Out from the Crowd:    Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.  Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.  Experience writing, analyzing, or optimizing GPU kernels using CUDA, Triton, or a similar accelerator programming model.  Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.    Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity     Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "desc": " NVIDIA is looking for an AI Compiler & Kernel Intern to apply AI agents, machine learning, and performance engineering to compilers, GPU kernels, and developer tools. You will work with compiler, kernel, and AI engineers on a scoped project involving code, compiler and kernel feedback, performance experiments, and optimization. Depending on your background and interests, the work may focus on agentic workflows, learned models, compiler optimization, GPU kernel development, performance analysis, or AI-enabled developer tools. Candidates may enter from either a compiler or kernel background; experience in every area is not expected.    What You’ll Be Doing:    Build AI-agent workflows that interact with code, compilers, GPU kernels, benchmarks, performance tools, and engineering systems.  Develop tools that help agents collect data, run experiments, analyze compiler, kernel, and performance feedback, identify optimization opportunities, and recommend next steps.  Explore data-driven approaches for compiler optimization, GPU kernel generation and tuning, performance prediction, decision support, and workflow automation.  Build reliable interfaces between AI agents and compiler, kernel, or developer-tool infrastructure.  Prototype improvements to compiler flows, code generation, GPU kernels, optimization tools, experimentation systems, or developer workflows.  Work with compiler, kernel, architecture, AI, and performance engineers to evaluate ideas on representative workloads.  Measure correctness, runtime performance, compile time, resource utilization, reliability, and other relevant outcomes.  Document the design, experiments, results, limitations, and next steps.     What We Need to See:    Pursuing a BS, MS, or PhD in Computer Science, Computer Engineering, Electrical Engineering, or a similar field .   Strong programming skills in Python, C, C++, or a similar language.  Solid foundations in data structures, algorithms, software engineering, and quantitative problem solving.  Coursework, research, or project experience in one or more of these areas: AI, machine learning, AI agents, compilers, programming languages, GPU kernels, CUDA or accelerator programming, systems, performance engineering, optimization, or developer tools.  Ability to design experiments, analyze results, investigate technical problems, and communicate findings clearly.  Experience working in one or more of AI, compiler, kernel, performance, or systems areas, with the ability to learn across technical boundaries.     Ways to Stand Out from the Crowd:    Experience building AI agents, LLM applications, evaluation systems, coding workflows, or developer tools.  Experience with LLVM, MLIR, compiler optimization passes, code generation, domain-specific languages, or compiler infrastructure.  Experience writing, analyzing, or optimizing GPU kernels using CUDA, Triton, or a similar accelerator programming model.  Hands-on experience with reinforcement learning, evolutionary algorithms, predictive modeling, ranking, search, or high-dimensional data analysis.    Research, internships, open-source contributions, or personal projects that measure runtime, compile time, resource use, code quality, or developer productivity     Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -899,9 +834,9 @@
   "title": "Research and Engineering Intern, Agentic Systems Intelligence – Summer 2027  [Summer 2027 ✓]",
   "loc": "US, CA, Santa Clara, US, TX, Austin, US, WA, Redmond",
   "etype": "Intern",
-  "pub": "2026-11-19",
+  "pub": "2026-11-25",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-and-Engineering-Intern--Agentic-Systems-Intelligence---Summer-2027_JR2028260",
-  "desc": "  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 30 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.     We are looking for an outstanding Research & Engineering Intern to join NVIDIA’s Agentic Systems Intelligence (ASI) team, a frontier research and engineering team advancing high-performance AI. Our team builds the next generation of agentic AI systems for the CUDA ecosystem, working across the full stack—from training and improving models, to designing agent architectures and multi-agent systems, to building the systems, runtimes, and evaluation frameworks that make them effective at scale. You will investigate open-ended research questions and turn promising ideas into working systems that can reason about, generate, optimize, and operate across NVIDIA’s accelerated computing stack. Depending on your strengths and interests, your work may focus on advancing model and agent capabilities, building scalable agent systems and runtimes, or developing high-fidelity training and evaluation environments. You will collaborate closely with NVIDIA software, model, and hardware teams, with opportunities to bring new capabilities into NVIDIA products.      What you'll be doing:      Research, build, and optimize agentic AI systems for the CUDA ecosystem, including agent architectures, multi-agent workflows, tool use, memory, and orchestration.    Develop data pipelines, environments, verification tools, reward mechanisms, and evaluation frameworks to improve model and agent capabilities through rigorous experimentation.    Co-design and optimize agentic systems across NVIDIA’s software and hardware stack, connecting advances in models and agents with compilers, runtimes, libraries, kernels, and GPUs. Demonstrate measurable improvements in correctness, performance, or developer productivity.       What we need to see:      You are pursuing a Master’s, or PhD in Computer Science, Electrical Engineering, or a similar field.    Strong foundations in one or more of the following: AI systems, agentic AI, machine learning, reinforcement learning, high-performance computing, or computer architecture.    Hands-on research or development experience in agent systems, coding agents, model training, reinforcement learning, or modern AI inference systems.    Strong Python programming skills and proficiency in C/C++ or Rust, with solid software engineering fundamentals.    Experience with GPU computing and an interest in performance optimization and working across system boundaries.       Ways To Stand Out From The Crowd:      PhD research in a relevant area, with demonstrated ability to formulate research questions, build working implementations, and evaluate them rigorously.    Experience building coding agents, autonomous software-engineering systems, or agent training and evaluation environments.    Hands-on experience with GPU programming and performance optimization, or with systems such as TRT-LLM, SGLang, or vLLM.    Evidence of technical depth and ownership through impactful research prototypes, deployed systems, or substantial open-source contributions. Relevant publications are welcome; we especially value strong engineering and measurable real-world impact.      With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous researcher/engineer with a real passion for technology, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "desc": "  NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 30 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.     We are looking for an outstanding Research & Engineering Intern to join NVIDIA’s Agentic Systems Intelligence (ASI) team, a frontier research and engineering team advancing high-performance AI. Our team builds the next generation of agentic AI systems for the CUDA ecosystem, working across the full stack—from training and improving models, to designing agent architectures and multi-agent systems, to building the systems, runtimes, and evaluation frameworks that make them effective at scale. You will investigate open-ended research questions and turn promising ideas into working systems that can reason about, generate, optimize, and operate across NVIDIA’s accelerated computing stack. Depending on your strengths and interests, your work may focus on advancing model and agent capabilities, building scalable agent systems and runtimes, or developing high-fidelity training and evaluation environments. You will collaborate closely with NVIDIA software, model, and hardware teams, with opportunities to bring new capabilities into NVIDIA products.      What you'll be doing:      Research, build, and optimize agentic AI systems for the CUDA ecosystem, including agent architectures, multi-agent workflows, tool use, memory, and orchestration.    Develop data pipelines, environments, verification tools, reward mechanisms, and evaluation frameworks to improve model and agent capabilities through rigorous experimentation.    Co-design and optimize agentic systems across NVIDIA’s software and hardware stack, connecting advances in models and agents with compilers, runtimes, libraries, kernels, and GPUs. Demonstrate measurable improvements in correctness, performance, or developer productivity.       What we need to see:      You are pursuing a Master’s, or PhD in Computer Science, Electrical Engineering, or a similar field.    Strong foundations in one or more of the following: AI systems, agentic AI, machine learning, reinforcement learning, high-performance computing, or computer architecture.    Hands-on research or development experience in agent systems, coding agents, model training, reinforcement learning, or modern AI inference systems.    Strong Python programming skills and proficiency in C/C++ or Rust, with solid software engineering fundamentals.    Experience with GPU computing and an interest in performance optimization and working across system boundaries.       Ways To Stand Out From The Crowd:      PhD research in a relevant area, with demonstrated ability to formulate research questions, build working implementations, and evaluate them rigorously.    Experience building coding agents, autonomous software-engineering systems, or agent training and evaluation environments.    Hands-on experience with GPU programming and performance optimization, or with systems such as TRT-LLM, SGLang, or vLLM.    Evidence of technical depth and ownership through impactful research prototypes, deployed systems, or substantial open-source contributions. Relevant publications are welcome; we especially value strong engineering and measurable real-world impact.      With competitive salaries and a generous benefits package, we are widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us and, due to unprecedented growth, our exclusive engineering teams are rapidly growing. If you're a creative and autonomous researcher/engineer with a real passion for technology, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "A",
   "geo": "US",
   "dirs": [
@@ -912,12 +847,28 @@
  {
   "src": "nvidia",
   "company": "NVIDIA",
+  "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+  "loc": "Germany, Remote, France, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-25",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+  "desc": " NVIDIA has been transforming computer graphics, PC gaming, and accelerated computing for more than 25 years. It’s a unique legacy of innovation that’s fueled by great technology—and amazing people. Today, we’re tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in a diverse, supportive environment where everyone is inspired to do their best work. Come join the team and see how you can make a lasting impact on the world.   Our work at NVIDIA is dedicated towards a computing model focused on visual and AI computing. For two decades, NVIDIA has pioneered visual computing, the art and science of computer graphics, with our invention of the GPU. The GPU has also shown to be spectacularly effective at solving some of the most complex problems in computer science. Today, NVIDIA’s GPU simulates human intelligence, running deep learning algorithms and acting as the brain of computers, robots and self-driving cars that can perceive and understand the world. We are looking to grow our company and teams with the smartest people in the world and there has never been a more exciting time to join us!     What you’ll be doing:    Collaborate with researchers/engineers to enhance our Transformer and GNN-based models to operate seamlessly over any relational schema and heterogeneous graph.  Gain hands-on experience with high-impact use cases such as forecasting, entity matching, customer retention and fraud detection – all built on top of a single, extensible foundation model.  Apply your knowledge in ML and AI to address real challenges while contributing to scalable and adaptable solutions that push the boundaries of what’s possible.  Work may span the full lifecycle of modern ML systems: from architecture design/training to post-training optimization and inference acceleration.      What we need to see:    Pursuing MS or PhD in Machine Learning, Computer Science, or equivalent program area  Proficiency in Python and deep learning frameworks, such as PyTorch  Coursework or research experience in crafting ML algorithm solutions      Ways to stand out from the crowd:    Familiarity with graph-based machine learning; publications at venues such as NeurIPS, ICLR, ICML, or similar    NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!     Our internship pay is based on the position, your location, year in school, degree, and experience. Pay is pro-rated for the duration of the internship. The expected annual rates for this position are: Germany: 52,800 EUR – 91,520 EUR. France: 43,500 EUR – 75,400 EUR.",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
   "title": "Deep Learning Scientist Intern, LLM, Multimodal and Agentic AI - Summer 2027  [Summer 2027 ✓]",
   "loc": "US, CA, Santa Clara",
   "etype": "Intern",
-  "pub": "2026-11-19",
+  "pub": "2026-11-25",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Deep-Learning-Scientist-Intern--LLM--Multimodal-and-Agentic-AI---Summer-2027_JR2027548",
-  "desc": "  NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?     Join our team and help build the next generation of large language models, multimodal foundation models, and agentic AI systems. Intelligent machines powered by AI that can understand, reason, plan, interact with people, and take actions are no longer science fiction. Today, LLMs and multimodal models can process and generate text, vision, speech, audio, and video, while increasingly using tools and interacting with complex environments to solve real-world tasks. This is truly an extraordinary time. The era of AI has begun.      What you'll be doing:     As a Deep Learning Scientist Intern, you will work on research, design, and development of large language models, multimodal LLMs, and agentic AI systems. You will use machine learning and deep learning techniques across language, vision, speech, audio, and video to develop and improve next-generation foundation models.     Research and develop large language models, multimodal foundation models, and agentic AI systems across text, vision, speech, audio, and video.    Develop, train, fine-tune, and evaluate foundation models using supervised fine-tuning, instruction tuning, preference optimization, reinforcement learning, and related post-training techniques.    Develop and evaluate capabilities including reasoning, multimodal understanding, planning, tool use, conversational interaction, and multi-step task completion.    Build and curate high-quality datasets and evaluation benchmarks for model training, post-training, and performance analysis.    Prototype new model architectures, algorithms, training strategies, and inference techniques, and collaborate with researchers and engineers to scale successful ideas.       What we need to see:      Pursuing an MS or PhD degree in Computer Science, Electrical Engineering, Artificial Intelligence, Applied Mathematics, or a related field.    Strong knowledge of machine learning and deep learning techniques, algorithms, and modern foundation model architectures, including Transformers.    Experience or exposure to large language models, vision-language models, or multimodal models, with an emphasis on reinforcement learning for agentic reasoning, planning, tool use, and coding.    Excellent programming skills in Python and experience with deep learning frameworks such as PyTorch, NeMo, Megatron-LM, TensorFlow, or related frameworks.    Experience developing, training, fine-tuning, or evaluating deep learning models, including familiarity with data processing, dataset development, experiment tracking, and model evaluation workflows.    Strong problem-solving skills and a demonstrated ability to rapidly prototype, experiment, and evaluate new ideas.       Ways to stand out from the crowd:      Experience with large language models, multimodal foundation models, vision-language models, or agentic AI research and development.    Background with post-training techniques such as instruction tuning, preference optimization, RLHF, RLVR, GRPO, or related reinforcement learning methods.    Experience with multimodal reasoning across text, image, video, speech, or audio, including conversational or audio-language models.    Experience with reasoning, planning, tool use, function calling, or multi-step agentic systems.    Background with large-scale model training, distributed frameworks such as NeMo or Megatron-LM, GPU computing, or inference technologies such as vLLM or TensorRT-LLM.      NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous, with a genuine passion for large language models, multimodal AI, and agentic systems, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "desc": "  NVIDIA’s invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing — with the GPU acting as the brain of computers, robots, and self-driving cars that can perceive and understand the world. Today, we are increasingly known as “the AI computing company.” We're looking to grow our company and build our teams with the smartest people in the world. Would you like to join us at the forefront of technological advancement?     Join our team and help build the next generation of large language models, multimodal foundation models, and agentic AI systems. Intelligent machines powered by AI that can understand, reason, plan, interact with people, and take actions are no longer science fiction. Today, LLMs and multimodal models can process and generate text, vision, speech, audio, and video, while increasingly using tools and interacting with complex environments to solve real-world tasks. This is truly an extraordinary time. The era of AI has begun.      What you'll be doing:     As a Deep Learning Scientist Intern, you will work on research, design, and development of large language models, multimodal LLMs, and agentic AI systems. You will use machine learning and deep learning techniques across language, vision, speech, audio, and video to develop and improve next-generation foundation models.     Research and develop large language models, multimodal foundation models, and agentic AI systems across text, vision, speech, audio, and video.    Develop, train, fine-tune, and evaluate foundation models using supervised fine-tuning, instruction tuning, preference optimization, reinforcement learning, and related post-training techniques.    Develop and evaluate capabilities including reasoning, multimodal understanding, planning, tool use, conversational interaction, and multi-step task completion.    Build and curate high-quality datasets and evaluation benchmarks for model training, post-training, and performance analysis.    Prototype new model architectures, algorithms, training strategies, and inference techniques, and collaborate with researchers and engineers to scale successful ideas.       What we need to see:      Pursuing an MS or PhD degree in Computer Science, Electrical Engineering, Artificial Intelligence, Applied Mathematics, or a related field.    Strong knowledge of machine learning and deep learning techniques, algorithms, and modern foundation model architectures, including Transformers.    Experience or exposure to large language models, vision-language models, or multimodal models, with an emphasis on reinforcement learning for agentic reasoning, planning, tool use, and coding.    Excellent programming skills in Python and experience with deep learning frameworks such as PyTorch, NeMo, Megatron-LM, TensorFlow, or related frameworks.    Experience developing, training, fine-tuning, or evaluating deep learning models, including familiarity with data processing, dataset development, experiment tracking, and model evaluation workflows.    Strong problem-solving skills and a demonstrated ability to rapidly prototype, experiment, and evaluate new ideas.       Ways to stand out from the crowd:      Experience with large language models, multimodal foundation models, vision-language models, or agentic AI research and development.    Background with post-training techniques such as instruction tuning, preference optimization, RLHF, RLVR, GRPO, or related reinforcement learning methods.    Experience with multimodal reasoning across text, image, video, speech, or audio, including conversational or audio-language models.    Experience with reasoning, planning, tool use, function calling, or multi-step agentic systems.    Background with large-scale model training, distributed frameworks such as NeMo or Megatron-LM, GPU computing, or inference technologies such as vLLM or TensorRT-LLM.      NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most brilliant and talented people in the world working for us. If you're creative and autonomous, with a genuine passion for large language models, multimodal AI, and agentic systems, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "A",
   "geo": "US",
   "dirs": [
@@ -932,9 +883,9 @@
   "title": "Research Intern, Spatial Intelligence - Summer 2027  [Summer 2027 ✓]",
   "loc": "US, CA, Santa Clara",
   "etype": "Intern",
-  "pub": "2026-11-19",
+  "pub": "2026-11-25",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
-  "desc": "  NVIDIA is searching for an outstanding computer vision and deep learning intern researcher to join the spatial intelligence lab. We are passionate about research that pushes boundaries but also has impact in the real world!          What you’ll be doing:      Research, design and implement methods for one of the key research topics of the team: generative AI for videos, reconstruction, simulation, video understanding, policy learning, reinforcement learning, VLMs.    Publish original research at the end of the internship.    Collaborate with other team members and teams.    Collaborate with external researchers.           What we need to see:      Must currently be at least a second-year Ph.D. student in, e.g., Computer Science/Engineering, Mathematics.    Excellent knowledge of theory and practice of computer vision methods, as well as deep learning.    Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA)    Knowledge of common machine learning frameworks, such as PyTorch.    Outstanding research track record.    Very good publication record in computer vision, with a minimum of 2 papers (1 as main author) published at top venues CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.    Excellent communications skills.    Good knowledge of version control systems, e.g., git.          NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an AA/EEO/Veterans/Disabled employer. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 38 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.       ",
+  "desc": "  NVIDIA is searching for an outstanding computer vision and deep learning intern researcher to join the spatial intelligence lab. We are passionate about research that pushes boundaries but also has impact in the real world!          What you’ll be doing:      Research, design and implement methods for one of the key research topics of the team: generative AI for videos, reconstruction, simulation, video understanding, policy learning, reinforcement learning, VLMs.    Publish original research at the end of the internship.    Collaborate with other team members and teams.    Collaborate with external researchers.           What we need to see:      Must currently be at least a second-year Ph.D. student in, e.g., Computer Science/Engineering, Mathematics.    Excellent knowledge of theory and practice of computer vision methods, as well as deep learning.    Excellent programming skills in some rapid prototyping environment such as Python; C++ and parallel programming (e.g., CUDA)    Knowledge of common machine learning frameworks, such as PyTorch.    Outstanding research track record.    Very good publication record in computer vision, with a minimum of 2 papers (1 as main author) published at top venues CVPR, ICCV, ECCV, NeurIPS, ICML, ICLR.    Excellent communications skills.    Good knowledge of version control systems, e.g., git.          NVIDIA is widely considered to be one of the technology world's most desirable employers. We have some of the most forward-thinking and productive people in the world working for us. If you're creative and autonomous, we want to hear from you! We are an AA/EEO/Veterans/Disabled employer. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 38 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.       ",
   "tier": "B",
   "geo": "US",
   "dirs": [
@@ -949,10 +900,59 @@
   "title": "VLSI CAD Timing Intern, Applied AI - Summer 2027  [Summer 2027 ✓]",
   "loc": "US, CA, Santa Clara",
   "etype": "Intern",
-  "pub": "2026-11-19",
+  "pub": "2026-11-25",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/VLSI-CAD-Timing-Intern--Applied-AI---Summer-2027_JR2026799",
-  "desc": "  NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to resolve, that only we can seek, and that matter to the world. This is our life’s work, to amplify human inventiveness and intelligence.         We are looking for a VLSI CAD Timing Intern focused on Applied AI to lead end-to-end solution development — spanning data generation, model training, orchestration, and agentic automation — for timing and constraint analysis workflows. You will be part of a cross-disciplinary team building intelligent systems that learn from sign-off data, reason across flows, and assist engineers in achieving faster and more predictable closure.          What You’ll Be Doing:      Learn and support static timing analysis (STA) flows using industry tools like PrimeTime and Tempus for advanced ASIC designs.    Help develop and automate timing, constraints, and QoR validation flows using scripting and data-driven methods.    Assist with analyzing timing reports, constraints, and design data across corners and modes to improve closure predictability.    Collaborate with CAD, physical design, and methodology engineers on timing sign-off strategies and best practices.    Contribute to early AI- or analytics-assisted approaches for timing analysis, constraint checking, or flow optimization.    Explore how physical effects (e.g., IR drop, crosstalk, aging, thermal impact) influence timing and design decisions.           What we need to see:      Currently pursuing a Master’s or PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field.    Coursework or academic knowledge in VLSI/ASIC design, digital circuits, or computer architecture.    Exposure to applying agentic AI to back-end VLSI tasks (e.g., floorplanning, timing closure, or physical verification).    Familiarity with the basics of static timing analysis, constraints, or digital design flows.    Knowledge in scripting or programming (Python preferred).    Comfort working with data, reports, and technical problem-solving in complex systems.           Ways to stand out from the crowd:      Academic projects, research, or internships related to VLSI, physical design, STA, or EDA tools.      Exposure to TCL.      Exposure to machine learning, data analysis, or AI concepts applied to engineering problems.      Experience automating workflows, analyzing large datasets, or contributing to technical tools or open-source projects.          NVIDIA is widely considered one of the technology world’s most desirable employers. We employ some of the most forward-thinking and talented people in the world. Are you passionate about joining our life work to amplify human creativity and intelligence? If you are creative, collaborative, and have a real passion for design methodology and automation, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 94 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 23, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "desc": "  NVIDIA has continuously reinvented itself over two decades. Our invention of the GPU in 1999 sparked the growth of the PC gaming market, redefined modern computer graphics, and revolutionized parallel computing. More recently, GPU deep learning ignited modern AI — the next era of computing. NVIDIA is a “learning machine” that constantly evolves by adapting to new opportunities that are hard to resolve, that only we can seek, and that matter to the world. This is our life’s work, to amplify human inventiveness and intelligence.         We are looking for a VLSI CAD Timing Intern focused on Applied AI to lead end-to-end solution development — spanning data generation, model training, orchestration, and agentic automation — for timing and constraint analysis workflows. You will be part of a cross-disciplinary team building intelligent systems that learn from sign-off data, reason across flows, and assist engineers in achieving faster and more predictable closure.          What You’ll Be Doing:      Learn and support static timing analysis (STA) flows using industry tools like PrimeTime and Tempus for advanced ASIC designs.    Help develop and automate timing, constraints, and QoR validation flows using scripting and data-driven methods.    Assist with analyzing timing reports, constraints, and design data across corners and modes to improve closure predictability.    Collaborate with CAD, physical design, and methodology engineers on timing sign-off strategies and best practices.    Contribute to early AI- or analytics-assisted approaches for timing analysis, constraint checking, or flow optimization.    Explore how physical effects (e.g., IR drop, crosstalk, aging, thermal impact) influence timing and design decisions.           What we need to see:      Currently pursuing a Master’s or PhD in Electrical Engineering, Computer Engineering, Computer Science, or a related field.    Coursework or academic knowledge in VLSI/ASIC design, digital circuits, or computer architecture.    Exposure to applying agentic AI to back-end VLSI tasks (e.g., floorplanning, timing closure, or physical verification).    Familiarity with the basics of static timing analysis, constraints, or digital design flows.    Knowledge in scripting or programming (Python preferred).    Comfort working with data, reports, and technical problem-solving in complex systems.           Ways to stand out from the crowd:      Academic projects, research, or internships related to VLSI, physical design, STA, or EDA tools.      Exposure to TCL.      Exposure to machine learning, data analysis, or AI concepts applied to engineering problems.      Experience automating workflows, analyzing large datasets, or contributing to technical tools or open-source projects.          NVIDIA is widely considered one of the technology world’s most desirable employers. We employ some of the most forward-thinking and talented people in the world. Are you passionate about joining our life work to amplify human creativity and intelligence? If you are creative, collaborative, and have a real passion for design methodology and automation, we want to hear from you.      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
   "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "AI and Quant DevTech Engineering Intern – Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
+  "etype": "Intern",
+  "pub": "2026-11-25",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-and-Quant-DevTech-Engineering-Intern---Summer-2027_JR2030517",
+  "desc": "  We are looking for a software engineer with a strong background in parallel processing and GPU architecture to push the limits of performance at the intersection of AI, high-performance computing, and financial markets. In this role, you will dive deep into parallel algorithms, GPUs, and sophisticated systems, identifying and eliminating bottlenecks to unlock the full power of the world’s most advanced processing hardware.         You will collaborate with top experts across industry and academia, influence next-generation platforms, and share your insights with the global developer community. Do you enjoy solving hard technical problems, love performance tuning, and want your work to have a visible impact across an entire industry? If so, we'd love for you to consider this role.          What you will be doing:      ● Designing and developing groundbreaking techniques to accelerate high-performance workloads at the intersection of AI, math, and financial systems.     ● Working hands-on with leading technical experts to analyze, optimize, and scale complex AI and HPC workloads for modern CPU and GPU architectures.    ● Profiling and eliminating performance bottlenecks across the stack—from algorithms to kernels to system-level behavior.    ● Publishing and presenting your work in conferences, talks, and blogs to educate and inspire the broader developer community.    ● Influencing the design of future hardware architectures, system software, libraries, and programming models by collaborating closely with NVIDIA research, hardware, compiler, and tools teams.      What we need to see:       ● Pursuing a Master’s or PhD degree in Computer Science, Computer Engineering, or Electrical and Computer Engineering or related field.     ● Relevant work or research experience.    ● Experience with low-level parallel programming (e.g., CUDA).    ● Deep understanding of CPU/GPU architecture fundamentals and how they impact performance.    ● Fluency in C/C++ and solid foundations in algorithms and software design.    ● Experience improving the performance of large-scale computational applications on GPUs.    ● Good understanding of linear algebra.    ● Strong communication and organization skills, with a logical approach to problem solving and solid prioritization abilities.      Ways to stand out from the crowd:      ● Prior internship experience in a related field.     ● Experience with inference optimization techniques and deploying optimized AI models in production.    ● Experience with TensorRT, TensorRT-LLM, and cuTile.    ● Background in capital markets with exposure to systematic/algorithmic strategies or quantitative trading.    ● Experience parallelizing and optimizing machine learning methods such as decision trees, time series models, and Monte Carlo simulations.    ● Knowledge of financial data models, pricing and risk simulation algorithms, portfolio optimization, or other finance-focused applications and services.         NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most forward-thinking, inventive, and hardworking people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "Developer Technology Intern, AI - Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
+  "etype": "Intern",
+  "pub": "2026-11-25",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Developer-Technology-Intern--AI---Summer-2027_JR2030178",
+  "desc": " We are seeking an AI Developer Technology (DevTech) Engineering Intern to accelerate the frontier of generative AI training and inference. Our team is the bridge connecting the NVIDIA platform with developers worldwide. We dive deep into customer projects to accelerate performance, eliminate bottlenecks, and partner with a vibrant developer community to deliver outstanding performance on NVIDIA systems.   If you are passionate about accelerating the world's most advanced AI models, we want you to be on our team.     What you will be doing:      Develop cutting-edge techniques to GPU-accelerate complex workloads across state-of-the-art generative AI (including LLMs, diffusion models, and multimodal systems), deep learning, and machine learning domains.    Build and optimize algorithms to deliver the best performance, and contribute to training and inference frameworks, low-level software libraries, and open-source projects.    Partner directly with top technical experts to perform in-depth analysis and optimization of complex AI algorithms on modern CPU and GPU architectures.        What we need to see:      Currently pursuing BS, MS, or BS in engineering or Computer Science related discipline    Programming fluency in C/C++ with a deep understanding of algorithms and software development.    Foundational understanding of modern CPU and GPU architectures.    A background in accelerated computing, with comprehensive knowledge of parallel programming and linear algebra, performance analysis and optimization.       Ways to stand out from the crowd:      Hands on experience doing low-level performance optimizations.     Experience with training and inference stacks, serving frameworks, pre-training, and post-training pipelines.       NVIDIA is widely considered to be one of the technology world’s most desirable employers with some of the most forward-thinking, inventive, and hardworking people working here - we need your help to build our future. Are you creative, ambitious, and love challenges? We want to hear from you!     Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 86 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "nvidia",
+  "company": "NVIDIA",
+  "title": "Applied Research Scientist Intern, Agentic Biology - Summer 2027  [Summer 2027 ✓]",
+  "loc": "US, CA, Santa Clara",
+  "etype": "Intern",
+  "pub": "2026-11-25",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Scientist-Intern--Agentic-Biology---Summer-2027_JR2029307",
+  "desc": "  Today, NVIDIA is tapping into the unlimited potential of AI to define the next era of computing. An era in which our GPU acts as the brains of computers, robots, and self-driving cars that can understand the world. Doing what’s never been done before takes vision, innovation, and the world’s best talent. As an NVIDIAN, you’ll be immersed in an inclusive, encouraging environment where everyone is inspired to do their best work. Come join the team and see how we can make a lasting impact on the world.      NVIDIA is using the power of high-performance computing and AI to accelerate digital biology. Join our applied research team to study agent swarms: coordinated teams of AI agents that plan, build, experiment, and check one another’s work. Working with a mentor, you will investigate how these systems can solve hard problems in computational biology using NVIDIA’s accelerated computing platform. You will also use swarms as a daily research tool, rapidly turning ideas into implementations, experiments, and useful scientific software. We are looking for exceptional researchers who combine deep computational foundations with original thinking and careful scientific judgment. Expect a lively, collaborative environment with ambitious questions, short cycles from hypothesis to experiment, and the fun of building things that work.     What You'll Be Doing:     Work with a mentor to formulate original research questions about how agent swarms can solve difficult computational biology problems, and design a focused project to test them.    Build and orchestrate agents that divide work, explore approaches in parallel, write and execute scientific code, exchange evidence, and critique or refine one another’s solutions.    Use agent swarms in your daily research workflow to rapidly implement algorithms, build scientific tools, and run experiments, taking responsibility for correctness and scientific interpretation.    Design controlled evaluations against single-agent systems and established computational methods; use ablation studies and comparable compute budgets to measure solution quality, reliability, and time to solution.    Collaborate with biologists, computational scientists, and engineers to connect experiments to meaningful biological questions; share reproducible code, benchmarks, and findings through open-source releases and research publications where appropriate.      What We Need To See:     Pursuing an MS or PhD in computer science, computational biology, bioinformatics, chemistry, physics, mathematics, or a related quantitative field, or an equivalent program area.    Strong foundations in algorithms, data structures, numerical methods, and scientific computing, demonstrated through coursework, research, or substantial projects.    Proficiency in Python and experience implementing, testing, and debugging scientific software, including the ability to inspect and validate agent-generated code and numerical results.    Hands-on experience using and orchestrating multiple AI agents to solve technical problems, including task decomposition, tool use, parallel execution, and verification of outputs.    Evidence of research depth and originality through a project, thesis, paper, or software contribution: formulating a question, designing convincing experiments, and critically interpreting findings and limitations.      Ways To Stand Out From The Crowd:     Experience turning scientific papers or mathematical descriptions into efficient implementations, including profiling, numerical validation, and optimization in C/C++, CUDA, or other parallel computing environments.    Experience applying computational methods to biological problems, such as sequence or structure analysis, molecular modeling, or genomics.    Research on multi-agent systems for scientific discovery, with evidence of when coordination improves results over simpler approaches.    Experience building agent systems with shared state, experiment tracking, automated tests, or recovery from failed runs, and an interest in making ambitious research workflows reliable.          NVIDIA is widely considered to be one of the technology world’s most desirable employers. We have some of the most forward-thinking and hardworking people in the world working for us. If you're creative and autonomous, we want to hear from you!      Our internship hourly rates are a standard pay based on the position, your location, year in school, degree, and experience. The expected hourly rate for this position is 20 USD – 71 USD.     You will also be eligible for Intern         benefits   .    ​       Applications for this job will be accepted at least until November 29, 2026.   This posting is for an existing vacancy.   NVIDIA uses AI tools in its recruiting processes.   NVIDIA is committed to fostering an inclusive work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law.    ",
+  "tier": "A",
   "geo": "US",
   "dirs": [
    "agent"
@@ -1129,23 +1129,6 @@
  {
   "src": "watch",
   "company": "CEA",
-  "title": "2026-41444 - STAGE - Utilisation d'agents IA pour automatiser des calculs Monte Carlo H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41444&idOrigine=502&LCID=1036&offerReference=2026-41444",
-  "desc": "<b>Domaine : </b>Instrumentation, métrologie et contrôle<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nVous serez accueilli·e au sein de l’IRESNE, institut de la DES, où vous intégrerez l’équipe du laboratoire et participerez pleinement à ses activités.\r\n\r\nParticipez vous aussi à des projets qui dessineront le monde de demain !\r\n\r\nLes codes de simulation utilisent la méthode Monte Carlo qui reproduit numériquement les aléas subis par les particules lorsqu’elles interagissent avec la matière les environnant.\r\n\r\nTypiquement, étant donnée une source de particules (source radioactive, générateur de neutron, accélérateur de particules, …) et son environnement (murs, sol, blindages, …) on cherche par exemple à déterminer la réponse d’un détecteur à ces particules. Optimiser les dimensions, la position ou la nature d’un détecteur requiert de nombreuses itérations de calculs [1] qui sont chronophages, car il faut modifier les paramètres un à un et relancer à chaque fois les simulations. L’utilisation d’un agent IA permettrait d’automatiser ces étapes. De la même façon, on peut aussi vouloir optimiser des épaisseurs et natures de matériaux pour minimiser le bruit de fond associé à des sources radioactives parasites [2], ou construire des méta-modèles à partir d’un grand nombre de simulations comportant plusieurs paramètres à faire varier, pour faire du Machine Learning [3]. Ces tâches seront soumises à l’agent IA en utilisant le langage naturel.\r\n\r\nLe stage consistera à prendre en main un code en open source [4] et à l’adapter aux besoins du laboratoire afin de tester ses performances, notamment pour l’automatisation des tâches.\r\n\r\nDans un premier temps, le travail du stagiaire consistera à reproduire les exemples décrits dans la publication de référence [4], en testant éventuellement l’impact de différents LLM.\r\n\r\nEnsuite, le package devra être adapté pour pouvoir être utilisé avec un code de calcul Monté Carlo différent de celui présenté dans la publication de référence.\r\n\r\nEnfin, les performances de l’agent seront évaluées sur des cas tests représentatifs de certaines tâches effectuées au LMN.\r\n\r\nL’agent fonctionnera en local avec un supercalculateur d’IA de bureau, donc sans aucune connexion à internet, en utilisant une LLM disponible en open source qui aura été préalablement téléchargée et installée dans le supercalculateur.\r\n\r\n[1] https://theses.hal.science/tel-02366534v1 (§ II.6.2.1)\r\n\r\n[2] https://doi.org/10.1007/s10967-016-4816-3\r\n\r\n[3] https://doi.org/10.1109/TNS.2024.3351275\r\n\r\n[4] https://doi.org/10.1016/j.egyai.2025.100555\r\n\r\n« Conformément aux engagements pris par le CEA en faveur de l'intégration des personnes handicapées, cet emploi est ouvert à toutes et à tous. Le CEA propose des aménagements et/ou des possibilités d'organisation pour l’inclusion des travailleurs handicapés »<br /><br />\r\nLe stage s’adresse à un(e) étudiant(e) de niveau Master 2 d'informatique ou en dernière année d’école d’ingénieur mettant ",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
   "title": "2026-41932 - Stage KV Cache design for efficient transformer deployment in edge systems-Saclay-H/F",
   "loc": "France",
   "etype": "",
@@ -1157,6 +1140,23 @@
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "watch",
+  "company": "CEA",
+  "title": "2026-41444 - STAGE - Utilisation d'agents IA pour automatiser des calculs Monte Carlo H/F",
+  "loc": "France",
+  "etype": "",
+  "pub": "",
+  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=41444&idOrigine=502&LCID=1036&offerReference=2026-41444",
+  "desc": "<b>Domaine : </b>Instrumentation, métrologie et contrôle<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nVous serez accueilli·e au sein de l’IRESNE, institut de la DES, où vous intégrerez l’équipe du laboratoire et participerez pleinement à ses activités.\r\n\r\nParticipez vous aussi à des projets qui dessineront le monde de demain !\r\n\r\nLes codes de simulation utilisent la méthode Monte Carlo qui reproduit numériquement les aléas subis par les particules lorsqu’elles interagissent avec la matière les environnant.\r\n\r\nTypiquement, étant donnée une source de particules (source radioactive, générateur de neutron, accélérateur de particules, …) et son environnement (murs, sol, blindages, …) on cherche par exemple à déterminer la réponse d’un détecteur à ces particules. Optimiser les dimensions, la position ou la nature d’un détecteur requiert de nombreuses itérations de calculs [1] qui sont chronophages, car il faut modifier les paramètres un à un et relancer à chaque fois les simulations. L’utilisation d’un agent IA permettrait d’automatiser ces étapes. De la même façon, on peut aussi vouloir optimiser des épaisseurs et natures de matériaux pour minimiser le bruit de fond associé à des sources radioactives parasites [2], ou construire des méta-modèles à partir d’un grand nombre de simulations comportant plusieurs paramètres à faire varier, pour faire du Machine Learning [3]. Ces tâches seront soumises à l’agent IA en utilisant le langage naturel.\r\n\r\nLe stage consistera à prendre en main un code en open source [4] et à l’adapter aux besoins du laboratoire afin de tester ses performances, notamment pour l’automatisation des tâches.\r\n\r\nDans un premier temps, le travail du stagiaire consistera à reproduire les exemples décrits dans la publication de référence [4], en testant éventuellement l’impact de différents LLM.\r\n\r\nEnsuite, le package devra être adapté pour pouvoir être utilisé avec un code de calcul Monté Carlo différent de celui présenté dans la publication de référence.\r\n\r\nEnfin, les performances de l’agent seront évaluées sur des cas tests représentatifs de certaines tâches effectuées au LMN.\r\n\r\nL’agent fonctionnera en local avec un supercalculateur d’IA de bureau, donc sans aucune connexion à internet, en utilisant une LLM disponible en open source qui aura été préalablement téléchargée et installée dans le supercalculateur.\r\n\r\n[1] https://theses.hal.science/tel-02366534v1 (§ II.6.2.1)\r\n\r\n[2] https://doi.org/10.1007/s10967-016-4816-3\r\n\r\n[3] https://doi.org/10.1109/TNS.2024.3351275\r\n\r\n[4] https://doi.org/10.1016/j.egyai.2025.100555\r\n\r\n« Conformément aux engagements pris par le CEA en faveur de l'intégration des personnes handicapées, cet emploi est ouvert à toutes et à tous. Le CEA propose des aménagements et/ou des possibilités d'organisation pour l’inclusion des travailleurs handicapés »<br /><br />\r\nLe stage s’adresse à un(e) étudiant(e) de niveau Master 2 d'informatique ou en dernière année d’école d’ingénieur mettant ",
+  "note": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1281,6 +1281,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Mendo",
+  "title": "Agentic Workflows Intern",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/agentic-workflows-intern-at-mendo-4494967167",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Deloitte",
   "title": "Ingénieur IA Générative & Agentic stagiaire fin d'études F/H",
   "loc": "La Défense, Île-de-France, France",
@@ -1377,17 +1393,17 @@
  },
  {
   "src": "linkedin",
-  "company": "ALTEN",
-  "title": "Stage Innovation : Ingénieur Intelligence Artificielle Générative",
-  "loc": "Rennes, Brittany, France",
+  "company": "Orange Business",
+  "title": "Stage Ingénieur – IA Générative, Automatisation & Écosystème Agentique H/F",
+  "loc": "Nanterre, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-alten-4492190174",
+  "pub": "2026-11-23",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-%E2%80%93-ia-g%C3%A9n%C3%A9rative-automatisation-%C3%A9cosyst%C3%A8me-agentique-h-f-at-orange-business-4493683854",
   "desc": "",
   "tier": "C",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1410,50 +1426,33 @@
  },
  {
   "src": "linkedin",
+  "company": "EDF",
+  "title": "Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-edf-4495263123",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Framatome",
-  "title": "Stage - Ingénieur en IA agentique : Optimisation de modèles par agents LLM F/H",
-  "loc": "Courbevoie, Île-de-France, France",
+  "title": "Stage – Ingénieur IA Générative et Automatisation des Processus d'Ingénierie F/H",
+  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-en-ia-agentique-optimisation-de-mod%C3%A8les-par-agents-llm-f-h-at-framatome-4473235477",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-et-automatisation-des-processus-d-ing%C3%A9nierie-f-h-at-framatome-4494943599",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
-   "llm",
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "SAP",
-  "title": "Internship - Fullstack Cloud Developer – AI Agent Platform (SAP Build Experience) -F/M",
-  "loc": "Levallois-Perret, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://fr.linkedin.com/jobs/view/internship-fullstack-cloud-developer-%E2%80%93-ai-agent-platform-sap-build-experience-f-m-at-sap-4475246026",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Siemens Digital Industries Software",
-  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
-  "loc": "Châtillon, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1483,6 +1482,86 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-application-de-l-ia-g%C3%A9n%C3%A9rative-%C3%A0-l-automatisation-des-tests-xil-at-stellantis-4485007360",
   "desc": "",
   "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "A Player",
+  "title": "Agentic Workflow Intern",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/agentic-workflow-intern-at-a-player-4494682202",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Dassault Systèmes",
+  "title": "STAGE - Ingénieur Développement Logiciel et Agents IA (F/H)",
+  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-19",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-logiciel-et-agents-ia-f-h-at-dassault-syst%C3%A8mes-4475420509",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "AMCC FENETRES ET PORTES",
+  "title": "Stagaire Chargé·e de projets IA agentique",
+  "loc": "Gundershoffen, Grand Est, France",
+  "etype": "Internship",
+  "pub": "2026-11-23",
+  "url": "https://fr.linkedin.com/jobs/view/stagaire-charg%C3%A9%C2%B7e-de-projets-ia-agentique-at-amcc-fenetres-et-portes-4493651741",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TotalEnergies",
+  "title": "STAGE - Benchmark et évaluation des modèles d'IA générative pour les Géosciences H/F",
+  "loc": "Pau, Nouvelle-Aquitaine, France",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/stage-benchmark-et-%C3%A9valuation-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-pour-les-g%C3%A9osciences-h-f-at-totalenergies-4487247846",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Sopra Steria",
+  "title": "Stage – Ingénieur/e IA générative & industrialisation Cloud – Aeroline – Toulouse",
+  "loc": "Colomiers, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-24",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-e-ia-g%C3%A9n%C3%A9rative-industrialisation-cloud-%E2%80%93-aeroline-%E2%80%93-toulouse-at-sopra-steria-4494167399",
+  "desc": "",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "llm"
@@ -1539,22 +1618,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur développement - Agent IA (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-agent-ia-f-h-at-dassault-syst%C3%A8mes-4466542848",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Groupe SII",
   "title": "Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)",
   "loc": "Bordeaux, Nouvelle-Aquitaine, France",
@@ -1566,6 +1629,22 @@
   "geo": "FR",
   "dirs": [
    "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "EDF",
+  "title": "STAGE - Développement IA agentique pour assister les projets dans la spécifications des logiciels F/H",
+  "loc": "Palaiseau, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-ia-agentique-pour-assister-les-projets-dans-la-sp%C3%A9cifications-des-logiciels-f-h-at-edf-4495259293",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1593,22 +1672,6 @@
   "etype": "Internship",
   "pub": "2026-11-24",
   "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-de-recherche-en-reinforcement-learning-f-h-at-valeo-4494401058",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "INRAE",
-  "title": "Stage M2 - Apprentissage par renforcement argumentatif",
-  "loc": "Castanet-Tolosan, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-11-24",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-4491766246",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1651,22 +1714,6 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
-  "etype": "Internship",
-  "pub": "2026-11-24",
-  "url": "https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-e-de-recherche-surveillance-des-donn%C3%A9es-de-vie-priv%C3%A9e-pour-les-agents-d-ia-f-h-at-sap-4486071605",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Sandflow",
   "title": "Stage Research Engineer : synthèse de programmes pour la génération 3D (PFE / M2 Recherche)",
   "loc": "Lyon, Auvergne-Rhône-Alpes, France",
@@ -1683,18 +1730,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE – Ingénieur IA - Architecture d'agents LLM (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "TotalEnergies",
+  "title": "STAGE - Fine-tuning de Modèles Fondations pour la prévision des prix de l’électricité H/F",
+  "loc": "Palaiseau, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-ing%C3%A9nieur-ia-architecture-d-agents-llm-f-h-at-dassault-syst%C3%A8mes-4476341491",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-fine-tuning-de-mod%C3%A8les-fondations-pour-la-pr%C3%A9vision-des-prix-de-l%E2%80%99%C3%A9lectricit%C3%A9-h-f-at-totalenergies-4495293465",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm",
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1717,16 +1763,48 @@
  {
   "src": "linkedin",
   "company": "CEA",
-  "title": "Stage - Scalabilité des approches de calcul analog in-memory computing vers des modèles d'IA générative",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "title": "Stage IA de confiance - Abstraction bilinéaires pour les RNN et Transformers -Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-scalabilit%C3%A9-des-approches-de-calcul-analog-in-memory-computing-vers-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-at-cea-4476292894",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-de-confiance-abstraction-bilin%C3%A9aires-pour-les-rnn-et-transformers-saclay-h-f-at-cea-4469007365",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "FR",
   "dirs": [
    "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "IDEMIA Public Security",
+  "title": "Internship : Computer Vision - VLMs for fraud detection",
+  "loc": "Pontoise, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-24",
+  "url": "https://fr.linkedin.com/jobs/view/internship-computer-vision-vlms-for-fraud-detection-at-idemia-public-security-4494439268",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "INRAE",
+  "title": "Stage M2 - Apprentissage par renforcement argumentatif",
+  "loc": "Castanet-Tolosan, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-24",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m2-apprentissage-par-renforcement-argumentatif-at-inrae-4491766246",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "rl"
   ],
   "start_hint": ""
  },
@@ -1748,6 +1826,38 @@
  },
  {
   "src": "linkedin",
+  "company": "ALTEN",
+  "title": "Stage Innovation : Ingénieur Intelligence Artificielle Générative",
+  "loc": "Rennes, Brittany, France",
+  "etype": "Internship",
+  "pub": "2026-11-19",
+  "url": "https://fr.linkedin.com/jobs/view/stage-innovation-ing%C3%A9nieur-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-alten-4492190174",
+  "desc": "",
+  "tier": "C",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Agentic AI Workflows for Simulation f/m - Strategic Student Program",
+  "loc": "Châtillon, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-agentic-ai-workflows-for-simulation-f-m-strategic-student-program-at-siemens-digital-industries-software-4485127622",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "AXA en France",
   "title": "Stage R&D - IA Explicative et Agentique pour l'Analyse de Sinistralité F/H",
   "loc": "Suresnes, Île-de-France, France",
@@ -1764,15 +1874,15 @@
  },
  {
   "src": "linkedin",
-  "company": "Orange Business",
-  "title": "Stage Ingénieur – IA Générative, Automatisation & Écosystème Agentique H/F",
-  "loc": "Nanterre, Île-de-France, France",
+  "company": "Microsoft",
+  "title": "Research Intern - Agentic Data Memory",
+  "loc": "Redmond, WA",
   "etype": "Internship",
-  "pub": "2026-11-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-%E2%80%93-ia-g%C3%A9n%C3%A9rative-automatisation-%C3%A9cosyst%C3%A8me-agentique-h-f-at-orange-business-4493683854",
+  "pub": "2026-11-25",
+  "url": "https://www.linkedin.com/jobs/view/research-intern-agentic-data-memory-at-microsoft-4479529037",
   "desc": "",
-  "tier": "C",
-  "geo": "FR",
+  "tier": "A",
+  "geo": "US",
   "dirs": [
    "agent"
   ],
@@ -1796,6 +1906,23 @@
  },
  {
   "src": "linkedin",
+  "company": "XPENG",
+  "title": "AI Research Intern – Predictive World Model",
+  "loc": "Santa Clara, CA",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4495243459",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Takeda",
   "title": "2027 Summer Internship Program: Agentic AI for Drug Discovery Intern  [Summer 2027 ✓]",
   "loc": "Boston, MA",
@@ -1807,54 +1934,6 @@
   "geo": "US",
   "dirs": [
    "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Ancestry",
-  "title": "AI Discovery Co-Op - Agentic Personalization",
-  "loc": "Draper, UT",
-  "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://www.linkedin.com/jobs/view/ai-discovery-co-op-agentic-personalization-at-ancestry-4476367917",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Schnuck Markets, Inc.",
-  "title": "2027 Data Science - Generative AI Internship",
-  "loc": "St Louis, MO",
-  "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749",
-  "desc": "",
-  "tier": "B",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Intuitive",
-  "title": "Reinforcement Learning Intern",
-  "loc": "Sunnyvale, CA",
-  "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://www.linkedin.com/jobs/view/reinforcement-learning-intern-at-intuitive-4484715973",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "rl"
   ],
   "start_hint": ""
  },
@@ -1893,28 +1972,28 @@
  },
  {
   "src": "linkedin",
+  "company": "Samsung Research America (SRA)",
+  "title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
+  "loc": "Plano, TX",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Labcorp",
   "title": "Co-op - Agentic AI Developer",
   "loc": "Durham, NC",
   "etype": "Internship",
   "pub": "2026-11-25",
   "url": "https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "State Street",
-  "title": "Agentic AI Engineering, Technology Intern - Full-time Internship (Jan - June 2027)",
-  "loc": "Burlington, MA",
-  "etype": "Internship",
-  "pub": "2026-11-18",
-  "url": "https://www.linkedin.com/jobs/view/agentic-ai-engineering-technology-intern-full-time-internship-jan-june-2027-at-state-street-4492080399",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -1973,6 +2052,38 @@
  },
  {
   "src": "linkedin",
+  "company": "Armadin",
+  "title": "Summer 2027 Internship - Member of Technical Staff - Agent Systems  [Summer 2027 ✓]",
+  "loc": "Palo Alto, CA",
+  "etype": "Internship",
+  "pub": "2026-11-22",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-systems-at-armadin-4470941038",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "TikTok USDS Joint Venture",
+  "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer  [Summer 2027 ✓]",
+  "loc": "San Jose, CA",
+  "etype": "Internship",
+  "pub": "2026-11-22",
+  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4466937957",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "Lila Sciences",
   "title": "Co-op, Agentic and Generative Protein Design",
   "loc": "Cambridge, MA",
@@ -2021,12 +2132,12 @@
  },
  {
   "src": "linkedin",
-  "company": "Samsung Semiconductor",
-  "title": "Intern, LLM Inference Acceleration Architecture (Distributed Memory-Centric Accelerators)",
-  "loc": "San Jose, CA",
+  "company": "Toyota Research Institute",
+  "title": "Human-Centered AI Research Intern, Human Language Models",
+  "loc": "Los Altos, CA",
   "etype": "Internship",
-  "pub": "2026-11-19",
-  "url": "https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-distributed-memory-centric-accelerators-at-samsung-semiconductor-4491895943",
+  "pub": "2026-11-26",
+  "url": "https://www.linkedin.com/jobs/view/human-centered-ai-research-intern-human-language-models-at-toyota-research-institute-4487548381",
   "desc": "",
   "tier": "A",
   "geo": "US",
