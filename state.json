@@ -10687,5 +10687,75 @@
 "company": "XPENG",
 "geo": "US",
 "tier": "A"
+},
+"https://jobs.ashbyhq.com/pennylane/250ffce4-8a0d-4c3c-b2d9-165397f89b31": {
+"first_seen": "2026-11-27",
+"title": "Machine Learning & AI Internship",
+"company": "pennylane",
+"geo": "FR",
+"tier": "B"
+},
+"https://jobs.inria.fr/public/classic/en/offres/2026-10760": {
+"first_seen": "2026-11-27",
+"title": "Master Internship in Generative Modeling",
+"company": "Inria",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4495822299": {
+"first_seen": "2026-11-27",
+"title": "Stage AI Ops & Agents IA (Support Client)",
+"company": "Qwokka",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-d%C3%A9veloppement-nlp-llm-f-h-at-talan-4495080979": {
+"first_seen": "2026-11-27",
+"title": "Ingénieur de développement NLP/LLM F/H",
+"company": "Talan",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/stage-reinforcement-learning-for-intraday-electricity-trading-h-f-at-totalenergies-4494670649": {
+"first_seen": "2026-11-27",
+"title": "STAGE - Reinforcement Learning for Intraday Electricity Trading H/F",
+"company": "TotalEnergies",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/generative-ai-internship-at-quobly-4493403546": {
+"first_seen": "2026-11-27",
+"title": "Generative AI Internship",
+"company": "Quobly",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4495817167": {
+"first_seen": "2026-11-27",
+"title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
+"company": "addactis",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-recherche-ia-agentique-compression-de-mod%C3%A8les-edge-ai-f-h-at-valeo-4495538630": {
+"first_seen": "2026-11-27",
+"title": "Stage de Recherche : IA Agentique & Compression de Modèles Edge AI (F/H)",
+"company": "Valeo",
+"geo": "FR",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/research-intern-coding-agents-post-training-optimization-at-microsoft-4486887478": {
+"first_seen": "2026-11-27",
+"title": "Research Intern - Coding Agents & Post-Training Optimization",
+"company": "Microsoft",
+"geo": "US",
+"tier": "A"
+},
+"https://www.linkedin.com/jobs/view/working-in-technology-wit-agentic-ai-development-summer-2027-at-william-blair-4468928830": {
+"first_seen": "2026-11-27",
+"title": "Working in Technology (WiT) - Agentic AI Development - Summer 2027  [Summer 2027 ✓]",
+"company": "William Blair",
+"geo": "US",
+"tier": "A"
 }
 }
