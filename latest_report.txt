@@ -1,30 +1,21 @@
-实习监控 2026-11-27 · 新增 10 · 当前在挂命中 134 · 显示 10
+实习监控 2026-11-28 · 新增 7 · 当前在挂命中 135 · 显示 7
 
-🇫🇷 FRANCE  (8)
-[A] agent · addactis — STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H  (Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France · 发布 2026-11-27 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4495817167
-[A] diff · Inria — Master Internship in Generative Modeling  (France Job reference : 2026-10760 Town/city : Villeurbanne I · [inria])
-    https://jobs.inria.fr/public/classic/en/offres/2026-10760
-[A] agent · Qwokka — Stage AI Ops & Agents IA (Support Client)  (Greater Paris Metropolitan Region · 发布 2026-11-27 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4495822299
-[A] rl · TotalEnergies — STAGE - Reinforcement Learning for Intraday Electricity Trading H/F  (Palaiseau, Île-de-France, France · 发布 2026-11-25 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-reinforcement-learning-for-intraday-electricity-trading-h-f-at-totalenergies-4494670649
-[A] agent · Valeo — Stage de Recherche : IA Agentique & Compression de Modèles Edge AI (F/H)  (Créteil, Île-de-France, France · 发布 2026-11-26 · [linkedin])
-    https://fr.linkedin.com/jobs/view/stage-de-recherche-ia-agentique-compression-de-mod%C3%A8les-edge-ai-f-h-at-valeo-4495538630
-[B] llm/agent/rl · pennylane — Machine Learning & AI Internship  (Paris, Remote · 发布 2026-11-26 · [ashby])
-    起始线索: …TOPICS FOR 2027…
-    https://jobs.ashbyhq.com/pennylane/250ffce4-8a0d-4c3c-b2d9-165397f89b31
-[B] llm · Quobly — Generative AI Internship  (Grenoble, Auvergne-Rhône-Alpes, France · 发布 2026-11-25 · [linkedin])
-    https://fr.linkedin.com/jobs/view/generative-ai-internship-at-quobly-4493403546
-[C] llm · Talan — Ingénieur de développement NLP/LLM F/H  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-11-27 · [linkedin])
-    https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-d%C3%A9veloppement-nlp-llm-f-h-at-talan-4495080979
-
-🇺🇸 USA  (2)
-[A] llm/agent · Microsoft — Research Intern - Coding Agents & Post-Training Optimization  (Redmond, WA · 发布 2026-11-25 · [linkedin])
-    https://www.linkedin.com/jobs/view/research-intern-coding-agents-post-training-optimization-at-microsoft-4486887478
-[A] agent · William Blair — Working in Technology (WiT) - Agentic AI Development - Summer 2027 [Summer 2027 ✓]  (Chicago, IL · 发布 2026-11-25 · [linkedin])
-    https://www.linkedin.com/jobs/view/working-in-technology-wit-agentic-ai-development-summer-2027-at-william-blair-4468928830
+🇫🇷 FRANCE  (7)
+[A] llm · Coexya — Ingénieur de développement NLP/LLM F/H  (Lyon, Auvergne-Rhône-Alpes, France · 发布 2026-11-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-d%C3%A9veloppement-nlp-llm-f-h-at-coexya-4495832560
+[A] llm · Decathlon Digital — Stage Data Scientist - Forecast & Foundation Models (f/h/d)  (Villeneuve-d’Ascq, Hauts-de-France, France · 发布 2026-11-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-scientist-forecast-foundation-models-f-h-d-at-decathlon-digital-4495351040
+[A] llm · Groupe Calcul — Transformer-based neural network reconstruction of VELO track seeds in the LHCb experiment  (Greater Nantes Metropolitan Area · 发布 2026-11-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/transformer-based-neural-network-reconstruction-of-velo-track-seeds-in-the-lhcb-experiment-at-groupe-calcul-4495859103
+[A] agent · Siemens Digital Industries Software — Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program  (Châtillon, Île-de-France, France · 发布 2026-11-21 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131547
+[B] llm · Decathlon Digital — Stage Data Scientist / AI Engineer - GenAI & Retail (f/m/d)  (Villeneuve-d’Ascq, Hauts-de-France, France · 发布 2026-11-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-data-scientist-ai-engineer-genai-retail-f-m-d-at-decathlon-digital-4495344388
+[B] llm · SOGECLAIR — Stage Développement C++ & Intelligence Artificielle générative  (Toulouse, Occitanie, France · 发布 2026-11-25 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-c%2B%2B-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-sogeclair-4494631785
+[C] agent · Onepoint — Stage de fin d'études - Ingénieur IA Agentique F/H  (Paris, Île-de-France, France · 发布 2026-11-27 · [linkedin])
+    https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-ia-agentique-f-h-at-onepoint-4494220015
 
 说明: 方向 diff=扩散/生成模型 llm=LLM agent=Agent rl=强化学习；[A]=标题命中方向；[B]=标题泛 ML/AI、方向只在描述里；[C]=ESN/咨询公司（多为 adoption 非研发）。只招 PhD 的已剔除。起始线索=描述里含 2027/春/4月 的句子，没有=帖子未写。
 源: Ashby 70 + Greenhouse 18 + Lever 10 + Workable 1 个看板, NVIDIA, Amazon, Google, Apple, Inria, LinkedIn(FR 10 词 / US 11 词, 近 7 天)
-失败源: lever/aircall:404, watch/LIG GETALP Grenoble:404
+失败源: lever/aircall:404, linkedin:429, watch/LIG GETALP Grenoble:404

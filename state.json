@@ -10757,5 +10757,54 @@
 "company": "William Blair",
 "geo": "US",
 "tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-ia-agentique-f-h-at-onepoint-4494220015": {
+"first_seen": "2026-11-28",
+"title": "Stage de fin d'études - Ingénieur IA Agentique F/H",
+"company": "Onepoint",
+"geo": "FR",
+"tier": "C"
+},
+"https://fr.linkedin.com/jobs/view/transformer-based-neural-network-reconstruction-of-velo-track-seeds-in-the-lhcb-experiment-at-groupe-calcul-4495859103": {
+"first_seen": "2026-11-28",
+"title": "Transformer-based neural network reconstruction of VELO track seeds in the LHCb experiment",
+"company": "Groupe Calcul",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131547": {
+"first_seen": "2026-11-28",
+"title": "Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program",
+"company": "Siemens Digital Industries Software",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-d%C3%A9veloppement-nlp-llm-f-h-at-coexya-4495832560": {
+"first_seen": "2026-11-28",
+"title": "Ingénieur de développement NLP/LLM F/H",
+"company": "Coexya",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-scientist-ai-engineer-genai-retail-f-m-d-at-decathlon-digital-4495344388": {
+"first_seen": "2026-11-28",
+"title": "Stage Data Scientist / AI Engineer - GenAI & Retail (f/m/d)",
+"company": "Decathlon Digital",
+"geo": "FR",
+"tier": "B"
+},
+"https://fr.linkedin.com/jobs/view/stage-data-scientist-forecast-foundation-models-f-h-d-at-decathlon-digital-4495351040": {
+"first_seen": "2026-11-28",
+"title": "Stage Data Scientist - Forecast & Foundation Models (f/h/d)",
+"company": "Decathlon Digital",
+"geo": "FR",
+"tier": "A"
+},
+"https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-c%2B%2B-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-sogeclair-4494631785": {
+"first_seen": "2026-11-28",
+"title": "Stage Développement C++ & Intelligence Artificielle générative",
+"company": "SOGECLAIR",
+"geo": "FR",
+"tier": "B"
 }
 }

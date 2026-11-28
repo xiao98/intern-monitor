@@ -119,6 +119,23 @@
  },
  {
   "src": "ashby",
+  "company": "doctolib",
+  "title": "AI Engineer Intern (x/f/m) - Paris",
+  "loc": "Paris, Remote",
+  "etype": "Intern",
+  "pub": "2026-11-27",
+  "url": "https://jobs.ashbyhq.com/doctolib/4588a32b-f865-48ec-a2b3-2c89d735c7cb",
+  "desc": "Join a team of passionate and committed people working to improve healthcare.\n\nAt Doctolib, our tech teams build products and features that improve the daily lives of healthcare professionals and patients. We work in feature teams within an agile environment, in close collaboration with Product, Design, Data Science, and Business teams.\n\n\n\n\nWHAT YOU'LL DO\n\nWe are looking for an AI Engineer Intern to join our Tech team and contribute to the development of AI-powered features at Doctolib.\n\nYou will work closely with experienced AI and software engineers to explore, prototype, evaluate, and improve AI-based solutions. This internship will give you the opportunity to gain practical experience across the different stages of an AI product, from experimentation to integration into a production environment.\n\nYour responsibilities will include:\n\n - Contribute to the development of AI features and services under the guidance of experienced engineers\n\n - Write Python code to support prototypes, experiments, evaluation tools, and backend components\n\n - Experiment with large language models, prompting techniques, retrieval, and tool integration\n\n - Contribute to automated tests and documentation for the components you develop\n\n - Investigate issues, analyse results, and suggest improvements to your team\n\n - Participate in code reviews, technical discussions, and team rituals\n\nYou will receive regular guidance from your mentor and teammates. The scope of your work will grow progressively as you become familiar with the codebase, the tools, and the technical challenges.\n\n\nWHO YOU ARE\n\nBefore you read on, if you do not have the exact profile described below but feel that this internship matches your skills and interests, we still encourage you to apply.\n\nYou will be a great fit if you:\n\n - Are in the final year of a degree in Computer Science, Artificial Intelligence, Software Engineering, or a related field\n\n - Have basic experience with Python through coursework, personal projects, research, or previous internships\n\n - Have a basic understanding of programming concepts, data structures, and software development\n\n - Are curious about artificial intelligence and interested in understanding how AI systems work\n\n - Are comfortable communicating in English, both written and spoken\n\nIt would be fantastic if you:\n\n - Have worked on a project involving machine learning, natural language processing, or large language models\n\n - Have used agentic frameworks like Langchain or Google ADK.\n\n - Have experimented with AI APIs, prompting, retrieval, or conversational interfaces\n\n - Have experience in taking products to production and supporting them with real users.\n\n - Have some experience with Git, APIs, testing, or data analysis\n\n - Have an interest in healthcare, privacy, or responsible AI\n\n\nLIFE AT DOCTOLIB TECH\n\nOur products are built on a cloud-native platform that supports web and mobile applications across several countries and healthcare systems.\n\nEven if Doctolib uses technologies like Ruby on Rails, TypeScript, Java, Kotlin, Swift, React Native, and many cloud-related technologies, the principal language you'll work on is Python.You will also have the opportunity to use AI-assisted development tools within our engineering practices.\n\nDiscover our AI vision here https://careers.doctolib.com/ai-careers/ and learn more about our tech culture on the Doctolib Tech site https://careers.doctolib.com/tech-doctolib/.\n\n\nWHAT WE OFFER\n\n - A structured internship with dedicated mentoring\n\n - The opportunity to work on real AI projects in a healthcare environment\n\n - Technical learning sessions and access to internal engineering communities\n\n - Access to AI tools for coding, development, and learning\n\n - Meal vouchers\n\n - Free breakfast in the office\n\n - Up to 2 days of remote work per week\n\n - A flexible workplace policy, depending on the team and location\n\n - A collaborative and international working environment\n\n\nTHE INTERVIEW PROCESS\n\n - Coding Game\n\n - Recruiter Interview\n\n - Technical Interview\n\n - Behavioral Interview\n\n\nJOB DETAILS\n\n - Internship, 6 months, full-time\n\n - Location: Berlin, Paris, Nantes, Milan, or Amsterdam\n\n - Hybrid work setup, up to 2 remote days per week\n\n - Start date: March 2027\n\n\nWE WELCOME EVERYONE\n\nAt Doctolib, we are committed to improving access to healthcare for everyone. We evaluate candidates based on their qualifications, motivation, and potential, without discrimination.\n\nThe more diverse ideas are heard, the better our products can serve patients and healthcare professionals. We welcome applications regardless of gender, religion, age, sexual orientation, ethnicity, disability, or place of origin.\n\nTo support an inclusive recruitment process, we invite you to leave personal information such as pictures and age off your application. If you require an accommodation during the interview process, please let us know.\n\nJoin us in building the healthcare we all dream of!\n\n\nYOUR DATA PRIVACY\n\nAll information provided through this application is processed by Doctolib for recruitment purposes. For more information about how Doctolib processes your application data, please consult the relevant privacy policy:\n\n - Germany https://doctolib.legal/B2C-Privacy-Policy-Career-DE\n\n - France https://doctolib.legal/B2C-Privacy-Policy-Career-FR\n\n - Italy https://doctolib.legal/B2C-Privacy-Policy-Career-IT\n\n - The Netherlands https://doctolib.legal/B2C-Privacy-Policy-Career-COM\n\nFor questions or to exercise your rights, please contact hr.dataprivacy(at)doctolib.com http://doctolib.com/.",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm",
+   "agent"
+  ],
+  "start_hint": "- Start date: March 2027"
+ },
+ {
+  "src": "ashby",
   "company": "backmarket",
   "title": "AI Quality & Evaluation Intern",
   "loc": "Paris",
@@ -1215,57 +1232,6 @@
  {
   "src": "watch",
   "company": "CEA",
-  "title": "2026-42010 - Stage Développement d'un assistant LLM pour l'utilisation et l'analyse de simulations CIVA-Saclay-H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42010&idOrigine=502&LCID=1036&offerReference=2026-42010",
-  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\nContexte :\r\nCIVA est un logiciel de simulation dédié au contrôle non destructif (CND), développé par le CEA-LIST. Son utilisation nécessite à la fois une bonne connaissance du logiciel, des méthodes de CND ainsi que des phénomènes physiques et numériques mis en jeu dans les simulations.\r\nL’objectif du stage est de développer un assistant conversationnel basé sur un modèle de langage existant afin d’accompagner les utilisateurs dans la préparation, le paramétrage et l’analyse de leurs simulations CIVA.\r\nLe travail portera notamment sur la construction d’un contexte spécialisé à partir du manuel utilisateur, de la documentation technique et de connaissances métier en CND. Des approches de type RAG pourront être mises en œuvre afin de permettre au modèle de retrouver les informations pertinentes et de produire des réponses fiables et contextualisées.\r\nQu'attendons-nous de vous ?\r\nL’assistant devra notamment être capable de répondre aux questions relatives au fonctionnement de CIVA, d’apporter des informations sur les différentes méthodes de CND, d’aider au choix des paramètres physiques et des options numériques, et d’analyser une configuration de simulation afin d’identifier d’éventuelles incohérences ou points d’attention.\r\nLe stage pourra également intégrer des règles métier et des mécanismes de vérification afin de compléter les capacités du modèle de langage et d’améliorer la fiabilité de ses réponses.\r\nUne phase d’évaluation sera menée sur des cas d’usage représentatifs afin de mesurer la pertinence des réponses, la qualité des informations retrouvées, la capacité de l’assistant à détecter des configurations incohérentes ainsi que ses limites.\r\nL’objectif final est de proposer un véritable copilote de simulation capable d’assister l’utilisateur dans l’utilisation de CIVA, tout en combinant intelligence artificielle, connaissances métier et outils de vérification.\r\n\r\n#CEA-List <br /><br />\r\nProfil : \r\nÉlève ingénieur ou étudiant en Master 2 avec une spécialisation en intelligence artificielle, informatique ou domaine équivalent.\r\nLe candidat devra disposer de bonnes compétences en programmation, notamment en Python, ainsi que de connaissances en apprentissage automatique et en modèles de langage. Une première expérience avec les LLM, les approches RAG, les bases vectorielles ou le traitement automatique du langage serait appréciée.\r\nUn intérêt pour",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
-  "title": "2026-42012 - Stage Développement d'un assistant LLM pour le pilotage de simulations CIVA en Python-Saclay- H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42012&idOrigine=502&LCID=1036&offerReference=2026-42012",
-  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\nContexte :\r\nCIVA est un logiciel de simulation dédié au contrôle non destructif (CND), développé par le CEA-LIST. En complément de son interface graphique, CIVA dispose d’une interface de programmation, CIVA-Script, permettant de piloter les simulations et d’exploiter leurs résultats depuis Python.\r\nL’objectif du stage est de développer un assistant conversationnel basé sur un LLM existant, capable de traduire un besoin exprimé en langage naturel en programmes Python exploitant les fonctionnalités de CIVA.\r\nÀ partir de la documentation technique de CIVA-Script et d’exemples d’utilisation, l’assistant devra notamment être capable de générer des notebooks Python permettant de configurer des simulations, lancer des calculs, récupérer les résultats, traiter les données et produire des analyses ou des visualisations.\r\nLe stage portera sur la mise en contexte du LLM, notamment à travers des approches de type RAG, la génération de code Python, sa validation et la mise en place de mécanismes permettant de vérifier et corriger automatiquement le code produit.\r\nQu'attendons-nous de vous?\r\nUne partie du travail consistera également à faire évoluer l’API CIVA-Script afin d’étendre les possibilités de pilotage de CIVA depuis Python et de couvrir les besoins identifiés lors du développement de l’assistant.\r\nLe stage permettra ainsi d’explorer l’association entre IA générative, génération de code, programmation Python et simulation numérique, avec pour objectif de faciliter la création de workflows CIVA personnalisés.\r\n\r\n#CEA-List <br /><br />\r\nProfil :\r\nÉlève ingénieur ou étudiant en Master 2 disposant de solides compétences en informatique et en programmation Python.\r\nLe candidat devra avoir de bonnes connaissances en développement logiciel et un intérêt pour l’intelligence artificielle générative et les modèles de langage. Une première expérience avec les LLM, les approches RAG, la génération de code ou le développement d’API serait appréciée.\r\nUn intérêt pour la simulation numérique, les problématiques scientifiques et le traitement de données constituera également un atout.\r\nAutonomie, rigueur, curiosité technique et capacité à interagir avec des experts métier sont attendues.<br />\r\n<b>Ville : </b>Saclay<br />\r\n",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
-  "title": "2026-42013 - Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
-  "loc": "France",
-  "etype": "",
-  "pub": "",
-  "url": "https://www.emploi.cea.fr/Pages/Offre/detailoffre.aspx?idOffre=42013&idOrigine=502&LCID=1036&offerReference=2026-42013",
-  "desc": "<b>Domaine : </b>Mathématiques, information  scientifique, logiciel<br />\r\n<b>Contrat : </b>Stage<br />\r\n<b>Description du poste : </b><br />\r\nEn tant que stagiaire au CEA, vous aurez l'opportunité de travailler au sein d'un environnement de recherche de renommée mondiale. Nos équipes sont composées d'experts passionnés et dédiés, offrant un cadre propice à l'apprentissage et à la collaboration. Vous aurez accès à des équipements de pointe et à des ressources de recherche de premier ordre pour mener à bien vos missions. Éventuellement, les travaux menés donneront lieu à une publication scientifique.\r\nContexte :\r\nCIVA est un logiciel de simulation dédié au contrôle non destructif (CND), développé par le CEA-LIST. Son architecture repose notamment sur un mécanisme de plug-ins permettant d’ajouter de nouvelles fonctionnalités sans modifier directement le cœur du logiciel.\r\nCes extensions peuvent notamment permettre de développer de nouvelles pièces paramétriques, de nouveaux traducteurs ou encore des interfaces d’analyse et de visualisation des résultats de simulation sous forme de webapps.\r\nL’objectif du stage est de développer un assistant conversationnel basé sur un LLM existant, capable de générer des plug-ins CIVA à partir d’un besoin exprimé en langage naturel.\r\nQu'attendons-nous de vous?\r\nLe travail portera notamment sur la construction du contexte technique nécessaire au modèle afin qu’il puisse exploiter la documentation des API, les interfaces de développement et des exemples de plug-ins existants. L’assistant devra être capable de proposer une architecture adaptée au besoin, de générer le code correspondant et d’accompagner sa validation et son intégration dans CIVA.\r\nLes cas d’usage pourront notamment couvrir la génération de :\r\npièces paramétriques\r\ntraducteurs\r\noutils de traitement de données\r\ninterfaces d’analyse et de visualisation\r\nwebapps dédiées à l’exploitation des résultats de simulation\r\nUne attention particulière sera portée à la validation automatique du code généré, à la détection et à la correction d’erreurs ainsi qu’à la mise en place de tests permettant d’évaluer la qualité des développements produits.\r\nLe stage pourra également conduire à faire évoluer l’architecture de plug-ins de CIVA lorsque certaines fonctionnalités nécessaires à la génération automatique ou à l’intégration de nouveaux composants ne sont pas encore disponibles.\r\nL’objectif est ainsi d’explorer une approche de développement logiciel assisté par intelligence artificielle, afin de faciliter et d’accélérer la création de nouvelles fonctionnalités dans CIVA.\r\n\r\n#CEA-List <br /><br />\r\nProfil : \r\nÉlève ingénieur ou étudiant en Master 2 disposant de solides compétences en informatique et en développement logiciel.\r\nLe candidat devra avoir de bonnes connaissances en programmation, en conception logicielle et en développement d’applications. Une maîtrise de Java et/ou Python ainsi qu’une connaissance des technologies web seront particulièrement appréciées.\r\nU",
-  "note": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "watch",
-  "company": "CEA",
   "title": "2026-42301 - Stage M1/M2 pour le développement d'un framework d'IA agentique-Saclay-H/F",
   "loc": "France",
   "etype": "",
@@ -1331,54 +1297,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Betclic Group",
-  "title": "Stage - Applied Research in GenAI / NLP F/M",
-  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
-  "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-applied-research-in-genai-nlp-f-m-at-betclic-group-4477869517",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Développement d'un assistant LLM pour la génération de plug-ins CIVA-Saclay- H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-22",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-la-g%C3%A9n%C3%A9ration-de-plug-ins-civa-saclay-h-f-at-cea-4476852231",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage Développement d'un assistant LLM pour l'utilisation et l'analyse de simulations CIVA-Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-22",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-un-assistant-llm-pour-l-utilisation-et-l-analyse-de-simulations-civa-saclay-h-f-at-cea-4476838954",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Dassault Systèmes",
   "title": "STAGE - Ingénieur.e R&D en Intelligence Artificielle (LLM, Deep Learning) (F/H)",
   "loc": "Vélizy-Villacoublay, Île-de-France, France",
@@ -1419,6 +1337,54 @@
   "url": "https://fr.linkedin.com/jobs/view/stage-ai-ops-agents-ia-support-client-at-qwokka-4495822299",
   "desc": "",
   "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage IA de confiance - Abstraction bilinéaires pour les RNN et Transformers -Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-de-confiance-abstraction-bilin%C3%A9aires-pour-les-rnn-et-transformers-saclay-h-f-at-cea-4469007365",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Collins Aerospace",
+  "title": "STAGE – Chaines de Pensées et Agents pour assistant IA",
+  "loc": "Blagnac, Occitanie, France",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-chaines-de-pens%C3%A9es-et-agents-pour-assistant-ia-at-collins-aerospace-4479046331",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Onepoint",
+  "title": "Stage de fin d'études - Ingénieur IA Agentique F/H",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-de-fin-d-%C3%A9tudes-ing%C3%A9nieur-ia-agentique-f-h-at-onepoint-4494220015",
+  "desc": "",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
    "agent"
@@ -1475,6 +1441,22 @@
  },
  {
   "src": "linkedin",
+  "company": "CEA",
+  "title": "Stage Case-Based Reasoning on Concepts for Sensible Explainable AI- Saclay-H/F",
+  "loc": "Saclay, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/stage-case-based-reasoning-on-concepts-for-sensible-explainable-ai-saclay-h-f-at-cea-4477566865",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "AMCC FENETRES ET PORTES",
   "title": "Stagaire Chargé·e de projets IA agentique",
   "loc": "Gundershoffen, Grand Est, France",
@@ -1497,6 +1479,22 @@
   "etype": "Internship",
   "pub": "2026-11-25",
   "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-assistants-et-plateforme-agentique-f-h-at-dassault-syst%C3%A8mes-4479501746",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Thales",
+  "title": "STAGE - Ingénieur Développement d'Agents IA – F/H",
+  "loc": "Cholet, Pays de la Loire, France",
+  "etype": "Internship",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-d%C3%A9veloppement-d-agents-ia-%E2%80%93-f-h-at-thales-4480354961",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1539,38 +1537,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Collins Aerospace",
-  "title": "STAGE – Chaines de Pensées et Agents pour assistant IA",
-  "loc": "Blagnac, Occitanie, France",
-  "etype": "Internship",
-  "pub": "2026-11-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-%E2%80%93-chaines-de-pens%C3%A9es-et-agents-pour-assistant-ia-at-collins-aerospace-4479046331",
-  "desc": "",
-  "tier": "A",
-  "geo": "FR",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Groupe SII",
-  "title": "Stage IA & Drone Hybride - Apprentissage par renforcement pour le pilotage autonome (H/F)",
-  "loc": "Bordeaux, Nouvelle-Aquitaine, France",
-  "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-drone-hybride-apprentissage-par-renforcement-pour-le-pilotage-autonome-h-f-at-groupe-sii-4485378793",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "EDF",
   "title": "STAGE - Développement IA agentique pour assister les projets dans la spécifications des logiciels F/H",
   "loc": "Palaiseau, Île-de-France, France",
@@ -1587,17 +1553,65 @@
  },
  {
   "src": "linkedin",
-  "company": "Siemens",
-  "title": "Stage - Développement d'agents et chatbots pour l'optimisation des processus supports F/H",
-  "loc": "Châtillon, Île-de-France, France",
+  "company": "AMIAD - French Agency for AI in Defence",
+  "title": "Stage de 6 mois - Optimisation des performances d’un système multi-agents",
+  "loc": "Bruz, Brittany, France",
   "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-d-agents-et-chatbots-pour-l-optimisation-des-processus-supports-f-h-at-siemens-4484536746",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-de-6-mois-optimisation-des-performances-d%E2%80%99un-syst%C3%A8me-multi-agents-at-amiad-french-agency-for-ai-in-defence-4489463704",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
    "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "AXA en France",
+  "title": "Stage R&D - IA Explicative et Agentique pour l'Analyse de Sinistralité F/H",
+  "loc": "Suresnes, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/stage-r-d-ia-explicative-et-agentique-pour-l-analyse-de-sinistralit%C3%A9-f-h-at-axa-en-france-4493071098",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "ChapsVision",
+  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
+  "loc": "Paris, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-26",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "IDEMIA Public Security",
+  "title": "Internship : Computer Vision - VLMs for fraud detection",
+  "loc": "Pontoise, Île-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-24",
+  "url": "https://fr.linkedin.com/jobs/view/internship-computer-vision-vlms-for-fraud-detection-at-idemia-public-security-4494439268",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1651,6 +1665,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Groupe Calcul",
+  "title": "Transformer-based neural network reconstruction of VELO track seeds in the LHCb experiment",
+  "loc": "Greater Nantes Metropolitan Area",
+  "etype": "Internship",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/transformer-based-neural-network-reconstruction-of-velo-track-seeds-in-the-lhcb-experiment-at-groupe-calcul-4495859103",
+  "desc": "",
+  "tier": "A",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "TotalEnergies",
   "title": "STAGE - Reinforcement Learning for Intraday Electricity Trading H/F",
   "loc": "Palaiseau, Île-de-France, France",
@@ -1683,12 +1713,12 @@
  },
  {
   "src": "linkedin",
-  "company": "SAP",
-  "title": "Stage: Chargé(e) de recherche - Surveillance des données de vie privée pour les agents d'IA - F/H",
-  "loc": "Mougins, Provence-Alpes-Côte d'Azur, France",
+  "company": "Siemens Digital Industries Software",
+  "title": "Stage - Workflows d'IA agentique pour la simulation f/h - Strategic Student Program",
+  "loc": "Châtillon, Île-de-France, France",
   "etype": "Internship",
-  "pub": "2026-11-24",
-  "url": "https://fr.linkedin.com/jobs/view/stage-charg%C3%A9-e-de-recherche-surveillance-des-donn%C3%A9es-de-vie-priv%C3%A9e-pour-les-agents-d-ia-f-h-at-sap-4486071605",
+  "pub": "2026-11-21",
+  "url": "https://fr.linkedin.com/jobs/view/stage-workflows-d-ia-agentique-pour-la-simulation-f-h-strategic-student-program-at-siemens-digital-industries-software-4485131547",
   "desc": "",
   "tier": "A",
   "geo": "FR",
@@ -1715,49 +1745,33 @@
  },
  {
   "src": "linkedin",
-  "company": "Dassault Systèmes",
-  "title": "STAGE - Ingénieur IA Générative – Modélisation 3D (F/H)",
-  "loc": "Vélizy-Villacoublay, Île-de-France, France",
+  "company": "addactis",
+  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
+  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-ia-g%C3%A9n%C3%A9rative-%E2%80%93-mod%C3%A9lisation-3d-f-h-at-dassault-syst%C3%A8mes-4468695185",
-  "desc": "",
-  "tier": "B",
-  "geo": "FR",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage IA de confiance - Abstraction bilinéaires pour les RNN et Transformers -Saclay-H/F",
-  "loc": "Saclay, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ia-de-confiance-abstraction-bilin%C3%A9aires-pour-les-rnn-et-transformers-saclay-h-f-at-cea-4469007365",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4495817167",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "CEA",
-  "title": "Stage - Scalabilité des approches de calcul analog in-memory computing vers des modèles d'IA générative",
-  "loc": "Grenoble, Auvergne-Rhône-Alpes, France",
+  "company": "Groupe SII",
+  "title": "Stage IA & Data - Développement Multi-Agents (F/H)",
+  "loc": "Nantes, Pays de la Loire, France",
   "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://fr.linkedin.com/jobs/view/stage-scalabilit%C3%A9-des-approches-de-calcul-analog-in-memory-computing-vers-des-mod%C3%A8les-d-ia-g%C3%A9n%C3%A9rative-at-cea-4476292894",
+  "pub": "2026-11-25",
+  "url": "https://fr.linkedin.com/jobs/view/stage-ia-data-d%C3%A9veloppement-multi-agents-f-h-at-groupe-sii-4487007748",
   "desc": "",
-  "tier": "B",
+  "tier": "C",
   "geo": "FR",
   "dirs": [
-   "llm"
+   "agent"
   ],
   "start_hint": ""
  },
@@ -1779,33 +1793,49 @@
  },
  {
   "src": "linkedin",
-  "company": "ChapsVision",
-  "title": "Stage Data Scientist IA - Agentic RAG over Heterogeneous Data Sources",
-  "loc": "Paris, Île-de-France, France",
+  "company": "Coexya",
+  "title": "Ingénieur de développement NLP/LLM F/H",
+  "loc": "Lyon, Auvergne-Rhône-Alpes, France",
   "etype": "Internship",
-  "pub": "2026-11-26",
-  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ia-agentic-rag-over-heterogeneous-data-sources-at-chapsvision-4486521447",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/ing%C3%A9nieur-de-d%C3%A9veloppement-nlp-llm-f-h-at-coexya-4495832560",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
  {
   "src": "linkedin",
-  "company": "addactis",
-  "title": "STAGE M1/M2 – Agents IA & Actuariat – Tassin – F/H",
-  "loc": "Tassin-la-Demi-Lune, Auvergne-Rhône-Alpes, France",
+  "company": "Decathlon Digital",
+  "title": "Stage Data Scientist / AI Engineer - GenAI & Retail (f/m/d)",
+  "loc": "Villeneuve-d’Ascq, Hauts-de-France, France",
   "etype": "Internship",
   "pub": "2026-11-27",
-  "url": "https://fr.linkedin.com/jobs/view/stage-m1-m2-%E2%80%93-agents-ia-actuariat-%E2%80%93-tassin-%E2%80%93-f-h-at-addactis-4495817167",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-ai-engineer-genai-retail-f-m-d-at-decathlon-digital-4495344388",
+  "desc": "",
+  "tier": "B",
+  "geo": "FR",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Decathlon Digital",
+  "title": "Stage Data Scientist - Forecast & Foundation Models (f/h/d)",
+  "loc": "Villeneuve-d’Ascq, Hauts-de-France, France",
+  "etype": "Internship",
+  "pub": "2026-11-27",
+  "url": "https://fr.linkedin.com/jobs/view/stage-data-scientist-forecast-foundation-models-f-h-d-at-decathlon-digital-4495351040",
   "desc": "",
   "tier": "A",
   "geo": "FR",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1843,33 +1873,17 @@
  },
  {
   "src": "linkedin",
-  "company": "AXA en France",
-  "title": "Stage R&D - IA Explicative et Agentique pour l'Analyse de Sinistralité F/H",
-  "loc": "Suresnes, Île-de-France, France",
+  "company": "SOGECLAIR",
+  "title": "Stage Développement C++ & Intelligence Artificielle générative",
+  "loc": "Toulouse, Occitanie, France",
   "etype": "Internship",
   "pub": "2026-11-25",
-  "url": "https://fr.linkedin.com/jobs/view/stage-r-d-ia-explicative-et-agentique-pour-l-analyse-de-sinistralit%C3%A9-f-h-at-axa-en-france-4493071098",
+  "url": "https://fr.linkedin.com/jobs/view/stage-d%C3%A9veloppement-c%2B%2B-intelligence-artificielle-g%C3%A9n%C3%A9rative-at-sogeclair-4494631785",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "FR",
   "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Orange Business",
-  "title": "Stage Ingénieur – IA Générative, Automatisation & Écosystème Agentique H/F",
-  "loc": "Nanterre, Île-de-France, France",
-  "etype": "Internship",
-  "pub": "2026-11-23",
-  "url": "https://fr.linkedin.com/jobs/view/stage-ing%C3%A9nieur-%E2%80%93-ia-g%C3%A9n%C3%A9rative-automatisation-%C3%A9cosyst%C3%A8me-agentique-h-f-at-orange-business-4493683854",
-  "desc": "",
-  "tier": "C",
-  "geo": "FR",
-  "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -1907,23 +1921,6 @@
  },
  {
   "src": "linkedin",
-  "company": "XPENG",
-  "title": "AI Research Intern – Predictive World Model",
-  "loc": "Santa Clara, CA",
-  "etype": "Internship",
-  "pub": "2026-11-26",
-  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4495243459",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "diff",
-   "rl"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Takeda",
   "title": "2027 Summer Internship Program: Agentic AI for Drug Discovery Intern  [Summer 2027 ✓]",
   "loc": "Boston, MA",
@@ -1940,17 +1937,17 @@
  },
  {
   "src": "linkedin",
-  "company": "Schnuck Markets, Inc.",
-  "title": "2027 Data Science - Generative AI Internship",
-  "loc": "St Louis, MO",
+  "company": "HoYoverse",
+  "title": "Research Scientist Intern - Video Generation",
+  "loc": "Mountain View, CA",
   "etype": "Internship",
-  "pub": "2026-11-20",
-  "url": "https://www.linkedin.com/jobs/view/2027-data-science-generative-ai-internship-at-schnuck-markets-inc-4492974749",
+  "pub": "2026-11-27",
+  "url": "https://www.linkedin.com/jobs/view/research-scientist-intern-video-generation-at-hoyoverse-4486972902",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff"
   ],
   "start_hint": ""
  },
@@ -2005,6 +2002,22 @@
  },
  {
   "src": "linkedin",
+  "company": "Samsung Semiconductor",
+  "title": "Intern, LLM Inference Acceleration Architecture (MoE & Attention–FFN Disaggregation)",
+  "loc": "San Jose, CA",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-moe-attention%E2%80%93ffn-disaggregation-at-samsung-semiconductor-4494794065",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "NVIDIA",
   "title": "Research Intern, World Models and Synthetic Data for Autonomous Driving - Summer 2027  [Summer 2027 ✓]",
   "loc": "Santa Clara, CA",
@@ -2022,17 +2035,34 @@
  },
  {
   "src": "linkedin",
-  "company": "Samsung Research America (SRA)",
-  "title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
-  "loc": "Plano, TX",
+  "company": "XPENG",
+  "title": "AI Research Intern – Predictive World Model",
+  "loc": "Santa Clara, CA",
   "etype": "Internship",
-  "pub": "2026-11-25",
-  "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701",
+  "pub": "2026-11-26",
+  "url": "https://www.linkedin.com/jobs/view/ai-research-intern-%E2%80%93-predictive-world-model-at-xpeng-4495243459",
   "desc": "",
-  "tier": "B",
+  "tier": "A",
   "geo": "US",
   "dirs": [
-   "llm"
+   "diff",
+   "rl"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Toyota Research Institute",
+  "title": "Accelerated Science Intern, Multi-Agent Learning and Coordination",
+  "loc": "Los Altos, CA",
+  "etype": "Internship",
+  "pub": "2026-11-27",
+  "url": "https://www.linkedin.com/jobs/view/accelerated-science-intern-multi-agent-learning-and-coordination-at-toyota-research-institute-4488049554",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
   ],
   "start_hint": ""
  },
@@ -2044,38 +2074,6 @@
   "etype": "Internship",
   "pub": "2026-11-25",
   "url": "https://www.linkedin.com/jobs/view/co-op-agentic-ai-developer-at-labcorp-4486842562",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Teradata",
-  "title": "Agentic AI Intern",
-  "loc": "San Diego, CA",
-  "etype": "Internship",
-  "pub": "2026-11-21",
-  "url": "https://www.linkedin.com/jobs/view/agentic-ai-intern-at-teradata-4492859341",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "agent"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
-  "company": "Microsoft",
-  "title": "Research Intern - Foundational Models & Agent",
-  "loc": "Redmond, WA",
-  "etype": "Internship",
-  "pub": "2026-11-25",
-  "url": "https://www.linkedin.com/jobs/view/research-intern-foundational-models-agent-at-microsoft-4486885694",
   "desc": "",
   "tier": "A",
   "geo": "US",
@@ -2119,17 +2117,17 @@
  },
  {
   "src": "linkedin",
-  "company": "TikTok USDS Joint Venture",
-  "title": "Machine Learning Engineer Intern (Agentic Platform) - 2027 summer  [Summer 2027 ✓]",
-  "loc": "San Jose, CA",
+  "company": "SPX Technologies",
+  "title": "Software Engineering Generative AI Intern",
+  "loc": "Elk Grove Village, IL",
   "etype": "Internship",
-  "pub": "2026-11-22",
-  "url": "https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-agentic-platform-2027-summer-at-tiktok-usds-joint-venture-4466937957",
+  "pub": "2026-11-28",
+  "url": "https://www.linkedin.com/jobs/view/software-engineering-generative-ai-intern-at-spx-technologies-4488423805",
   "desc": "",
-  "tier": "A",
+  "tier": "B",
   "geo": "US",
   "dirs": [
-   "agent"
+   "llm"
   ],
   "start_hint": ""
  },
@@ -2151,22 +2149,6 @@
  },
  {
   "src": "linkedin",
-  "company": "Samsung Semiconductor",
-  "title": "Intern, LLM Inference Acceleration Architecture (MoE & Attention–FFN Disaggregation)",
-  "loc": "San Jose, CA",
-  "etype": "Internship",
-  "pub": "2026-11-25",
-  "url": "https://www.linkedin.com/jobs/view/intern-llm-inference-acceleration-architecture-moe-attention%E2%80%93ffn-disaggregation-at-samsung-semiconductor-4494794065",
-  "desc": "",
-  "tier": "A",
-  "geo": "US",
-  "dirs": [
-   "llm"
-  ],
-  "start_hint": ""
- },
- {
-  "src": "linkedin",
   "company": "Toyota Research Institute",
   "title": "Human-Centered AI Research Intern, Human Language Models",
   "loc": "Los Altos, CA",
@@ -2183,12 +2165,44 @@
  },
  {
   "src": "linkedin",
+  "company": "Samsung Research America (SRA)",
+  "title": "2027 Summer Intern, Generative AI based Imaging and Video R&D  [Summer 2027 ✓]",
+  "loc": "Plano, TX",
+  "etype": "Internship",
+  "pub": "2026-11-25",
+  "url": "https://www.linkedin.com/jobs/view/2027-summer-intern-generative-ai-based-imaging-and-video-r-d-at-samsung-research-america-sra-4486310701",
+  "desc": "",
+  "tier": "B",
+  "geo": "US",
+  "dirs": [
+   "llm"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
   "company": "William Blair",
   "title": "Working in Technology (WiT) - Agentic AI Development - Summer 2027  [Summer 2027 ✓]",
   "loc": "Chicago, IL",
   "etype": "Internship",
   "pub": "2026-11-25",
   "url": "https://www.linkedin.com/jobs/view/working-in-technology-wit-agentic-ai-development-summer-2027-at-william-blair-4468928830",
+  "desc": "",
+  "tier": "A",
+  "geo": "US",
+  "dirs": [
+   "agent"
+  ],
+  "start_hint": ""
+ },
+ {
+  "src": "linkedin",
+  "company": "Armadin",
+  "title": "Summer 2027 Internship - Member of Technical Staff - Agent Systems  [Summer 2027 ✓]",
+  "loc": "Palo Alto, CA",
+  "etype": "Internship",
+  "pub": "2026-11-22",
+  "url": "https://www.linkedin.com/jobs/view/summer-2027-internship-member-of-technical-staff-agent-systems-at-armadin-4470941038",
   "desc": "",
   "tier": "A",
   "geo": "US",
